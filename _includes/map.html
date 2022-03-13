@@ -1,0 +1,31 @@
+{% if include.latLong %}
+
+<div class="map">
+    <div id="mapdiv" style="height: 300px;"></div>
+    <div id="iati">{% include iati_square_naranja.html %}</div>
+</div>
+
+<script>
+    window.addEventListener('load', function () {
+        var map = L.map('mapdiv', {
+            center: [{{include.latLong}}],
+            scrollWheelZoom: false,
+            zoom: 7,
+            maxZoom: 20,
+            minZoom: 1,
+            worldCopyJump: false,
+            maxBounds: [
+                [-90, -180],
+                [90, 180],
+            ],
+        });
+
+        L.tileLayer('https://tiles.stadiamaps.com/tiles/outdoors/{z}/{x}/{y}{r}.png', {
+            maxZoom: 20,
+            attribution: '&copy; <a href="https://stadiamaps.com/">Stadia Maps</a>, &copy; <a href="https://openmaptiles.org/">OpenMapTiles</a> &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors'
+        }).addTo(map);
+
+        var marker = L.marker([{{include.latLong}}]).addTo(map);
+    });
+</script>
+{% endif %}

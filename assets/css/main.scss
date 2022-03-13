@@ -1,0 +1,286 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+$masthead-link-color: #373735;
+
+$link-color: #7abea4;
+$link-color-hover: #628d7c;
+$link-color-visited: #7abea4;
+
+$primary-color: #7abea4;
+
+$doc-font-size: 16px;
+$h-size-1: 1.6em;
+$h-size-2: 1.4em;
+$h-size-3: 1.3em;
+$h-size-4: 1.1em; 
+$h-size-5: 1.03125em; 
+$h-size-6: 1em;
+
+$right-sidebar-width-narrow: 200px !default;
+$right-sidebar-width: 270px !default;
+$right-sidebar-width-wide: 350px !default;
+
+@import "/assets/css/pannellum.css";
+@import "/assets/css/pannellum-custom.css";
+@import "/assets/css/leaflet.css";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+// THEME OVERRIDES
+html {
+    @include breakpoint($large) {
+        font-size: 18px;
+    }
+
+    @include breakpoint($x-large) {
+        font-size: 18px;
+    }
+
+    .site-title {
+        font-weight: 300;
+    }
+    
+    h1, h2, h3, h4 {
+        font-weight: 400;
+    }
+    
+    h5, h6 {
+        font-weight: 500;
+    }
+}
+
+
+// Gallery  /////////////////////////
+
+figure {
+    justify-content: space-around;  
+
+    &.half, &.third {
+        > a,
+        > img {
+        @include breakpoint($small) {
+            width: auto;
+        }
+        }
+
+        figcaption {
+        width: 100%;
+        }
+    }   
+}
+
+// Gallery end
+
+section.page__content {
+    a {
+        text-decoration: none;
+        color: #7abea4;
+    
+        &:hover {
+            text-decoration: underline;
+        }
+    }
+
+    p,
+    li,
+    dl {
+        font-weight: 400;
+    }
+}
+
+.layout--home .initial-content, .layout--categories .initial-content  {
+    background-color: #f9f9f9;
+
+    .archive {
+        display: flex;
+        flex-direction: column;
+
+        .pagination {
+            align-self: center;
+            width: auto;
+        }
+    }
+
+    article {
+        background-color: #ffffff;
+        
+        margin-bottom: 40px;
+        display: flex;
+        flex-direction: column;
+        
+        .archive-single-img-header {    
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center;
+            width: 100%;
+            height: 240px;
+            display: flex;
+            align-items: flex-end;
+
+            h2 {
+                padding: 20px 20px 5px 20px;
+                margin: 0;
+                flex-grow: 1;
+                background: linear-gradient(#00000000, #0000007e);
+
+                a {
+                    color: #ffffff;
+                }
+            }
+        }
+
+        .archive__item-excerpt {
+            padding: 8px;
+            text-align: justify;
+        }
+
+        .page__meta {
+            align-self: flex-end;
+            margin-right: 8px;
+        }        
+    }
+}
+
+
+.page__meta {
+    .map {
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 10px;
+
+        #mapdiv {
+            width: 100%;
+            margin-bottom: 10px;
+        }
+
+        @include breakpoint($medium) {
+            flex-direction: row;
+            
+            #mapdiv {            
+                width: calc(100% - 310px);
+            }
+            
+            #iati {
+                margin-left: auto;
+            }
+        }
+    }
+}
+
+#mapdiv.leaflet-container {
+    a, a:visited, a:hover {
+        color: #333;
+    }
+
+    .leaflet-popup-content {
+        text-align: center;
+        font-size: 1.2em;
+
+        a, a:visited, a:hover {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            img {
+                margin-bottom: 10px;
+                max-width: 150px;
+            }
+        }
+    }
+}
+
+.page-full-width {
+    padding-top: 20px;
+
+    header {
+        text-align: center;
+        padding: 20px 0;
+    }
+}
+
+.layout--single .page {
+    &__hero {
+        @media all and (orientation: landscape) {
+            max-height: 72vh;
+            overflow: hidden;
+        }
+    }
+
+    .pagination {
+        display: flex;
+        justify-content: space-between;
+
+        a.pagination--pager {            
+            display: flex;
+            align-items: center;
+            padding: 0.5em 0.5em;
+            white-space: nowrap;
+            color:#ffffff;
+            background-color: $link-color;
+            border: none;
+            width: 49%;
+
+            span {
+                font-size: 0.75em;
+                overflow: hidden;
+                text-overflow: ellipsis;
+            }
+
+            i {
+                margin: 0 5px;
+            }
+
+            &:hover {
+                background-color: $link-color-hover;
+            }
+            
+            
+            &:last-child {
+                justify-content: flex-end;
+            }
+        }
+            
+    }
+}
+
+.authors-list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+
+    .h-card {
+        max-width: 340px;
+        padding: 1em 1em;
+        font-size: 0.75em;
+        box-shadow: 0 0 4px #37373544;
+        margin: 1em;
+        border-radius: 8px;
+    }
+}
+
+.masthead {    
+    &__inner-wrap {
+        padding: 0.25em;
+    }
+}
+
+section.error-page {
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+nav.toc .toc__menu a {
+    font-weight: 400;
+    
+    @include breakpoint($large) {
+        font-size: 14px;
+    }    
+}

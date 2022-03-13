@@ -1,0 +1,20 @@
+{% if page.previous or page.next %}
+  <nav class="pagination">
+    {% if page.previous %}
+      <a href="{{ page.previous.url | relative_url }}" class="pagination--pager" title="{{ page.previous.title | markdownify | strip_html }}">
+        <i class="fas fa-arrow-left"></i>
+        <span>{{ page.previous.title | markdownify | strip_html }}</span>
+      </a>
+    {% else %}
+      <a href="#" class="pagination--pager disabled"><i class="fas fa-arrow-left"></i></a>
+    {% endif %}
+    {% if page.next %}
+      <a href="{{ page.next.url | relative_url }}" class="pagination--pager" title="{{ page.next.title | markdownify | strip_html }}">
+        <span>{{ page.next.title | markdownify | strip_html }}</span>
+        <i class="fas fa-arrow-right"></i>
+      </a>
+    {% else %}
+      <a href="#" class="pagination--pager disabled"><i class="fas fa-arrow-right"></i></a>
+    {% endif %}
+  </nav>
+{% endif %}

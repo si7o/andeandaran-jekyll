@@ -1,0 +1,11 @@
+.map {
+    display: flex;
+}
+
+.map #mapdiv {
+        width: calc(100% - 360px);
+    }
+
+.map #iati {
+    margin-left: auto;
+}

@@ -1,0 +1,34 @@
+
+<div id="mapdiv" style="height: 500px;"></div>
+
+<script>
+    window.addEventListener('load', function () {
+        var map = L.map('mapdiv', {
+            center: [8.005353,98.842168],
+            scrollWheelZoom: false,
+            zoom: 2,
+            minZoom: 1,
+            maxZoom: 20,
+            worldCopyJump: false,
+            maxBounds: [
+                [-90, -180],
+                [90, 180],
+            ],
+        });
+
+        L.tileLayer('https://tiles.stadiamaps.com/tiles/outdoors/{z}/{x}/{y}{r}.png', {
+            maxZoom: 20,
+            attribution: '&copy; <a href="https://stadiamaps.com/">Stadia Maps</a>, &copy; <a href="https://openmaptiles.org/">OpenMapTiles</a> &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors'
+        }).addTo(map);
+
+        {% for item in include.items %}
+            {% if item.OSM_geo_data %}
+            L.marker([{{item.OSM_geo_data}}],{
+                title: '{{ item.title }}',
+                alt: 'Click {{ item.title }}',
+                riseOnHover: true,
+            }).addTo(map).bindPopup('<a href="{{ item.permalink }}">{%- if item.thumb -%}<img src="{{item.thumb}}" />{%- endif -%}{{ item.title }}</a>');
+            {% endif %}
+        {% endfor %}
+    });
+</script>

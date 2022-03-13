@@ -1,0 +1,57 @@
+{% if include.guid %}
+    {% assign panorama = site.panoramas | where:"guid", include.guid | first %}
+    {% assign panorama_page = false %}
+{% endif %}
+{% if include.panorama %}
+    {% assign panorama = include.panorama %}
+    {% assign panorama_page = true %}
+{% endif %}
+
+{% if panorama.guid %}
+<div id="panorama-{{panorama.guid}}" class="panorama">
+    {% if panorama_page %}
+    <div id="list-next-prev">
+        {% if panorama.next %}
+        <div class="button-navigation-panorama panorama-next" id="panorama-next" style="background: url('{{panorama.next.thumb}}') no-repeat rgba(0,0,0,0.7) center"> 
+            <a href="{{panorama.next.url}}" alt="{{panorama.next.title}}" title="{{panorama.next.title}}">
+                <span class="ttip">{{panorama.next.title}}</span>
+            </a>
+            <i class="fa fa-chevron-right" aria-hidden="true"></i>
+        </div>
+        {% endif %}
+        {% if panorama.previous %}
+        <div class="button-navigation-panorama panorama-prev" id="panorama-prev" style="background: url('{{panorama.previous.thumb}}') no-repeat rgba(0,0,0,0.7) center">
+            <a href="{{panorama.previous.url}}" alt="{{panorama.previous.title}}" title="{{panorama.previous.title}}">
+                <span class="ttip">{{panorama.previous.title}}</span>
+            </a>
+            <i class="fa fa-chevron-left" aria-hidden="true"></i>
+        </div>
+        {% endif %}
+    </div>
+    {% endif %}
+</div>
+
+<script>
+    window.addEventListener("load", function () {
+        pannellum.viewer('panorama-{{panorama.guid}}', {
+            type: "equirectangular",
+            panorama: "{{panorama.img}}",
+            preview: '{{panorama.preview}}',
+            autoLoad: false,
+            width:"100%",
+            height:"100%",                    
+            showFullscreenCtrl : true,
+            autoRotate: -2,
+            title: '{{panorama.title}}',
+            {% if panorama.categories %}category: '<i class="fa fa-globe" aria-hidden="true"></i> {{panorama.categories | first}}',{% endif %}
+            {% if panorama.flickrurl %}author: 'sitoo <a href="{{panorama.flickrurl}}">ver en flickr <i class="fab fa-fw fa-flickr" aria-hidden="true"></i></a>',{% endif %}
+            autoRotateInactivityDelay: 6000,
+            fallback: 'https://www.andeandaran.com'
+        });  
+
+            // do stuff after DOM has loaded
+    });
+</script>
+{% else %}
+Panorámica no encontrada.
+{% endif %}
