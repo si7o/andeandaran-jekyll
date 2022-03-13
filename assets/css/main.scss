@@ -11,6 +11,7 @@ $link-color-hover: #628d7c;
 $link-color-visited: #7abea4;
 
 $primary-color: #7abea4;
+$footer-background-color: #575756;
 
 $doc-font-size: 16px;
 $h-size-1: 1.6em;
@@ -292,4 +293,32 @@ nav.toc .toc__menu a {
     @include breakpoint($large) {
         font-size: 14px;
     }    
+}
+
+.initial-content {
+    padding-bottom: 2em;
+}
+
+.page__footer {
+    margin-top: 0;
+    color: #dfdfdf;
+
+    &-copyright {
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        font-size: 0.8em;
+
+        a {
+            font-weight: bold;
+
+            &:hover {
+                text-decoration: underline;
+            }
+        }
+
+        .powered-by {
+            flex: 0 0 100%;
+        }
+    }
 }
