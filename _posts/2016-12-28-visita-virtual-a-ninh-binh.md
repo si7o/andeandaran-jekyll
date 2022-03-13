@@ -15,6 +15,8 @@ OSM_geo_icon:
   - mic_black_pinother_02.png
 header:
   image: https://www.andeandaran.com/wp-content/uploads/2016/12/30952104283_5543370b17_b.jpg
+
+contains_panoramas: true
 ---
 
   Durante los cinco días que pasamos en Tam Coc tuvimos tiempo de recorrer varios de los lugares turísticos de la zona. Además de <a href="/viajes/vietnam/tam-coc-bicicleta" target="_blank" rel="noopener">contaros lo que hicimos en otro post</a>, hemos preparado una visita virtual a varios de los enclaves turísticos de Ninh Binh.<!--more-->

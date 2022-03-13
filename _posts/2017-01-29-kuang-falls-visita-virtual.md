@@ -16,6 +16,8 @@ OSM_geo_icon:
 header:
   image: https://www.andeandaran.com/wp-content/uploads/2017/01/31691808044_ae8292d7e0_b-1024x545.jpg
 
+contains_panoramas: true
+
 gallery:
   - url: https://www.andeandaran.com/wp-content/uploads/2017/01/MG_2186.jpg
     image_path: https://www.andeandaran.com/wp-content/uploads/2017/01/MG_2186-150x150.jpg

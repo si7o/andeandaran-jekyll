@@ -16,6 +16,8 @@ OSM_geo_icon:
 header:
   image: https://www.andeandaran.com/wp-content/uploads/2017/02/MG_2679.jpg
 
+contains_panoramas: true
+
 gallery:
   - url: https://www.andeandaran.com/wp-content/uploads/2017/02/Chiang_rai-1.jpg
     image_path: https://www.andeandaran.com/wp-content/uploads/2017/02/Chiang_rai-1-150x150.jpg

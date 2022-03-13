@@ -8,6 +8,7 @@
 {% endif %}
 
 {% if panorama.guid %}
+
 <div id="panorama-{{panorama.guid}}" class="panorama">
     {% if panorama_page %}
     <div id="list-next-prev">
@@ -49,6 +50,13 @@
             fallback: 'https://www.andeandaran.com'
         });  
 
+        document.getElementById('panorama-next')?.addEventListener('click', function(e) {
+            e.currentTarget.classList.add('show');                        
+        });
+        
+        document.getElementById('panorama-prev')?.addEventListener('click', function(e) {
+            e.currentTarget.classList.add('show');
+        });
             // do stuff after DOM has loaded
     });
 </script>

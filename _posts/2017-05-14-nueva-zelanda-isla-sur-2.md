@@ -15,6 +15,8 @@ OSM_geo_icon:
   - mic_black_pinother_02.png
 header:
   image: https://www.andeandaran.com/wp-content/uploads/2017/05/IMG_4431-1.jpg
+
+contains_panoramas: true
 ---
 Tras pasar unos días en Ashburton (un pueblito a 88km de Christchurch) y valorar todas las opciones disponibles, decidimos alquilar una _campervan_ en Wicked Campers y recorrer la Isla Sur durante 10 días más.
 

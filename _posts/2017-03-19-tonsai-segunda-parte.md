@@ -14,6 +14,8 @@ OSM_geo_icon:
   - mic_black_pinother_02.png
 header:
   image: https://www.andeandaran.com/wp-content/uploads/2017/03/IMG_3449-Edit.jpg
+
+contains_panoramas: true
 ---
 
   Después de tres meses volvimos a Tonsai. Yo me había quedado con ganas de escalar y la idea de pasar unos días en la playa nos apetecía bastante.<br /> Decidimos pasar allí 10 días. Lo suficiente para disfrutar de la escalada y tener tiempo para descansar.

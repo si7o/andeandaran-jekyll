@@ -23,6 +23,8 @@ OSM_geo_icon:
   - mic_black_pinother_02.png
 header:
   image: https://www.andeandaran.com/wp-content/uploads/2016/12/templo-wat-arun.jpg
+
+contains_panoramas: true
 ---
 
   Después de 2 meses viajando de un modo bastante rural, el cuerpo nos pedía ciudad y un ritmo más ajetreado, así que pensamos...¡qué mejor lugar que una de las grandes ciudades asiáticas!: Bangkok.

@@ -15,6 +15,8 @@ OSM_geo_icon:
   - mic_black_pinother_02.png
 header:
   image: https://www.andeandaran.com/wp-content/uploads/2016/12/MG_0700.jpg
+
+contains_panoramas: true
 ---
 
 Después de los 3 días lluviosos que habíamos pasado en Da Lat, fuimos a Hoi An buscando un poco de tregua con la lluvia. Aunque la tregua duro poco, fue suficiente para disfrutar de unos paseos en bicicleta, visitar alguno de sus templos y cenar en el centro de la ciudad rodeados de los famosos farolillos de colores.
