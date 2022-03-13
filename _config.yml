@@ -92,8 +92,8 @@ head_scripts:
   - /assets/js/leaflet.js # https://leafletjs.com/reference.html
 
 # Build settings
-# theme: minima
-theme: minimal-mistakes-jekyll
+# theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
 
 # Reading Files
 include:
