@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "Mapa de viaje"
+    url: /mapa
+  - title: "360º"
+    url: /panoramica-360
+  - title: "Categorías"
+    url: /categories
+  - title: "Contacto"
+    url: /contacto

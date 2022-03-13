@@ -1,0 +1,26 @@
+sito:
+  name        : "Sito"
+  bio         : "Desarrollador, fotógrafo, patinador, escalador..."
+  avatar      : "https://secure.gravatar.com/avatar/a04774397d62a1a342d016eb41ff3ad2?s=200&d=mm&r=g"
+  links:
+    - label: "github"
+      icon: "fab fa-github"
+      url: "https://github.com/si7o"
+    - label: "flickr"
+      icon: "fab fa-flickr"
+      url: "https://flickr.com/sitoo"
+    - label: "500px"
+      icon: "fab fa-500px"
+      url: "https://500px.com/sitoo"
+    - label: "instagram"
+      icon: "fab fa-instagram"
+      url: "https://instagram.com/sitorious"
+
+Sandra:
+  name        : "Sandra"
+  bio         : "Aventurera y siempre con ganas de ser más viajera."
+  avatar      : "https://secure.gravatar.com/avatar/f85b3d10593427035a720fe4f1bc8972?s=200&d=mm&r=g"  
+  links:
+    - label: "instagram"
+      icon: "fab fa-instagram"
+      url: "https://instagram.com/sandragarmar"
