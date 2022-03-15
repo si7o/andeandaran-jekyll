@@ -25,9 +25,9 @@ $right-sidebar-width-narrow: 200px !default;
 $right-sidebar-width: 270px !default;
 $right-sidebar-width-wide: 350px !default;
 
-@import "/assets/css/pannellum.css";
-@import "/assets/css/pannellum-custom.css";
-@import "/assets/css/leaflet.css";
+@import "pannellum.css";
+@import "pannellum-custom.css";
+@import "leaflet.css";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
