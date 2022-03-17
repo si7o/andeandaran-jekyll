@@ -24,9 +24,9 @@ title_separator          : "-"
 subtitle                 : "Blog de viajes y fotografía."
 name                     : &name "Sandra y Andrés" # &name is a YAML anchor which can be *referenced later
 description              : &description "Compartimos nuestra experiencia mientras viajamos por el mundo."
-url                      : https://www.andeandaran.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://io.andeandaran.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
-repository               : "si7o/andeandaran-io"
+repository               : "si7o.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : https://www.andeandaran.com/wp-content/uploads/2016/09/cropped-logo_blog-1.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
