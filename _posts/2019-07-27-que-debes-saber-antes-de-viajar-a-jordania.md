@@ -13,7 +13,7 @@ OSM_geo_data:
 OSM_geo_icon:
   - mic_black_pinother_02.png
 header:
-  image: https://www.andeandaran.com/wp-content/uploads/2019/07/IMG_8402.jpg
+  image: https://uploads.andeandaran.com/2019/07/IMG_8402.jpg
 ---
 
 Con este post queremos compartir información básica y útil  para hacer más sencilla la fase de preparativos de vuestro viaje a Jordania.
@@ -88,7 +88,7 @@ Existen varias alternativas para moverse por el país, pero según la experienci
 <div >
 <div >
 <div>
-  <a href="https://www.andeandaran.com/img_7074/"> <img src="https://www.andeandaran.com/wp-content/uploads/2019/07/IMG_7074.jpg" title="IMG_7074" alt="Nosotros en el teatro Romano de Amman" /> </a> 
+  <a href="https://www.andeandaran.com/img_7074/"> <img src="https://uploads.andeandaran.com/2019/07/IMG_7074.jpg" title="IMG_7074" alt="Nosotros en el teatro Romano de Amman" /> </a> 
   
   <div>
     Nosotros en el teatro Romano de Amman
@@ -96,7 +96,7 @@ Existen varias alternativas para moverse por el país, pero según la experienci
 </div>
 
 <div>
-  <a href="https://www.andeandaran.com/img_7076/"> <img src="https://www.andeandaran.com/wp-content/uploads/2019/07/IMG_7076.jpg" title="IMG_7076" alt="Teatro romano de Amman" /> </a> 
+  <a href="https://www.andeandaran.com/img_7076/"> <img src="https://uploads.andeandaran.com/2019/07/IMG_7076.jpg" title="IMG_7076" alt="Teatro romano de Amman" /> </a> 
   
   <div>
     Teatro romano de Amman
@@ -108,7 +108,7 @@ Existen varias alternativas para moverse por el país, pero según la experienci
 
 <div  >
 <div>
-  <a href="https://www.andeandaran.com/img_7107/"> <img src="https://www.andeandaran.com/wp-content/uploads/2019/07/IMG_7107.jpg" title="IMG_7107" alt="Amman" /> </a> 
+  <a href="https://www.andeandaran.com/img_7107/"> <img src="https://uploads.andeandaran.com/2019/07/IMG_7107.jpg" title="IMG_7107" alt="Amman" /> </a> 
   
   <div>
     Amman
@@ -120,7 +120,7 @@ Existen varias alternativas para moverse por el país, pero según la experienci
 
 <div >
 <div>
-  <a href="https://www.andeandaran.com/img_7127/"> <img src="https://www.andeandaran.com/wp-content/uploads/2019/07/IMG_7127.jpg" title="IMG_7127" alt="Ciutadela de Aman" /> </a> 
+  <a href="https://www.andeandaran.com/img_7127/"> <img src="https://uploads.andeandaran.com/2019/07/IMG_7127.jpg" title="IMG_7127" alt="Ciutadela de Aman" /> </a> 
   
   <div>
     Ciutadela de Aman
@@ -128,7 +128,7 @@ Existen varias alternativas para moverse por el país, pero según la experienci
 </div>
 
 <div>
-  <a href="https://www.andeandaran.com/img_7138/"> <img src="https://www.andeandaran.com/wp-content/uploads/2019/07/IMG_7138.jpg" title="IMG_7138" alt="Templo de Hércules de la Ciutadela" /> </a> 
+  <a href="https://www.andeandaran.com/img_7138/"> <img src="https://uploads.andeandaran.com/2019/07/IMG_7138.jpg" title="IMG_7138" alt="Templo de Hércules de la Ciutadela" /> </a> 
   
   <div>
     Templo de Hércules de la Ciutadela
@@ -144,7 +144,7 @@ Existen varias alternativas para moverse por el país, pero según la experienci
 <div>
 <div >
 <div>
-  <a href="https://www.andeandaran.com/img_7174/"> <img src="https://www.andeandaran.com/wp-content/uploads/2019/07/IMG_7174.jpg" title="IMG_7174" alt="Montañas de Wadi Rum"  /> </a> 
+  <a href="https://www.andeandaran.com/img_7174/"> <img src="https://uploads.andeandaran.com/2019/07/IMG_7174.jpg" title="IMG_7174" alt="Montañas de Wadi Rum"  /> </a> 
   
   <div>
     Montañas de Wadi Rum
@@ -156,7 +156,7 @@ Existen varias alternativas para moverse por el país, pero según la experienci
 
 <div >
 <div>
-  <a href="https://www.andeandaran.com/img_7320/"> <img src="https://www.andeandaran.com/wp-content/uploads/2019/07/IMG_7320.jpg" title="IMG_7320" alt="Wadi Rum" /> </a> 
+  <a href="https://www.andeandaran.com/img_7320/"> <img src="https://uploads.andeandaran.com/2019/07/IMG_7320.jpg" title="IMG_7320" alt="Wadi Rum" /> </a> 
   
   <div>
     Wadi Rum
@@ -164,7 +164,7 @@ Existen varias alternativas para moverse por el país, pero según la experienci
 </div>
 
 <div>
-  <a href="https://www.andeandaran.com/img_7338/"> <img src="https://www.andeandaran.com/wp-content/uploads/2019/07/IMG_7338.jpg" title="IMG_7338" alt="Atardeceres en Wadi Rum" /> </a> 
+  <a href="https://www.andeandaran.com/img_7338/"> <img src="https://uploads.andeandaran.com/2019/07/IMG_7338.jpg" title="IMG_7338" alt="Atardeceres en Wadi Rum" /> </a> 
   
   <div>
     Atardeceres en Wadi Rum
@@ -180,7 +180,7 @@ Existen varias alternativas para moverse por el país, pero según la experienci
 <div >
 <div class="gallery-group images-3" >
 <div>
-  <a href="https://www.andeandaran.com/img_7374/"> <img src="https://www.andeandaran.com/wp-content/uploads/2019/07/IMG_7374.jpg" title="IMG_7374" alt="Wadi Rum por la noche" /> </a> 
+  <a href="https://www.andeandaran.com/img_7374/"> <img src="https://uploads.andeandaran.com/2019/07/IMG_7374.jpg" title="IMG_7374" alt="Wadi Rum por la noche" /> </a> 
   
   <div>
     Wadi Rum por la noche
@@ -188,7 +188,7 @@ Existen varias alternativas para moverse por el país, pero según la experienci
 </div>
 
 <div>
-  <a href="https://www.andeandaran.com/img_7476/"> <img src="https://www.andeandaran.com/wp-content/uploads/2019/07/IMG_7476.jpg" title="IMG_7476" alt="Nuestro guía Beduino" /> </a> 
+  <a href="https://www.andeandaran.com/img_7476/"> <img src="https://uploads.andeandaran.com/2019/07/IMG_7476.jpg" title="IMG_7476" alt="Nuestro guía Beduino" /> </a> 
   
   <div>
     Nuestro guía Beduino
@@ -196,7 +196,7 @@ Existen varias alternativas para moverse por el país, pero según la experienci
 </div>
 
 <div>
-  <a href="https://www.andeandaran.com/img_7787-hdr/"> <img src="https://www.andeandaran.com/wp-content/uploads/2019/07/IMG_7787-HDR.jpg" title="IMG_7787-HDR" alt="Cielo al atardecer en Wadi Rum" /> </a> 
+  <a href="https://www.andeandaran.com/img_7787-hdr/"> <img src="https://uploads.andeandaran.com/2019/07/IMG_7787-HDR.jpg" title="IMG_7787-HDR" alt="Cielo al atardecer en Wadi Rum" /> </a> 
   
   <div>
     Cielo al atardecer en Wadi Rum
@@ -208,7 +208,7 @@ Existen varias alternativas para moverse por el país, pero según la experienci
 
 <div  >
 <div>
-  <a href="https://www.andeandaran.com/img_7663/"> <img src="https://www.andeandaran.com/wp-content/uploads/2019/07/IMG_7663.jpg" title="IMG_7663" alt="Pequeño cañón en Wadi Rum" /> </a> 
+  <a href="https://www.andeandaran.com/img_7663/"> <img src="https://uploads.andeandaran.com/2019/07/IMG_7663.jpg" title="IMG_7663" alt="Pequeño cañón en Wadi Rum" /> </a> 
   
   <div>
     Pequeño cañón en Wadi Rum
@@ -224,7 +224,7 @@ Existen varias alternativas para moverse por el país, pero según la experienci
 <div >
 <div  >
 <div>
-  <a href="https://www.andeandaran.com/img_7875/"> <img src="https://www.andeandaran.com/wp-content/uploads/2019/07/IMG_7875.jpg" title="IMG_7875" alt="Mezquita de Aqaba" /> </a> 
+  <a href="https://www.andeandaran.com/img_7875/"> <img src="https://uploads.andeandaran.com/2019/07/IMG_7875.jpg" title="IMG_7875" alt="Mezquita de Aqaba" /> </a> 
   
   <div>
     Mezquita de Aqaba
@@ -236,7 +236,7 @@ Existen varias alternativas para moverse por el país, pero según la experienci
 
 <div  >
 <div>
-  <a href="https://www.andeandaran.com/img_7946/"> <img src="https://www.andeandaran.com/wp-content/uploads/2019/07/IMG_7946.jpg" title="IMG_7946" alt="The treasury en Petra" /> </a> 
+  <a href="https://www.andeandaran.com/img_7946/"> <img src="https://uploads.andeandaran.com/2019/07/IMG_7946.jpg" title="IMG_7946" alt="The treasury en Petra" /> </a> 
   
   <div>
     The treasury en Petra
@@ -252,7 +252,7 @@ Existen varias alternativas para moverse por el país, pero según la experienci
 <div >
 <div  >
 <div>
-  <a href="https://www.andeandaran.com/img_7981/"> <img src="https://www.andeandaran.com/wp-content/uploads/2019/07/IMG_7981.jpg" title="IMG_7981" alt="Mulas en Petra" /> </a> 
+  <a href="https://www.andeandaran.com/img_7981/"> <img src="https://uploads.andeandaran.com/2019/07/IMG_7981.jpg" title="IMG_7981" alt="Mulas en Petra" /> </a> 
   
   <div>
     Mulas en Petra
@@ -264,7 +264,7 @@ Existen varias alternativas para moverse por el país, pero según la experienci
 
 <div  >
 <div>
-  <a href="https://www.andeandaran.com/img_7993/"> <img src="https://www.andeandaran.com/wp-content/uploads/2019/07/IMG_7993.jpg" title="IMG_7993" alt="Bandera de Jordania en Petra" /> </a> 
+  <a href="https://www.andeandaran.com/img_7993/"> <img src="https://uploads.andeandaran.com/2019/07/IMG_7993.jpg" title="IMG_7993" alt="Bandera de Jordania en Petra" /> </a> 
   
   <div>
     Bandera de Jordania en Petra
@@ -276,7 +276,7 @@ Existen varias alternativas para moverse por el país, pero según la experienci
 
 <div  >
 <div>
-  <a href="https://www.andeandaran.com/img_8020/"> <img src="https://www.andeandaran.com/wp-content/uploads/2019/07/IMG_8020.jpg" title="IMG_8020" alt="Luces de Petra" /> </a> 
+  <a href="https://www.andeandaran.com/img_8020/"> <img src="https://uploads.andeandaran.com/2019/07/IMG_8020.jpg" title="IMG_8020" alt="Luces de Petra" /> </a> 
   
   <div>
     Luces de Petra
@@ -292,7 +292,7 @@ Existen varias alternativas para moverse por el país, pero según la experienci
 <div>
 <div >
 <div>
-  <a href="https://www.andeandaran.com/img_8261/"> <img src="https://www.andeandaran.com/wp-content/uploads/2019/07/IMG_8261.jpg" title="IMG_8261" alt="Camello en la plaza de The Treasury"  /> </a> 
+  <a href="https://www.andeandaran.com/img_8261/"> <img src="https://uploads.andeandaran.com/2019/07/IMG_8261.jpg" title="IMG_8261" alt="Camello en la plaza de The Treasury"  /> </a> 
   
   <div>
     Camello en la plaza de The Treasury
@@ -304,7 +304,7 @@ Existen varias alternativas para moverse por el país, pero según la experienci
 
 <div >
 <div>
-  <a href="https://www.andeandaran.com/img_8391/"> <img src="https://www.andeandaran.com/wp-content/uploads/2019/07/IMG_8391.jpg" title="IMG_8391" alt="El monasterio de Petra" /> </a> 
+  <a href="https://www.andeandaran.com/img_8391/"> <img src="https://uploads.andeandaran.com/2019/07/IMG_8391.jpg" title="IMG_8391" alt="El monasterio de Petra" /> </a> 
   
   <div>
     El monasterio de Petra
@@ -312,7 +312,7 @@ Existen varias alternativas para moverse por el país, pero según la experienci
 </div>
 
 <div>
-  <a href="https://www.andeandaran.com/img_8368/"> <img src="https://www.andeandaran.com/wp-content/uploads/2019/07/IMG_8368.jpg" title="IMG_8368" alt="Cañón de Dana" /> </a> 
+  <a href="https://www.andeandaran.com/img_8368/"> <img src="https://uploads.andeandaran.com/2019/07/IMG_8368.jpg" title="IMG_8368" alt="Cañón de Dana" /> </a> 
   
   <div>
     Cañón de Dana
@@ -328,7 +328,7 @@ Existen varias alternativas para moverse por el país, pero según la experienci
 <div>
 <div >
 <div>
-  <a href="https://www.andeandaran.com/img_8308/"> <img src="https://www.andeandaran.com/wp-content/uploads/2019/07/IMG_8308.jpg" title="IMG_8308" alt="Algunas runinas de Petra" /> </a> 
+  <a href="https://www.andeandaran.com/img_8308/"> <img src="https://uploads.andeandaran.com/2019/07/IMG_8308.jpg" title="IMG_8308" alt="Algunas runinas de Petra" /> </a> 
   
   <div>
     Algunas runinas de Petra
@@ -336,7 +336,7 @@ Existen varias alternativas para moverse por el país, pero según la experienci
 </div>
 
 <div>
-  <a href="https://www.andeandaran.com/img_8517/"> <img src="https://www.andeandaran.com/wp-content/uploads/2019/07/IMG_8517.jpg" title="IMG_8517" alt="Nuestro coche de alquiler en Jordania" /> </a> 
+  <a href="https://www.andeandaran.com/img_8517/"> <img src="https://uploads.andeandaran.com/2019/07/IMG_8517.jpg" title="IMG_8517" alt="Nuestro coche de alquiler en Jordania" /> </a> 
   
   <div>
     Nuestro coche de alquiler en Jordania
@@ -348,7 +348,7 @@ Existen varias alternativas para moverse por el país, pero según la experienci
 
 <div >
 <div>
-  <a href="https://www.andeandaran.com/img_8530/"> <img src="https://www.andeandaran.com/wp-content/uploads/2019/07/IMG_8530.jpg" title="IMG_8530" alt="Valle llegando al Mar Muerto desde Dana"  /> </a> 
+  <a href="https://www.andeandaran.com/img_8530/"> <img src="https://uploads.andeandaran.com/2019/07/IMG_8530.jpg" title="IMG_8530" alt="Valle llegando al Mar Muerto desde Dana"  /> </a> 
   
   <div>
     Valle llegando al Mar Muerto desde Dana
@@ -364,7 +364,7 @@ Existen varias alternativas para moverse por el país, pero según la experienci
 <div  >
 <div  >
 <div>
-  <a href="https://www.andeandaran.com/img_8555/"> <img src="https://www.andeandaran.com/wp-content/uploads/2019/07/IMG_8555.jpg" title="IMG_8555" alt="Sito flotando en el mar muerto" /> </a> 
+  <a href="https://www.andeandaran.com/img_8555/"> <img src="https://uploads.andeandaran.com/2019/07/IMG_8555.jpg" title="IMG_8555" alt="Sito flotando en el mar muerto" /> </a> 
   
   <div>
     Sito flotando en el mar muerto
@@ -376,7 +376,7 @@ Existen varias alternativas para moverse por el país, pero según la experienci
 
 <div  >
 <div>
-  <a href="https://www.andeandaran.com/img_8547/"> <img src="https://www.andeandaran.com/wp-content/uploads/2019/07/IMG_8547.jpg" title="IMG_8547" alt="Texturas del mar muerto" /> </a> 
+  <a href="https://www.andeandaran.com/img_8547/"> <img src="https://uploads.andeandaran.com/2019/07/IMG_8547.jpg" title="IMG_8547" alt="Texturas del mar muerto" /> </a> 
   
   <div>
     Texturas del mar muerto
@@ -392,7 +392,7 @@ Existen varias alternativas para moverse por el país, pero según la experienci
 <div >
 <div  >
 <div>
-  <a href="https://www.andeandaran.com/img_8631/"> <img src="https://www.andeandaran.com/wp-content/uploads/2019/07/IMG_8631.jpg" title="IMG_8631" alt="Costa del mar muerto" /> </a> 
+  <a href="https://www.andeandaran.com/img_8631/"> <img src="https://uploads.andeandaran.com/2019/07/IMG_8631.jpg" title="IMG_8631" alt="Costa del mar muerto" /> </a> 
   
   <div>
     Costa del mar muerto
@@ -404,7 +404,7 @@ Existen varias alternativas para moverse por el país, pero según la experienci
 
 <div  >
 <div>
-  <a href="https://www.andeandaran.com/dead-sea/"> <img src="https://www.andeandaran.com/wp-content/uploads/2019/07/IMG_8606.jpg" title="dead sea" alt="Orilla salada del Mar muerto" /> </a> 
+  <a href="https://www.andeandaran.com/dead-sea/"> <img src="https://uploads.andeandaran.com/2019/07/IMG_8606.jpg" title="dead sea" alt="Orilla salada del Mar muerto" /> </a> 
   
   <div>
     Orilla salada del Mar muerto
@@ -416,7 +416,7 @@ Existen varias alternativas para moverse por el país, pero según la experienci
 
 <div  >
 <div>
-  <a href="https://www.andeandaran.com/img_8651/"> <img src="https://www.andeandaran.com/wp-content/uploads/2019/07/IMG_8651.jpg" title="IMG_8651" alt="Ruinas de Gerasa" /> </a> 
+  <a href="https://www.andeandaran.com/img_8651/"> <img src="https://uploads.andeandaran.com/2019/07/IMG_8651.jpg" title="IMG_8651" alt="Ruinas de Gerasa" /> </a> 
   
   <div>
     Ruinas de Gerasa
@@ -432,7 +432,7 @@ Existen varias alternativas para moverse por el país, pero según la experienci
 <div >
 <div class="gallery-group images-3" >
 <div>
-  <a href="https://www.andeandaran.com/img_8677/"> <img src="https://www.andeandaran.com/wp-content/uploads/2019/07/IMG_8677.jpg" title="IMG_8677" alt="Teatro romano de Gerasa"  /> </a> 
+  <a href="https://www.andeandaran.com/img_8677/"> <img src="https://uploads.andeandaran.com/2019/07/IMG_8677.jpg" title="IMG_8677" alt="Teatro romano de Gerasa"  /> </a> 
   
   <div>
     Teatro romano de Gerasa
@@ -440,7 +440,7 @@ Existen varias alternativas para moverse por el país, pero según la experienci
 </div>
 
 <div>
-  <a href="https://www.andeandaran.com/img_8690/"> <img src="https://www.andeandaran.com/wp-content/uploads/2019/07/IMG_8690.jpg" title="IMG_8690" alt="Templo en ruinas encharcado"  /> </a> 
+  <a href="https://www.andeandaran.com/img_8690/"> <img src="https://uploads.andeandaran.com/2019/07/IMG_8690.jpg" title="IMG_8690" alt="Templo en ruinas encharcado"  /> </a> 
   
   <div>
     Templo en ruinas encharcado
@@ -448,7 +448,7 @@ Existen varias alternativas para moverse por el país, pero según la experienci
 </div>
 
 <div>
-  <a href="https://www.andeandaran.com/img_8683/"> <img src="https://www.andeandaran.com/wp-content/uploads/2019/07/IMG_8683.jpg" title="IMG_8683" alt="Vía principal de la ciutadela de Gersa" /> </a> 
+  <a href="https://www.andeandaran.com/img_8683/"> <img src="https://uploads.andeandaran.com/2019/07/IMG_8683.jpg" title="IMG_8683" alt="Vía principal de la ciutadela de Gersa" /> </a> 
   
   <div>
     Vía principal de la ciutadela de Gersa
@@ -460,7 +460,7 @@ Existen varias alternativas para moverse por el país, pero según la experienci
 
 <div  >
 <div>
-  <a href="https://www.andeandaran.com/img_8694/"> <img src="https://www.andeandaran.com/wp-content/uploads/2019/07/IMG_8694.jpg" title="IMG_8694" alt="Algunas ruinas de Gersa" /> </a> 
+  <a href="https://www.andeandaran.com/img_8694/"> <img src="https://uploads.andeandaran.com/2019/07/IMG_8694.jpg" title="IMG_8694" alt="Algunas ruinas de Gersa" /> </a> 
   
   <div>
     Algunas ruinas de Gersa

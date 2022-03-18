@@ -13,135 +13,135 @@ OSM_geo_data:
 OSM_geo_icon:
   - mic_black_pinother_02.png
 header:
-  image: https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1648.jpg
+  image: https://uploads.andeandaran.com/2017/01/MG_1648.jpg
 
 gallery:
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1648-2.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1648-2-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/01/MG_1648-2.jpg
+    image_path: https://uploads.andeandaran.com/2017/01/MG_1648-2-150x150.jpg
     alt: "Volviendo al campamento después de una mañana intensa"
     title: "Volviendo al campamento"
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/01/GOPR7980.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/01/GOPR7980-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/01/GOPR7980.jpg
+    image_path: https://uploads.andeandaran.com/2017/01/GOPR7980-150x150.jpg
     alt: "Nuestras sombras"
     title: "Nuestras sombras"
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1758.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1758-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/01/MG_1758.jpg
+    image_path: https://uploads.andeandaran.com/2017/01/MG_1758-150x150.jpg
     alt: "Los bungalows al atardecer"
     title: "GCH2"
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/01/GOPR7973.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/01/GOPR7973-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/01/GOPR7973.jpg
+    image_path: https://uploads.andeandaran.com/2017/01/GOPR7973-150x150.jpg
     alt: "De vuelta al campamento!"
     title: "De vuelta"
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1790.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1790-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/01/MG_1790.jpg
+    image_path: https://uploads.andeandaran.com/2017/01/MG_1790-150x150.jpg
     alt: "Saliendo de la cueva. Sector sin nombre"
     title: "_MG_1790" 
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1791.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1791-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/01/MG_1791.jpg
+    image_path: https://uploads.andeandaran.com/2017/01/MG_1791-150x150.jpg
     alt: "Sector sin nombre, Thakhek"
     title: "Sector sin nombre, Thakhek"   
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1794.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1794-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/01/MG_1794.jpg
+    image_path: https://uploads.andeandaran.com/2017/01/MG_1794-150x150.jpg
     alt: "Joan en el sector sin nombre. A esta vía le dimos un 6a"
     title: "_MG_1794"  
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1779.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1779-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/01/MG_1779.jpg
+    image_path: https://uploads.andeandaran.com/2017/01/MG_1779-150x150.jpg
     alt: "Sito en la vía más dura del sector sin nombre. Le dimos un 6b"
     title: "_MG_1779" 
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1783.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1783-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/01/MG_1783.jpg
+    image_path: https://uploads.andeandaran.com/2017/01/MG_1783-150x150.jpg
     alt: "Sito bajando de la vía"
     title: "_MG_1783" 
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1763.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1763-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/01/MG_1763.jpg
+    image_path: https://uploads.andeandaran.com/2017/01/MG_1763-150x150.jpg
     alt: "Jaqueline en el sector sin nombre, Thakhek"
     title: "Jaqueline en el sector sin nombre" 
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/01/GOPR7941.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/01/GOPR7941-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/01/GOPR7941.jpg
+    image_path: https://uploads.andeandaran.com/2017/01/GOPR7941-150x150.jpg
     alt: "Joan en la vía de al lado."
     title: "GOPR7941"   
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1812.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1812-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/01/MG_1812.jpg
+    image_path: https://uploads.andeandaran.com/2017/01/MG_1812-150x150.jpg
     alt: "Haciendo la séptima y última vía del día!"
     title: "_MG_1812" 
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1655.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1655-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/01/MG_1655.jpg
+    image_path: https://uploads.andeandaran.com/2017/01/MG_1655-150x150.jpg
     alt: "Descansando en el sector G-Spot"
     title: "_MG_1655" 
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1662.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1662-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/01/MG_1662.jpg
+    image_path: https://uploads.andeandaran.com/2017/01/MG_1662-150x150.jpg
     alt: "Jacqueline abriendo un 5c+ muy bonito en G-Spot"
     title: "_MG_1662"   
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1664.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1664-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/01/MG_1664.jpg
+    image_path: https://uploads.andeandaran.com/2017/01/MG_1664-150x150.jpg
     alt: "¡Una pareja que se iba nos regalo su cuerda!"
     title: "_MG_1664"  
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/01/GOPR8008.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/01/GOPR8008-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/01/GOPR8008.jpg
+    image_path: https://uploads.andeandaran.com/2017/01/GOPR8008-150x150.jpg
     alt: "Sandra acercándose a la reunión"
     title: "Sandra acercándose a la reunión" 
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/01/GOPR8013.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/01/GOPR8013-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/01/GOPR8013.jpg
+    image_path: https://uploads.andeandaran.com/2017/01/GOPR8013-150x150.jpg
     alt: "En la reunión!"
     title: "GOPR8013"   
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/01/GOPR8047.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/01/GOPR8047-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/01/GOPR8047.jpg
+    image_path: https://uploads.andeandaran.com/2017/01/GOPR8047-150x150.jpg
     alt: "Esperando en el pie de via a que el sol deje de pegar en la pared. Chinese New Year"
     title: "GOPR8047"   
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/01/GOPR8048-e1484282711777.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/01/GOPR8048-e1484282711777-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/01/GOPR8048-e1484282711777.jpg
+    image_path: https://uploads.andeandaran.com/2017/01/GOPR8048-e1484282711777-150x150.jpg
     alt: "Juan en la segunda reunión de Chinese New Year"
     title: "Juan en la segunda reunión de Chinese New Year"   
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/01/GOPR8049.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/01/GOPR8049-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/01/GOPR8049.jpg
+    image_path: https://uploads.andeandaran.com/2017/01/GOPR8049-150x150.jpg
     alt: "Descansando antes de ir a por el 6b"
     title: "Descansando antes de ir a por el 6b"   
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/01/GOPR8055.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/01/GOPR8055-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/01/GOPR8055.jpg
+    image_path: https://uploads.andeandaran.com/2017/01/GOPR8055-150x150.jpg
     alt: "Antes de empezar el último largo!"
     title: "GOPR8055"   
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/01/GOPR8062-e1484282623531.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/01/GOPR8062-e1484282623531-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/01/GOPR8062-e1484282623531.jpg
+    image_path: https://uploads.andeandaran.com/2017/01/GOPR8062-e1484282623531-150x150.jpg
     alt: "En la cima de Chinese New Year"
     title: "En la cima de Chinese New Year" 
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/01/GOPR8078-Panorama.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/01/GOPR8078-Panorama-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/01/GOPR8078-Panorama.jpg
+    image_path: https://uploads.andeandaran.com/2017/01/GOPR8078-Panorama-150x150.jpg
     alt: "Panorámica desde la cima de Chinese New Year, Thakhek"
     title: "Panorámica desde la cima de Chinese New Year, Thakhek"  
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/01/GOPR8080.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/01/GOPR8080-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/01/GOPR8080.jpg
+    image_path: https://uploads.andeandaran.com/2017/01/GOPR8080-150x150.jpg
     alt: "Las vistas desde la cima de Chinese New Year"
     title: "GOPR8080"   
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/01/GOPR8085.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/01/GOPR8085-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/01/GOPR8085.jpg
+    image_path: https://uploads.andeandaran.com/2017/01/GOPR8085-150x150.jpg
     alt: "Joan rapelando el segundo largo"
     title: "GOPR8085"   
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1701.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1701-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/01/MG_1701.jpg
+    image_path: https://uploads.andeandaran.com/2017/01/MG_1701-150x150.jpg
     alt: "Sector Canyon, no lo probamos, pero tenía muy buena pinta. El sector más alejado y de más difícil acceso"
     title: "_MG_1701"   
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1712.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1712-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/01/MG_1712.jpg
+    image_path: https://uploads.andeandaran.com/2017/01/MG_1712-150x150.jpg
     alt: "Paseos en moto por las pistas de tierra"
     title: "_MG_1712" 
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1649.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1649-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/01/MG_1649.jpg
+    image_path: https://uploads.andeandaran.com/2017/01/MG_1649-150x150.jpg
     alt: "Una cueva que hay nada más salir de GCH a 200m"
     title: "Cueva GCH"
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1839.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1839-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/01/MG_1839.jpg
+    image_path: https://uploads.andeandaran.com/2017/01/MG_1839-150x150.jpg
     alt: "Cadena fuera... se pararon a intentar ayudarnos, pero no tenía arreglo..."
     title: "_MG_1839"   
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/01/GOPR8039.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/01/GOPR8039-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/01/GOPR8039.jpg
+    image_path: https://uploads.andeandaran.com/2017/01/GOPR8039-150x150.jpg
     alt: "Baño en Tha Fallan"
     title: "Baño en Tha Fallan" 
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/01/GOPR8089.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/01/GOPR8089-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/01/GOPR8089.jpg
+    image_path: https://uploads.andeandaran.com/2017/01/GOPR8089-150x150.jpg
     alt: "De vuelta al campamento el último día de escalada"
     title: "Los 4"
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/01/GOPR8095.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/01/GOPR8095-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/01/GOPR8095.jpg
+    image_path: https://uploads.andeandaran.com/2017/01/GOPR8095-150x150.jpg
     alt: "De vuelta al campamento. último día"
     title: "De vuelta!" 
 ---
@@ -177,13 +177,13 @@ gallery:
 #### Alojamiento
 <figure id="attachment_1251" >
 
-<img class="size-medium wp-image-1251" src="https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1758-300x200.jpg" alt="Los bungalows al atardecer" /> <figcaption class="wp-caption-text">La zona de bungalows de GCH2 al atardecer</figcaption></figure> 
+<img class="size-medium wp-image-1251" src="https://uploads.andeandaran.com/2017/01/MG_1758-300x200.jpg" alt="Los bungalows al atardecer" /> <figcaption class="wp-caption-text">La zona de bungalows de GCH2 al atardecer</figcaption></figure> 
 
 
   Existen dos campamentos, GCH1 y GCH2. Son independientes el uno del otro, pero el ambiente es el mismo.<br /> Podrás encontrar bungalows con y sin baño privado, cama en habitación compartida y tiendas de campaña. En temporada alta los bungalows escasean, así que te recomendamos reservar con antelación.<br /> Nosotros intentamos reservar el día anterior y sólo había disponible 1 tienda de campaña en GCH2.
 <figure id="attachment_1279" >
 
-<img class="size-medium wp-image-1279" src="https://www.andeandaran.com/wp-content/uploads/2017/01/GOPR8033-300x203.jpg?resize=300%2C203" alt="La zona de acampada de GCH2" /> <figcaption class="wp-caption-text">La zona de acampada de GCH2</figcaption></figure> 
+<img class="size-medium wp-image-1279" src="https://uploads.andeandaran.com/2017/01/GOPR8033-300x203.jpg?resize=300%2C203" alt="La zona de acampada de GCH2" /> <figcaption class="wp-caption-text">La zona de acampada de GCH2</figcaption></figure> 
 
 
   No podemos hablar de la comodidad de los bungalows porque no llegamos ni a olerlos, pero si podemos hablar de las tiendas.<br /> Llegamos con la intención de estar 3 noches y acabamos estando 11. A la tienda le falta un colchón algo mejor, si tienes una esterilla hinchable no dudes en llevarla. Así te ahorrarás el tener que buscar la forma de que las irregularidades del suelo encajen con tu cuerpo.
@@ -228,14 +228,14 @@ gallery:
   En cuanto a los sectores que probamos, destacaría Climbers Home, Elephant y Tree Longue. Todos ellos con vías fáciles y de grado medio.
 <figure id="attachment_1277" >
 
-<img class="size-large wp-image-1277" src="https://www.andeandaran.com/wp-content/uploads/2017/01/GOPR8008-1024x636.jpg?resize=810%2C503" alt="Sandra acercándose a la reunión" /> <figcaption class="wp-caption-text">Sandra acercándose a la reunión</figcaption></figure> 
+<img class="size-large wp-image-1277" src="https://uploads.andeandaran.com/2017/01/GOPR8008-1024x636.jpg?resize=810%2C503" alt="Sandra acercándose a la reunión" /> <figcaption class="wp-caption-text">Sandra acercándose a la reunión</figcaption></figure> 
   Nos metimos también en un sector que acababan de abrir el día anterior unos suizos. Siete vías entre el 5a y 6b a 200m de GCH2. Estaban algo sucias, pero fue divertido escalar "a vista" 100%, ya que no sabíamos ni el grado de las vías...
 <figure id="attachment_1252" >
 
-<img class="size-large wp-image-1252" src="https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1763-1024x683.jpg" alt="Jaqueline en el sector sin nombre, Thakhek" /> <figcaption class="wp-caption-text">Jacqueline abriendo un supuesto 6a.</figcaption></figure> 
+<img class="size-large wp-image-1252" src="https://uploads.andeandaran.com/2017/01/MG_1763-1024x683.jpg" alt="Jaqueline en el sector sin nombre, Thakhek" /> <figcaption class="wp-caption-text">Jacqueline abriendo un supuesto 6a.</figcaption></figure> 
 <figure id="attachment_1256" >
 
-<img class="size-large wp-image-1256" src="https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1791-1024x683.jpg" alt="Sector sin nombre, Thakhek" /> <figcaption class="wp-caption-text">Sito abriendo una de las vías del sector sin nombre. Creemos que un 6a+</figcaption></figure> 
+<img class="size-large wp-image-1256" src="https://uploads.andeandaran.com/2017/01/MG_1791-1024x683.jpg" alt="Sector sin nombre, Thakhek" /> <figcaption class="wp-caption-text">Sito abriendo una de las vías del sector sin nombre. Creemos que un 6a+</figcaption></figure> 
 
 ### Largos en "Chinese New Year", 6b 130m
 
@@ -254,7 +254,7 @@ gallery:
   Joan empezó empalmando los dos primeros largos. Se quedó corto de expreses, así que tuvo que saltarse algún que otro parabolt. Un 5c de 53m para empezar el día de escalada y saltándose seguros... eso es empezar fuerte.
 <figure id="attachment_1240" >
 
-<img class="size-large wp-image-1240" src="https://www.andeandaran.com/wp-content/uploads/2017/01/GOPR8048-e1484282711777-1024x638.jpg?resize=810%2C505" alt="Juan en la segunda reunión de Chinese New Year" /> <figcaption class="wp-caption-text">Juan en la segunda reunión de Chinese New Year. Descansando después de empalmar dos largos.</figcaption></figure> 
+<img class="size-large wp-image-1240" src="https://uploads.andeandaran.com/2017/01/GOPR8048-e1484282711777-1024x638.jpg?resize=810%2C505" alt="Juan en la segunda reunión de Chinese New Year" /> <figcaption class="wp-caption-text">Juan en la segunda reunión de Chinese New Year. Descansando después de empalmar dos largos.</figcaption></figure> 
 
 
   A mi me tocó el 6b. Otros 6b que probamos eran bastante más duros de lo esperado, así que íbamos dispuestos a "acerar" si era necesario. Por suerte en esta vía el grado estaba bien puesto... quizá el paso más difícil está justo antes de llegar a la reunión, pero es una vía muy bonita y un 6b tirando a 6a+ bastante asequible.<br /> Superado el largo difícil ya solo quedaba un 5b de 44m con muchos agarres, alguna que otra piedra grande suelta y roca bastante cortante.
@@ -265,7 +265,7 @@ gallery:
 
 
 
-  <img class="aligncenter wp-image-1242 size-large" src="https://www.andeandaran.com/wp-content/uploads/2017/01/GOPR8062-e1484282623531-1024x632.jpg" alt="En la cima de Chinese New Year"/>
+  <img class="aligncenter wp-image-1242 size-large" src="https://uploads.andeandaran.com/2017/01/GOPR8062-e1484282623531-1024x632.jpg" alt="En la cima de Chinese New Year"/>
 
 
 
@@ -276,7 +276,7 @@ gallery:
   En resumen, una vía muy recomendable y una muy buena experiencia. Un placer haberla compartido contigo, Joan.
 <figure id="attachment_1280" >
 
-<img class="size-large wp-image-1280" src="https://www.andeandaran.com/wp-content/uploads/2017/01/GOPR8078-Panorama-1024x553.jpg" alt="Panorámica desde la cima de Chinese New Year, Thakhek" /> <figcaption class="wp-caption-text">Panorámica desde la cima de Chinese New Year, Thakhek</figcaption></figure> 
+<img class="size-large wp-image-1280" src="https://uploads.andeandaran.com/2017/01/GOPR8078-Panorama-1024x553.jpg" alt="Panorámica desde la cima de Chinese New Year, Thakhek" /> <figcaption class="wp-caption-text">Panorámica desde la cima de Chinese New Year, Thakhek</figcaption></figure> 
 
 ### Qué más hacer
 
@@ -288,7 +288,7 @@ gallery:
 #### Tha Fallan
 <figure id="attachment_1266" >
 
-<img class="wp-image-1266 size-medium" src="https://www.andeandaran.com/wp-content/uploads/2017/01/GOPR8039-300x225.jpg" alt="Baño en Tha Fallan" /> <figcaption class="wp-caption-text">Baño en Tha Fallan</figcaption></figure> 
+<img class="wp-image-1266 size-medium" src="https://uploads.andeandaran.com/2017/01/GOPR8039-300x225.jpg" alt="Baño en Tha Fallan" /> <figcaption class="wp-caption-text">Baño en Tha Fallan</figcaption></figure> 
 
 
   Una zona de baño muy agradable que está a 25 min a pie o 5 en moto. Cubre lo suficiente como para nadar y el agua está muy tranquila.
@@ -298,7 +298,7 @@ gallery:
 #### Cuevas y más cuevas
 <figure id="attachment_1245" class="wp-caption alignleft">
 
-<img class="wp-image-1245 size-medium" src="https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1649-300x200.jpg" alt="Cueva GCH" /> <figcaption class="wp-caption-text">Una cueva a 200m de GCH.</figcaption></figure> 
+<img class="wp-image-1245 size-medium" src="https://uploads.andeandaran.com/2017/01/MG_1649-300x200.jpg" alt="Cueva GCH" /> <figcaption class="wp-caption-text">Una cueva a 200m de GCH.</figcaption></figure> 
 
   Toda la zona está rodeada de cuevas, eso si, no todas merecen la pena y en algunas te hacen pagar a cada paso que das. Te recomendamos descargar alguna aplicación basada en OpenStreetMaps tipo Maps.me y así poder tener un GPS con sus localizaciones.
 

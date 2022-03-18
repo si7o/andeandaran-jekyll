@@ -10,7 +10,7 @@ categories:
   -  viajes
   -  tailandia
 header:
-  image: https://www.andeandaran.com/wp-content/uploads/2016/11/MG_9544.jpg
+  image: https://uploads.andeandaran.com/2016/11/MG_9544.jpg
 ---
 Si estás planeando visitar Tailandia, te contamos cual fue nuestro itinerario y algunos datos básicos a tener en cuenta para organizar tu viaje. Por supuesto, no queremos compararnos con ninguna guía de viaje ni con otros blogs viajeros. Únicamente, pretendemos compartir nuestra experiencia y lo que hemos ido descubriendo durante el camino. Esperamos que os sean útiles y disfrutéis Tailandia tanto como nosotros.
 
@@ -163,7 +163,7 @@ La moneda oficial de Tailandia es el Bath. Desde [este enlace](http://www.xe.com
 
 Por su ambiente mochilero, por sus paredes llenas de chorreras, sus playas, su vegetación y la gente que conocimos, el mejor lugar de Tailandia para nosotros fue Tonsai. Os contamos todo lo que hicimos en los post: [Rincones de Tonsai y Railay](http://www.andeandaran.com/2016/11/17/descubriendo-rincones-de-tonsai-railay/), [Escalando en Tonsai y Railay](http://www.andeandaran.com/2016/11/13/escalando-tonsai-railay/) y [Tonsai, segunda parte](http://www.andeandaran.com/2017/03/19/tonsai-segunda-parte/).
 
-[<img class="alignnone size-large wp-image-1710" src="https://www.andeandaran.com/wp-content/uploads/2017/03/tonsai2-8284-1024x768.jpg?resize=810%2C608" />](https://www.andeandaran.com/wp-content/uploads/2017/03/tonsai2-8284.jpg)
+[<img class="alignnone size-large wp-image-1710" src="https://uploads.andeandaran.com/2017/03/tonsai2-8284-1024x768.jpg?resize=810%2C608" />](https://uploads.andeandaran.com/2017/03/tonsai2-8284.jpg)
 
 ## Nuestra comida preferida
 

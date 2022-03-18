@@ -13,11 +13,13 @@ OSM_geo_data:
 OSM_geo_icon:
   - mic_black_pinother_02.png
 header:
-  image: https://www.andeandaran.com/wp-content/uploads/2020/04/48763204858_932763f9a8_k.jpg
+  image: https://live.staticflickr.com/65535/48763204858_1b49ec6d99_b.jpg
+  caption: <a href="https://www.flickr.com/photos/sitoo/48763204858/in/photostream/lightbox/">Ver en flickr</a>
 ---
-## Aguas termales Seljavallalaug
 
 El segundo día en Islandia lo arrancamos desde el camping de Seljalandfoss y desde allí condujimos unos 25 kilómetros hacia la que sería nuestra primera parada del día: La piscina termal Seljavallalaug. Para llegar a esta piscina hay que desviarse de la carretera principal y conducir unos 2-3 km por un camino sin asfaltar. Veréis que hay un pequeño parking al final del camino y desde ahí hasta la piscina hay que caminar unos 10 -15 minutos.
+
+## Aguas termales Seljavallalaug
 
 La piscina termal Seljavallalaug es la más antigua de Islandia. Fue construida en 1923 y esta situada en medio de un valle, en la ladera de una de las montañas junto al volcán Eyjafjallajökull. Este volcán lo recordareis porque entró en erupción en 2010. Con la erupción toda la zona quedó cubierta de cenizas y cambio bastante todo el paisaje. Junto al desvió de la carretera sin asfaltar hay un pequeño museo donde explican las consecuencias que tuvo la erupción del volcán y como recuperaron la zona.
 

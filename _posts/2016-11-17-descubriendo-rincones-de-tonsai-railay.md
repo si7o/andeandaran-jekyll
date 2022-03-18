@@ -14,7 +14,7 @@ OSM_geo_data:
 OSM_geo_icon:
   - mic_black_pinother_02.png
 header:
-  image: https://www.andeandaran.com/wp-content/uploads/2016/11/31016065026_3d35c72896_b-1.jpg
+  image: https://uploads.andeandaran.com/2016/11/31016065026_3d35c72896_b-1.jpg
 ---
 Además de los días de escalada, tuvimos algunos días para explorar y disfrutar de la península de Railay y Tonsai. Aunque su principal atractivo son las paredes, sobretodo para nosotros, también existen algunos rincones recomendamos descubrir para conocer la esencia de Tonsai y Railay.
 
@@ -22,7 +22,7 @@ Además de los días de escalada, tuvimos algunos días para explorar y disfruta
 
 Primero de todo, vamos  a contextualizaros un poco con el mapa de la zona para que ubiquéis cada uno de los principales lugares y os sirva de utilidad si vais a viajar próximamente.
 
-<img class="wp-image-567 size-wcfixedheightmedium aligncenter" src="https://www.andeandaran.com/wp-content/uploads/2016/11/mapa-railay-y-tonsai-1-460x300.png?resize=460%2C300" alt="mapa-railay-y-tonsai" /> 
+<img class="wp-image-567 size-wcfixedheightmedium aligncenter" src="https://uploads.andeandaran.com/2016/11/mapa-railay-y-tonsai-1-460x300.png?resize=460%2C300" alt="mapa-railay-y-tonsai" /> 
 
 Para acceder a la península solamente se puede ir en bote, desde Ao Nang, Krabi, Phi phi, etc, no hay carreteras que la comuniquen con el resto de costa. Los botes llegan a cualquiera de las 4 playas: Tonsai, railay east, west o Pranang.
 
@@ -46,7 +46,7 @@ Una vez llegamos a Point view nos encontramos una panorámica completa de la pen
 
 ## Playa de Pranang
 
-<img class="alignright wp-image-575 size-wccarousel" src="https://www.andeandaran.com/wp-content/uploads/2016/11/IMG_20161109_1601563341-400x285.jpg?resize=400%2C285" alt="img_20161109_1601563341" /> 
+<img class="alignright wp-image-575 size-wccarousel" src="https://uploads.andeandaran.com/2016/11/IMG_20161109_1601563341-400x285.jpg?resize=400%2C285" alt="img_20161109_1601563341" /> 
 
 La playa de Pranang, sin lugar a dudas es la mejor de las que hay por la zona, eso si, llena de gente pero manteniendo su encanto. Arena blanca y agua bastante cristalina. En esta playa hay varias cuevas, una de ellas muy conocida por las estatuas con forma de penes que tiene, en las otras hay unas cuantas vías para escalar.
 
@@ -67,48 +67,48 @@ Navegar entre peñascos con un kayak es un plan 100% recomendable. Permite acced
 
 
 <div class="tiled-gallery type-rectangular tiled-gallery-unresized">
-  <a href="https://www.andeandaran.com/wp-content/uploads/2016/11/MG_9508.jpg"> 
-  <img src="https://www.andeandaran.com/wp-content/uploads/2016/11/MG_9508.jpg" title="Bajada a Lagoon" alt="Bajada a Lagoon"  /> </a>
+  <a href="https://uploads.andeandaran.com/2016/11/MG_9508.jpg"> 
+  <img src="https://uploads.andeandaran.com/2016/11/MG_9508.jpg" title="Bajada a Lagoon" alt="Bajada a Lagoon"  /> </a>
 
-  <a href="https://www.andeandaran.com/wp-content/uploads/2016/11/MG_9524.jpg">
-  <img src="https://www.andeandaran.com/wp-content/uploads/2016/11/MG_9524.jpg" title="Bajada a Lagoon" alt="Bajada a Lagoon" /> </a>
+  <a href="https://uploads.andeandaran.com/2016/11/MG_9524.jpg">
+  <img src="https://uploads.andeandaran.com/2016/11/MG_9524.jpg" title="Bajada a Lagoon" alt="Bajada a Lagoon" /> </a>
 
-  <a href="https://www.andeandaran.com/wp-content/uploads/2016/11/MG_9526.jpg"> 
-  <img src="https://www.andeandaran.com/wp-content/uploads/2016/11/MG_9526.jpg" title="Vegetación cerca de Point View" alt="Vegetación cerca de Point View" /> </a>
+  <a href="https://uploads.andeandaran.com/2016/11/MG_9526.jpg"> 
+  <img src="https://uploads.andeandaran.com/2016/11/MG_9526.jpg" title="Vegetación cerca de Point View" alt="Vegetación cerca de Point View" /> </a>
 
-  <a href="https://www.andeandaran.com/wp-content/uploads/2016/11/MG_9531.jpg"> 
-  <img src="https://www.andeandaran.com/wp-content/uploads/2016/11/MG_9531.jpg" title="Botes en Pranang" alt="Botes en Pranang" /> </a>
+  <a href="https://uploads.andeandaran.com/2016/11/MG_9531.jpg"> 
+  <img src="https://uploads.andeandaran.com/2016/11/MG_9531.jpg" title="Botes en Pranang" alt="Botes en Pranang" /> </a>
 
-  <a href="https://www.andeandaran.com/wp-content/uploads/2016/11/MG_9544.jpg"> 
-  <img src="https://www.andeandaran.com/wp-content/uploads/2016/11/MG_9544.jpg" title="Botes en Pranang" alt="Botes en Pranang" /> </a>
+  <a href="https://uploads.andeandaran.com/2016/11/MG_9544.jpg"> 
+  <img src="https://uploads.andeandaran.com/2016/11/MG_9544.jpg" title="Botes en Pranang" alt="Botes en Pranang" /> </a>
 
-  <a href="https://www.andeandaran.com/wp-content/uploads/2016/11/IMG_20161109_1601563341.jpg"> 
-  <img src="https://www.andeandaran.com/wp-content/uploads/2016/11/IMG_20161109_1601563341.jpg" title="Barquitos de comida en Pranang" alt="Barquitos de comida en Pranang" /> </a>
+  <a href="https://uploads.andeandaran.com/2016/11/IMG_20161109_1601563341.jpg"> 
+  <img src="https://uploads.andeandaran.com/2016/11/IMG_20161109_1601563341.jpg" title="Barquitos de comida en Pranang" alt="Barquitos de comida en Pranang" /> </a>
 
-  <a href="https://www.andeandaran.com/wp-content/uploads/2016/11/MG_9493.jpg"> 
-  <img src="https://www.andeandaran.com/wp-content/uploads/2016/11/MG_9493.jpg" title="Tonsai beach" alt="Tonsai beach" /> </a>
+  <a href="https://uploads.andeandaran.com/2016/11/MG_9493.jpg"> 
+  <img src="https://uploads.andeandaran.com/2016/11/MG_9493.jpg" title="Tonsai beach" alt="Tonsai beach" /> </a>
 
-  <a href="https://www.andeandaran.com/wp-content/uploads/2016/11/MG_9568.jpg"> 
-  <img src="https://www.andeandaran.com/wp-content/uploads/2016/11/MG_9568.jpg" title="Atardecer desde Pranang" alt="Atardecer desde Pranang" style="width: 522px; height: 348px;" /> </a>
+  <a href="https://uploads.andeandaran.com/2016/11/MG_9568.jpg"> 
+  <img src="https://uploads.andeandaran.com/2016/11/MG_9568.jpg" title="Atardecer desde Pranang" alt="Atardecer desde Pranang" style="width: 522px; height: 348px;" /> </a>
 
-  <a href="https://www.andeandaran.com/wp-content/uploads/2016/11/GOPR5948-1.jpg"> 
-  <img src="https://www.andeandaran.com/wp-content/uploads/2016/11/GOPR5948-1.jpg" title="Pranang Beach" alt="Pranang Beach" /> </a>
+  <a href="https://uploads.andeandaran.com/2016/11/GOPR5948-1.jpg"> 
+  <img src="https://uploads.andeandaran.com/2016/11/GOPR5948-1.jpg" title="Pranang Beach" alt="Pranang Beach" /> </a>
 
-  <a href="https://www.andeandaran.com/wp-content/uploads/2016/11/GOPR7028.jpg"> 
-  <img src="https://www.andeandaran.com/wp-content/uploads/2016/11/GOPR7028.jpg" title="Día de Kayak" alt="Día de Kayak" /> </a>
+  <a href="https://uploads.andeandaran.com/2016/11/GOPR7028.jpg"> 
+  <img src="https://uploads.andeandaran.com/2016/11/GOPR7028.jpg" title="Día de Kayak" alt="Día de Kayak" /> </a>
 
-  <a href="https://www.andeandaran.com/wp-content/uploads/2016/11/GOPR7034.jpg"> 
-  <img src="https://www.andeandaran.com/wp-content/uploads/2016/11/GOPR7034.jpg" title="Día de Kayak" alt="Día de Kayak"  /> </a>
+  <a href="https://uploads.andeandaran.com/2016/11/GOPR7034.jpg"> 
+  <img src="https://uploads.andeandaran.com/2016/11/GOPR7034.jpg" title="Día de Kayak" alt="Día de Kayak"  /> </a>
 
-  <a href="https://www.andeandaran.com/wp-content/uploads/2016/11/GOPR7038.jpg"> 
-  <img src="https://www.andeandaran.com/wp-content/uploads/2016/11/GOPR7038.jpg" title="Día de Kayak" alt="Día de Kayak" /> </a>
+  <a href="https://uploads.andeandaran.com/2016/11/GOPR7038.jpg"> 
+  <img src="https://uploads.andeandaran.com/2016/11/GOPR7038.jpg" title="Día de Kayak" alt="Día de Kayak" /> </a>
 
-  <a href="https://www.andeandaran.com/wp-content/uploads/2016/11/GOPR7050.jpg"> 
-  <img src="https://www.andeandaran.com/wp-content/uploads/2016/11/GOPR7050.jpg" title="Vista desde el Kayak" alt="Vista desde el Kayak" /> </a>
+  <a href="https://uploads.andeandaran.com/2016/11/GOPR7050.jpg"> 
+  <img src="https://uploads.andeandaran.com/2016/11/GOPR7050.jpg" title="Vista desde el Kayak" alt="Vista desde el Kayak" /> </a>
 
-  <a href="https://www.andeandaran.com/wp-content/uploads/2016/11/GOPR7066.jpg"> 
-  <img src="https://www.andeandaran.com/wp-content/uploads/2016/11/GOPR7066.jpg" title="Chaparrón desde el Kayak" alt="Chaparrón desde el Kayak" /> </a>
+  <a href="https://uploads.andeandaran.com/2016/11/GOPR7066.jpg"> 
+  <img src="https://uploads.andeandaran.com/2016/11/GOPR7066.jpg" title="Chaparrón desde el Kayak" alt="Chaparrón desde el Kayak" /> </a>
 
-  <a href="https://www.andeandaran.com/wp-content/uploads/2016/11/MG_9585.jpg">     <img src="https://www.andeandaran.com/wp-content/uploads/2016/11/MG_9585.jpg" title="Entrada Mama Chicken" alt="Entrada Mama Chicken" /> </a> 
+  <a href="https://uploads.andeandaran.com/2016/11/MG_9585.jpg">     <img src="https://uploads.andeandaran.com/2016/11/MG_9585.jpg" title="Entrada Mama Chicken" alt="Entrada Mama Chicken" /> </a> 
 
 </div> 

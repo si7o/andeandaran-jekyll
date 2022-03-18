@@ -14,7 +14,7 @@ OSM_geo_data:
 OSM_geo_icon:
   - mic_black_pinother_02.png
 header:
-  image: https://www.andeandaran.com/wp-content/uploads/2017/02/Chiang_mai-1.jpg
+  image: https://uploads.andeandaran.com/2017/02/Chiang_mai-1.jpg
 ---
 
   Chiang Mai es la ciudad más grande y más visitada del norte de Tailandia. Se la conoce por la naturaleza que la rodea y su gran riqueza cultural, con más de 300 templos budistas. Es una ciudad que ofrece infinidad de actividades (templos, trekkings, cursos...), con lo cual es prácticamente imposible aburrirse.<!--more-->
@@ -70,7 +70,7 @@ header:
 
 
 
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/02/DSC_1258.jpg"><img class="alignnone size-full wp-image-1639" src="https://www.andeandaran.com/wp-content/uploads/2017/02/DSC_1258.jpg" /></a>
+  <a href="https://uploads.andeandaran.com/2017/02/DSC_1258.jpg"><img class="alignnone size-full wp-image-1639" src="https://uploads.andeandaran.com/2017/02/DSC_1258.jpg" /></a>
 
 
 
@@ -163,33 +163,33 @@ header:
 
 
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/02/DSC_1290.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/02/DSC_1290.jpg" title="DSC_1290" alt="Edificio principal del Wat Phra Singh"  /> </a>
+  <a href="https://uploads.andeandaran.com/2017/02/DSC_1290.jpg"> <img src="https://uploads.andeandaran.com/2017/02/DSC_1290.jpg" title="DSC_1290" alt="Edificio principal del Wat Phra Singh"  /> </a>
   
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/02/DSC_1258.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/02/DSC_1258.jpg" title="DSC_1258" alt="Wat Phra Singh"  /> </a>
+  <a href="https://uploads.andeandaran.com/2017/02/DSC_1258.jpg"> <img src="https://uploads.andeandaran.com/2017/02/DSC_1258.jpg" title="DSC_1258" alt="Wat Phra Singh"  /> </a>
   
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/02/DSC_1239.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/02/DSC_1239.jpg" title="DSC_1239" alt="Elefante del Wat Phra Singh" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/02/DSC_1239.jpg"> <img src="https://uploads.andeandaran.com/2017/02/DSC_1239.jpg" title="DSC_1239" alt="Elefante del Wat Phra Singh" /> </a>
   
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/02/DSC_1234-e1487890236333.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/02/DSC_1234-e1487890236333.jpg" title="DSC_1234" alt="Margarita en Wat Phra Singh" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/02/DSC_1234-e1487890236333.jpg"> <img src="https://uploads.andeandaran.com/2017/02/DSC_1234-e1487890236333.jpg" title="DSC_1234" alt="Margarita en Wat Phra Singh" /> </a>
   
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/02/DSC_1252.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/02/DSC_1252.jpg" title="DSC_1252" alt="Monjes de cera en Wat Phra Singh"  /> </a>
+  <a href="https://uploads.andeandaran.com/2017/02/DSC_1252.jpg"> <img src="https://uploads.andeandaran.com/2017/02/DSC_1252.jpg" title="DSC_1252" alt="Monjes de cera en Wat Phra Singh"  /> </a>
   
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/02/DSC_1224-e1487890272862.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/02/DSC_1224-e1487890272862.jpg" title="DSC_1224" alt="DSC_1224" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/02/DSC_1224-e1487890272862.jpg"> <img src="https://uploads.andeandaran.com/2017/02/DSC_1224-e1487890272862.jpg" title="DSC_1224" alt="DSC_1224" /> </a>
         
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/02/DSC_1278-e1487892361474.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/02/DSC_1278-e1487892361474.jpg" title="DSC_1278" alt="Interiores de Wat Phra Singh" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/02/DSC_1278-e1487892361474.jpg"> <img src="https://uploads.andeandaran.com/2017/02/DSC_1278-e1487892361474.jpg" title="DSC_1278" alt="Interiores de Wat Phra Singh" /> </a>
   
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/02/DSC_1227.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/02/DSC_1227.jpg" title="DSC_1227" alt="Oraciones en uno del templos"  /> </a>
+  <a href="https://uploads.andeandaran.com/2017/02/DSC_1227.jpg"> <img src="https://uploads.andeandaran.com/2017/02/DSC_1227.jpg" title="DSC_1227" alt="Oraciones en uno del templos"  /> </a>
   
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/02/DSC_1265.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/02/DSC_1265.jpg" title="DSC_1265" alt="Selfie"  /> </a>
+  <a href="https://uploads.andeandaran.com/2017/02/DSC_1265.jpg"> <img src="https://uploads.andeandaran.com/2017/02/DSC_1265.jpg" title="DSC_1265" alt="Selfie"  /> </a>
   
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/02/Chiang_mai-3.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/02/Chiang_mai-3.jpg" title="Chiang_mai-3" alt="Templo sin nombre" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/02/Chiang_mai-3.jpg"> <img src="https://uploads.andeandaran.com/2017/02/Chiang_mai-3.jpg" title="Chiang_mai-3" alt="Templo sin nombre" /> </a>
   
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/02/Chiang_mai-2.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/02/Chiang_mai-2.jpg" title="Chiang_mai-2" alt="Templo sin nombre" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/02/Chiang_mai-2.jpg"> <img src="https://uploads.andeandaran.com/2017/02/Chiang_mai-2.jpg" title="Chiang_mai-2" alt="Templo sin nombre" /> </a>
   
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/02/Chiang_mai-5.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/02/Chiang_mai-5.jpg" title="Chiang_mai-5" alt="Preparando curry para el Khao soi" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/02/Chiang_mai-5.jpg"> <img src="https://uploads.andeandaran.com/2017/02/Chiang_mai-5.jpg" title="Chiang_mai-5" alt="Preparando curry para el Khao soi" /> </a>
 
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/02/Chiang_mai-4.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/02/Chiang_mai-4.jpg" title="Chiang_mai-4" alt="Comprando en un mercado local" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/02/Chiang_mai-4.jpg"> <img src="https://uploads.andeandaran.com/2017/02/Chiang_mai-4.jpg" title="Chiang_mai-4" alt="Comprando en un mercado local" /> </a>
 
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/02/DSC_1299.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/02/DSC_1299.jpg" title="DSC_1299" alt="Comiendo en un restaurante muy recomendable: Aroy Dee" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/02/DSC_1299.jpg"> <img src="https://uploads.andeandaran.com/2017/02/DSC_1299.jpg" title="DSC_1299" alt="Comiendo en un restaurante muy recomendable: Aroy Dee" /> </a>
 
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/02/Chiang_mai-1.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/02/Chiang_mai-1.jpg" title="Color!" alt="Luces en el Night Bazaar"/> </a>
+  <a href="https://uploads.andeandaran.com/2017/02/Chiang_mai-1.jpg"> <img src="https://uploads.andeandaran.com/2017/02/Chiang_mai-1.jpg" title="Color!" alt="Luces en el Night Bazaar"/> </a>
 </div>

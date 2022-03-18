@@ -14,7 +14,7 @@ OSM_geo_data:
 OSM_geo_icon:
   - mic_black_pinother_02.png
 header:
-  image: https://www.andeandaran.com/wp-content/uploads/2017/04/IMG_3758.jpg
+  image: https://uploads.andeandaran.com/2017/04/IMG_3758.jpg
 ---
 
   El 26 de febrero volamos a Nueva Zelanda, no fue fácil, tampoco fue barato... empezamos nuestro viaje por este país, como quien dice, con el pie izquierdo.

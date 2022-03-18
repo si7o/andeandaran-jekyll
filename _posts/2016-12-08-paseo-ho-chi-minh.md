@@ -14,7 +14,7 @@ OSM_geo_data:
 OSM_geo_icon:
   - mic_black_pinother_02.png
 header:
-  image: https://www.andeandaran.com/wp-content/uploads/2016/12/31465777576_cfd6e91f7c_b-1024x545.jpg
+  image: https://uploads.andeandaran.com/2016/12/31465777576_cfd6e91f7c_b-1024x545.jpg
 ---
 
   Ho Chi Minh es la ciudad más grande de Vietnam, pero no su capital. Esta situada al lado del río Saigon, de hecho se la conoce también por este nombre. Con más de 9.000.000 de habitantes desafía a las grandes ciudades asiáticas como Bangkok o Singapure y es que en la ciudad hay un visible éxito económico con grandes hoteles y tiendas de lujo.<!--more-->
@@ -81,31 +81,31 @@ Desde la ciudad de Ho Chi Minh salen diariamente tours hacia esta zona. Además 
   <figure > 
   
   <div>
-    <a href='https://www.andeandaran.com/wp-content/uploads/2016/12/MG_0227.jpg'><img  src="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_0227.jpg"  /></a>
+    <a href='https://uploads.andeandaran.com/2016/12/MG_0227.jpg'><img  src="https://uploads.andeandaran.com/2016/12/MG_0227.jpg"  /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://www.andeandaran.com/wp-content/uploads/2016/12/MG_0232.jpg'><img  src="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_0232.jpg"  alt="Tien Han, templo budista" /></a>
+    <a href='https://uploads.andeandaran.com/2016/12/MG_0232.jpg'><img  src="https://uploads.andeandaran.com/2016/12/MG_0232.jpg"  alt="Tien Han, templo budista" /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://www.andeandaran.com/wp-content/uploads/2016/12/MG_0140.jpg'><img  src="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_0140.jpg"  /></a>
+    <a href='https://uploads.andeandaran.com/2016/12/MG_0140.jpg'><img  src="https://uploads.andeandaran.com/2016/12/MG_0140.jpg"  /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://www.andeandaran.com/wp-content/uploads/2016/12/MG_0134.jpg'><img  src="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_0134.jpg"  alt="Zapatillas y más zapatillas!" /></a>
+    <a href='https://uploads.andeandaran.com/2016/12/MG_0134.jpg'><img  src="https://uploads.andeandaran.com/2016/12/MG_0134.jpg"  alt="Zapatillas y más zapatillas!" /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://www.andeandaran.com/wp-content/uploads/2016/12/MG_0152.jpg'><img  src="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_0152.jpg"  alt="Interior de la oficina central de correos" /></a>
+    <a href='https://uploads.andeandaran.com/2016/12/MG_0152.jpg'><img  src="https://uploads.andeandaran.com/2016/12/MG_0152.jpg"  alt="Interior de la oficina central de correos" /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://www.andeandaran.com/wp-content/uploads/2016/12/MG_0158.jpg'><img  src="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_0158.jpg"  alt="Iglesia de Notre Dame" /></a>
+    <a href='https://uploads.andeandaran.com/2016/12/MG_0158.jpg'><img  src="https://uploads.andeandaran.com/2016/12/MG_0158.jpg"  alt="Iglesia de Notre Dame" /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://www.andeandaran.com/wp-content/uploads/2016/12/MG_0154.jpg'><img  src="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_0154.jpg"  alt="Un vendedor de helados junto a la oficina central de correos" /></a>
+    <a href='https://uploads.andeandaran.com/2016/12/MG_0154.jpg'><img  src="https://uploads.andeandaran.com/2016/12/MG_0154.jpg"  alt="Un vendedor de helados junto a la oficina central de correos" /></a>
   </div></figure>
 </div>
 

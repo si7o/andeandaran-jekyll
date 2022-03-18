@@ -13,7 +13,7 @@ OSM_geo_data:
 OSM_geo_icon:
   - mic_black_pinother_02.png
 header:
-  image: https://www.andeandaran.com/wp-content/uploads/2016/10/MG_8786.jpg
+  image: https://uploads.andeandaran.com/2016/10/MG_8786.jpg
 ---
 Con una simple búsqueda en internet sobre cómo o con quién contratar el <a href="http://www.andeandaran.com/2016/10/24/etapas-al-campo-base-del-annapurna-abc/" target="_blank">trekking al ABC</a> aparecen infinidad de opciones, comentarios e información.  
 En un principio pensamos hacerlo por nuestra cuenta, pero, tras informarnos un poco sobre la posible escasez de alojamiento en las últimas etapas, decidimos contratar al menos un guía o un guía/porter. Inmediatamente descartamos la posibilidad de contratar el trekking desde España debido a los altos precios, así que llegamos a Kathmandú con deberes pendientes: organizar el trekking, ¡casi nada!<!--more-->
@@ -40,7 +40,7 @@ Nuestro guía, Pemba, nos dió buena espina y nos pareció una buena persona des
 Pemba empezó siendo nuestro guía y acabó siendo nuestro amigo.  
 Nos pareció un guía formidable: atento, capaz de resolver los problemas que surgieron durante el trekking, con buen dominio del inglés, inteligente, divertido... No podemos hacer más que recomendarlo, así que si estáis buscando un guía, [poneros en contacto con nosotros](http://www.andeandaran.com/contacto/) y os enviaremos su email y teléfono. ¡Él o su padre estarán encantados de guiaros!
 
-<img class="size-wcstandard wp-image-366 aligncenter" src="https://www.andeandaran.com/wp-content/uploads/2016/10/MG_9030.jpg" alt="Junto al glaciar"  /> 
+<img class="size-wcstandard wp-image-366 aligncenter" src="https://uploads.andeandaran.com/2016/10/MG_9030.jpg" alt="Junto al glaciar"  /> 
 
 Tras sumar los gastos de los 10 días (incluyendo el precio del paquete, el jeep de vuelta a Pokhara, la propina para el guía, las comisiones del banco y cambio de divisas, etc.) acabamos gastando unos 74€ al día.  
 No es lo que se dice "viajar barato", pero es una experiencia que no olvidaremos.

@@ -21,7 +21,7 @@ OSM_geo_data:
 OSM_geo_icon:
   - mic_black_pinother_02.png
 header:
-  image: https://www.andeandaran.com/wp-content/uploads/2016/10/MG_9336.jpg
+  image: https://uploads.andeandaran.com/2016/10/MG_9336.jpg
 ---
 Hoy en día es muy sencillo mantenerse conectado con tus amigos y familiares durante un viaje. A la omnipresente WiFi de casi todos los lugares con un mínimo de turistas es posible añadir una tarjeta para tu teléfono que te permita tener "datos" y llamadas.
 

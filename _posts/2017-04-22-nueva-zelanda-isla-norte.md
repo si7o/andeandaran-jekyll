@@ -14,7 +14,7 @@ OSM_geo_data:
 OSM_geo_icon:
   - mic_black_pinother_02.png
 header:
-  image: https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-1.jpg
+  image: https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-1.jpg
 ---
 
   Os contamos nuestros 10 días recorriendo la isla Norte de Nueva Zelanda. Este fue el itinerario completo, pero lo hicimos en varias etapas, con diferentes medios y en distintos momentos del viaje.<br /> Los tres primeros días en autocaravana, en nuestro camino de Auckland a Cristchurch, pasamos por Tangoriro, Waikanae beach y Wellington. Los últimos 7 días en el país hicimos el recorrido en coche desde Wellingnton a Auckland pasando por Taranaki y New Plymouth.<!--more-->
@@ -64,7 +64,7 @@ header:
 ### Relocalización de Autocaravanas
 
 
-[<img class="alignnone size-large wp-image-1872" src="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-25-1024x683.jpg" />](https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-25.jpg)
+[<img class="alignnone size-large wp-image-1872" src="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-25-1024x683.jpg" />](https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-25.jpg)
 
 
   Auckland es la principal ciudad de Nueva Zelanda y por ello es dónde más coches, autocaravas y furgonetas se alquilan.
@@ -123,7 +123,7 @@ header:
 
 
 
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-8.jpg"><img class="alignnone size-large wp-image-1854" src="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-8-1024x683.jpg" /></a>
+  <a href="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-8.jpg"><img class="alignnone size-large wp-image-1854" src="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-8-1024x683.jpg" /></a>
 
 
 
@@ -141,7 +141,7 @@ header:
 ## 3. Waikanae Beach
 <figure id="attachment_1861" >
 
-<img class="size-medium wp-image-1861" src="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-14-300x200.jpg" /> <figcaption class="wp-caption-text">Isla Kapiti, frente Waikane beach</figcaption></figure> 
+<img class="size-medium wp-image-1861" src="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-14-300x200.jpg" /> <figcaption class="wp-caption-text">Isla Kapiti, frente Waikane beach</figcaption></figure> 
 
 
   Llegamos a esta playa de casualidad, buscando algún camping gratuito para pasar la noche con la autocaravana. La verdad, acertamos en ir hasta allí, porque es una playa bastante agradable. Larga y de arena blanca, con muy poca gente. Perfecta para dar largos paseos por la orilla. Está justo en frente de la isla Kapiti una reserva marina, donde dicen que hay muy buen fondo marino para bucear.
@@ -162,7 +162,7 @@ header:
 
 
 
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/04/NZ-NewPlaymouth-1.jpg"><img class="alignnone size-large wp-image-1884" src="https://www.andeandaran.com/wp-content/uploads/2017/04/NZ-NewPlaymouth-1-1024x683.jpg" /></a>
+  <a href="https://uploads.andeandaran.com/2017/04/NZ-NewPlaymouth-1.jpg"><img class="alignnone size-large wp-image-1884" src="https://uploads.andeandaran.com/2017/04/NZ-NewPlaymouth-1-1024x683.jpg" /></a>
 
 
 
@@ -177,7 +177,7 @@ header:
 
 
 
-  <img class="alignright size-medium wp-image-1889" src="https://www.andeandaran.com/wp-content/uploads/2017/04/NZ-NewPlaymouth-6-300x200.jpg" />En nuestra ruta por la costa oeste hasta Auckland decidimos parar en New Plymouth porque Antonia de Couchsurfing y sus tres mascotas nos acogieron una noche en su casa. La experiencia en casa de Antonia fue inmejorable, os recomendamos que si pasáis por allí y os apetece probar couchsurfing, os pongáis en contacto con ella ¡es muy divertida!.
+  <img class="alignright size-medium wp-image-1889" src="https://uploads.andeandaran.com/2017/04/NZ-NewPlaymouth-6-300x200.jpg" />En nuestra ruta por la costa oeste hasta Auckland decidimos parar en New Plymouth porque Antonia de Couchsurfing y sus tres mascotas nos acogieron una noche en su casa. La experiencia en casa de Antonia fue inmejorable, os recomendamos que si pasáis por allí y os apetece probar couchsurfing, os pongáis en contacto con ella ¡es muy divertida!.
 
 
 
@@ -196,7 +196,7 @@ A unos 40-50 km de New Plymouth se encuentra uno de los iconos de la isla norte,
 
 
 
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/04/NZ-NewPlaymouth-9.jpg"><img class="alignnone size-large wp-image-1892" src="https://www.andeandaran.com/wp-content/uploads/2017/04/NZ-NewPlaymouth-9-1024x683.jpg" /></a>
+  <a href="https://uploads.andeandaran.com/2017/04/NZ-NewPlaymouth-9.jpg"><img class="alignnone size-large wp-image-1892" src="https://uploads.andeandaran.com/2017/04/NZ-NewPlaymouth-9-1024x683.jpg" /></a>
 
 
 ## Galería
@@ -206,7 +206,7 @@ A unos 40-50 km de New Plymouth se encuentra uno de los iconos de la isla norte,
 <div>
 <div >
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-24.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-24.jpg" title="Taylor Dam" alt="Autocaravana de Apollo campers"  /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-24.jpg"> <img src="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-24.jpg" title="Taylor Dam" alt="Autocaravana de Apollo campers"  /> </a> 
   
   <div>
     Autocaravana de Apollo campers
@@ -218,7 +218,7 @@ A unos 40-50 km de New Plymouth se encuentra uno de los iconos de la isla norte,
 
 <div >
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-25.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-25.jpg" title="Auckland-Christchurch-25" alt="Interior de la caravana ¡Un palacio!" /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-25.jpg"> <img src="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-25.jpg" title="Auckland-Christchurch-25" alt="Interior de la caravana ¡Un palacio!" /> </a> 
   
   <div>
     Interior de la caravana ¡Un palacio!
@@ -226,7 +226,7 @@ A unos 40-50 km de New Plymouth se encuentra uno de los iconos de la isla norte,
 </div>
 
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-29.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-29.jpg" title="Llegando a Lewis Pass" alt="Recorriendo las carreteras de la isla norte" /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-29.jpg"> <img src="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-29.jpg" title="Llegando a Lewis Pass" alt="Recorriendo las carreteras de la isla norte" /> </a> 
   
   <div>
     Recorriendo las carreteras de la isla norte
@@ -242,7 +242,7 @@ A unos 40-50 km de New Plymouth se encuentra uno de los iconos de la isla norte,
 <div >
 <div  >
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-1.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-1.jpg" title="Auckland-Christchurch-1" alt="Carreteras del parque Tangoriro" /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-1.jpg"> <img src="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-1.jpg" title="Auckland-Christchurch-1" alt="Carreteras del parque Tangoriro" /> </a> 
   
   <div>
     Carreteras del parque Tangoriro
@@ -254,7 +254,7 @@ A unos 40-50 km de New Plymouth se encuentra uno de los iconos de la isla norte,
 
 <div  >
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-2.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-2.jpg" title="Auckland-Christchurch-2" alt="Recorriendo las carreteras de Tangoriro" /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-2.jpg"> <img src="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-2.jpg" title="Auckland-Christchurch-2" alt="Recorriendo las carreteras de Tangoriro" /> </a> 
   
   <div>
     Recorriendo las carreteras de Tangoriro
@@ -266,7 +266,7 @@ A unos 40-50 km de New Plymouth se encuentra uno de los iconos de la isla norte,
 
 <div  >
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-9.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-9.jpg" title="Auckland-Christchurch-9" alt="Tangoriro cubierto de nubes" /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-9.jpg"> <img src="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-9.jpg" title="Auckland-Christchurch-9" alt="Tangoriro cubierto de nubes" /> </a> 
   
   <div>
     Tangoriro cubierto de nubes
@@ -282,7 +282,7 @@ A unos 40-50 km de New Plymouth se encuentra uno de los iconos de la isla norte,
 <div>
 <div >
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-11.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-11.jpg" title="Auckland-Christchurch-11" alt="Tormenta sobre Tangoriro" /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-11.jpg"> <img src="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-11.jpg" title="Auckland-Christchurch-11" alt="Tormenta sobre Tangoriro" /> </a> 
   
   <div>
     Tormenta sobre Tangoriro
@@ -290,7 +290,7 @@ A unos 40-50 km de New Plymouth se encuentra uno de los iconos de la isla norte,
 </div>
 
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-7.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-7.jpg" title="Auckland-Christchurch-7" alt="Subiendo al Tama lower lake" /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-7.jpg"> <img src="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-7.jpg" title="Auckland-Christchurch-7" alt="Subiendo al Tama lower lake" /> </a> 
   
   <div>
     Subiendo al Tama lower lake
@@ -302,7 +302,7 @@ A unos 40-50 km de New Plymouth se encuentra uno de los iconos de la isla norte,
 
 <div >
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-10.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-10.jpg" title="Auckland-Christchurch-10" alt="Selfie"  /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-10.jpg"> <img src="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-10.jpg" title="Auckland-Christchurch-10" alt="Selfie"  /> </a> 
   
   <div>
     Selfie
@@ -318,7 +318,7 @@ A unos 40-50 km de New Plymouth se encuentra uno de los iconos de la isla norte,
 <div >
 <div  >
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-8.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-8.jpg" title="Auckland-Christchurch-8" alt="Lower tama lake"  /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-8.jpg"> <img src="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-8.jpg" title="Auckland-Christchurch-8" alt="Lower tama lake"  /> </a> 
   
   <div>
     Lower tama lake
@@ -330,7 +330,7 @@ A unos 40-50 km de New Plymouth se encuentra uno de los iconos de la isla norte,
 
 <div  >
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-6.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-6.jpg" title="Mapas!" alt="flipando con los mapas y guías gratuitas" /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-6.jpg"> <img src="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-6.jpg" title="Mapas!" alt="flipando con los mapas y guías gratuitas" /> </a> 
   
   <div>
     flipando con los mapas y guías gratuitas
@@ -346,7 +346,7 @@ A unos 40-50 km de New Plymouth se encuentra uno de los iconos de la isla norte,
 <div>
 <div >
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-12.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-12.jpg" title="Auckland-Christchurch-12" alt="Taranaki falls"  /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-12.jpg"> <img src="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-12.jpg" title="Auckland-Christchurch-12" alt="Taranaki falls"  /> </a> 
   
   <div>
     Taranaki falls
@@ -358,7 +358,7 @@ A unos 40-50 km de New Plymouth se encuentra uno de los iconos de la isla norte,
 
 <div >
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-4.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-4.jpg" title="Auckland-Christchurch-4" alt="Tawhai falls" /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-4.jpg"> <img src="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-4.jpg" title="Auckland-Christchurch-4" alt="Tawhai falls" /> </a> 
   
   <div>
     Tawhai falls
@@ -366,7 +366,7 @@ A unos 40-50 km de New Plymouth se encuentra uno de los iconos de la isla norte,
 </div>
 
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-3.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-3.jpg" title="Auckland-Christchurch-3" alt="Mas de las Tawhai falls" /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-3.jpg"> <img src="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-3.jpg" title="Auckland-Christchurch-3" alt="Mas de las Tawhai falls" /> </a> 
   
   <div>
     Mas de las Tawhai falls
@@ -382,7 +382,7 @@ A unos 40-50 km de New Plymouth se encuentra uno de los iconos de la isla norte,
 <div >
 <div  >
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-5.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-5.jpg" title="Auckland-Christchurch-5" alt="Auckland-Christchurch-5" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-5.jpg"> <img src="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-5.jpg" title="Auckland-Christchurch-5" alt="Auckland-Christchurch-5" /> </a>
 </div>
 </div>
 
@@ -390,7 +390,7 @@ A unos 40-50 km de New Plymouth se encuentra uno de los iconos de la isla norte,
 
 <div  >
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-15.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-15.jpg" title="Auckland-Christchurch-15" alt="Nuestra terraza en waikanae beach" /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-15.jpg"> <img src="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-15.jpg" title="Auckland-Christchurch-15" alt="Nuestra terraza en waikanae beach" /> </a> 
   
   <div>
     Nuestra terraza en waikanae beach
@@ -402,7 +402,7 @@ A unos 40-50 km de New Plymouth se encuentra uno de los iconos de la isla norte,
 
 <div  >
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-16.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-16.jpg" title="Auckland-Christchurch-16" alt="Waikanae beach" /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-16.jpg"> <img src="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-16.jpg" title="Auckland-Christchurch-16" alt="Waikanae beach" /> </a> 
   
   <div>
     Waikanae beach
@@ -418,7 +418,7 @@ A unos 40-50 km de New Plymouth se encuentra uno de los iconos de la isla norte,
 <div>
 <div >
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-14.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-14.jpg" title="Waikanae Beach" alt="Isla Kapiti, frente Waikane beach" /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-14.jpg"> <img src="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-14.jpg" title="Waikanae Beach" alt="Isla Kapiti, frente Waikane beach" /> </a> 
   
   <div>
     Isla Kapiti, frente Waikane beach
@@ -426,7 +426,7 @@ A unos 40-50 km de New Plymouth se encuentra uno de los iconos de la isla norte,
 </div>
 
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-17.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-17.jpg" title="Auckland-Christchurch-17" alt="Esperando para entrar al Ferry" /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-17.jpg"> <img src="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-17.jpg" title="Auckland-Christchurch-17" alt="Esperando para entrar al Ferry" /> </a> 
   
   <div>
     Esperando para entrar al Ferry
@@ -438,7 +438,7 @@ A unos 40-50 km de New Plymouth se encuentra uno de los iconos de la isla norte,
 
 <div >
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-22.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-22.jpg" title="Sandra en el ferry" alt="Vistas desde el ferry de la isla Sur"  /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-22.jpg"> <img src="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-22.jpg" title="Sandra en el ferry" alt="Vistas desde el ferry de la isla Sur"  /> </a> 
   
   <div>
     Vistas desde el ferry de la isla Sur
@@ -454,7 +454,7 @@ A unos 40-50 km de New Plymouth se encuentra uno de los iconos de la isla norte,
 <div  >
 <div  >
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-21.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-21.jpg" title="Luchando contra el viento" alt="Luchando contra el viento" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-21.jpg"> <img src="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-21.jpg" title="Luchando contra el viento" alt="Luchando contra el viento" /> </a>
 </div>
 </div>
 
@@ -462,7 +462,7 @@ A unos 40-50 km de New Plymouth se encuentra uno de los iconos de la isla norte,
 
 <div  >
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-20.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-20.jpg" title="&quot;La casa en la colina&quot;" alt="&quot;La casa en la colina&quot;" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-20.jpg"> <img src="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-20.jpg" title="&quot;La casa en la colina&quot;" alt="&quot;La casa en la colina&quot;" /> </a>
 </div>
 </div>
 
@@ -474,7 +474,7 @@ A unos 40-50 km de New Plymouth se encuentra uno de los iconos de la isla norte,
 <div>
 <div >
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-18.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-18.jpg" title="Queen Charlotte Sounds" alt="Llegando a la Isla Sur"  /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-18.jpg"> <img src="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-18.jpg" title="Queen Charlotte Sounds" alt="Llegando a la Isla Sur"  /> </a> 
   
   <div>
     Llegando a la Isla Sur
@@ -486,7 +486,7 @@ A unos 40-50 km de New Plymouth se encuentra uno de los iconos de la isla norte,
 
 <div >
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-19.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-19.jpg" title="Queen Charlotte Sounds" alt="Los fiordos que hay llegando a la Isla Sur" /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-19.jpg"> <img src="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-19.jpg" title="Queen Charlotte Sounds" alt="Los fiordos que hay llegando a la Isla Sur" /> </a> 
   
   <div>
     Los fiordos que hay llegando a la Isla Sur
@@ -494,7 +494,7 @@ A unos 40-50 km de New Plymouth se encuentra uno de los iconos de la isla norte,
 </div>
 
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-23.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-23.jpg" title="Taylor Dam Camping" alt="Taylor Dam Camping" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-23.jpg"> <img src="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-23.jpg" title="Taylor Dam Camping" alt="Taylor Dam Camping" /> </a>
 </div>
 </div>
 
@@ -506,7 +506,7 @@ A unos 40-50 km de New Plymouth se encuentra uno de los iconos de la isla norte,
 <div >
 <div  >
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/04/NZ-NewPlaymouth-3.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/04/NZ-NewPlaymouth-3.jpg" title="NZ-NewPlaymouth-3" alt="NZ-NewPlaymouth-3" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/04/NZ-NewPlaymouth-3.jpg"> <img src="https://uploads.andeandaran.com/2017/04/NZ-NewPlaymouth-3.jpg" title="NZ-NewPlaymouth-3" alt="NZ-NewPlaymouth-3" /> </a>
 </div>
 </div>
 
@@ -514,7 +514,7 @@ A unos 40-50 km de New Plymouth se encuentra uno de los iconos de la isla norte,
 
 <div  >
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/04/NZ-NewPlaymouth-1.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/04/NZ-NewPlaymouth-1.jpg" title="NZ-NewPlaymouth-1" alt="NZ-NewPlaymouth-1" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/04/NZ-NewPlaymouth-1.jpg"> <img src="https://uploads.andeandaran.com/2017/04/NZ-NewPlaymouth-1.jpg" title="NZ-NewPlaymouth-1" alt="NZ-NewPlaymouth-1" /> </a>
 </div>
 </div>
 
@@ -522,7 +522,7 @@ A unos 40-50 km de New Plymouth se encuentra uno de los iconos de la isla norte,
 
 <div  >
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/04/NZ-NewPlaymouth-4.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/04/NZ-NewPlaymouth-4.jpg" title="NZ-NewPlaymouth-4" alt="NZ-NewPlaymouth-4" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/04/NZ-NewPlaymouth-4.jpg"> <img src="https://uploads.andeandaran.com/2017/04/NZ-NewPlaymouth-4.jpg" title="NZ-NewPlaymouth-4" alt="NZ-NewPlaymouth-4" /> </a>
 </div>
 </div>
 
@@ -534,7 +534,7 @@ A unos 40-50 km de New Plymouth se encuentra uno de los iconos de la isla norte,
 <div  >
 <div  >
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/04/NZ-NewPlaymouth-2.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/04/NZ-NewPlaymouth-2.jpg" title="NZ-NewPlaymouth-2" alt="NZ-NewPlaymouth-2" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/04/NZ-NewPlaymouth-2.jpg"> <img src="https://uploads.andeandaran.com/2017/04/NZ-NewPlaymouth-2.jpg" title="NZ-NewPlaymouth-2" alt="NZ-NewPlaymouth-2" /> </a>
 </div>
 </div>
 
@@ -542,7 +542,7 @@ A unos 40-50 km de New Plymouth se encuentra uno de los iconos de la isla norte,
 
 <div  >
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/04/NZ-NewPlaymouth-5.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/04/NZ-NewPlaymouth-5.jpg" title="NZ-NewPlaymouth-5" alt="NZ-NewPlaymouth-5" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/04/NZ-NewPlaymouth-5.jpg"> <img src="https://uploads.andeandaran.com/2017/04/NZ-NewPlaymouth-5.jpg" title="NZ-NewPlaymouth-5" alt="NZ-NewPlaymouth-5" /> </a>
 </div>
 </div>
 
@@ -554,7 +554,7 @@ A unos 40-50 km de New Plymouth se encuentra uno de los iconos de la isla norte,
 <div >
 <div  >
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-13.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-13.jpg" title="Auckland-Christchurch-13" alt="Auckland-Christchurch-13" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-13.jpg"> <img src="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-13.jpg" title="Auckland-Christchurch-13" alt="Auckland-Christchurch-13" /> </a>
 </div>
 </div>
 
@@ -562,7 +562,7 @@ A unos 40-50 km de New Plymouth se encuentra uno de los iconos de la isla norte,
 
 <div  >
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/04/IMG_3758.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/04/IMG_3758.jpg" title="Paisajes de Nueva Zelanda" alt="Viajando por Nueva Zelanda" /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/04/IMG_3758.jpg"> <img src="https://uploads.andeandaran.com/2017/04/IMG_3758.jpg" title="Paisajes de Nueva Zelanda" alt="Viajando por Nueva Zelanda" /> </a> 
   
   <div>
     Viajando por Nueva Zelanda
@@ -578,7 +578,7 @@ A unos 40-50 km de New Plymouth se encuentra uno de los iconos de la isla norte,
 <div>
 <div >
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/04/NZ-NewPlaymouth-10.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/04/NZ-NewPlaymouth-10.jpg" title="NZ-NewPlaymouth-10" alt="NZ-NewPlaymouth-10"  /> </a>
+  <a href="https://uploads.andeandaran.com/2017/04/NZ-NewPlaymouth-10.jpg"> <img src="https://uploads.andeandaran.com/2017/04/NZ-NewPlaymouth-10.jpg" title="NZ-NewPlaymouth-10" alt="NZ-NewPlaymouth-10"  /> </a>
 </div>
 </div>
 
@@ -586,11 +586,11 @@ A unos 40-50 km de New Plymouth se encuentra uno de los iconos de la isla norte,
 
 <div >
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/04/NZ-NewPlaymouth-9.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/04/NZ-NewPlaymouth-9.jpg" title="NZ-NewPlaymouth-9" alt="NZ-NewPlaymouth-9" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/04/NZ-NewPlaymouth-9.jpg"> <img src="https://uploads.andeandaran.com/2017/04/NZ-NewPlaymouth-9.jpg" title="NZ-NewPlaymouth-9" alt="NZ-NewPlaymouth-9" /> </a>
 </div>
 
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/04/NZ-NewPlaymouth-8.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/04/NZ-NewPlaymouth-8.jpg" title="NZ-NewPlaymouth-8" alt="NZ-NewPlaymouth-8" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/04/NZ-NewPlaymouth-8.jpg"> <img src="https://uploads.andeandaran.com/2017/04/NZ-NewPlaymouth-8.jpg" title="NZ-NewPlaymouth-8" alt="NZ-NewPlaymouth-8" /> </a>
 </div>
 </div>
 
@@ -602,7 +602,7 @@ A unos 40-50 km de New Plymouth se encuentra uno de los iconos de la isla norte,
 <div  >
 <div  >
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/04/NZ-NewPlaymouth-7.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/04/NZ-NewPlaymouth-7.jpg" title="NZ-NewPlaymouth-7" alt="NZ-NewPlaymouth-7" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/04/NZ-NewPlaymouth-7.jpg"> <img src="https://uploads.andeandaran.com/2017/04/NZ-NewPlaymouth-7.jpg" title="NZ-NewPlaymouth-7" alt="NZ-NewPlaymouth-7" /> </a>
 </div>
 </div>
 
@@ -610,7 +610,7 @@ A unos 40-50 km de New Plymouth se encuentra uno de los iconos de la isla norte,
 
 <div  >
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/04/NZ-NewPlaymouth-6.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/04/NZ-NewPlaymouth-6.jpg" title="Vistas desde el mirador de New Playmouth" alt="Vistas desde el mirador de New Playmouth" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/04/NZ-NewPlaymouth-6.jpg"> <img src="https://uploads.andeandaran.com/2017/04/NZ-NewPlaymouth-6.jpg" title="Vistas desde el mirador de New Playmouth" alt="Vistas desde el mirador de New Playmouth" /> </a>
 </div>
 </div>
 

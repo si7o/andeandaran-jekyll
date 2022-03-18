@@ -10,7 +10,7 @@ categories:
   -  viajes
   -  vietnam
 header:
-  image: https://www.andeandaran.com/wp-content/uploads/2016/12/MG_1137.jpg
+  image: https://uploads.andeandaran.com/2016/12/MG_1137.jpg
 ---
 
   Si estás planeando visitar Vietnam, te contamos cual fue nuestro itinerario y algunos datos básicos a tener en cuenta para organizar el viaje. Por supuesto, no queremos compararnos con ninguna guía de viaje ni con otros blogs viajeros. Únicamente, pretendemos compartir nuestra experiencia y los conocimientos que hemos ido obteniendo durante el camino. Esperamos que os sean útiles.
@@ -163,7 +163,7 @@ La moneda oficial de Vietnam es el Dong. Desde [este enlace](http://www.xe.com/e
 
 Sin lugar a dudas, el mejor lugar en el que estuvimos fue Tam Coc, en Ninh Binh. Paisaje de montañas kársticas, arrozales y mucha tranquilidad. En el post: [Tam Coc en bicicleta](http://www.andeandaran.com/2016/12/28/tam-coc-bicicleta/) teneis más detalle de qué hacer en Tam Coc.<figure id="attachment_1069" style="width: 1500px" class="wp-caption alignnone">
 
-[<img class="size-full wp-image-1069" src="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_1218.jpg" />](https://www.andeandaran.com/wp-content/uploads/2016/12/MG_1218.jpg)<figcaption class="wp-caption-text">Senderos entre valles</figcaption></figure> 
+[<img class="size-full wp-image-1069" src="https://uploads.andeandaran.com/2016/12/MG_1218.jpg" />](https://uploads.andeandaran.com/2016/12/MG_1218.jpg)<figcaption class="wp-caption-text">Senderos entre valles</figcaption></figure> 
 
 ## Nuestra comida preferida
 

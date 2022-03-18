@@ -14,7 +14,7 @@ OSM_geo_data:
 OSM_geo_icon:
   - mic_black_pinother_02.png
 header:
-  image: https://www.andeandaran.com/wp-content/uploads/2016/09/MG_8211.jpg
+  image: https://uploads.andeandaran.com/2016/09/MG_8211.jpg
 ---
 
 A la hora de hacer la mochila dicen que cada gramo cuenta y la verdad es que estar todo el día con ella a cuestas es agotador. Me encantaría poder llevar todo mi equipo, pero se que mi espalda (y mi tranquilidad) me dará las gracias más adelante por no llevar hasta el descentrable...  
@@ -40,17 +40,17 @@ Dicho esto, he decidido probar qué tal funciona eso de corregir la distorsión 
 
 Dejo una comparativa de ambas imágenes.<figure id="attachment_189" >
 
-<a href="https://www.andeandaran.com/wp-content/uploads/2016/09/completas.jpg" target="_blank"><img class="wp-image-189 size-large" src="https://www.andeandaran.com/wp-content/uploads/2016/09/completas-1024x342.jpg?resize=810%2C271" alt="Comparativa Gran angular vs Ojo de pez" /></a><figcaption class="wp-caption-text">Samyang 14mm f2.8 | Sigma 15mm f2.8 &#8216;defished&#8217;</figcaption></figure> 
+<a href="https://uploads.andeandaran.com/2016/09/completas.jpg" target="_blank"><img class="wp-image-189 size-large" src="https://uploads.andeandaran.com/2016/09/completas-1024x342.jpg?resize=810%2C271" alt="Comparativa Gran angular vs Ojo de pez" /></a><figcaption class="wp-caption-text">Samyang 14mm f2.8 | Sigma 15mm f2.8 &#8216;defished&#8217;</figcaption></figure> 
 
 <div id='gallery-1' class='gallery galleryid-158 gallery-columns-3 gallery-size-wcfixedheightmedium'>
   <figure > 
   
   <div>
-    <a href='https://www.andeandaran.com/wp-content/uploads/2016/09/nitidez_centro.jpg'><img  src="https://www.andeandaran.com/wp-content/uploads/2016/09/nitidez_centro.jpg?resize=783%2C300&#038;ssl=1" class="attachment-wcfixedheightmedium size-wcfixedheightmedium" aria-describedby="gallery-1-190" /></a>
+    <a href='https://uploads.andeandaran.com/2016/09/nitidez_centro.jpg'><img  src="https://uploads.andeandaran.com/2016/09/nitidez_centro.jpg?resize=783%2C300&#038;ssl=1" class="attachment-wcfixedheightmedium size-wcfixedheightmedium" aria-describedby="gallery-1-190" /></a>
   </div><figcaption class='wp-caption-text gallery-caption' id='gallery-1-190'> Recorte centro 100% </figcaption></figure><figure > 
   
   <div>
-    <a href='https://www.andeandaran.com/wp-content/uploads/2016/09/nitidez_esquina.jpg'><img src="https://www.andeandaran.com/wp-content/uploads/2016/09/nitidez_esquina.jpg?resize=786%2C300&#038;ssl=1" class="attachment-wcfixedheightmedium size-wcfixedheightmedium" aria-describedby="gallery-1-191" /></a>
+    <a href='https://uploads.andeandaran.com/2016/09/nitidez_esquina.jpg'><img src="https://uploads.andeandaran.com/2016/09/nitidez_esquina.jpg?resize=786%2C300&#038;ssl=1" class="attachment-wcfixedheightmedium size-wcfixedheightmedium" aria-describedby="gallery-1-191" /></a>
   </div><figcaption class='wp-caption-text gallery-caption' id='gallery-1-191'> Recorte esquina 100% </figcaption></figure>
 </div>
 

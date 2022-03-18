@@ -13,7 +13,7 @@ OSM_geo_data:
 OSM_geo_icon:
   - mic_black_pinother_02.png
 header:
-  image: https://www.andeandaran.com/wp-content/uploads/2017/03/IMG_3449-Edit.jpg
+  image: https://uploads.andeandaran.com/2017/03/IMG_3449-Edit.jpg
 
 contains_panoramas: true
 ---
@@ -24,7 +24,7 @@ contains_panoramas: true
 
 ## Temporada Alta
 
-  Krabi, y en especial las playas de Railay y Tonsai no son precisamente un lugar barato en temporada baja, pero en temporada alta parece que pierden el control. Los alojamientos, por ejemplo, incrementan sus precios alrededor del 50%.<br /> No obstante lo que más nos llamó la atención fue que el precio del agua se había duplicado!. Al comentarlo con el dueño de una tienda no pudo hacer otra cosa que reirse y decir "peak seasson, peak seasson".<img class="img-responsive aligncenter wp-image-1701 size-large" src="https://www.andeandaran.com/wp-content/uploads/2017/03/tonsai2-3385-1024x683.jpg" />
+  Krabi, y en especial las playas de Railay y Tonsai no son precisamente un lugar barato en temporada baja, pero en temporada alta parece que pierden el control. Los alojamientos, por ejemplo, incrementan sus precios alrededor del 50%.<br /> No obstante lo que más nos llamó la atención fue que el precio del agua se había duplicado!. Al comentarlo con el dueño de una tienda no pudo hacer otra cosa que reirse y decir "peak seasson, peak seasson".<img class="img-responsive aligncenter wp-image-1701 size-large" src="https://uploads.andeandaran.com/2017/03/tonsai2-3385-1024x683.jpg" />
 
   La abundancia de turistas también hace más difícil el regateo. Detrás tuyo van a venir varios turistas más, muchos de ellos dispuestos a pagar lo que sea, así que muchos alojamientos prefieren tener varios bungalows vacíos antes que bajar el precio.
 
@@ -64,12 +64,12 @@ contains_panoramas: true
 
 
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/03/tonsai2-8376.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/03/tonsai2-8376.jpg" title="Cueva de Escher Wall a Thaiwand Wall" alt="De camino a Escher Wall" /> </a>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/03/tonsai2-8378.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/03/tonsai2-8378.jpg" title="Cueva de Escher Wall a Thaiwand Wall" alt="Buscando la entrada" /> </a>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/03/tonsai2-8380.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/03/tonsai2-8380.jpg" title="Cueva de Escher Wall a Thaiwand Wall" alt="Buscando la entrada" /> </a>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/03/tonsai2-8384.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/03/tonsai2-8384.jpg" title="Cueva de Escher Wall a Thaiwand Wall" alt="Tras subir las primeras escaleras, la entrada está al fondo a la derecha" /> </a>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/03/tonsai2-8386.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/03/tonsai2-8386.jpg" title="Cueva de Escher Wall a Thaiwand Wall" alt="Llegando al final" /> </a>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/03/tonsai2-8391.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/03/tonsai2-8391.jpg" title="Cueva de Escher Wall a Thaiwand Wall" alt="Las vistas desde arriba" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/03/tonsai2-8376.jpg"> <img src="https://uploads.andeandaran.com/2017/03/tonsai2-8376.jpg" title="Cueva de Escher Wall a Thaiwand Wall" alt="De camino a Escher Wall" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/03/tonsai2-8378.jpg"> <img src="https://uploads.andeandaran.com/2017/03/tonsai2-8378.jpg" title="Cueva de Escher Wall a Thaiwand Wall" alt="Buscando la entrada" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/03/tonsai2-8380.jpg"> <img src="https://uploads.andeandaran.com/2017/03/tonsai2-8380.jpg" title="Cueva de Escher Wall a Thaiwand Wall" alt="Buscando la entrada" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/03/tonsai2-8384.jpg"> <img src="https://uploads.andeandaran.com/2017/03/tonsai2-8384.jpg" title="Cueva de Escher Wall a Thaiwand Wall" alt="Tras subir las primeras escaleras, la entrada está al fondo a la derecha" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/03/tonsai2-8386.jpg"> <img src="https://uploads.andeandaran.com/2017/03/tonsai2-8386.jpg" title="Cueva de Escher Wall a Thaiwand Wall" alt="Llegando al final" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/03/tonsai2-8391.jpg"> <img src="https://uploads.andeandaran.com/2017/03/tonsai2-8391.jpg" title="Cueva de Escher Wall a Thaiwand Wall" alt="Las vistas desde arriba" /> </a>
 </div>
 
 
@@ -88,7 +88,7 @@ contains_panoramas: true
 
 
 
-  <img class="alignright size-medium wp-image-1712" src="https://www.andeandaran.com/wp-content/uploads/2017/03/tonsai2-8330.jpg" />Esa supuesta isla que no íbamos a visitar al final resultaron ser 2 , así que se convirtió en el tour de las "5 islas menos 2". Tampoco fue una gran perdida, eran dos playas minúsculas en las que no había más que un chiringuito y cientos de turistas.
+  <img class="alignright size-medium wp-image-1712" src="https://uploads.andeandaran.com/2017/03/tonsai2-8330.jpg" />Esa supuesta isla que no íbamos a visitar al final resultaron ser 2 , así que se convirtió en el tour de las "5 islas menos 2". Tampoco fue una gran perdida, eran dos playas minúsculas en las que no había más que un chiringuito y cientos de turistas.
 
 
 
@@ -110,7 +110,7 @@ contains_panoramas: true
 ## Escalar
 <figure id="attachment_1722" >
 
-<img class="size-medium wp-image-1722" src="https://www.andeandaran.com/wp-content/uploads/2017/03/tonsai2-8407.jpg" /> <figcaption class="wp-caption-text">Sandra tras abrir el clásico Groove Tube, 6a.</figcaption></figure> 
+<img class="size-medium wp-image-1722" src="https://uploads.andeandaran.com/2017/03/tonsai2-8407.jpg" /> <figcaption class="wp-caption-text">Sandra tras abrir el clásico Groove Tube, 6a.</figcaption></figure> 
 
 
   La parte principal del viaje, escalar. Repetimos varias de las vías que hicimos en nuestro primer viaje a Krabi. Sandra siguió abriendo 6a y Margarita abrió su primer 6b!. Una via en Thaiwand Wall con unas vistas impresionantes de todo Railay y Tonsai.<br /> Exploramos casi todos los sectores que nos quedaron pendientes y fuimos probando todas las vías recomendadas. En definitiva, varios días disfrutando de la escalada en una de las mecas de este deporte.
@@ -126,7 +126,7 @@ contains_panoramas: true
 
 
 
-  <img class="alignright size-medium wp-image-1737" src="https://www.andeandaran.com/wp-content/uploads/2017/03/IMG_20170215_114904646.jpg"  />Sandra y Margarita decidieron aprovechar el día de descanso para hacer kayak. Alquilaron un kayak durante medio día por 200THB.<br /> El precio incluía kayak, chalecos salvavidas y bolsa estanca (para guardar cualquier cosa que queráis proteger del agua). Es el mejor precio que encontramos, el sitio está al principio de la playa de Tonsai, junto al restaurante <em>Legacy</em>.
+  <img class="alignright size-medium wp-image-1737" src="https://uploads.andeandaran.com/2017/03/IMG_20170215_114904646.jpg"  />Sandra y Margarita decidieron aprovechar el día de descanso para hacer kayak. Alquilaron un kayak durante medio día por 200THB.<br /> El precio incluía kayak, chalecos salvavidas y bolsa estanca (para guardar cualquier cosa que queráis proteger del agua). Es el mejor precio que encontramos, el sitio está al principio de la playa de Tonsai, junto al restaurante <em>Legacy</em>.
 
 
 
@@ -145,33 +145,33 @@ contains_panoramas: true
 ## Galería
 
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/03/tonsai2-.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/03/tonsai2-.jpg" title="Manawaitai" alt="Manawaitai" /> </a>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/03/tonsai2-3502.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/03/tonsai2-3502.jpg" title="Tonsai" alt="Tonsai"  /> </a>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/03/tonsai2-3514.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/03/tonsai2-3514.jpg" title="Tonsai" alt="Tonsai" /> </a>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/03/tonsai2-3250.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/03/tonsai2-3250.jpg" title="Margarita nerviosa antes de probar un 6b" alt="Margarita nerviosa antes de probar un 6b" /> </a>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/03/tonsai2-3256.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/03/tonsai2-3256.jpg" title="Margarita y Mauricio" alt="Margarita y Mauricio" /> </a>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/03/tonsai2-3263.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/03/tonsai2-3263.jpg" title="Margarita" alt="Su primer 6b a vista" /> </a>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/03/tonsai2-3272.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/03/tonsai2-3272.jpg" title="Margarita" alt="Su primer 6b a vista" /> </a> 
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/03/tonsai2-8273.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/03/tonsai2-8273.jpg" title="" /> </a>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/03/tonsai2-3283.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/03/tonsai2-3283.jpg" title="" alt="Contenta tras encadenar el 6b" /> </a> 
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/03/tonsai2-3293.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/03/tonsai2-3293.jpg" title="Sito" alt="Estirando la espalda" /> </a> 
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/03/tonsai2-3385.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/03/tonsai2-3385.jpg" title="" alt="La zona donde te dejan los botes que llegan a Tonsai" /> </a> 
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/03/tonsai2-3436.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/03/tonsai2-3436.jpg" title="Lagoon" alt="Con marea baja :(" /> </a>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/03/tonsai2-3440.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/03/tonsai2-3440.jpg" title="De noche en Tonsai" alt="De noche en Tonsai" /> </a>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/03/tonsai2-3467.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/03/tonsai2-3467.jpg" title="Tonsai" alt="Tonsai" /> </a>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/03/tonsai2-3478.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/03/tonsai2-3478.jpg" title="Tonsai" alt="Tonsai" /> </a>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/03/tonsai2-8284.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/03/tonsai2-8284.jpg" title="" /> </a>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/03/tonsai2-3545.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/03/tonsai2-3545.jpg" title="Miau!" alt="Un par de gatitos que venían a darnos los buenos días al bungalow" /> </a> 
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/03/tonsai2-8295.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/03/tonsai2-8295.jpg" title="Descansando" alt="En The Nest, tras hacer un 6a+ horrible" /> </a> 
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/03/tonsai2-8330.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/03/tonsai2-8330.jpg" title="Las 5 menos 2 islas" alt="Las 5 menos 2 islas" /> </a>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/03/tonsai2-8348.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/03/tonsai2-8348.jpg" title="" /> </a>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/03/tonsai2-8358.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/03/tonsai2-8358.jpg" title="Chicken Island" alt="Chicken Island" /> </a>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/03/tonsai2-8370.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/03/tonsai2-8370.jpg" title="Snorkel en Krabi" alt="Snorkel de dudosa calidad..." /> </a> 
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/03/IMG-20170218-WA0006.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/03/IMG-20170218-WA0006.jpg" title="Sito" alt="Probando una vía llamada Little Shit, 6c+" /> </a> 
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/03/IMG-20170218-WA0008.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/03/IMG-20170218-WA0008.jpg" title="Sito" alt="Probando una vía llamada Little Shit, 6c+" /> </a> 
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/03/IMG-20170218-WA0007.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/03/IMG-20170218-WA0007.jpg" title="Sito" alt="En un 6c+, justo antes de volar" /> </a> 
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/03/tonsai2-8407.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/03/tonsai2-8407.jpg" title="Fire Wall" alt="Sandra tras abrir el clásico Groove Tube, 6a." /> </a> 
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/03/IMG_20170215_112430563.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/03/IMG_20170215_112430563.jpg" title="Kayak" alt="Kayak" /> </a>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/03/IMG_20170215_114815178_HDR.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/03/IMG_20170215_114815178_HDR.jpg" title="Kayak" alt="Kayak" /> </a>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/03/IMG_20170215_114904646.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/03/IMG_20170215_114904646.jpg" title="Kayak" alt="Kayak" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/03/tonsai2-.jpg"> <img src="https://uploads.andeandaran.com/2017/03/tonsai2-.jpg" title="Manawaitai" alt="Manawaitai" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/03/tonsai2-3502.jpg"> <img src="https://uploads.andeandaran.com/2017/03/tonsai2-3502.jpg" title="Tonsai" alt="Tonsai"  /> </a>
+  <a href="https://uploads.andeandaran.com/2017/03/tonsai2-3514.jpg"> <img src="https://uploads.andeandaran.com/2017/03/tonsai2-3514.jpg" title="Tonsai" alt="Tonsai" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/03/tonsai2-3250.jpg"> <img src="https://uploads.andeandaran.com/2017/03/tonsai2-3250.jpg" title="Margarita nerviosa antes de probar un 6b" alt="Margarita nerviosa antes de probar un 6b" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/03/tonsai2-3256.jpg"> <img src="https://uploads.andeandaran.com/2017/03/tonsai2-3256.jpg" title="Margarita y Mauricio" alt="Margarita y Mauricio" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/03/tonsai2-3263.jpg"> <img src="https://uploads.andeandaran.com/2017/03/tonsai2-3263.jpg" title="Margarita" alt="Su primer 6b a vista" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/03/tonsai2-3272.jpg"> <img src="https://uploads.andeandaran.com/2017/03/tonsai2-3272.jpg" title="Margarita" alt="Su primer 6b a vista" /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/03/tonsai2-8273.jpg"> <img src="https://uploads.andeandaran.com/2017/03/tonsai2-8273.jpg" title="" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/03/tonsai2-3283.jpg"> <img src="https://uploads.andeandaran.com/2017/03/tonsai2-3283.jpg" title="" alt="Contenta tras encadenar el 6b" /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/03/tonsai2-3293.jpg"> <img src="https://uploads.andeandaran.com/2017/03/tonsai2-3293.jpg" title="Sito" alt="Estirando la espalda" /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/03/tonsai2-3385.jpg"> <img src="https://uploads.andeandaran.com/2017/03/tonsai2-3385.jpg" title="" alt="La zona donde te dejan los botes que llegan a Tonsai" /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/03/tonsai2-3436.jpg"> <img src="https://uploads.andeandaran.com/2017/03/tonsai2-3436.jpg" title="Lagoon" alt="Con marea baja :(" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/03/tonsai2-3440.jpg"> <img src="https://uploads.andeandaran.com/2017/03/tonsai2-3440.jpg" title="De noche en Tonsai" alt="De noche en Tonsai" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/03/tonsai2-3467.jpg"> <img src="https://uploads.andeandaran.com/2017/03/tonsai2-3467.jpg" title="Tonsai" alt="Tonsai" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/03/tonsai2-3478.jpg"> <img src="https://uploads.andeandaran.com/2017/03/tonsai2-3478.jpg" title="Tonsai" alt="Tonsai" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/03/tonsai2-8284.jpg"> <img src="https://uploads.andeandaran.com/2017/03/tonsai2-8284.jpg" title="" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/03/tonsai2-3545.jpg"> <img src="https://uploads.andeandaran.com/2017/03/tonsai2-3545.jpg" title="Miau!" alt="Un par de gatitos que venían a darnos los buenos días al bungalow" /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/03/tonsai2-8295.jpg"> <img src="https://uploads.andeandaran.com/2017/03/tonsai2-8295.jpg" title="Descansando" alt="En The Nest, tras hacer un 6a+ horrible" /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/03/tonsai2-8330.jpg"> <img src="https://uploads.andeandaran.com/2017/03/tonsai2-8330.jpg" title="Las 5 menos 2 islas" alt="Las 5 menos 2 islas" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/03/tonsai2-8348.jpg"> <img src="https://uploads.andeandaran.com/2017/03/tonsai2-8348.jpg" title="" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/03/tonsai2-8358.jpg"> <img src="https://uploads.andeandaran.com/2017/03/tonsai2-8358.jpg" title="Chicken Island" alt="Chicken Island" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/03/tonsai2-8370.jpg"> <img src="https://uploads.andeandaran.com/2017/03/tonsai2-8370.jpg" title="Snorkel en Krabi" alt="Snorkel de dudosa calidad..." /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/03/IMG-20170218-WA0006.jpg"> <img src="https://uploads.andeandaran.com/2017/03/IMG-20170218-WA0006.jpg" title="Sito" alt="Probando una vía llamada Little Shit, 6c+" /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/03/IMG-20170218-WA0008.jpg"> <img src="https://uploads.andeandaran.com/2017/03/IMG-20170218-WA0008.jpg" title="Sito" alt="Probando una vía llamada Little Shit, 6c+" /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/03/IMG-20170218-WA0007.jpg"> <img src="https://uploads.andeandaran.com/2017/03/IMG-20170218-WA0007.jpg" title="Sito" alt="En un 6c+, justo antes de volar" /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/03/tonsai2-8407.jpg"> <img src="https://uploads.andeandaran.com/2017/03/tonsai2-8407.jpg" title="Fire Wall" alt="Sandra tras abrir el clásico Groove Tube, 6a." /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/03/IMG_20170215_112430563.jpg"> <img src="https://uploads.andeandaran.com/2017/03/IMG_20170215_112430563.jpg" title="Kayak" alt="Kayak" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/03/IMG_20170215_114815178_HDR.jpg"> <img src="https://uploads.andeandaran.com/2017/03/IMG_20170215_114815178_HDR.jpg" title="Kayak" alt="Kayak" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/03/IMG_20170215_114904646.jpg"> <img src="https://uploads.andeandaran.com/2017/03/IMG_20170215_114904646.jpg" title="Kayak" alt="Kayak" /> </a>
 </div>

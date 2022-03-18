@@ -13,7 +13,7 @@ OSM_geo_data:
 OSM_geo_icon:
   - mic_black_pinother_02.png
 header:
-  image: https://www.andeandaran.com/wp-content/uploads/2016/10/29645062254_5d584deb12_h.jpg
+  image: https://uploads.andeandaran.com/2016/10/29645062254_5d584deb12_h.jpg
 ---
 Tras las 9 horas de conexión en Dubai y alrededor de 4h30min de vuelo llegamos a Kathmandu alrededor de las 22:30 con unas ganas de tumbarnos y dormir "que pa&#8217;qué", pero antes de poder llegar a la cama hace falta pasar la prueba de obtener el visado y recoger las maletas. ¡A por ello!<!--more-->
 
@@ -43,28 +43,28 @@ El día siguiente lo dedicamos a pasear, conseguir tarjetas SIM para el teléfon
   <figure > 
   
   <div>
-    <a href='https://www.andeandaran.com/wp-content/uploads/2016/10/MG_8309.jpg'><img src="https://www.andeandaran.com/wp-content/uploads/2016/10/MG_8309.jpg?resize=579%2C300&#038;ssl=1" class="attachment-wcfixedheightmedium size-wcfixedheightmedium" aria-describedby="gallery-2-302"/></a>
+    <a href='https://uploads.andeandaran.com/2016/10/MG_8309.jpg'><img src="https://uploads.andeandaran.com/2016/10/MG_8309.jpg?resize=579%2C300&#038;ssl=1" class="attachment-wcfixedheightmedium size-wcfixedheightmedium" aria-describedby="gallery-2-302"/></a>
   </div><figcaption class='wp-caption-text gallery-caption' id='gallery-2-302'> Cánticos en el templo Swayambhu </figcaption></figure><figure > 
   
   <div>
-    <a href='https://www.andeandaran.com/wp-content/uploads/2016/10/MG_8316.jpg'><img src="https://www.andeandaran.com/wp-content/uploads/2016/10/MG_8316.jpg" /></a>
+    <a href='https://uploads.andeandaran.com/2016/10/MG_8316.jpg'><img src="https://uploads.andeandaran.com/2016/10/MG_8316.jpg" /></a>
   </div><figcaption class='wp-caption-text gallery-caption' id='gallery-2-303'> Dos gatos jugado bajo un puestecito en el templo Swayambhu </figcaption></figure><figure > 
   
   <div>
-    <a href='https://www.andeandaran.com/wp-content/uploads/2016/10/MG_8355.jpg'><img src="https://www.andeandaran.com/wp-content/uploads/2016/10/MG_8355.jpg" alt="Templo Swayambhu" /></a>
+    <a href='https://uploads.andeandaran.com/2016/10/MG_8355.jpg'><img src="https://uploads.andeandaran.com/2016/10/MG_8355.jpg" alt="Templo Swayambhu" /></a>
   </div><figcaption class='wp-caption-text gallery-caption' id='gallery-2-304'> Templo Swayambhu </figcaption></figure><figure > 
   
   <div>
-    <a href='https://www.andeandaran.com/wp-content/uploads/2016/10/MG_8407.jpg'><img src="https://www.andeandaran.com/wp-content/uploads/2016/10/MG_8407.jpg" /></a>
+    <a href='https://uploads.andeandaran.com/2016/10/MG_8407.jpg'><img src="https://uploads.andeandaran.com/2016/10/MG_8407.jpg" /></a>
   </div></figure>
   
   <figure >   
   <div>
-    <a href='https://www.andeandaran.com/wp-content/uploads/2016/10/MG_8403.jpg'><img  src="https://www.andeandaran.com/wp-content/uploads/2016/10/MG_8403.jpg" /></a>
+    <a href='https://uploads.andeandaran.com/2016/10/MG_8403.jpg'><img  src="https://uploads.andeandaran.com/2016/10/MG_8403.jpg" /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://www.andeandaran.com/wp-content/uploads/2016/10/MG_8441.jpg'><img src="https://www.andeandaran.com/wp-content/uploads/2016/10/MG_8441.jpg" /></a>
+    <a href='https://uploads.andeandaran.com/2016/10/MG_8441.jpg'><img src="https://uploads.andeandaran.com/2016/10/MG_8441.jpg" /></a>
   </div></figure>
 </div>
 

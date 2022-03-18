@@ -17,7 +17,7 @@ OSM_Marker_01_Icon:
 OSM_Marker_01_Text:
   - ""
 header:
-  image: https://www.andeandaran.com/wp-content/uploads/2019/07/IMG_8261.jpg
+  image: https://uploads.andeandaran.com/2019/07/IMG_8261.jpg
 ---
 Petra, una de las 7 maravillas del mundo y sí, lo es. Pero Petra no solo tiene el Tesoro, el Monasterio o el Anfiteatro. Por ello, os proponemos recorrer todos, o casi todos, los rincones de Petra en 2 días.
 
@@ -38,7 +38,7 @@ Petra, siendo una ciudad comercial y recibiendo durante cientos de años mercade
   * ##### **Ruta principal **_(8 km. 3-3,5h. Dificultad: Fácil)_
 
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2019/07/IMG_8073.jpg"><img class="alignnone size-large wp-image-2665" src="https://www.andeandaran.com/wp-content/uploads/2019/07/IMG_8073-1024x683.jpg" /></a>
+  <a href="https://uploads.andeandaran.com/2019/07/IMG_8073.jpg"><img class="alignnone size-large wp-image-2665" src="https://uploads.andeandaran.com/2019/07/IMG_8073-1024x683.jpg" /></a>
 </div>
 
 Este camino es muy sencillo y durante sus 8 km se pueden ver los edificios mas importantes de la ciudad. Comienza en el centro de visitantes y hay que caminar cerca de 1,5 km atravesando **el Siq**, un cañón estrecho y de 80 m de altura, para llegar a **The Treasury**. Seguramente en The treasury os ofrezcan subir por 30€ a un mirador para ver desde arriba el edificio. El caminos son unas escaleras intransitables que hay a mano derecha del edificio. En este caso, nuestro consejo es decir que no para no colaborar con el negocio sumergido y negro que hay alrededor de Petra. En el punto siguiente os explicamos como llegar a otro mirador por libre, con vistas iguales o mejores, porque el edificio se ve de frente y no de lado.
@@ -59,13 +59,13 @@ Este camino recorre las **royal tombs**. Al final del camino hay unas escaleras 
 
   * ##### **Ruta del High place of sacrifice _(_**_3 km. 3,5-4h. Dificultad: Media)_
 
-[<img class="alignnone size-large wp-image-2664" src="https://www.andeandaran.com/wp-content/uploads/2019/07/IMG_8059-1024x683.jpg" />](https://www.andeandaran.com/wp-content/uploads/2019/07/IMG_8059.jpg)
+[<img class="alignnone size-large wp-image-2664" src="https://uploads.andeandaran.com/2019/07/IMG_8059-1024x683.jpg" />](https://uploads.andeandaran.com/2019/07/IMG_8059.jpg)
 
 5 minutos después de pasar The treasury, hay un camino que sube hacia lo alto del cañón para recorrer el lugar donde hacían sacrificios a sus dioses: **High place of sacrifice**. El camino tiene unos rincones bellisimos y muy poco transitados. Por esta ruta se pueden ver las casas y las calles donde los Nabateos vivían lejos de la calle principal. Algunos de los puntos más importantes del camino son **Garden Triclinium**, y la **Roman soldier´s tomb.**
 
   * ##### **Ruta Ad- Deir - Monastery _(_**_2.5 km. 2-2,5h. Dificultad: Fácil)_
 
-[<img class="alignnone size-large wp-image-2678" src="https://www.andeandaran.com/wp-content/uploads/2019/07/IMG_8402-1024x683.jpg" />](https://www.andeandaran.com/wp-content/uploads/2019/07/IMG_8402.jpg)
+[<img class="alignnone size-large wp-image-2678" src="https://uploads.andeandaran.com/2019/07/IMG_8402-1024x683.jpg" />](https://uploads.andeandaran.com/2019/07/IMG_8402.jpg)
 
 Después de haber terminado la ruta anterior enlazaríamos esta segunda ruta que lleva hasta el monasterio. Sin lugar a duda, uno de los edificios que te dejan sin aliento y no por las más de 800 escalones que hay que subir para llegar a verlo.
 
@@ -75,7 +75,7 @@ Os aconsejamos que una vez visto el monasterio, caminéis hacia el cañón que l
 <div>
 <div >
 <div>
-  <a href="https://www.andeandaran.com/viajes/petra-en-2-dias/attachment/img_8402/"> <img src="https://www.andeandaran.com/wp-content/uploads/2019/07/IMG_8402.jpg" title="IMG_8402" alt="El monasterio"  /> </a> 
+  <a href="https://www.andeandaran.com/viajes/petra-en-2-dias/attachment/img_8402/"> <img src="https://uploads.andeandaran.com/2019/07/IMG_8402.jpg" title="IMG_8402" alt="El monasterio"  /> </a> 
   
   <div>
     El monasterio
@@ -87,7 +87,7 @@ Os aconsejamos que una vez visto el monasterio, caminéis hacia el cañón que l
 
 <div >
 <div>
-  <a href="https://www.andeandaran.com/img_8391/"> <img src="https://www.andeandaran.com/wp-content/uploads/2019/07/IMG_8391.jpg" title="IMG_8391" alt="El monasterio de Petra" /> </a> 
+  <a href="https://www.andeandaran.com/img_8391/"> <img src="https://uploads.andeandaran.com/2019/07/IMG_8391.jpg" title="IMG_8391" alt="El monasterio de Petra" /> </a> 
   
   <div>
     El monasterio de Petra
@@ -95,7 +95,7 @@ Os aconsejamos que una vez visto el monasterio, caminéis hacia el cañón que l
 </div>
 
 <div>
-  <a href="https://www.andeandaran.com/img_8354/"> <img src="https://www.andeandaran.com/wp-content/uploads/2019/07/IMG_8354.jpg" title="IMG_8354" alt="Ovejas pastando por el cañon" /> </a> 
+  <a href="https://www.andeandaran.com/img_8354/"> <img src="https://uploads.andeandaran.com/2019/07/IMG_8354.jpg" title="IMG_8354" alt="Ovejas pastando por el cañon" /> </a> 
   
   <div>
     Ovejas pastando por el cañon
@@ -111,7 +111,7 @@ Os aconsejamos que una vez visto el monasterio, caminéis hacia el cañón que l
 <div >
 <div class="gallery-group images-3" >
 <div>
-  <a href="https://www.andeandaran.com/img_8308/"> <img src="https://www.andeandaran.com/wp-content/uploads/2019/07/IMG_8308.jpg" title="IMG_8308" alt="Algunas runinas de Petra" /> </a> 
+  <a href="https://www.andeandaran.com/img_8308/"> <img src="https://uploads.andeandaran.com/2019/07/IMG_8308.jpg" title="IMG_8308" alt="Algunas runinas de Petra" /> </a> 
   
   <div>
     Algunas runinas de Petra
@@ -119,7 +119,7 @@ Os aconsejamos que una vez visto el monasterio, caminéis hacia el cañón que l
 </div>
 
 <div>
-  <a href="https://www.andeandaran.com/img_8287/"> <img src="https://www.andeandaran.com/wp-content/uploads/2019/07/IMG_8287.jpg" title="IMG_8287" alt="El tesoro de Petra" /> </a> 
+  <a href="https://www.andeandaran.com/img_8287/"> <img src="https://uploads.andeandaran.com/2019/07/IMG_8287.jpg" title="IMG_8287" alt="El tesoro de Petra" /> </a> 
   
   <div>
     El tesoro de Petra
@@ -127,7 +127,7 @@ Os aconsejamos que una vez visto el monasterio, caminéis hacia el cañón que l
 </div>
 
 <div>
-  <a href="https://www.andeandaran.com/img_8261/"> <img src="https://www.andeandaran.com/wp-content/uploads/2019/07/IMG_8261.jpg" title="IMG_8261" alt="Camello en la plaza de The Treasury" /> </a> 
+  <a href="https://www.andeandaran.com/img_8261/"> <img src="https://uploads.andeandaran.com/2019/07/IMG_8261.jpg" title="IMG_8261" alt="Camello en la plaza de The Treasury" /> </a> 
   
   <div>
     Camello en la plaza de The Treasury
@@ -139,7 +139,7 @@ Os aconsejamos que una vez visto el monasterio, caminéis hacia el cañón que l
 
 <div  >
 <div>
-  <a href="https://www.andeandaran.com/img_8200/"> <img src="https://www.andeandaran.com/wp-content/uploads/2019/07/IMG_8200.jpg" title="IMG_8200" alt="Cammelos de Petra" /> </a> 
+  <a href="https://www.andeandaran.com/img_8200/"> <img src="https://uploads.andeandaran.com/2019/07/IMG_8200.jpg" title="IMG_8200" alt="Cammelos de Petra" /> </a> 
   
   <div>
     Cammelos de Petra
@@ -151,7 +151,7 @@ Os aconsejamos que una vez visto el monasterio, caminéis hacia el cañón que l
 
 <div class="gallery-group images-3" >
 <div>
-  <a href="https://www.andeandaran.com/img_8154/"> <img src="https://www.andeandaran.com/wp-content/uploads/2019/07/IMG_8154.jpg" title="IMG_8154" alt="Las tumbas reales" /> </a> 
+  <a href="https://www.andeandaran.com/img_8154/"> <img src="https://uploads.andeandaran.com/2019/07/IMG_8154.jpg" title="IMG_8154" alt="Las tumbas reales" /> </a> 
   
   <div>
     Las tumbas reales
@@ -159,7 +159,7 @@ Os aconsejamos que una vez visto el monasterio, caminéis hacia el cañón que l
 </div>
 
 <div>
-  <a href="https://www.andeandaran.com/img_8139/"> <img src="https://www.andeandaran.com/wp-content/uploads/2019/07/IMG_8139.jpg" title="IMG_8139" alt="El tesoro desde el mirador" /> </a> 
+  <a href="https://www.andeandaran.com/img_8139/"> <img src="https://uploads.andeandaran.com/2019/07/IMG_8139.jpg" title="IMG_8139" alt="El tesoro desde el mirador" /> </a> 
   
   <div>
     El tesoro desde el mirador
@@ -167,7 +167,7 @@ Os aconsejamos que una vez visto el monasterio, caminéis hacia el cañón que l
 </div>
 
 <div>
-  <a href="https://www.andeandaran.com/img_8129/"> <img src="https://www.andeandaran.com/wp-content/uploads/2019/07/IMG_8129.jpg" title="IMG_8129" alt="Desde el mirador" /> </a> 
+  <a href="https://www.andeandaran.com/img_8129/"> <img src="https://uploads.andeandaran.com/2019/07/IMG_8129.jpg" title="IMG_8129" alt="Desde el mirador" /> </a> 
   
   <div>
     Desde el mirador
@@ -183,7 +183,7 @@ Os aconsejamos que una vez visto el monasterio, caminéis hacia el cañón que l
 <div >
 <div  >
 <div>
-  <a href="https://www.andeandaran.com/img_8104/"> <img src="https://www.andeandaran.com/wp-content/uploads/2019/07/IMG_8104.jpg" title="IMG_8104" alt="Escaleras por Petra" /> </a> 
+  <a href="https://www.andeandaran.com/img_8104/"> <img src="https://uploads.andeandaran.com/2019/07/IMG_8104.jpg" title="IMG_8104" alt="Escaleras por Petra" /> </a> 
   
   <div>
     Escaleras por Petra
@@ -195,7 +195,7 @@ Os aconsejamos que una vez visto el monasterio, caminéis hacia el cañón que l
 
 <div class="gallery-group images-3" >
 <div>
-  <a href="https://www.andeandaran.com/img_8101/"> <img src="https://www.andeandaran.com/wp-content/uploads/2019/07/IMG_8101.jpg" title="IMG_8101" alt="La burra Shakira"  /> </a> 
+  <a href="https://www.andeandaran.com/img_8101/"> <img src="https://uploads.andeandaran.com/2019/07/IMG_8101.jpg" title="IMG_8101" alt="La burra Shakira"  /> </a> 
   
   <div>
     La burra Shakira
@@ -203,7 +203,7 @@ Os aconsejamos que una vez visto el monasterio, caminéis hacia el cañón que l
 </div>
 
 <div>
-  <a href="https://www.andeandaran.com/viajes/petra-en-2-dias/attachment/img_8073/"> <img src="https://www.andeandaran.com/wp-content/uploads/2019/07/IMG_8073.jpg" title="IMG_8073" alt="En teatro"  /> </a> 
+  <a href="https://www.andeandaran.com/viajes/petra-en-2-dias/attachment/img_8073/"> <img src="https://uploads.andeandaran.com/2019/07/IMG_8073.jpg" title="IMG_8073" alt="En teatro"  /> </a> 
   
   <div>
     En teatro
@@ -211,7 +211,7 @@ Os aconsejamos que una vez visto el monasterio, caminéis hacia el cañón que l
 </div>
 
 <div>
-  <a href="https://www.andeandaran.com/viajes/petra-en-2-dias/attachment/img_8059/"> <img src="https://www.andeandaran.com/wp-content/uploads/2019/07/IMG_8059.jpg" title="IMG_8059" alt="Ruinas de Petra" /> </a> 
+  <a href="https://www.andeandaran.com/viajes/petra-en-2-dias/attachment/img_8059/"> <img src="https://uploads.andeandaran.com/2019/07/IMG_8059.jpg" title="IMG_8059" alt="Ruinas de Petra" /> </a> 
   
   <div>
     Ruinas de Petra
@@ -227,7 +227,7 @@ Os aconsejamos que una vez visto el monasterio, caminéis hacia el cañón que l
 <div >
 <div  >
 <div>
-  <a href="https://www.andeandaran.com/viajes/petra-en-2-dias/attachment/img_8046/"> <img src="https://www.andeandaran.com/wp-content/uploads/2019/07/IMG_8046.jpg" title="IMG_8046" alt="La tumba de soldado romano" /> </a> 
+  <a href="https://www.andeandaran.com/viajes/petra-en-2-dias/attachment/img_8046/"> <img src="https://uploads.andeandaran.com/2019/07/IMG_8046.jpg" title="IMG_8046" alt="La tumba de soldado romano" /> </a> 
   
   <div>
     La tumba de soldado romano
@@ -239,7 +239,7 @@ Os aconsejamos que una vez visto el monasterio, caminéis hacia el cañón que l
 
 <div  >
 <div>
-  <a href="https://www.andeandaran.com/img_8020/"> <img src="https://www.andeandaran.com/wp-content/uploads/2019/07/IMG_8020.jpg" title="IMG_8020" alt="Luces de Petra" /> </a> 
+  <a href="https://www.andeandaran.com/img_8020/"> <img src="https://uploads.andeandaran.com/2019/07/IMG_8020.jpg" title="IMG_8020" alt="Luces de Petra" /> </a> 
   
   <div>
     Luces de Petra
@@ -251,7 +251,7 @@ Os aconsejamos que una vez visto el monasterio, caminéis hacia el cañón que l
 
 <div  >
 <div>
-  <a href="https://www.andeandaran.com/img_8008/"> <img src="https://www.andeandaran.com/wp-content/uploads/2019/07/IMG_8008.jpg" title="IMG_8008" alt="Bajando al jardín" /> </a> 
+  <a href="https://www.andeandaran.com/img_8008/"> <img src="https://uploads.andeandaran.com/2019/07/IMG_8008.jpg" title="IMG_8008" alt="Bajando al jardín" /> </a> 
   
   <div>
     Bajando al jardín
@@ -267,7 +267,7 @@ Os aconsejamos que una vez visto el monasterio, caminéis hacia el cañón que l
 <div>
 <div >
 <div>
-  <a href="https://www.andeandaran.com/img_7995/"> <img src="https://www.andeandaran.com/wp-content/uploads/2019/07/IMG_7995.jpg" title="IMG_7995" alt="Alto lugar de sacrificios"  /> </a> 
+  <a href="https://www.andeandaran.com/img_7995/"> <img src="https://uploads.andeandaran.com/2019/07/IMG_7995.jpg" title="IMG_7995" alt="Alto lugar de sacrificios"  /> </a> 
   
   <div>
     Alto lugar de sacrificios
@@ -279,7 +279,7 @@ Os aconsejamos que una vez visto el monasterio, caminéis hacia el cañón que l
 
 <div >
 <div>
-  <a href="https://www.andeandaran.com/img_7993/"> <img src="https://www.andeandaran.com/wp-content/uploads/2019/07/IMG_7993.jpg" title="IMG_7993" alt="Bandera de Jordania en Petra" /> </a> 
+  <a href="https://www.andeandaran.com/img_7993/"> <img src="https://uploads.andeandaran.com/2019/07/IMG_7993.jpg" title="IMG_7993" alt="Bandera de Jordania en Petra" /> </a> 
   
   <div>
     Bandera de Jordania en Petra
@@ -287,7 +287,7 @@ Os aconsejamos que una vez visto el monasterio, caminéis hacia el cañón que l
 </div>
 
 <div>
-  <a href="https://www.andeandaran.com/img_7989/"> <img src="https://www.andeandaran.com/wp-content/uploads/2019/07/IMG_7989.jpg" title="IMG_7989" alt="Sombras" /> </a> 
+  <a href="https://www.andeandaran.com/img_7989/"> <img src="https://uploads.andeandaran.com/2019/07/IMG_7989.jpg" title="IMG_7989" alt="Sombras" /> </a> 
   
   <div>
     Sombras
@@ -303,7 +303,7 @@ Os aconsejamos que una vez visto el monasterio, caminéis hacia el cañón que l
 <div >
 <div  >
 <div>
-  <a href="https://www.andeandaran.com/img_7981/"> <img src="https://www.andeandaran.com/wp-content/uploads/2019/07/IMG_7981.jpg" title="IMG_7981" alt="Mulas en Petra" /> </a> 
+  <a href="https://www.andeandaran.com/img_7981/"> <img src="https://uploads.andeandaran.com/2019/07/IMG_7981.jpg" title="IMG_7981" alt="Mulas en Petra" /> </a> 
   
   <div>
     Mulas en Petra
@@ -315,7 +315,7 @@ Os aconsejamos que una vez visto el monasterio, caminéis hacia el cañón que l
 
 <div  >
 <div>
-  <a href="https://www.andeandaran.com/img_7974/"> <img src="https://www.andeandaran.com/wp-content/uploads/2019/07/IMG_7974.jpg" title="IMG_7974" alt="Nosotros en la plaza del Tesoro" /> </a> 
+  <a href="https://www.andeandaran.com/img_7974/"> <img src="https://uploads.andeandaran.com/2019/07/IMG_7974.jpg" title="IMG_7974" alt="Nosotros en la plaza del Tesoro" /> </a> 
   
   <div>
     Nosotros en la plaza del Tesoro
@@ -327,7 +327,7 @@ Os aconsejamos que una vez visto el monasterio, caminéis hacia el cañón que l
 
 <div  >
 <div>
-  <a href="https://www.andeandaran.com/img_7946/"> <img src="https://www.andeandaran.com/wp-content/uploads/2019/07/IMG_7946.jpg" title="IMG_7946" alt="The treasury en Petra" /> </a> 
+  <a href="https://www.andeandaran.com/img_7946/"> <img src="https://uploads.andeandaran.com/2019/07/IMG_7946.jpg" title="IMG_7946" alt="The treasury en Petra" /> </a> 
   
   <div>
     The treasury en Petra
@@ -339,7 +339,7 @@ Os aconsejamos que una vez visto el monasterio, caminéis hacia el cañón que l
 
 <div  >
 <div>
-  <a href="https://www.andeandaran.com/img_7941/"> <img src="https://www.andeandaran.com/wp-content/uploads/2019/07/IMG_7941.jpg" title="IMG_7941" alt="El cañón Siq" /> </a> 
+  <a href="https://www.andeandaran.com/img_7941/"> <img src="https://uploads.andeandaran.com/2019/07/IMG_7941.jpg" title="IMG_7941" alt="El cañón Siq" /> </a> 
   
   <div>
     El cañón Siq

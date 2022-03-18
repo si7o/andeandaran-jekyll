@@ -22,7 +22,7 @@ OSM_geo_data:
 OSM_geo_icon:
   - mic_black_pinother_02.png
 header:
-  image: https://www.andeandaran.com/wp-content/uploads/2016/12/templo-wat-arun.jpg
+  image: https://uploads.andeandaran.com/2016/12/templo-wat-arun.jpg
 
 contains_panoramas: true
 ---

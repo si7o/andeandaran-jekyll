@@ -14,189 +14,189 @@ OSM_geo_data:
 OSM_geo_icon:
   - mic_black_pinother_02.png
 header:
-  image: https://www.andeandaran.com/wp-content/uploads/2017/02/MG_2679.jpg
+  image: https://uploads.andeandaran.com/2017/02/MG_2679.jpg
 
 contains_panoramas: true
 
 gallery:
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/02/Chiang_rai-1.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/02/Chiang_rai-1-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/02/Chiang_rai-1.jpg
+    image_path: https://uploads.andeandaran.com/2017/02/Chiang_rai-1-150x150.jpg
     alt: "Entrada al Templo Blanco"
     title: "Chiang_rai-1" 
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/02/Chiang_rai-2.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/02/Chiang_rai-2-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/02/Chiang_rai-2.jpg
+    image_path: https://uploads.andeandaran.com/2017/02/Chiang_rai-2-150x150.jpg
     alt: "Madrugón para ver el Templo Blanco sin turistas"
     title: "Chiang_rai-2" 
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/02/Chiang_rai-3.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/02/Chiang_rai-3-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/02/Chiang_rai-3.jpg
+    image_path: https://uploads.andeandaran.com/2017/02/Chiang_rai-3-150x150.jpg
     alt: "Nuevo novio"
     title: "Chiang_rai-3" 
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/02/Chiang_rai-4.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/02/Chiang_rai-4-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/02/Chiang_rai-4.jpg
+    image_path: https://uploads.andeandaran.com/2017/02/Chiang_rai-4-150x150.jpg
     alt: "Selfie con el Super Galáctico"
     title: "Chiang_rai-4" 
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/02/Chiang_rai-5.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/02/Chiang_rai-5-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/02/Chiang_rai-5.jpg
+    image_path: https://uploads.andeandaran.com/2017/02/Chiang_rai-5-150x150.jpg
     alt: "Hasta los conos tienen detalles"
     title: "Chiang_rai-5" 
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/02/Chiang_rai-6.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/02/Chiang_rai-6-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/02/Chiang_rai-6.jpg
+    image_path: https://uploads.andeandaran.com/2017/02/Chiang_rai-6-150x150.jpg
     alt: "Detalles en los arboles"
     title: "Chiang_rai-6" 
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/02/Chiang_rai-7.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/02/Chiang_rai-7-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/02/Chiang_rai-7.jpg
+    image_path: https://uploads.andeandaran.com/2017/02/Chiang_rai-7-150x150.jpg
     alt: "Entrada al infierno del templo blanco"
     title: "Chiang_rai-7" 
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/02/Chiang_rai-8.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/02/Chiang_rai-8-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/02/Chiang_rai-8.jpg
+    image_path: https://uploads.andeandaran.com/2017/02/Chiang_rai-8-150x150.jpg
     alt: "El infierno"
     title: "Chiang_rai-8" 
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/02/Chiang_rai-9.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/02/Chiang_rai-9-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/02/Chiang_rai-9.jpg
+    image_path: https://uploads.andeandaran.com/2017/02/Chiang_rai-9-150x150.jpg
     alt: "El infierno"
     title: "Chiang_rai-9" 
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/02/Chiang_rai-10.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/02/Chiang_rai-10-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/02/Chiang_rai-10.jpg
+    image_path: https://uploads.andeandaran.com/2017/02/Chiang_rai-10-150x150.jpg
     alt: "Foto guiri en el templo blanco"
     title: "Chiang_rai-10" 
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/02/Chiang_rai-11.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/02/Chiang_rai-11-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/02/Chiang_rai-11.jpg
+    image_path: https://uploads.andeandaran.com/2017/02/Chiang_rai-11-150x150.jpg
     alt: "Vista lateral del templo"
     title: "Chiang_rai-11" 
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/02/Chiang_rai-12.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/02/Chiang_rai-12-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/02/Chiang_rai-12.jpg
+    image_path: https://uploads.andeandaran.com/2017/02/Chiang_rai-12-150x150.jpg
     alt: "Como si fuera Elsa en el castillo de FRozen"
     title: "Chiang_rai-12" 
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/02/Chiang_rai-13.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/02/Chiang_rai-13-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/02/Chiang_rai-13.jpg
+    image_path: https://uploads.andeandaran.com/2017/02/Chiang_rai-13-150x150.jpg
     alt: "Edificio lateral templo blanco"
     title: "Chiang_rai-13" 
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/02/Chiang_rai-14.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/02/Chiang_rai-14-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/02/Chiang_rai-14.jpg
+    image_path: https://uploads.andeandaran.com/2017/02/Chiang_rai-14-150x150.jpg
     alt: "Mini templo"
     title: "Chiang_rai-14"
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/02/Chiang_rai-15.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/02/Chiang_rai-15-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/02/Chiang_rai-15.jpg
+    image_path: https://uploads.andeandaran.com/2017/02/Chiang_rai-15-150x150.jpg
     alt: "Templo a buddha"
     title: "Chiang_rai-15" 
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/02/Chiang_rai-16.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/02/Chiang_rai-16-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/02/Chiang_rai-16.jpg
+    image_path: https://uploads.andeandaran.com/2017/02/Chiang_rai-16-150x150.jpg
     alt: "Las obras del Templo banco"
     title: "Chiang_rai-16" 
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/02/Chiang_rai-17.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/02/Chiang_rai-17-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/02/Chiang_rai-17.jpg
+    image_path: https://uploads.andeandaran.com/2017/02/Chiang_rai-17-150x150.jpg
     alt: "Deseos a Buddha"
     title: "Chiang_rai-17" 
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/02/Chiang_rai-18.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/02/Chiang_rai-18-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/02/Chiang_rai-18.jpg
+    image_path: https://uploads.andeandaran.com/2017/02/Chiang_rai-18-150x150.jpg
     alt: "Más deseos a Buddha"
     title: "Chiang_rai-18" 
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/02/Chiang_rai-19.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/02/Chiang_rai-19-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/02/Chiang_rai-19.jpg
+    image_path: https://uploads.andeandaran.com/2017/02/Chiang_rai-19-150x150.jpg
     alt: "Hasta los baños tiene estilo"
     title: "Chiang_rai-19" 
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/02/Chiang_rai-20.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/02/Chiang_rai-20-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/02/Chiang_rai-20.jpg
+    image_path: https://uploads.andeandaran.com/2017/02/Chiang_rai-20-150x150.jpg
     alt: "Selfie con el castillo de Frozen"
     title: "Chiang_rai-20" 
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/02/chiang_rai2.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/02/chiang_rai2-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/02/chiang_rai2.jpg
+    image_path: https://uploads.andeandaran.com/2017/02/chiang_rai2-150x150.jpg
     alt: "El templo lleno de turistas"
     title: "Templo blanco lleno de turistas" 
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/02/chiang_rai2-2.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/02/chiang_rai2-2-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/02/chiang_rai2-2.jpg
+    image_path: https://uploads.andeandaran.com/2017/02/chiang_rai2-2-150x150.jpg
     alt: "chiang_rai2-2"
     title: "chiang_rai2-2"
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/02/chiang_rai2-3.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/02/chiang_rai2-3-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/02/chiang_rai2-3.jpg
+    image_path: https://uploads.andeandaran.com/2017/02/chiang_rai2-3-150x150.jpg
     alt: "Tejado en una de las cabañas de la Casa Negra"
     title: "chiang_rai2-3" 
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/02/chiang_rai2-4.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/02/chiang_rai2-4-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/02/chiang_rai2-4.jpg
+    image_path: https://uploads.andeandaran.com/2017/02/chiang_rai2-4-150x150.jpg
     alt: "Una de las cabañas de la Casa engra"
     title: "chiang_rai2-4" 
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/02/chiang_rai2-5.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/02/chiang_rai2-5-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/02/chiang_rai2-5.jpg
+    image_path: https://uploads.andeandaran.com/2017/02/chiang_rai2-5-150x150.jpg
     alt: "Decoración de la Casa Negra"
     title: "chiang_rai2-5" 
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/02/chiang_rai2-6.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/02/chiang_rai2-6-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/02/chiang_rai2-6.jpg
+    image_path: https://uploads.andeandaran.com/2017/02/chiang_rai2-6-150x150.jpg
     alt: "chiang_rai2-6"
     title: "chiang_rai2-6"
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/02/chiang_rai2-7.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/02/chiang_rai2-7-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/02/chiang_rai2-7.jpg
+    image_path: https://uploads.andeandaran.com/2017/02/chiang_rai2-7-150x150.jpg
     alt: "Casa Negra 2"
     title: "chiang_rai2-7" 
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/02/chiang_rai2-8.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/02/chiang_rai2-8-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/02/chiang_rai2-8.jpg
+    image_path: https://uploads.andeandaran.com/2017/02/chiang_rai2-8-150x150.jpg
     alt: "Mobiliario en la Casa Negra"
     title: "chiang_rai2-8" 
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/02/chiang_rai2-9.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/02/chiang_rai2-9-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/02/chiang_rai2-9.jpg
+    image_path: https://uploads.andeandaran.com/2017/02/chiang_rai2-9-150x150.jpg
     alt: "Casa Negra 3"
     title: "chiang_rai2-9" 
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/02/chiang_rai2-10.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/02/chiang_rai2-10-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/02/chiang_rai2-10.jpg
+    image_path: https://uploads.andeandaran.com/2017/02/chiang_rai2-10-150x150.jpg
     alt: "Detalles en la Casa Negra"
     title: "chiang_rai2-10" 
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/02/chiang_rai2-11.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/02/chiang_rai2-11-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/02/chiang_rai2-11.jpg
+    image_path: https://uploads.andeandaran.com/2017/02/chiang_rai2-11-150x150.jpg
     alt: "Casa Negra"
     title: "chiang_rai2-11" 
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/02/chiang_rai2-12.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/02/chiang_rai2-12-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/02/chiang_rai2-12.jpg
+    image_path: https://uploads.andeandaran.com/2017/02/chiang_rai2-12-150x150.jpg
     alt: "Decorando la casa negra"
     title: "chiang_rai2-12" 
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/02/chiang_rai2-13.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/02/chiang_rai2-13-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/02/chiang_rai2-13.jpg
+    image_path: https://uploads.andeandaran.com/2017/02/chiang_rai2-13-150x150.jpg
     alt: "Una de las cabañas"
     title: "chiang_rai2-13" 
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/02/chiang_rai2-16.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/02/chiang_rai2-16-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/02/chiang_rai2-16.jpg
+    image_path: https://uploads.andeandaran.com/2017/02/chiang_rai2-16-150x150.jpg
     alt: "Templo sin nombre de camino a Mae Salong"
     title: "chiang_rai2-16" 
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/02/chiang_rai2-17.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/02/chiang_rai2-17-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/02/chiang_rai2-17.jpg
+    image_path: https://uploads.andeandaran.com/2017/02/chiang_rai2-17-150x150.jpg
     alt: "chiang_rai2-17"
     title: "chiang_rai2-17"
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/02/chiang_rai2-18.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/02/chiang_rai2-18-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/02/chiang_rai2-18.jpg
+    image_path: https://uploads.andeandaran.com/2017/02/chiang_rai2-18-150x150.jpg
     alt: "Oraciones a Buddha"
     title: "chiang_rai2-18" 
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/02/chiang_rai2-19.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/02/chiang_rai2-19-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/02/chiang_rai2-19.jpg
+    image_path: https://uploads.andeandaran.com/2017/02/chiang_rai2-19-150x150.jpg
     alt: "Museo histórico de Mae Salong"
     title: "chiang_rai2-19" 
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/02/chiang_rai2-20.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/02/chiang_rai2-20-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/02/chiang_rai2-20.jpg
+    image_path: https://uploads.andeandaran.com/2017/02/chiang_rai2-20-150x150.jpg
     alt: "Homenaje a los refugiados muertos"
     title: "chiang_rai2-20" 
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/02/chiang_rai2-21.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/02/chiang_rai2-21-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/02/chiang_rai2-21.jpg
+    image_path: https://uploads.andeandaran.com/2017/02/chiang_rai2-21-150x150.jpg
     alt: "Mapa de lso países que llevamos visitados"
     title: "chiang_rai2-21" 
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/02/chiang_rai2-22.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/02/chiang_rai2-22-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/02/chiang_rai2-22.jpg
+    image_path: https://uploads.andeandaran.com/2017/02/chiang_rai2-22-150x150.jpg
     alt: "Clock Tower"
     title: "chiang_rai2-22" 
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/02/chiang_rai2-14.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/02/chiang_rai2-14-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/02/chiang_rai2-14.jpg
+    image_path: https://uploads.andeandaran.com/2017/02/chiang_rai2-14-150x150.jpg
     alt: "Artesanía en el Night Bazaar"
     title: "chiang_rai2-14" 
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/02/chiang_rai2-15.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/02/chiang_rai2-15-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/02/chiang_rai2-15.jpg
+    image_path: https://uploads.andeandaran.com/2017/02/chiang_rai2-15-150x150.jpg
     alt: "Food Court"
     title: "chiang_rai2-15" 
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/02/chiang_rai2-23.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/02/chiang_rai2-23-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/02/chiang_rai2-23.jpg
+    image_path: https://uploads.andeandaran.com/2017/02/chiang_rai2-23-150x150.jpg
     alt: "Hot Pot en el Night Bazar de Chiang Rai"
     title: "Hot Pot" 
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/02/chiang_rai2-24.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/02/chiang_rai2-24-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/02/chiang_rai2-24.jpg
+    image_path: https://uploads.andeandaran.com/2017/02/chiang_rai2-24-150x150.jpg
     alt: "Preparando el Hot pot"
     title: "chiang_rai2-24" 
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/02/chiang_rai2-25.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/02/chiang_rai2-25-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/02/chiang_rai2-25.jpg
+    image_path: https://uploads.andeandaran.com/2017/02/chiang_rai2-25-150x150.jpg
     alt: "Delicioso Hot Pot"
     title: "chiang_rai2-25"
 
@@ -226,14 +226,14 @@ Chiang Rai es una ciudad pequeña con 200.000 habitantes aproximadamente y basta
 ### Night Bazaar
 
 <figure>
-<img class="size-medium wp-image-1526" src="https://www.andeandaran.com/wp-content/uploads/2017/02/chiang_rai2-23-300x200.jpg" /> <figcaption class="wp-caption-text">Hot Pot en el Night Bazaar de Chiang Rai</figcaption>
+<img class="size-medium wp-image-1526" src="https://uploads.andeandaran.com/2017/02/chiang_rai2-23-300x200.jpg" /> <figcaption class="wp-caption-text">Hot Pot en el Night Bazaar de Chiang Rai</figcaption>
 </figure> 
 
 Como en casi todas las ciudades del sudeste asiático por las noches montan un mercado con todo tipo de productos artesanos, soveunirs, comida y ropa. Además, cerca esta el food court dónde cenar es súper barato. Es una plaza con mas de 30 puestos de comida callejera y música tradicional tailandesa.
 
 ### Clock Tower
 
-<figure><img class="wp-image-1525 size-medium" src="https://www.andeandaran.com/wp-content/uploads/2017/02/chiang_rai2-22-300x200.jpg" /> <figcaption class="wp-caption-text">Espectáculo de luces y música de la Clock Tower</figcaption></figure> 
+<figure><img class="wp-image-1525 size-medium" src="https://uploads.andeandaran.com/2017/02/chiang_rai2-22-300x200.jpg" /> <figcaption class="wp-caption-text">Espectáculo de luces y música de la Clock Tower</figcaption></figure> 
 
 En una de la principales avenidas de la ciudad está la Clock Tower, funcionando como reloj y rotonda. Lo peculiar del reloj es que todos los días a las 19-20-21, en lugar de marcar la hora con las típicas campanadas, hay una especie de espectáculo de música con luces de colores.
 
@@ -250,7 +250,7 @@ Según escuchamos a uno de los guías, la entrada y el puente simbolizan el cami
 
 Os recomendamos que madrugueis para visitar el templo. Nosotros nos despertamos bien pronto y llegamos allí antes de que abriesen y fuimos los primeros en entrar. A partir de las 9:30 se llena de turistas y el templo pierde mucho encanto.
 
-<img class="aligncenter wp-image-1503 size-large" src="https://www.andeandaran.com/wp-content/uploads/2017/02/chiang_rai2-1024x683.jpg" /> 
+<img class="aligncenter wp-image-1503 size-large" src="https://uploads.andeandaran.com/2017/02/chiang_rai2-1024x683.jpg" /> 
 
 Para llegar al templo podéis ir en autobús turístico o alquilar una moto. Nosotros optamos por la moto. Es muy fácil llegar, solo hay que seguir la autopista que pasa por Chiang Rai hacia el sur y seguir los carteles.
 

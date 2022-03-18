@@ -10,7 +10,7 @@ categories:
   -  viajes
   -  nepal
 header:
-  image: https://www.andeandaran.com/wp-content/uploads/2016/10/MG_9092.jpg
+  image: https://uploads.andeandaran.com/2016/10/MG_9092.jpg
 ---
 
   Si estás planeando visitar Nepal, te contamos cual fue nuestro itinerario y algunos datos básicos a tener en cuenta a la hora de organizar el viaje.<br /> Por supuesto, no queremos compararnos con ninguna guía de viaje ni con otros blogs viajeros. Únicamente, pretendemos compartir nuestra experiencia y los conocimientos que hemos adquirido durante el camino.<br /> Esperamos que os sean útiles, es la intención 😉<!--more-->

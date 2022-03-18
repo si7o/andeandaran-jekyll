@@ -13,39 +13,39 @@ OSM_geo_data:
 OSM_geo_icon:
   - mic_black_pinother_02.png
 header:
-  image: https://www.andeandaran.com/wp-content/uploads/2016/10/30402066211_93d0f478ab_b-1024x545.jpg
+  image: https://uploads.andeandaran.com/2016/10/30402066211_93d0f478ab_b-1024x545.jpg
 
 gallery:
-  - url: https://www.andeandaran.com/wp-content/uploads/2016/10/MG_8464.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2016/10/MG_8464-150x150.jpg
+  - url: https://uploads.andeandaran.com/2016/10/MG_8464.jpg
+    image_path: https://uploads.andeandaran.com/2016/10/MG_8464-150x150.jpg
     alt: ""
     title: ""
-  - url: https://www.andeandaran.com/wp-content/uploads/2016/10/MG_8590.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2016/10/MG_8590-150x150.jpg
+  - url: https://uploads.andeandaran.com/2016/10/MG_8590.jpg
+    image_path: https://uploads.andeandaran.com/2016/10/MG_8590-150x150.jpg
     alt: ""
     title: ""
-  - url: https://www.andeandaran.com/wp-content/uploads/2016/10/MG_8565-1.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2016/10/MG_8565-1-150x150.jpg
+  - url: https://uploads.andeandaran.com/2016/10/MG_8565-1.jpg
+    image_path: https://uploads.andeandaran.com/2016/10/MG_8565-1-150x150.jpg
     alt: ""
     title: "" 
-  - url: https://www.andeandaran.com/wp-content/uploads/2016/10/MG_8526.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2016/10/MG_8526-150x150.jpg
+  - url: https://uploads.andeandaran.com/2016/10/MG_8526.jpg
+    image_path: https://uploads.andeandaran.com/2016/10/MG_8526-150x150.jpg
     alt: ""
     title: "" 
-  - url: https://www.andeandaran.com/wp-content/uploads/2016/10/MG_8539.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2016/10/MG_8539-150x150.jpg
+  - url: https://uploads.andeandaran.com/2016/10/MG_8539.jpg
+    image_path: https://uploads.andeandaran.com/2016/10/MG_8539-150x150.jpg
     alt: ""
     title: "" 
-  - url: https://www.andeandaran.com/wp-content/uploads/2016/10/MG_8535.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2016/10/MG_8535-150x150.jpg
+  - url: https://uploads.andeandaran.com/2016/10/MG_8535.jpg
+    image_path: https://uploads.andeandaran.com/2016/10/MG_8535-150x150.jpg
     alt: ""
     title: ""
-  - url: https://www.andeandaran.com/wp-content/uploads/2016/10/MG_8493-HDR.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2016/10/MG_8493-HDR-150x150.jpg
+  - url: https://uploads.andeandaran.com/2016/10/MG_8493-HDR.jpg
+    image_path: https://uploads.andeandaran.com/2016/10/MG_8493-HDR-150x150.jpg
     alt: ""
     title: ""
-  - url: https://www.andeandaran.com/wp-content/uploads/2016/10/MG_8493-HDR.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2016/10/MG_8493-HDR-150x150.jpg
+  - url: https://uploads.andeandaran.com/2016/10/MG_8493-HDR.jpg
+    image_path: https://uploads.andeandaran.com/2016/10/MG_8493-HDR-150x150.jpg
     alt: ""
     title: "" 
 ---

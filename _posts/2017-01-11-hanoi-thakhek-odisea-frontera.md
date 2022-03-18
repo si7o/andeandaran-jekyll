@@ -14,7 +14,7 @@ OSM_geo_data:
 OSM_geo_icon:
   - mic_black_pinother_02.png
 header:
-  image: https://www.andeandaran.com/wp-content/uploads/2017/01/IMG_20161226_173609719-1.jpg
+  image: https://uploads.andeandaran.com/2017/01/IMG_20161226_173609719-1.jpg
 ---
 
   Una vez en Cat Ba teníamos que elegir nuestro siguiente destino. Lo único que teníamos claro era que el próximo mes queríamos que fuese algo más tranquilo. Después de recorrer todo Vietnam de sur a norte - unos 2300km - no quedan muchas ganas de andar cambiando de ciudad cada 3 días.
@@ -64,7 +64,7 @@ header:
   La empresa de transportes se llama "27-7" y al parecer aun no hay referencias sobre ellos en internet. Fuimos a ciegas.<br /> El bus era el típico "Sleeper Bus" de Vietnam: 3 filas de literas/asientos reclinables, nada de espacio para las mochilas, aire acondicionado a tope y completamente lleno.
 <figure id="attachment_1202" >
 
-<img class="size-large wp-image-1202" src="https://www.andeandaran.com/wp-content/uploads/2017/01/IMG_20161226_173609719-1024x575.jpg?resize=810%2C455" alt="Autobús Hanoi-Thakhek, 27-7" /> <figcaption class="wp-caption-text">El interior del autobús desde mi litera.</figcaption></figure> 
+<img class="size-large wp-image-1202" src="https://uploads.andeandaran.com/2017/01/IMG_20161226_173609719-1024x575.jpg?resize=810%2C455" alt="Autobús Hanoi-Thakhek, 27-7" /> <figcaption class="wp-caption-text">El interior del autobús desde mi litera.</figcaption></figure> 
 
 
   En un principio nos temimos lo peor, pero las mantas eran muy buenas y la conducción bastante civilizada. Si habéis viajado en autobús por Vietnam sabréis a lo que me refiero...
@@ -93,7 +93,7 @@ header:
   Llegamos al checkpoint de Vietnam y nos toca esperar 3 horas hasta que abren y podemos cruzarlo.
 <figure id="attachment_1203" >
 
-<img class="size-large wp-image-1203" src="https://www.andeandaran.com/wp-content/uploads/2017/01/IMG_20161227_074024411-1024x575.jpg?resize=810%2C455" alt="Punto de control fronterizo de Chalo, Vietnam" /> <figcaption class="wp-caption-text">Punto de control fronterizo de Chalo. Esperando para sellar nuestro pasaporte y salir del país</figcaption></figure> 
+<img class="size-large wp-image-1203" src="https://uploads.andeandaran.com/2017/01/IMG_20161227_074024411-1024x575.jpg?resize=810%2C455" alt="Punto de control fronterizo de Chalo, Vietnam" /> <figcaption class="wp-caption-text">Punto de control fronterizo de Chalo. Esperando para sellar nuestro pasaporte y salir del país</figcaption></figure> 
 
 
   Lo siguiente es hacer el visado en Laos: Una ventanilla a la intemperie y un frío "de la hostia" con viento y lluvia... y nosotros, como buenos turistas, en pantalón corto y camiseta.
@@ -119,23 +119,23 @@ header:
 ### Galería
 
 <div class="gallery-group" >  
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1566.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1566.jpg" title="_mg_1566" alt="Unas galletas de navidad que compramos" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/01/MG_1566.jpg"> <img src="https://uploads.andeandaran.com/2017/01/MG_1566.jpg" title="_mg_1566" alt="Unas galletas de navidad que compramos" /> </a>
 
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1577.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1577.jpg" title="_mg_1577" alt="¿Veis los DOS gatos?" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/01/MG_1577.jpg"> <img src="https://uploads.andeandaran.com/2017/01/MG_1577.jpg" title="_mg_1577" alt="¿Veis los DOS gatos?" /> </a>
 
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1586.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1586.jpg" title="_mg_1586" alt="Torre de la Tortuga, en el lago Hoan Kiem, en el centro de Vietnam" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/01/MG_1586.jpg"> <img src="https://uploads.andeandaran.com/2017/01/MG_1586.jpg" title="_mg_1586" alt="Torre de la Tortuga, en el lago Hoan Kiem, en el centro de Vietnam" /> </a>
 
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1588.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1588.jpg" title="_mg_1588" alt="Paseando por las calles de Vietnam en Navidad" /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/01/MG_1588.jpg"> <img src="https://uploads.andeandaran.com/2017/01/MG_1588.jpg" title="_mg_1588" alt="Paseando por las calles de Vietnam en Navidad" /> </a> 
 
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1594.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1594.jpg" title="_mg_1594" alt="Paseando por las calles de Vietnam en Navidad" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/01/MG_1594.jpg"> <img src="https://uploads.andeandaran.com/2017/01/MG_1594.jpg" title="_mg_1594" alt="Paseando por las calles de Vietnam en Navidad" /> </a>
 
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1599.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1599.jpg" title="_mg_1599" alt="Sandra estrenando su vestido comprado en Hoi An" /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/01/MG_1599.jpg"> <img src="https://uploads.andeandaran.com/2017/01/MG_1599.jpg" title="_mg_1599" alt="Sandra estrenando su vestido comprado en Hoi An" /> </a> 
 
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1617.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1617.jpg" title="_mg_1617" alt="Mausoleo de Ho Chi Minh" /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/01/MG_1617.jpg"> <img src="https://uploads.andeandaran.com/2017/01/MG_1617.jpg" title="_mg_1617" alt="Mausoleo de Ho Chi Minh" /> </a> 
 
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1627.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1627.jpg" title="_mg_1627" alt="Últimas horas antes de irnos..." /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/01/MG_1627.jpg"> <img src="https://uploads.andeandaran.com/2017/01/MG_1627.jpg" title="_mg_1627" alt="Últimas horas antes de irnos..." /> </a> 
 
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/01/IMG_20161227_074024411.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/01/IMG_20161227_074024411.jpg" title="Punto de control fronterizo de Chalo" alt="Punto de control fronterizo de Chalo, Vietnam" /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/01/IMG_20161227_074024411.jpg"> <img src="https://uploads.andeandaran.com/2017/01/IMG_20161227_074024411.jpg" title="Punto de control fronterizo de Chalo" alt="Punto de control fronterizo de Chalo, Vietnam" /> </a> 
 
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/01/IMG_20161226_173609719.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/01/IMG_20161226_173609719.jpg" title="Autobús Hanoi-Thakhek" alt="Autobús Hanoi-Thakhek, 27-7" /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/01/IMG_20161226_173609719.jpg"> <img src="https://uploads.andeandaran.com/2017/01/IMG_20161226_173609719.jpg" title="Autobús Hanoi-Thakhek" alt="Autobús Hanoi-Thakhek, 27-7" /> </a> 
 </div>

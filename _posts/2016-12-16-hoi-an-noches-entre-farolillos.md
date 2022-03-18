@@ -14,7 +14,7 @@ OSM_geo_data:
 OSM_geo_icon:
   - mic_black_pinother_02.png
 header:
-  image: https://www.andeandaran.com/wp-content/uploads/2016/12/MG_0700.jpg
+  image: https://uploads.andeandaran.com/2016/12/MG_0700.jpg
 
 contains_panoramas: true
 ---
@@ -73,7 +73,7 @@ Las estructuras se caracterizan por estar hechas de ladrillo rojo y contemplan t
 
 
 
-  <img class="alignnone wp-image-989 size-wcbig" src="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_0676-800x533.jpg" alt="_mg_0676"  />
+  <img class="alignnone wp-image-989 size-wcbig" src="https://uploads.andeandaran.com/2016/12/MG_0676-800x533.jpg" alt="_mg_0676"  />
 
 
 ###     Centro de Hoi An
@@ -135,66 +135,66 @@ Las estructuras se caracterizan por estar hechas de ladrillo rojo y contemplan t
   <figure > 
   
   <div>
-    <a href='https://www.andeandaran.com/wp-content/uploads/2016/12/MG_0671.jpg'><img src="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_0671.jpg" /></a>
+    <a href='https://uploads.andeandaran.com/2016/12/MG_0671.jpg'><img src="https://uploads.andeandaran.com/2016/12/MG_0671.jpg" /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://www.andeandaran.com/wp-content/uploads/2016/12/MG_0651.jpg'><img src="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_0651.jpg" /></a>
+    <a href='https://uploads.andeandaran.com/2016/12/MG_0651.jpg'><img src="https://uploads.andeandaran.com/2016/12/MG_0651.jpg" /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://www.andeandaran.com/wp-content/uploads/2016/12/MG_0642.jpg'><img src="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_0642.jpg" /></a>
+    <a href='https://uploads.andeandaran.com/2016/12/MG_0642.jpg'><img src="https://uploads.andeandaran.com/2016/12/MG_0642.jpg" /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://www.andeandaran.com/wp-content/uploads/2016/12/MG_0601.jpg'><img src="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_0601.jpg" /></a>
+    <a href='https://uploads.andeandaran.com/2016/12/MG_0601.jpg'><img src="https://uploads.andeandaran.com/2016/12/MG_0601.jpg" /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://www.andeandaran.com/wp-content/uploads/2016/12/MG_0589.jpg'><img src="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_0589.jpg" /></a>
+    <a href='https://uploads.andeandaran.com/2016/12/MG_0589.jpg'><img src="https://uploads.andeandaran.com/2016/12/MG_0589.jpg" /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://www.andeandaran.com/wp-content/uploads/2016/12/MG_0666.jpg'><img src="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_0666.jpg" /></a>
+    <a href='https://uploads.andeandaran.com/2016/12/MG_0666.jpg'><img src="https://uploads.andeandaran.com/2016/12/MG_0666.jpg" /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://www.andeandaran.com/wp-content/uploads/2016/12/MG_0678.jpg'><img src="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_0678.jpg" /></a>
+    <a href='https://uploads.andeandaran.com/2016/12/MG_0678.jpg'><img src="https://uploads.andeandaran.com/2016/12/MG_0678.jpg" /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://www.andeandaran.com/wp-content/uploads/2016/12/MG_0676.jpg'><img src="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_0676.jpg" /></a>
+    <a href='https://uploads.andeandaran.com/2016/12/MG_0676.jpg'><img src="https://uploads.andeandaran.com/2016/12/MG_0676.jpg" /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://www.andeandaran.com/wp-content/uploads/2016/12/MG_0700.jpg'><img src="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_0700.jpg" /></a>
+    <a href='https://uploads.andeandaran.com/2016/12/MG_0700.jpg'><img src="https://uploads.andeandaran.com/2016/12/MG_0700.jpg" /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://www.andeandaran.com/wp-content/uploads/2016/12/MG_0683.jpg'><img src="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_0683.jpg" /></a>
+    <a href='https://uploads.andeandaran.com/2016/12/MG_0683.jpg'><img src="https://uploads.andeandaran.com/2016/12/MG_0683.jpg" /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://www.andeandaran.com/wp-content/uploads/2016/12/MG_0750.jpg'><img src="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_0750.jpg" /></a>
+    <a href='https://uploads.andeandaran.com/2016/12/MG_0750.jpg'><img src="https://uploads.andeandaran.com/2016/12/MG_0750.jpg" /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://www.andeandaran.com/wp-content/uploads/2016/12/MG_0745.jpg'><img src="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_0745.jpg" /></a>
+    <a href='https://uploads.andeandaran.com/2016/12/MG_0745.jpg'><img src="https://uploads.andeandaran.com/2016/12/MG_0745.jpg" /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://www.andeandaran.com/wp-content/uploads/2016/12/MG_0742.jpg'><img src="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_0742.jpg" /></a>
+    <a href='https://uploads.andeandaran.com/2016/12/MG_0742.jpg'><img src="https://uploads.andeandaran.com/2016/12/MG_0742.jpg" /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://www.andeandaran.com/wp-content/uploads/2016/12/MG_0725.jpg'><img src="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_0725.jpg" /></a>
+    <a href='https://uploads.andeandaran.com/2016/12/MG_0725.jpg'><img src="https://uploads.andeandaran.com/2016/12/MG_0725.jpg" /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://www.andeandaran.com/wp-content/uploads/2016/12/MG_0722.jpg'><img src="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_0722.jpg" /></a>
+    <a href='https://uploads.andeandaran.com/2016/12/MG_0722.jpg'><img src="https://uploads.andeandaran.com/2016/12/MG_0722.jpg" /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://www.andeandaran.com/wp-content/uploads/2016/12/MG_0696.jpg'><img src="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_0696.jpg" /></a>
+    <a href='https://uploads.andeandaran.com/2016/12/MG_0696.jpg'><img src="https://uploads.andeandaran.com/2016/12/MG_0696.jpg" /></a>
   </div></figure>
 </div>

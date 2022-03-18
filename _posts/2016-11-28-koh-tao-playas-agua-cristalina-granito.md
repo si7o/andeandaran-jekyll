@@ -14,7 +14,7 @@ OSM_geo_data:
 OSM_geo_icon:
   - mic_black_pinother_02.png
 header:
-  image: https://www.andeandaran.com/wp-content/uploads/2016/11/GOPR7522.jpg
+  image: https://uploads.andeandaran.com/2016/11/GOPR7522.jpg
 ---
 
 Después de nuestro paso por Krabi y Koh Lanta ya solo nos quedaba poner la guinda al pastel de nuestro viaje por Tailandia: conocer  <a href="https://es.wikipedia.org/wiki/Ko_Tao">Koh Tao</a>, una islita de 21 km situada en el golfo de Tailandia y bastante cerca de la costa de Surathani.
@@ -43,7 +43,7 @@ Snorkel:** Aunque en casi todas las playas de la isla es fácil encontrarse con 
 
 
 
-**Probar la comida de "Mama Piyawan"**: <figure id="attachment_714"  ><a href="https://www.andeandaran.com/wp-content/uploads/2016/11/MG_9782.jpg"><img title="Mama Piyawan" src="https://www.andeandaran.com/wp-content/uploads/2016/11/MG_9782-550x367.jpg" alt="Mama Piyawan" /></a><figcaption class="wp-caption-text">Mama Piyawan</figcaption></figure> 
+**Probar la comida de "Mama Piyawan"**: <figure id="attachment_714"  ><a href="https://uploads.andeandaran.com/2016/11/MG_9782.jpg"><img title="Mama Piyawan" src="https://uploads.andeandaran.com/2016/11/MG_9782-550x367.jpg" alt="Mama Piyawan" /></a><figcaption class="wp-caption-text">Mama Piyawan</figcaption></figure> 
 
 Si os gusta la comida tailandesa y estáis por Sairee Beach, os recomendamos hacer una parada en este puestecito callejero. Aquí es donde hemos probado los mejores Pad Thai, Yellow noodles y fried rices de toda Tailandia.  Nos quedaron otros muchos platos que probar, pero estamos seguros que estarían igual de ricos. El puestecito esta en la calle que sube hacia Asia Diver Resorts y es bastante reconocible porque siempre tiene gente haciendo cola.
 
@@ -80,64 +80,64 @@ Os dejamos una galería con una selección de fotos para que os hagáis una idea
 
 
 <div class="tiled-gallery type-rectangular tiled-gallery-unresized">
-  <a href="https://www.andeandaran.com/wp-content/uploads/2016/11/MG_9856.jpg">
-  <img src="https://www.andeandaran.com/wp-content/uploads/2016/11/MG_9856.jpg" title="_mg_9856" alt="_mg_9856"  /> </a>
+  <a href="https://uploads.andeandaran.com/2016/11/MG_9856.jpg">
+  <img src="https://uploads.andeandaran.com/2016/11/MG_9856.jpg" title="_mg_9856" alt="_mg_9856"  /> </a>
   
-  <a href="https://www.andeandaran.com/wp-content/uploads/2016/11/MG_9818.jpg">
-  <img src="https://www.andeandaran.com/wp-content/uploads/2016/11/MG_9818.jpg" title="_mg_9818" alt="_mg_9818" /> </a>
+  <a href="https://uploads.andeandaran.com/2016/11/MG_9818.jpg">
+  <img src="https://uploads.andeandaran.com/2016/11/MG_9818.jpg" title="_mg_9818" alt="_mg_9818" /> </a>
   
-  <a href="https://www.andeandaran.com/wp-content/uploads/2016/11/MG_9782.jpg">
-  <img src="https://www.andeandaran.com/wp-content/uploads/2016/11/MG_9782.jpg" title="Mama Piyawan" alt="Mama Piyawan" /> </a>
+  <a href="https://uploads.andeandaran.com/2016/11/MG_9782.jpg">
+  <img src="https://uploads.andeandaran.com/2016/11/MG_9782.jpg" title="Mama Piyawan" alt="Mama Piyawan" /> </a>
   
-  <a href="https://www.andeandaran.com/wp-content/uploads/2016/11/MG_9777.jpg">
-  <img src="https://www.andeandaran.com/wp-content/uploads/2016/11/MG_9777.jpg" title="_mg_9777" alt="_mg_9777" /> </a>
+  <a href="https://uploads.andeandaran.com/2016/11/MG_9777.jpg">
+  <img src="https://uploads.andeandaran.com/2016/11/MG_9777.jpg" title="_mg_9777" alt="_mg_9777" /> </a>
   
-  <a href="https://www.andeandaran.com/wp-content/uploads/2016/11/MG_9770.jpg">
-  <img src="https://www.andeandaran.com/wp-content/uploads/2016/11/MG_9770.jpg" title="_mg_9770" alt="_mg_9770" /> </a>
+  <a href="https://uploads.andeandaran.com/2016/11/MG_9770.jpg">
+  <img src="https://uploads.andeandaran.com/2016/11/MG_9770.jpg" title="_mg_9770" alt="_mg_9770" /> </a>
   
-  <a href="https://www.andeandaran.com/wp-content/uploads/2016/11/MG_9728.jpg">
-  <img src="https://www.andeandaran.com/wp-content/uploads/2016/11/MG_9728.jpg" title="_mg_9728" alt="_mg_9728" /> </a>
+  <a href="https://uploads.andeandaran.com/2016/11/MG_9728.jpg">
+  <img src="https://uploads.andeandaran.com/2016/11/MG_9728.jpg" title="_mg_9728" alt="_mg_9728" /> </a>
   
-  <a href="https://www.andeandaran.com/wp-content/uploads/2016/11/MG_9714.jpg">
-  <img src="https://www.andeandaran.com/wp-content/uploads/2016/11/MG_9714.jpg" title="_mg_9714" alt="_mg_9714" /> </a>
+  <a href="https://uploads.andeandaran.com/2016/11/MG_9714.jpg">
+  <img src="https://uploads.andeandaran.com/2016/11/MG_9714.jpg" title="_mg_9714" alt="_mg_9714" /> </a>
   
-  <a href="https://www.andeandaran.com/wp-content/uploads/2016/11/stereo_pointview-kohtao.jpg">
-  <img src="https://www.andeandaran.com/wp-content/uploads/2016/11/stereo_pointview-kohtao.jpg" title="stereo_pointview-kohtao" alt="stereo_pointview-kohtao" /> </a>
+  <a href="https://uploads.andeandaran.com/2016/11/stereo_pointview-kohtao.jpg">
+  <img src="https://uploads.andeandaran.com/2016/11/stereo_pointview-kohtao.jpg" title="stereo_pointview-kohtao" alt="stereo_pointview-kohtao" /> </a>
   
-  <a href="https://www.andeandaran.com/wp-content/uploads/2016/11/GOPR7551.jpg">
-  <img src="https://www.andeandaran.com/wp-content/uploads/2016/11/GOPR7551.jpg" title="gopr7551" alt="gopr7551"  /> </a>
+  <a href="https://uploads.andeandaran.com/2016/11/GOPR7551.jpg">
+  <img src="https://uploads.andeandaran.com/2016/11/GOPR7551.jpg" title="gopr7551" alt="gopr7551"  /> </a>
   5" >
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2016/11/GOPR7547.jpg">
-  <img src="https://www.andeandaran.com/wp-content/uploads/2016/11/GOPR7547.jpg" title="gopr7547" alt="gopr7547" /> </a>
+  <a href="https://uploads.andeandaran.com/2016/11/GOPR7547.jpg">
+  <img src="https://uploads.andeandaran.com/2016/11/GOPR7547.jpg" title="gopr7547" alt="gopr7547" /> </a>
   -height="295" >
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2016/11/GOPR7545.jpg">
-  <img src="https://www.andeandaran.com/wp-content/uploads/2016/11/GOPR7545.jpg" title="gopr7545" alt="gopr7545" /> </a>
+  <a href="https://uploads.andeandaran.com/2016/11/GOPR7545.jpg">
+  <img src="https://uploads.andeandaran.com/2016/11/GOPR7545.jpg" title="gopr7545" alt="gopr7545" /> </a>
   
-  <a href="https://www.andeandaran.com/wp-content/uploads/2016/11/GOPR7504.jpg">
-  <img src="https://www.andeandaran.com/wp-content/uploads/2016/11/GOPR7504.jpg" title="gopr7504" alt="gopr7504" /> </a>
+  <a href="https://uploads.andeandaran.com/2016/11/GOPR7504.jpg">
+  <img src="https://uploads.andeandaran.com/2016/11/GOPR7504.jpg" title="gopr7504" alt="gopr7504" /> </a>
   
-  <a href="https://www.andeandaran.com/wp-content/uploads/2016/11/GOPR7500.jpg">
-  <img src="https://www.andeandaran.com/wp-content/uploads/2016/11/GOPR7500.jpg" title="gopr7500" alt="gopr7500" /> </a>
+  <a href="https://uploads.andeandaran.com/2016/11/GOPR7500.jpg">
+  <img src="https://uploads.andeandaran.com/2016/11/GOPR7500.jpg" title="gopr7500" alt="gopr7500" /> </a>
   
-  <a href="https://www.andeandaran.com/wp-content/uploads/2016/11/GOPR7448.jpg">
-  <img src="https://www.andeandaran.com/wp-content/uploads/2016/11/GOPR7448.jpg" title="gopr7448" alt="gopr7448" /> </a>
+  <a href="https://uploads.andeandaran.com/2016/11/GOPR7448.jpg">
+  <img src="https://uploads.andeandaran.com/2016/11/GOPR7448.jpg" title="gopr7448" alt="gopr7448" /> </a>
   
-  <a href="https://www.andeandaran.com/wp-content/uploads/2016/11/GOPR7408.jpg">
-  <img src="https://www.andeandaran.com/wp-content/uploads/2016/11/GOPR7408.jpg" title="gopr7408" alt="gopr7408" /> </a>
+  <a href="https://uploads.andeandaran.com/2016/11/GOPR7408.jpg">
+  <img src="https://uploads.andeandaran.com/2016/11/GOPR7408.jpg" title="gopr7408" alt="gopr7408" /> </a>
   
-  <a href="https://www.andeandaran.com/wp-content/uploads/2016/11/GOPR7377.jpg">
-  <img src="https://www.andeandaran.com/wp-content/uploads/2016/11/GOPR7377.jpg" title="gopr7377" alt="gopr7377" /> </a>
+  <a href="https://uploads.andeandaran.com/2016/11/GOPR7377.jpg">
+  <img src="https://uploads.andeandaran.com/2016/11/GOPR7377.jpg" title="gopr7377" alt="gopr7377" /> </a>
   
-  <a href="https://www.andeandaran.com/wp-content/uploads/2016/11/GOPR7342.jpg">
-  <img src="https://www.andeandaran.com/wp-content/uploads/2016/11/GOPR7342.jpg" title="gopr7342" alt="gopr7342" /> </a>
+  <a href="https://uploads.andeandaran.com/2016/11/GOPR7342.jpg">
+  <img src="https://uploads.andeandaran.com/2016/11/GOPR7342.jpg" title="gopr7342" alt="gopr7342" /> </a>
   
-  <a href="https://www.andeandaran.com/wp-content/uploads/2016/11/GOPR7280.jpg">
-  <img src="https://www.andeandaran.com/wp-content/uploads/2016/11/GOPR7280.jpg" title="gopr7280" alt="gopr7280" /> </a>
+  <a href="https://uploads.andeandaran.com/2016/11/GOPR7280.jpg">
+  <img src="https://uploads.andeandaran.com/2016/11/GOPR7280.jpg" title="gopr7280" alt="gopr7280" /> </a>
   
-  <a href="https://www.andeandaran.com/wp-content/uploads/2016/11/GOPR7184.jpg">
-  <img src="https://www.andeandaran.com/wp-content/uploads/2016/11/GOPR7184.jpg" title="gopr7184" alt="gopr7184" /> </a>
+  <a href="https://uploads.andeandaran.com/2016/11/GOPR7184.jpg">
+  <img src="https://uploads.andeandaran.com/2016/11/GOPR7184.jpg" title="gopr7184" alt="gopr7184" /> </a>
 </div>
   
       

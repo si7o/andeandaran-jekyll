@@ -11,7 +11,7 @@ categories:
 GooglePublisherPlugin_ExcludeAds:
   - "1"
 header:
-  image: https://www.andeandaran.com/wp-content/uploads/2016/12/30384791713_239dc81dda_h.jpg
+  image: https://uploads.andeandaran.com/2016/12/30384791713_239dc81dda_h.jpg
 ---
 
   Una de las misiones más importantes durante los preparativos de cualquier viaje es escoger un buen seguro que cubra todo. Os adelantamos que para nosotros Iati fue y es la mejor opción y que a día de hoy estamos muy contentos con su servicio, ahora os contamos por qué.

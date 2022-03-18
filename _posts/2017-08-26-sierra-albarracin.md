@@ -14,59 +14,59 @@ OSM_geo_data:
 OSM_geo_icon:
   - mic_black_pinother_02.png
 header:
-  image: https://www.andeandaran.com/wp-content/uploads/2017/08/DSC_1880.jpg
+  image: https://uploads.andeandaran.com/2017/08/DSC_1880.jpg
 
 gallery:
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/08/sierra_albarracin-13.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/08/sierra_albarracin-13-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/08/sierra_albarracin-13.jpg
+    image_path: https://uploads.andeandaran.com/2017/08/sierra_albarracin-13-150x150.jpg
     alt: ""
     title: ""
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/08/sierra_albarracin-10.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/08/sierra_albarracin-10-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/08/sierra_albarracin-10.jpg
+    image_path: https://uploads.andeandaran.com/2017/08/sierra_albarracin-10-150x150.jpg
     alt: "Sandra ultimando la paella"
     title: "Sandra ultimando la paella"
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/08/sierra_albarracin-11.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/08/sierra_albarracin-11-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/08/sierra_albarracin-11.jpg
+    image_path: https://uploads.andeandaran.com/2017/08/sierra_albarracin-11-150x150.jpg
     alt: ""
     title: ""
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/08/sierra_albarracin-9.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/08/sierra_albarracin-9-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/08/sierra_albarracin-9.jpg
+    image_path: https://uploads.andeandaran.com/2017/08/sierra_albarracin-9-150x150.jpg
     alt: "Albarracín"
     title: "Albarracín"
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/08/sierra_albarracin-8.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/08/sierra_albarracin-8-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/08/sierra_albarracin-8.jpg
+    image_path: https://uploads.andeandaran.com/2017/08/sierra_albarracin-8-150x150.jpg
     alt: ""
     title: ""
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/08/sierra_albarracin-7.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/08/sierra_albarracin-7-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/08/sierra_albarracin-7.jpg
+    image_path: https://uploads.andeandaran.com/2017/08/sierra_albarracin-7-150x150.jpg
     alt: "Calles de Albarracín"
     title: "Calles de Albarracín"
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/08/sierra_albarracin-6.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/08/sierra_albarracin-7-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/08/sierra_albarracin-6.jpg
+    image_path: https://uploads.andeandaran.com/2017/08/sierra_albarracin-7-150x150.jpg
     alt: "Sierra de Albarracín"
     title: "Sierra de Albarracín"
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/08/DSC_1880.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/08/DSC_1880-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/08/DSC_1880.jpg
+    image_path: https://uploads.andeandaran.com/2017/08/DSC_1880-150x150.jpg
     alt: "Sierra de Albarracín"
     title: "Sierra de Albarracín"
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/08/sierra_albarracin-5.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/08/sierra_albarracin-5-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/08/sierra_albarracin-5.jpg
+    image_path: https://uploads.andeandaran.com/2017/08/sierra_albarracin-5-150x150.jpg
     alt: "Tras seguir una pista forestal durante un rato"
     title: "Tras seguir una pista forestal durante un rato"
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/08/sierra_albarracin-1.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/08/sierra_albarracin-1-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/08/sierra_albarracin-1.jpg
+    image_path: https://uploads.andeandaran.com/2017/08/sierra_albarracin-1-150x150.jpg
     alt: "Inicio del paseo al Salto del Pero Gil"
     title: "Inicio del paseo al Salto del Pero Gil"
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/08/sierra_albarracin-4.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/08/sierra_albarracin-4-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/08/sierra_albarracin-4.jpg
+    image_path: https://uploads.andeandaran.com/2017/08/sierra_albarracin-4-150x150.jpg
     alt: "Cañón del Salto del Pero Gil"
     title: "Cañón del Salto del Pero Gil"
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/08/sierra_albarracin-3.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/08/sierra_albarracin-3-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/08/sierra_albarracin-3.jpg
+    image_path: https://uploads.andeandaran.com/2017/08/sierra_albarracin-3-150x150.jpg
     alt: "Cañón del Salto del Pero Gil"
     title: "Cañón del Salto del Pero Gil"
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/08/sierra_albarracin-2.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/08/sierra_albarracin-2-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/08/sierra_albarracin-2.jpg
+    image_path: https://uploads.andeandaran.com/2017/08/sierra_albarracin-2-150x150.jpg
     alt: "Cañón del Salto del Pero Gil"
     title: "Cañón del Salto del Pero Gil"
       
@@ -96,7 +96,7 @@ Como podéis imaginar, la Sierra de Albarracín está repleta de montes y prados
 Desde Villar del Cobo empieza una ruta de varios kilómetros que discurre por dentro de un cañon, con paredes de 20 o 30 metros y con tan solo un par de ellos de separación. Dependiendo de la temporada en la que vayas encontraras agua o no. En nuestro caso, las dos veces que hemos hecho la ruta estaba seco, pero aún así la grieta de la roca es impresionante.
 <figure>
 
-<img class="size-large wp-image-2488" src="https://www.andeandaran.com/wp-content/uploads/2017/08/sierra_albarracin-4.jpg" /> <figcaption class="wp-caption-text">Cañón del Salto del Pero Gil</figcaption></figure> 
+<img class="size-large wp-image-2488" src="https://uploads.andeandaran.com/2017/08/sierra_albarracin-4.jpg" /> <figcaption class="wp-caption-text">Cañón del Salto del Pero Gil</figcaption></figure> 
 
 
 La ruta discurre por la PR-TE1, al comienzo va por un sendero que bordea el rió seco y pasados unos 6 km más o menos el cañón se va estrechando cada vez más. Es un paseo de unos 16 km ida y vuelta con bastante poco desnivel que transcurre junto al río Guadalaviar y llega hasta unas pozas de agua a las que nunca hemos llegado...algún día a ver si conseguimos terminar la ruta al completo. Podéis ver el recorrido <a href="https://es.wikiloc.com/wikiloc/view.do?id=14565412" target="_blank" rel="noopener">aquí (Wikiloc).</a>

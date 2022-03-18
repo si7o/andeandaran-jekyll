@@ -13,11 +13,15 @@ OSM_geo_data:
 OSM_geo_icon:
   - mic_black_pinother_02.png
 header:
-  image: https://www.andeandaran.com/wp-content/uploads/2020/04/48726069906_3efeb0e391_o.jpg
+  image: https://live.staticflickr.com/65535/48726069906_2a8f59b138_b.jpg
+  caption: <a href="https://www.flickr.com/photos/sitoo/48726069906/in/photostream/lightbox/">Ver en flickr</a>
 ---
+
+Aterrizamos desde España en el aeropuerto internacional de Keflavik. La primera noche la pasamos cerca del aeropuerto en el hotel [Base Hotel by Keflavik airport](https://www.basehotel.is/).
+
 ## Llegada a Keflavik
 
-Aterrizamos desde España en el aeropuerto internacional de Keflavik. La primera noche la pasamos cerca del aeropuerto en el hotel [Base Hotel by Keflavik airport](https://www.basehotel.is/). Os aconsejamos que si llegáis por la noche, concretéis la hora de llegada con el hotel y también reservéis un transfer, ya que los taxis no abundan en el aeropuerto y podéis llegar a estar un buen rato esperando la llegada de uno.
+Os aconsejamos que si llegáis por la noche, concretéis la hora de llegada con el hotel y también reservéis un transfer, ya que los taxis no abundan en el aeropuerto y podéis llegar a estar un buen rato esperando la llegada de uno.
 
 A la mañana siguiente fuimos a recoger la furgoneta que teníamos reservada para los próximos 9 días con [Happy Campers](https://happycampers.is/). Nosotros alquilamos su modelo Nissan NV200, que aunque es más pequeña que una camper normal tienen bastante bien optimizado el espacio, con cocina dentro de la furgo y la cama con doble posición permitiendo poder estar sentado mientras cocinas los días de lluvia y frío. La verdad que pensábamos que nos íbamos a agobiar con el tamaño de la furgo, pero fue bastante cómoda  para los 9 días que estuvimos. Es cierto que nos somos muy altos ninguno de los dos, si soy altos mejor alquilar otra.
 

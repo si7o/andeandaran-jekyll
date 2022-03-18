@@ -13,7 +13,7 @@ OSM_geo_data:
 OSM_geo_icon:
   - mic_black_pinother_02.png
 header:
-  image: https://www.andeandaran.com/wp-content/uploads/2017/08/35602075162_df8676af03_k.jpg
+  image: https://uploads.andeandaran.com/2017/08/35602075162_df8676af03_k.jpg
 ---
 
   El segundo destino de nuestra <a href="https://www.andeandaran.com/viajes/ruta-coche-espana-francia-italia/">ruta en coche por Europa</a> fue Margalef. Un pueblo tranquilo situado en la sierra de Montsant, Tarragona, que ofrece una de las mejores escuelas de escalada deportiva de España.
@@ -150,4 +150,4 @@ En <a href="http://woguclimbing.com/nueva-guia-escalada-deportiva-margalef/" tar
   Si os habéis quedado con ganas de escalar, siempre podéis acercaros a Siurana, Arbolí, Morera de Montsant... no están demasiado lejos.<br /> Si lo que estáis buscando son planes alternativos para los días de descanso, Margalef y la Sierra de Montsant ofrecen bastantes posibilidades. Nosotros no las conocemos, pero os dejamos <a href="http://www.escaladamargalef.com/el_poble_margalef.asp?op=margalef&idioma=ES">este enlace a EscalaMargalef.com.</a> En él encontraréis mucha más información sobre qué más hacer a parte de subiros por las paredes!
 
 
-<img class="alignright size-large wp-image-2534" src="https://www.andeandaran.com/wp-content/uploads/2017/09/IMG_6146.jpg" /> 
+<img class="alignright size-large wp-image-2534" src="https://uploads.andeandaran.com/2017/09/IMG_6146.jpg" /> 

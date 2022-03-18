@@ -14,7 +14,7 @@ OSM_geo_data:
 OSM_geo_icon:
   - mic_black_pinother_02.png
 header:
-  image: https://www.andeandaran.com/wp-content/uploads/2016/11/MG_9314.jpg
+  image: https://uploads.andeandaran.com/2016/11/MG_9314.jpg
 ---
 Después de 6 largas horas en un bus sin suspensiones por una carretera bastante "perjudicada", llegamos a la estación de Sauraha. Nos recibió un sol abrasador y 20 taxistas luchando para que subiéramos en uno de sus taxis.
 
@@ -34,35 +34,35 @@ Finalmente nos decantamos por alquilar unas bicis (2 bicis 300rp- 2€) e ir al 
   <figure > 
   
   <div>
-    <a href='https://www.andeandaran.com/wp-content/uploads/2016/11/MG_9197.jpg'><img src="https://www.andeandaran.com/wp-content/uploads/2016/11/MG_9197.jpg"  /></a>
+    <a href='https://uploads.andeandaran.com/2016/11/MG_9197.jpg'><img src="https://uploads.andeandaran.com/2016/11/MG_9197.jpg"  /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://www.andeandaran.com/wp-content/uploads/2016/11/MG_9196.jpg'><img src="https://www.andeandaran.com/wp-content/uploads/2016/11/MG_9196.jpg"  /></a>
+    <a href='https://uploads.andeandaran.com/2016/11/MG_9196.jpg'><img src="https://uploads.andeandaran.com/2016/11/MG_9196.jpg"  /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://www.andeandaran.com/wp-content/uploads/2016/11/MG_9192.jpg'><img src="https://www.andeandaran.com/wp-content/uploads/2016/11/MG_9192.jpg"  /></a>
+    <a href='https://uploads.andeandaran.com/2016/11/MG_9192.jpg'><img src="https://uploads.andeandaran.com/2016/11/MG_9192.jpg"  /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://www.andeandaran.com/wp-content/uploads/2016/11/MG_9191.jpg'><img src="https://www.andeandaran.com/wp-content/uploads/2016/11/MG_9191.jpg"  /></a>
+    <a href='https://uploads.andeandaran.com/2016/11/MG_9191.jpg'><img src="https://uploads.andeandaran.com/2016/11/MG_9191.jpg"  /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://www.andeandaran.com/wp-content/uploads/2016/11/MG_9187.jpg'><img src="https://www.andeandaran.com/wp-content/uploads/2016/11/MG_9187.jpg"  /></a>
+    <a href='https://uploads.andeandaran.com/2016/11/MG_9187.jpg'><img src="https://uploads.andeandaran.com/2016/11/MG_9187.jpg"  /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://www.andeandaran.com/wp-content/uploads/2016/11/MG_9182.jpg'><img src="https://www.andeandaran.com/wp-content/uploads/2016/11/MG_9182.jpg"  /></a>
+    <a href='https://uploads.andeandaran.com/2016/11/MG_9182.jpg'><img src="https://uploads.andeandaran.com/2016/11/MG_9182.jpg"  /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://www.andeandaran.com/wp-content/uploads/2016/11/MG_9179.jpg'><img src="https://www.andeandaran.com/wp-content/uploads/2016/11/MG_9179.jpg" /></a>
+    <a href='https://uploads.andeandaran.com/2016/11/MG_9179.jpg'><img src="https://uploads.andeandaran.com/2016/11/MG_9179.jpg" /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://www.andeandaran.com/wp-content/uploads/2016/11/GOPR5846.jpg'><img src="https://www.andeandaran.com/wp-content/uploads/2016/11/GOPR5846.jpg"  /></a>
+    <a href='https://uploads.andeandaran.com/2016/11/GOPR5846.jpg'><img src="https://uploads.andeandaran.com/2016/11/GOPR5846.jpg"  /></a>
   </div></figure>
 </div>
 
@@ -85,18 +85,18 @@ Los pobres están durante 2 horas levantándose y sentándose continuamente para
   <figure > 
   
   <div>
-    <a href='https://www.andeandaran.com/wp-content/uploads/2016/11/MG_9311.jpg'><img src="https://www.andeandaran.com/wp-content/uploads/2016/11/MG_9311.jpg"  /></a>
+    <a href='https://uploads.andeandaran.com/2016/11/MG_9311.jpg'><img src="https://uploads.andeandaran.com/2016/11/MG_9311.jpg"  /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://www.andeandaran.com/wp-content/uploads/2016/11/MG_9305.jpg'><img src="https://www.andeandaran.com/wp-content/uploads/2016/11/MG_9305.jpg"  /></a>
+    <a href='https://uploads.andeandaran.com/2016/11/MG_9305.jpg'><img src="https://uploads.andeandaran.com/2016/11/MG_9305.jpg"  /></a>
   </div></figure><figure > 
   
   <div class='gallery-icon portrait'>
-    <a href='https://www.andeandaran.com/wp-content/uploads/2016/11/MG_9295.jpg'><img src="https://www.andeandaran.com/wp-content/uploads/2016/11/MG_9295.jpg"  /></a>
+    <a href='https://uploads.andeandaran.com/2016/11/MG_9295.jpg'><img src="https://uploads.andeandaran.com/2016/11/MG_9295.jpg"  /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://www.andeandaran.com/wp-content/uploads/2016/11/MG_9281.jpg'><img src="https://www.andeandaran.com/wp-content/uploads/2016/11/MG_9281.jpg"  /></a>
+    <a href='https://uploads.andeandaran.com/2016/11/MG_9281.jpg'><img src="https://uploads.andeandaran.com/2016/11/MG_9281.jpg"  /></a>
   </div></figure>
 </div>

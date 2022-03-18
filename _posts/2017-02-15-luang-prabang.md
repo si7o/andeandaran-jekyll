@@ -14,71 +14,71 @@ OSM_geo_data:
 OSM_geo_icon:
   - mic_black_pinother_02.png
 header:
-  image: https://www.andeandaran.com/wp-content/uploads/2017/02/Luang-Prabang-11.jpg
+  image: https://uploads.andeandaran.com/2017/02/Luang-Prabang-11.jpg
 
 gallery: 
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/02/Luang-Prabang-17.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/02/Luang-Prabang-17-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/02/Luang-Prabang-17.jpg
+    image_path: https://uploads.andeandaran.com/2017/02/Luang-Prabang-17-150x150.jpg
     alt: "El tejado de Wat Mai"
     title: "Wat Mai"
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/02/Luang-Prabang-16.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/02/Luang-Prabang-16-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/02/Luang-Prabang-16.jpg
+    image_path: https://uploads.andeandaran.com/2017/02/Luang-Prabang-16-150x150.jpg
     alt: "Atardecer en el Mekong"
     title: "Atardecer en el Mekong"
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/02/Luang-Prabang-15.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/02/Luang-Prabang-15-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/02/Luang-Prabang-15.jpg
+    image_path: https://uploads.andeandaran.com/2017/02/Luang-Prabang-15-150x150.jpg
     alt: "Wat Xieng Thong"
     title: "Wat Xieng Thong"
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/02/Luang-Prabang-14.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/02/Luang-Prabang-14-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/02/Luang-Prabang-14.jpg
+    image_path: https://uploads.andeandaran.com/2017/02/Luang-Prabang-14-150x150.jpg
     alt: "Wat Xene"
     title: "Wat Xene"
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/02/Luang-Prabang-13.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/02/Luang-Prabang-13-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/02/Luang-Prabang-13.jpg
+    image_path: https://uploads.andeandaran.com/2017/02/Luang-Prabang-13-150x150.jpg
     alt: "Phon heuang"
     title: "Phon heuang"
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/02/Luang-Prabang-12.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/02/Luang-Prabang-12-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/02/Luang-Prabang-12.jpg
+    image_path: https://uploads.andeandaran.com/2017/02/Luang-Prabang-12-150x150.jpg
     alt: "Niños jugando en Wat Mai"
     title: "Niños jugando"
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/02/Luang-Prabang-10.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/02/Luang-Prabang-10-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/02/Luang-Prabang-10.jpg
+    image_path: https://uploads.andeandaran.com/2017/02/Luang-Prabang-10-150x150.jpg
     alt: "Antes de que se ponga el sol, los monjes se reúnen en el templo Wat Mai."
     title: "Hora de rezos en Wat Mai"
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/02/Luang-Prabang-9.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/02/Luang-Prabang-9-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/02/Luang-Prabang-9.jpg
+    image_path: https://uploads.andeandaran.com/2017/02/Luang-Prabang-9-150x150.jpg
     alt: "Luang Prabang-9"
     title: "Luang Prabang-9"
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/02/Luang-Prabang-8.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/02/Luang-Prabang-8-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/02/Luang-Prabang-8.jpg
+    image_path: https://uploads.andeandaran.com/2017/02/Luang-Prabang-8-150x150.jpg
     alt: "Mercado nocturno"
     title: "Mercado nocturno"
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/02/Luang-Prabang-7.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/02/Luang-Prabang-7-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/02/Luang-Prabang-7.jpg
+    image_path: https://uploads.andeandaran.com/2017/02/Luang-Prabang-7-150x150.jpg
     alt: "Un niño a las puertas de Wat Mai"
     title: "Un niño a las puertas de Wat Mai"
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/02/Luang-Prabang-6.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/02/Luang-Prabang-6-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/02/Luang-Prabang-6.jpg
+    image_path: https://uploads.andeandaran.com/2017/02/Luang-Prabang-6-150x150.jpg
     alt: "Empiezan a preparar los puestos del mercado nocturno"
     title: "Mercado nocturno"
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/02/Luang-Prabang-5.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/02/Luang-Prabang-5-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/02/Luang-Prabang-5.jpg
+    image_path: https://uploads.andeandaran.com/2017/02/Luang-Prabang-5-150x150.jpg
     alt: "Haw Pha Bang, templo junto al palacio real."
     title: "Haw Pha Bang"
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/02/Luang-Prabang-4.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/02/Luang-Prabang-4-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/02/Luang-Prabang-4.jpg
+    image_path: https://uploads.andeandaran.com/2017/02/Luang-Prabang-4-150x150.jpg
     alt: "Callejeando por Luang Prabang"
     title: "Callejeando por Luang Prabang"
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/02/Luang-Prabang-3.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/02/Luang-Prabang-3-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/02/Luang-Prabang-3.jpg
+    image_path: https://uploads.andeandaran.com/2017/02/Luang-Prabang-3-150x150.jpg
     alt: "De este no sabemos el nombre, pero era muy tranquilo y agradable."
     title: "Otro templo" 
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/02/Luang-Prabang-2.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/02/Luang-Prabang-2-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/02/Luang-Prabang-2.jpg
+    image_path: https://uploads.andeandaran.com/2017/02/Luang-Prabang-2-150x150.jpg
     alt: "Luang Prabang-2"
     title: "Luang Prabang-2"
-  - url: https://www.andeandaran.com/wp-content/uploads/2017/02/Luang-Prabang-1.jpg
-    image_path: https://www.andeandaran.com/wp-content/uploads/2017/02/Luang-Prabang-1-150x150.jpg
+  - url: https://uploads.andeandaran.com/2017/02/Luang-Prabang-1.jpg
+    image_path: https://uploads.andeandaran.com/2017/02/Luang-Prabang-1-150x150.jpg
     alt: "El antiguo palacio real, ahora convertido en museo"
     title: "Palacio Real"
 ---

@@ -22,7 +22,7 @@ OSM_geo_data:
 OSM_geo_icon:
   - mic_black_pinother_02.png
 header:
-  image: https://www.andeandaran.com/wp-content/uploads/2016/11/30464276574_c36958cb2e_b.jpg
+  image: https://uploads.andeandaran.com/2016/11/30464276574_c36958cb2e_b.jpg
 
 contains_panoramas: true
 ---
@@ -54,7 +54,7 @@ Este mirador se encuentra en el extremo sur de la isla. Para llegar a él es nec
 
 Como extra, os dejamos esta foto desde el mirador de Koh Nang Yuan, intenté hacer una panorámica, pero aun no domino la técnica usando la GoPro así que no ha quedado presentable...
 
-<img class="aligncenter wp-image-705 size-wcbig" src="https://www.andeandaran.com/wp-content/uploads/2016/11/GOPR7522-800x468.jpg?resize=800%2C468" alt="Koh Nang Yuan viewpoint" /> 
+<img class="aligncenter wp-image-705 size-wcbig" src="https://uploads.andeandaran.com/2016/11/GOPR7522-800x468.jpg?resize=800%2C468" alt="Koh Nang Yuan viewpoint" /> 
 
 
 Si quieres saber más sobre cómo hacer este tipo de fotografía, <a href="http://www.trebol-a.com/2009/06/03/como-hacer-panoramicas-de-360º/" target="_blank" rel="noopener">aquí encontraréis un tutorial bastante detallado</a> que os servirá de punto de partida.  

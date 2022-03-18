@@ -14,7 +14,7 @@ OSM_geo_data:
 OSM_geo_icon:
   - mic_black_pinother_02.png
 header:
-  image: https://www.andeandaran.com/wp-content/uploads/2017/09/IMG_6312.jpg
+  image: https://uploads.andeandaran.com/2017/09/IMG_6312.jpg
 ---
 
   Montpellier fue nuestra primera parada en Francia durante <a href="https://www.andeandaran.com/viajes/ruta-coche-espana-francia-italia/">nuestra ruta en coche por Europa</a>. La ciudad de Montpellier, sin duda, es una de las ciudades más agradables del sur de Francia. Una ciudad soleada y alegre, con un clima muy mediterráneo que invita a pasar tiempo fuera y paseando entre sus elegantes callejuelas.
@@ -44,7 +44,7 @@ header:
 <div >
   <div  >
     <div>
-      <a href="https://www.andeandaran.com/wp-content/uploads/2017/09/IMG_6308.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/09/IMG_6308.jpg" title="IMG_6308" alt="IMG_6308" /> </a>
+      <a href="https://uploads.andeandaran.com/2017/09/IMG_6308.jpg"> <img src="https://uploads.andeandaran.com/2017/09/IMG_6308.jpg" title="IMG_6308" alt="IMG_6308" /> </a>
     </div>
   </div>
   
@@ -52,7 +52,7 @@ header:
   
   <div  >
     <div>
-      <a href="https://www.andeandaran.com/wp-content/uploads/2017/09/IMG_6307.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/09/IMG_6307.jpg" title="IMG_6307" alt="IMG_6307" /> </a>
+      <a href="https://uploads.andeandaran.com/2017/09/IMG_6307.jpg"> <img src="https://uploads.andeandaran.com/2017/09/IMG_6307.jpg" title="IMG_6307" alt="IMG_6307" /> </a>
     </div>
   </div>
   
@@ -60,7 +60,7 @@ header:
   
   <div  >
     <div>
-      <a href="https://www.andeandaran.com/wp-content/uploads/2017/09/IMG_6306.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/09/IMG_6306.jpg" title="IMG_6306" alt="IMG_6306" /> </a>
+      <a href="https://uploads.andeandaran.com/2017/09/IMG_6306.jpg"> <img src="https://uploads.andeandaran.com/2017/09/IMG_6306.jpg" title="IMG_6306" alt="IMG_6306" /> </a>
     </div>
   </div>
   

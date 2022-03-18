@@ -14,7 +14,7 @@ OSM_geo_data:
 OSM_geo_icon:
   - mic_black_pinother_02.png
 header:
-  image: https://www.andeandaran.com/wp-content/uploads/2017/03/IMG_3604.jpg
+  image: https://uploads.andeandaran.com/2017/03/IMG_3604.jpg
 ---
 
   En nuestro camino a Kuala Lumpur decidimos parar un par de noches en Penang, una isla en la costa oeste de Malasia. Se trata de una isla que atrae a más turistas locales que extranjeros, así que decidimos darle una oportunidad.<br /> Su principal ciudad, George Town, es famosa por los grafitis que pueblan sus paredes. Nosotros estuvimos allí tres días y, aunque no nos dio tiempo a disfrutar de todo lo que ofrece la isla, si pudimos visitar los principales destinos turísticos y hacernos una idea.<!--more-->
@@ -102,7 +102,7 @@ header:
 
 
 
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/03/DSC_1571.jpg"><img class="alignnone wp-image-1764 size-large" src="https://www.andeandaran.com/wp-content/uploads/2017/03/DSC_1571-1024x683.jpg" /></a>
+  <a href="https://uploads.andeandaran.com/2017/03/DSC_1571.jpg"><img class="alignnone wp-image-1764 size-large" src="https://uploads.andeandaran.com/2017/03/DSC_1571-1024x683.jpg" /></a>
 
 
 ## Las playas
@@ -137,34 +137,34 @@ header:
 ## Galería
 
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/03/IMG_3619.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/03/IMG_3619.jpg" title="IMG_3619" alt="IMG_3619" /> </a>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/03/IMG_3616.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/03/IMG_3616.jpg" title="IMG_3616" alt="IMG_3616" /> </a>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/03/IMG_3598.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/03/IMG_3598.jpg" title="IMG_3598" alt="IMG_3598" /> </a>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/03/IMG_3574.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/03/IMG_3574.jpg" title="IMG_3574" alt="IMG_3574" /> </a>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/03/IMG_3573.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/03/IMG_3573.jpg" title="IMG_3573" alt="IMG_3573" /> </a>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/03/IMG_3572.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/03/IMG_3572.jpg" title="IMG_3572" alt="IMG_3572" /> </a>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/03/IMG_3569.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/03/IMG_3569.jpg" title="IMG_3569" alt="IMG_3569" /> </a>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/03/IMG_3564.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/03/IMG_3564.jpg" title="IMG_3564" alt="IMG_3564" /> </a>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/03/IMG_3555.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/03/IMG_3555.jpg" title="IMG_3555" alt="IMG_3555" /> </a>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/03/DSC_1580.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/03/DSC_1580.jpg" title="DSC_1580" alt="DSC_1580" /> </a>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/03/DSC_1578.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/03/DSC_1578.jpg" title="DSC_1578" alt="DSC_1578" /> </a>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/03/DSC_1577.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/03/DSC_1577.jpg" title="DSC_1577" alt="DSC_1577"  /> </a>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/03/DSC_1576.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/03/DSC_1576.jpg" title="DSC_1576" alt="DSC_1576" /> </a>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/03/DSC_1574.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/03/DSC_1574.jpg" title="DSC_1574" alt="DSC_1574" /> </a>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/03/DSC_1571.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/03/DSC_1571.jpg" title="DSC_1571" alt="DSC_1571" /> </a>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/03/DSC_1570.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/03/DSC_1570.jpg" title="DSC_1570" alt="DSC_1570" /> </a>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/03/DSC_1562.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/03/DSC_1562.jpg" title="DSC_1562" alt="DSC_1562" /> </a>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/03/DSC_1561.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/03/DSC_1561.jpg" title="DSC_1561" alt="DSC_1561"  /> </a>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/03/DSC_1557.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/03/DSC_1557.jpg" title="DSC_1557" alt="DSC_1557" /> </a>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/03/DSC_1554.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/03/DSC_1554.jpg" title="DSC_1554" alt="DSC_1554" /> </a>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/03/DSC_1551.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/03/DSC_1551.jpg" title="DSC_1551" alt="DSC_1551" /> </a>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/03/DSC_1550.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/03/DSC_1550.jpg" title="DSC_1550" alt="DSC_1550" /> </a>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/03/DSC_1548.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/03/DSC_1548.jpg" title="DSC_1548" alt="DSC_1548" /> </a>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/03/DSC_1541.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/03/DSC_1541.jpg" title="DSC_1541" alt="DSC_1541"  /> </a>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/03/DSC_1539.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/03/DSC_1539.jpg" title="DSC_1539" alt="DSC_1539" /> </a>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/03/DSC_1538.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/03/DSC_1538.jpg" title="DSC_1538" alt="DSC_1538" /> </a>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/03/DSC_1532.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/03/DSC_1532.jpg" title="DSC_1532" alt="DSC_1532" /> </a>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/03/DSC_1530.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/03/DSC_1530.jpg" title="DSC_1530" alt="DSC_1530" /> </a>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/03/DSC_1528.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/03/DSC_1528.jpg" title="DSC_1528" alt="DSC_1528" /> </a>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/03/IMG_3604.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/03/IMG_3604.jpg" title="George Town" alt="Sandra en uno de los grafitis de George Town"  /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/03/IMG_3619.jpg"> <img src="https://uploads.andeandaran.com/2017/03/IMG_3619.jpg" title="IMG_3619" alt="IMG_3619" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/03/IMG_3616.jpg"> <img src="https://uploads.andeandaran.com/2017/03/IMG_3616.jpg" title="IMG_3616" alt="IMG_3616" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/03/IMG_3598.jpg"> <img src="https://uploads.andeandaran.com/2017/03/IMG_3598.jpg" title="IMG_3598" alt="IMG_3598" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/03/IMG_3574.jpg"> <img src="https://uploads.andeandaran.com/2017/03/IMG_3574.jpg" title="IMG_3574" alt="IMG_3574" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/03/IMG_3573.jpg"> <img src="https://uploads.andeandaran.com/2017/03/IMG_3573.jpg" title="IMG_3573" alt="IMG_3573" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/03/IMG_3572.jpg"> <img src="https://uploads.andeandaran.com/2017/03/IMG_3572.jpg" title="IMG_3572" alt="IMG_3572" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/03/IMG_3569.jpg"> <img src="https://uploads.andeandaran.com/2017/03/IMG_3569.jpg" title="IMG_3569" alt="IMG_3569" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/03/IMG_3564.jpg"> <img src="https://uploads.andeandaran.com/2017/03/IMG_3564.jpg" title="IMG_3564" alt="IMG_3564" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/03/IMG_3555.jpg"> <img src="https://uploads.andeandaran.com/2017/03/IMG_3555.jpg" title="IMG_3555" alt="IMG_3555" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/03/DSC_1580.jpg"> <img src="https://uploads.andeandaran.com/2017/03/DSC_1580.jpg" title="DSC_1580" alt="DSC_1580" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/03/DSC_1578.jpg"> <img src="https://uploads.andeandaran.com/2017/03/DSC_1578.jpg" title="DSC_1578" alt="DSC_1578" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/03/DSC_1577.jpg"> <img src="https://uploads.andeandaran.com/2017/03/DSC_1577.jpg" title="DSC_1577" alt="DSC_1577"  /> </a>
+  <a href="https://uploads.andeandaran.com/2017/03/DSC_1576.jpg"> <img src="https://uploads.andeandaran.com/2017/03/DSC_1576.jpg" title="DSC_1576" alt="DSC_1576" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/03/DSC_1574.jpg"> <img src="https://uploads.andeandaran.com/2017/03/DSC_1574.jpg" title="DSC_1574" alt="DSC_1574" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/03/DSC_1571.jpg"> <img src="https://uploads.andeandaran.com/2017/03/DSC_1571.jpg" title="DSC_1571" alt="DSC_1571" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/03/DSC_1570.jpg"> <img src="https://uploads.andeandaran.com/2017/03/DSC_1570.jpg" title="DSC_1570" alt="DSC_1570" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/03/DSC_1562.jpg"> <img src="https://uploads.andeandaran.com/2017/03/DSC_1562.jpg" title="DSC_1562" alt="DSC_1562" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/03/DSC_1561.jpg"> <img src="https://uploads.andeandaran.com/2017/03/DSC_1561.jpg" title="DSC_1561" alt="DSC_1561"  /> </a>
+  <a href="https://uploads.andeandaran.com/2017/03/DSC_1557.jpg"> <img src="https://uploads.andeandaran.com/2017/03/DSC_1557.jpg" title="DSC_1557" alt="DSC_1557" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/03/DSC_1554.jpg"> <img src="https://uploads.andeandaran.com/2017/03/DSC_1554.jpg" title="DSC_1554" alt="DSC_1554" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/03/DSC_1551.jpg"> <img src="https://uploads.andeandaran.com/2017/03/DSC_1551.jpg" title="DSC_1551" alt="DSC_1551" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/03/DSC_1550.jpg"> <img src="https://uploads.andeandaran.com/2017/03/DSC_1550.jpg" title="DSC_1550" alt="DSC_1550" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/03/DSC_1548.jpg"> <img src="https://uploads.andeandaran.com/2017/03/DSC_1548.jpg" title="DSC_1548" alt="DSC_1548" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/03/DSC_1541.jpg"> <img src="https://uploads.andeandaran.com/2017/03/DSC_1541.jpg" title="DSC_1541" alt="DSC_1541"  /> </a>
+  <a href="https://uploads.andeandaran.com/2017/03/DSC_1539.jpg"> <img src="https://uploads.andeandaran.com/2017/03/DSC_1539.jpg" title="DSC_1539" alt="DSC_1539" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/03/DSC_1538.jpg"> <img src="https://uploads.andeandaran.com/2017/03/DSC_1538.jpg" title="DSC_1538" alt="DSC_1538" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/03/DSC_1532.jpg"> <img src="https://uploads.andeandaran.com/2017/03/DSC_1532.jpg" title="DSC_1532" alt="DSC_1532" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/03/DSC_1530.jpg"> <img src="https://uploads.andeandaran.com/2017/03/DSC_1530.jpg" title="DSC_1530" alt="DSC_1530" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/03/DSC_1528.jpg"> <img src="https://uploads.andeandaran.com/2017/03/DSC_1528.jpg" title="DSC_1528" alt="DSC_1528" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/03/IMG_3604.jpg"> <img src="https://uploads.andeandaran.com/2017/03/IMG_3604.jpg" title="George Town" alt="Sandra en uno de los grafitis de George Town"  /> </a> 
 </div>

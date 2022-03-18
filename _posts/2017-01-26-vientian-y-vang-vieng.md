@@ -14,7 +14,7 @@ OSM_geo_data:
 OSM_geo_icon:
   - mic_black_pinother_02.png
 header:
-  image: https://www.andeandaran.com/wp-content/uploads/2017/01/32229644292_6046e47d62_b-1024x545.jpg
+  image: https://uploads.andeandaran.com/2017/01/32229644292_6046e47d62_b-1024x545.jpg
 ---
 
   En nuestro trayecto de vuelta a Tailandia decidimos hacer algunas paradas intermedias. En esta entrada os hablaremos de dos de ellas. Vientián, actual capital de Laos y Vang Vieng, una pequeña ciudad de camino a Luang Prabang con un paisaje de montañas Karsticas.
@@ -81,7 +81,7 @@ Esta a 2 km del centro del pueblo, con lo cual es bastante accesible ya sea con 
 
 Cruzando uno de los puentes principales de Vang Vieng y dirección hacia la Blue Lagoon, esta este mirador. El mirador es muy recomendable, en el se puede ver una panorámica perfecta de las montañas de la zona y los campos. Solamente son unos 20-30 minutos de ascenso, una vez arriba lo mejor es sentarse en alguna de sus rocas y observar el fantástico paisaje.
 
-[<img class="alignnone size-full wp-image-1314" src="https://www.andeandaran.com/wp-content/uploads/2017/01/MG_2000.jpg" alt="Panorámica desde Pha Ngeun" />](https://www.andeandaran.com/wp-content/uploads/2017/01/MG_2000.jpg)
+[<img class="alignnone size-full wp-image-1314" src="https://uploads.andeandaran.com/2017/01/MG_2000.jpg" alt="Panorámica desde Pha Ngeun" />](https://uploads.andeandaran.com/2017/01/MG_2000.jpg)
 
 **Blue Lagoon**
 
@@ -107,53 +107,53 @@ En cuanto a la escalada en Vang Vieng, aun le queda mucho por mejorar. Pese a qu
 
 
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1909.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1909.jpg" title="Conductor de Bus en Vientián" alt="Conductor de Bus en Vientián"  /> </a>
+  <a href="https://uploads.andeandaran.com/2017/01/MG_1909.jpg"> <img src="https://uploads.andeandaran.com/2017/01/MG_1909.jpg" title="Conductor de Bus en Vientián" alt="Conductor de Bus en Vientián"  /> </a>
   
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1953.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1953.jpg" title="Panorámica de Buddha Park" alt="Panorámica de Buddha Park"  /> </a>
+  <a href="https://uploads.andeandaran.com/2017/01/MG_1953.jpg"> <img src="https://uploads.andeandaran.com/2017/01/MG_1953.jpg" title="Panorámica de Buddha Park" alt="Panorámica de Buddha Park"  /> </a>
   
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1927.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1927.jpg" title="esculturas en Buddha Park" alt="esculturas en Buddha Park" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/01/MG_1927.jpg"> <img src="https://uploads.andeandaran.com/2017/01/MG_1927.jpg" title="esculturas en Buddha Park" alt="esculturas en Buddha Park" /> </a>
   
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1929.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1929.jpg" title="Buddha Park" alt="Buddha Park" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/01/MG_1929.jpg"> <img src="https://uploads.andeandaran.com/2017/01/MG_1929.jpg" title="Buddha Park" alt="Buddha Park" /> </a>
   
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1931.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1931.jpg" title="Buddha Park" alt="Buddha Park" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/01/MG_1931.jpg"> <img src="https://uploads.andeandaran.com/2017/01/MG_1931.jpg" title="Buddha Park" alt="Buddha Park" /> </a>
   
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1941.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1941.jpg" title="Buddha Park" alt="Buddha Park" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/01/MG_1941.jpg"> <img src="https://uploads.andeandaran.com/2017/01/MG_1941.jpg" title="Buddha Park" alt="Buddha Park" /> </a>
   
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1946.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1946.jpg" title="Buddha Park" alt="Buddha Park" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/01/MG_1946.jpg"> <img src="https://uploads.andeandaran.com/2017/01/MG_1946.jpg" title="Buddha Park" alt="Buddha Park" /> </a>
   
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1943.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1943.jpg" title="Buddha Park" alt="Buddha Park" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/01/MG_1943.jpg"> <img src="https://uploads.andeandaran.com/2017/01/MG_1943.jpg" title="Buddha Park" alt="Buddha Park" /> </a>
   
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1947.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1947.jpg" title="Buddha Park" alt="Buddha Park" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/01/MG_1947.jpg"> <img src="https://uploads.andeandaran.com/2017/01/MG_1947.jpg" title="Buddha Park" alt="Buddha Park" /> </a>
   
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1949.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1949.jpg" title="Buddha Park" alt="Buddha Park" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/01/MG_1949.jpg"> <img src="https://uploads.andeandaran.com/2017/01/MG_1949.jpg" title="Buddha Park" alt="Buddha Park" /> </a>
   
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/01/GOPR8154.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/01/GOPR8154.jpg" title="Globo aerostático en Vang Vieng" alt="Globo aerostático en Vang Vieng" style="width: 279px; height: 159px;" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/01/GOPR8154.jpg"> <img src="https://uploads.andeandaran.com/2017/01/GOPR8154.jpg" title="Globo aerostático en Vang Vieng" alt="Globo aerostático en Vang Vieng" style="width: 279px; height: 159px;" /> </a>
 
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/01/GOPR8118.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/01/GOPR8118.jpg" title="Perdidos por Vang Vieng" alt="Perdidos por Vang Vieng"  /> </a>
+  <a href="https://uploads.andeandaran.com/2017/01/GOPR8118.jpg"> <img src="https://uploads.andeandaran.com/2017/01/GOPR8118.jpg" title="Perdidos por Vang Vieng" alt="Perdidos por Vang Vieng"  /> </a>
   
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/01/GOPR8120.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/01/GOPR8120.jpg" title="Paisajes de Vang Vieng" alt="Paisajes de Vang Vieng"  /> </a>
+  <a href="https://uploads.andeandaran.com/2017/01/GOPR8120.jpg"> <img src="https://uploads.andeandaran.com/2017/01/GOPR8120.jpg" title="Paisajes de Vang Vieng" alt="Paisajes de Vang Vieng"  /> </a>
   
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/01/GOPR8116.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/01/GOPR8116.jpg" title="Perdidos por Vang Vieng" alt="Perdidos por Vang Vieng" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/01/GOPR8116.jpg"> <img src="https://uploads.andeandaran.com/2017/01/GOPR8116.jpg" title="Perdidos por Vang Vieng" alt="Perdidos por Vang Vieng" /> </a>
   
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/01/GOPR8144.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/01/GOPR8144.jpg" title="Moto en Vang Vieng" alt="Moto en Vang Vieng" style="width: 372px; height: 279px;" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/01/GOPR8144.jpg"> <img src="https://uploads.andeandaran.com/2017/01/GOPR8144.jpg" title="Moto en Vang Vieng" alt="Moto en Vang Vieng" style="width: 372px; height: 279px;" /> </a>
   
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/01/GOPR8137.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/01/GOPR8137.jpg" title="Vang Vieng" alt="Vang Vieng" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/01/GOPR8137.jpg"> <img src="https://uploads.andeandaran.com/2017/01/GOPR8137.jpg" title="Vang Vieng" alt="Vang Vieng" /> </a>
   
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/01/GOPR8134.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/01/GOPR8134.jpg" title="Paisajes en Vang Vieng" alt="Paisajes en Vang Vieng" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/01/GOPR8134.jpg"> <img src="https://uploads.andeandaran.com/2017/01/GOPR8134.jpg" title="Paisajes en Vang Vieng" alt="Paisajes en Vang Vieng" /> </a>
   
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/01/GOPR8122.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/01/GOPR8122.jpg" title="Paisajes en Vang Vieng" alt="Paisajes en Vang Vieng" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/01/GOPR8122.jpg"> <img src="https://uploads.andeandaran.com/2017/01/GOPR8122.jpg" title="Paisajes en Vang Vieng" alt="Paisajes en Vang Vieng" /> </a>
   
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/01/GOPR8123.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/01/GOPR8123.jpg" title="Moto en Vang Vieng" alt="Moto en Vang Vieng" style="width: 540px; height: 344px;" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/01/GOPR8123.jpg"> <img src="https://uploads.andeandaran.com/2017/01/GOPR8123.jpg" title="Moto en Vang Vieng" alt="Moto en Vang Vieng" style="width: 540px; height: 344px;" /> </a>
   
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/01/GOPR8126.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/01/GOPR8126.jpg" title="Charcos en el camino" alt="Charcos en el camino" style="width: 262px; height: 165px;" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/01/GOPR8126.jpg"> <img src="https://uploads.andeandaran.com/2017/01/GOPR8126.jpg" title="Charcos en el camino" alt="Charcos en el camino" style="width: 262px; height: 165px;" /> </a>
   
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/01/MG_2035.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/01/MG_2035.jpg" title="Paisajes de Vang Vieng" alt="Paisajes de Vang Vieng" style="width: 262px; height: 175px;" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/01/MG_2035.jpg"> <img src="https://uploads.andeandaran.com/2017/01/MG_2035.jpg" title="Paisajes de Vang Vieng" alt="Paisajes de Vang Vieng" style="width: 262px; height: 175px;" /> </a>
   
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/01/MG_2016-Panorama.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/01/MG_2016-Panorama.jpg" title="Paisajes de Vang Vieng" alt="Paisajes de Vang Vieng" style="width: 292px; height: 117px;" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/01/MG_2016-Panorama.jpg"> <img src="https://uploads.andeandaran.com/2017/01/MG_2016-Panorama.jpg" title="Paisajes de Vang Vieng" alt="Paisajes de Vang Vieng" style="width: 292px; height: 117px;" /> </a>
   
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/01/MG_2004.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/01/MG_2004.jpg" title="Desde Pha Ngeun" alt="Desde Pha Ngeun" style="width: 172px; height: 117px;" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/01/MG_2004.jpg"> <img src="https://uploads.andeandaran.com/2017/01/MG_2004.jpg" title="Desde Pha Ngeun" alt="Desde Pha Ngeun" style="width: 172px; height: 117px;" /> </a>
   
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/01/MG_2000.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/01/MG_2000.jpg" title="Panorámica desde Pha Ngeun" alt="Panorámica desde Pha Ngeun" style="width: 175px; height: 117px;" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/01/MG_2000.jpg"> <img src="https://uploads.andeandaran.com/2017/01/MG_2000.jpg" title="Panorámica desde Pha Ngeun" alt="Panorámica desde Pha Ngeun" style="width: 175px; height: 117px;" /> </a>
 
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/01/GOPR8156.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/01/GOPR8156.jpg" title="Despues de escalar en Sleeping Wall" alt="Despues de escalar en Sleeping Wall" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/01/GOPR8156.jpg"> <img src="https://uploads.andeandaran.com/2017/01/GOPR8156.jpg" title="Despues de escalar en Sleeping Wall" alt="Despues de escalar en Sleeping Wall" /> </a>
 </div>

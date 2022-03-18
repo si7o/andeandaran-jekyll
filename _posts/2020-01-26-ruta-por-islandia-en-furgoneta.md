@@ -21,7 +21,7 @@ OSM_geo_data:
 OSM_geo_icon:
   - mic_black_pinother_02.png
 header:
-  image: https://www.andeandaran.com/wp-content/uploads/2020/01/48768854727_5f1e485a5d_o.jpg
+  image: https://uploads.andeandaran.com/2020/01/48768854727_5f1e485a5d_o.jpg
 ---
 **Islandia**, país con un clima extremo y ubicado en una de las zonas más septentrionales del mundo es para cualquier amante de la naturaleza uno de esos países que "tienes que visitar". Es un festival de paisajes vírgenes. Perfecto para hacer una ruta en furgoneta e ir descubriendo a tu ritmo todos los bellos y salvajes rincones que ofrece.
 

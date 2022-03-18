@@ -14,7 +14,7 @@ OSM_geo_data:
 OSM_geo_icon:
   - mic_black_pinother_02.png
 header:
-  image: https://www.andeandaran.com/wp-content/uploads/2016/12/MG_1158-2.jpg
+  image: https://uploads.andeandaran.com/2016/12/MG_1158-2.jpg
 ---
 
   Podríamos decir que lo nuestro con Tam Coc fue un flechazo. En seguida supimos que habíamos acertado haciendo una parada en este pueblo sin haber visto casi nada. Tam Coc es un lugar muy auténtico, con paisajes espectaculares y en el que es muy fácil sentirse como en casa.
@@ -107,193 +107,193 @@ No suele estar incluido en los viajes de pocos días, pero Tam Coc es uno de eso
 
 
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_1221.jpg"> 
-  <img src="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_1221.jpg" title="_mg_1221" alt="Vistas de Tam Coc"  /> </a>
+  <a href="https://uploads.andeandaran.com/2016/12/MG_1221.jpg"> 
+  <img src="https://uploads.andeandaran.com/2016/12/MG_1221.jpg" title="_mg_1221" alt="Vistas de Tam Coc"  /> </a>
   
   <div>
     Vistas de Tam Coc
   </div>
 </div>
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_1004.jpg"> 
-  <img src="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_1004.jpg" title="_mg_1004" alt="Rio Ngo Dong" /> </a>   
+  <a href="https://uploads.andeandaran.com/2016/12/MG_1004.jpg"> 
+  <img src="https://uploads.andeandaran.com/2016/12/MG_1004.jpg" title="_mg_1004" alt="Rio Ngo Dong" /> </a>   
   <div>
     Rio Ngo Dong
   </div>
 </div>
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_1226.jpg"> 
-  <img src="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_1226.jpg" title="_mg_1226" alt="En bicicleta" /> </a>   
+  <a href="https://uploads.andeandaran.com/2016/12/MG_1226.jpg"> 
+  <img src="https://uploads.andeandaran.com/2016/12/MG_1226.jpg" title="_mg_1226" alt="En bicicleta" /> </a>   
   <div>
     En bicicleta
   </div>
 </div>
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_1207.jpg"> 
-  <img src="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_1207.jpg" title="_mg_1207" alt="Paseos en bicicleta" /> </a>   
+  <a href="https://uploads.andeandaran.com/2016/12/MG_1207.jpg"> 
+  <img src="https://uploads.andeandaran.com/2016/12/MG_1207.jpg" title="_mg_1207" alt="Paseos en bicicleta" /> </a>   
   <div>
     Paseos en bicicleta
   </div>
 </div>
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_1158.jpg"> 
-  <img src="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_1158.jpg" title="En bici por Tam Coc" alt="Nosotros" /> </a>  
+  <a href="https://uploads.andeandaran.com/2016/12/MG_1158.jpg"> 
+  <img src="https://uploads.andeandaran.com/2016/12/MG_1158.jpg" title="En bici por Tam Coc" alt="Nosotros" /> </a>  
   <div>
     Nosotros
   </div>
 </div>
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_1203.jpg"> 
-  <img src="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_1203.jpg" title="_mg_1203" alt="Sandra en bicicleta" /> </a>   
+  <a href="https://uploads.andeandaran.com/2016/12/MG_1203.jpg"> 
+  <img src="https://uploads.andeandaran.com/2016/12/MG_1203.jpg" title="_mg_1203" alt="Sandra en bicicleta" /> </a>   
   <div>
     Sandra en bicicleta
   </div>
 </div>
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_1218.jpg"> 
-  <img src="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_1218.jpg" title="_mg_1218" alt="Senderos entre valles" /> </a>   
+  <a href="https://uploads.andeandaran.com/2016/12/MG_1218.jpg"> 
+  <img src="https://uploads.andeandaran.com/2016/12/MG_1218.jpg" title="_mg_1218" alt="Senderos entre valles" /> </a>   
   <div>
     Senderos entre valles
   </div>
 </div>
 
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_1156.jpg"> 
-  <img src="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_1156.jpg" title="_mg_1156" alt="Nosotros" /> </a>   
+  <a href="https://uploads.andeandaran.com/2016/12/MG_1156.jpg"> 
+  <img src="https://uploads.andeandaran.com/2016/12/MG_1156.jpg" title="_mg_1156" alt="Nosotros" /> </a>   
   <div>
     Nosotros
   </div>
 </div>
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_1160.jpg"> 
-  <img src="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_1160.jpg" title="_mg_1160" alt="Bich Dong"  /> </a>   
+  <a href="https://uploads.andeandaran.com/2016/12/MG_1160.jpg"> 
+  <img src="https://uploads.andeandaran.com/2016/12/MG_1160.jpg" title="_mg_1160" alt="Bich Dong"  /> </a>   
   <div>
     Bich Dong
   </div>
 </div>
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_1167.jpg"> 
-  <img src="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_1167.jpg" title="_mg_1167" alt="Escalando en Bich Dong" /> </a> 
+  <a href="https://uploads.andeandaran.com/2016/12/MG_1167.jpg"> 
+  <img src="https://uploads.andeandaran.com/2016/12/MG_1167.jpg" title="_mg_1167" alt="Escalando en Bich Dong" /> </a> 
   
   <div>
     Escalando en Bich Dong
   </div>
 </div>
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_1189.jpg"> 
-  <img src="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_1189.jpg" title="_mg_1189" alt="Vistas desde Bich Dong" /> </a> 
+  <a href="https://uploads.andeandaran.com/2016/12/MG_1189.jpg"> 
+  <img src="https://uploads.andeandaran.com/2016/12/MG_1189.jpg" title="_mg_1189" alt="Vistas desde Bich Dong" /> </a> 
   
   <div>
     Vistas desde Bich Dong
   </div>
 </div>
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_1140.jpg"> 
-  <img src="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_1140.jpg" title="_mg_1140" alt="Botes en el río"  /> </a> 
+  <a href="https://uploads.andeandaran.com/2016/12/MG_1140.jpg"> 
+  <img src="https://uploads.andeandaran.com/2016/12/MG_1140.jpg" title="_mg_1140" alt="Botes en el río"  /> </a> 
   
   <div>
     Botes en el río
   </div>
 </div>
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_1137.jpg"> 
-  <img src="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_1137.jpg" title="_mg_1137" alt="Bote en el río" /> </a> 
+  <a href="https://uploads.andeandaran.com/2016/12/MG_1137.jpg"> 
+  <img src="https://uploads.andeandaran.com/2016/12/MG_1137.jpg" title="_mg_1137" alt="Bote en el río" /> </a> 
   
   <div>
     Bote en el río
   </div>
 </div>
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_1026.jpg"> 
-  <img src="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_1026.jpg" title="_mg_1026" alt="Templo escondido en Ngo Dong" /> </a> 
+  <a href="https://uploads.andeandaran.com/2016/12/MG_1026.jpg"> 
+  <img src="https://uploads.andeandaran.com/2016/12/MG_1026.jpg" title="_mg_1026" alt="Templo escondido en Ngo Dong" /> </a> 
   
   <div>
     Templo escondido en Ngo Dong
   </div>
 </div>
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_1120.jpg"> 
-  <img src="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_1120.jpg" title="_mg_1120" alt="Templo escondido en Ngo Dong" /> </a> 
+  <a href="https://uploads.andeandaran.com/2016/12/MG_1120.jpg"> 
+  <img src="https://uploads.andeandaran.com/2016/12/MG_1120.jpg" title="_mg_1120" alt="Templo escondido en Ngo Dong" /> </a> 
   
   <div>
     Templo escondido en Ngo Dong
   </div>
 </div>
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_1117.jpg"> 
-  <img src="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_1117.jpg" title="_mg_1117" alt="Templo escondido en Ngo Dong" /> </a> 
+  <a href="https://uploads.andeandaran.com/2016/12/MG_1117.jpg"> 
+  <img src="https://uploads.andeandaran.com/2016/12/MG_1117.jpg" title="_mg_1117" alt="Templo escondido en Ngo Dong" /> </a> 
   
   <div>
     Templo escondido en Ngo Dong
   </div>
 </div>
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_1113.jpg"> 
-  <img src="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_1113.jpg" title="_mg_1113" alt="Templo escondido en Ngo Dong" /> </a> 
+  <a href="https://uploads.andeandaran.com/2016/12/MG_1113.jpg"> 
+  <img src="https://uploads.andeandaran.com/2016/12/MG_1113.jpg" title="_mg_1113" alt="Templo escondido en Ngo Dong" /> </a> 
   
   <div>
     Templo escondido en Ngo Dong
   </div>
 </div>
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_1051.jpg"> 
-  <img src="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_1051.jpg" title="_mg_1051" alt="cuevas" /> </a> 
+  <a href="https://uploads.andeandaran.com/2016/12/MG_1051.jpg"> 
+  <img src="https://uploads.andeandaran.com/2016/12/MG_1051.jpg" title="_mg_1051" alt="cuevas" /> </a> 
   
   <div>
     cuevas
   </div>
 </div>
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_1112.jpg"> 
-  <img src="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_1112.jpg" title="_mg_1112" alt="Templo escondido en Ngo Dong" /> </a> 
+  <a href="https://uploads.andeandaran.com/2016/12/MG_1112.jpg"> 
+  <img src="https://uploads.andeandaran.com/2016/12/MG_1112.jpg" title="_mg_1112" alt="Templo escondido en Ngo Dong" /> </a> 
   
   <div>
     Templo escondido en Ngo Dong
   </div>
 </div>
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_1086.jpg"> 
-  <img src="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_1086.jpg" title="_mg_1086" alt="Paseo por el río"  /> </a> 
+  <a href="https://uploads.andeandaran.com/2016/12/MG_1086.jpg"> 
+  <img src="https://uploads.andeandaran.com/2016/12/MG_1086.jpg" title="_mg_1086" alt="Paseo por el río"  /> </a> 
   
   <div>
     Paseo por el río
   </div>
 </div>
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_1111.jpg"> 
-  <img src="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_1111.jpg" title="_mg_1111" alt="Paseo por el río"  /> </a> 
+  <a href="https://uploads.andeandaran.com/2016/12/MG_1111.jpg"> 
+  <img src="https://uploads.andeandaran.com/2016/12/MG_1111.jpg" title="_mg_1111" alt="Paseo por el río"  /> </a> 
   
   <div>
     Paseo por el río
   </div>
 </div>
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_1059.jpg"> 
-  <img src="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_1059.jpg" title="_mg_1059" alt="Subiendo a una pagoda"  /> </a> 
+  <a href="https://uploads.andeandaran.com/2016/12/MG_1059.jpg"> 
+  <img src="https://uploads.andeandaran.com/2016/12/MG_1059.jpg" title="_mg_1059" alt="Subiendo a una pagoda"  /> </a> 
   
   <div>
     Subiendo a una pagoda
   </div>
 </div>
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_1108.jpg"> 
-  <img src="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_1108.jpg" title="_mg_1108" alt="Paseo por el río"  /> </a> 
+  <a href="https://uploads.andeandaran.com/2016/12/MG_1108.jpg"> 
+  <img src="https://uploads.andeandaran.com/2016/12/MG_1108.jpg" title="_mg_1108" alt="Paseo por el río"  /> </a> 
   
   <div>
     Paseo por el río
   </div>
 </div>
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_1256.jpg"> 
-  <img src="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_1256.jpg" title="_mg_1256" alt="Pagoda Lyng Dragon" /> </a> 
+  <a href="https://uploads.andeandaran.com/2016/12/MG_1256.jpg"> 
+  <img src="https://uploads.andeandaran.com/2016/12/MG_1256.jpg" title="_mg_1256" alt="Pagoda Lyng Dragon" /> </a> 
   
   <div>
     Pagoda Lyng Dragon
   </div>
 </div>
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_1058.jpg"> 
-  <img src="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_1058.jpg" title="_mg_1058" alt="Vistas del rio" /> </a> 
+  <a href="https://uploads.andeandaran.com/2016/12/MG_1058.jpg"> 
+  <img src="https://uploads.andeandaran.com/2016/12/MG_1058.jpg" title="_mg_1058" alt="Vistas del rio" /> </a> 
   
   <div>
     Vistas del rio

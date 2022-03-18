@@ -14,7 +14,7 @@ OSM_geo_data:
 OSM_geo_icon:
   - mic_black_pinother_02.png
 header:
-  image: https://www.andeandaran.com/wp-content/uploads/2017/05/Nueva-Zelanda-IslaSur-parte1.jpg
+  image: https://uploads.andeandaran.com/2017/05/Nueva-Zelanda-IslaSur-parte1.jpg
 ---
 
   Nuestro paso por la Isla Sur, al igual que por la <a href="http://www.andeandaran.com/2017/04/22/nueva-zelanda-isla-norte/">Isla Norte</a>, fue en varias partes... Los dos primeros días fueron parte de una relocalización que realizamos desde Auckland a Christchurch. Después pasamos unos días en Christchurch y Ashburton intentando organizar el resto del viaje. Seguido recorrimos la isla durante 10 días en furgoneta y por último hicimos otra relocalización de Christchurch a Auckland.
@@ -74,7 +74,7 @@ En la web del <a href="http://www.doc.govt.nz/parks-and-recreation/places-to-go/
 
 En un principio pensamos en dormir junto a estas cascadas ya que hay un camping justo al lado, pero tras llegar bastante pronto y verlas, decidimos continuar y buscar otro lugar para dormir.
 
-<img class="aligncenter wp-image-1875 size-large" src="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-28-1024x683.jpg" /> 
+<img class="aligncenter wp-image-1875 size-large" src="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-28-1024x683.jpg" /> 
 
 Es un lugar agradable para parar a descansar, pero las instalaciones del camping son muy básicas y las _Sandflies_ amenazaban con no dejarnos hacer vida fuera de la autocaravana.
 
@@ -116,7 +116,7 @@ Estad atentos, en unos días publicaremos la segunda parte: Mout Cook, Queenstow
 <div>
 <div >
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-18.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-18.jpg" title="Queen Charlotte Sounds" alt="Llegando a la Isla Sur"  /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-18.jpg"> <img src="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-18.jpg" title="Queen Charlotte Sounds" alt="Llegando a la Isla Sur"  /> </a> 
   
   <div>
     Llegando a la Isla Sur
@@ -128,11 +128,11 @@ Estad atentos, en unos días publicaremos la segunda parte: Mout Cook, Queenstow
 
 <div >
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-21.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-21.jpg" title="Luchando contra el viento" alt="Luchando contra el viento" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-21.jpg"> <img src="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-21.jpg" title="Luchando contra el viento" alt="Luchando contra el viento" /> </a>
 </div>
 
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-19.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-19.jpg" title="Queen Charlotte Sounds" alt="Los fiordos que hay llegando a la Isla Sur" /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-19.jpg"> <img src="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-19.jpg" title="Queen Charlotte Sounds" alt="Los fiordos que hay llegando a la Isla Sur" /> </a> 
   
   <div>
     Los fiordos que hay llegando a la Isla Sur
@@ -148,7 +148,7 @@ Estad atentos, en unos días publicaremos la segunda parte: Mout Cook, Queenstow
 <div >
 <div  >
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-22.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-22.jpg" title="Sandra en el ferry" alt="Vistas desde el ferry de la isla Sur" /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-22.jpg"> <img src="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-22.jpg" title="Sandra en el ferry" alt="Vistas desde el ferry de la isla Sur" /> </a> 
   
   <div>
     Vistas desde el ferry de la isla Sur
@@ -160,7 +160,7 @@ Estad atentos, en unos días publicaremos la segunda parte: Mout Cook, Queenstow
 
 <div  >
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-20.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-20.jpg" title="&quot;La casa en la colina&quot;" alt="&quot;La casa en la colina&quot;" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-20.jpg"> <img src="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-20.jpg" title="&quot;La casa en la colina&quot;" alt="&quot;La casa en la colina&quot;" /> </a>
 </div>
 </div>
 
@@ -168,7 +168,7 @@ Estad atentos, en unos días publicaremos la segunda parte: Mout Cook, Queenstow
 
 <div  >
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-23.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-23.jpg" title="Taylor Dam Camping" alt="Taylor Dam Camping" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-23.jpg"> <img src="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-23.jpg" title="Taylor Dam Camping" alt="Taylor Dam Camping" /> </a>
 </div>
 </div>
 
@@ -180,7 +180,7 @@ Estad atentos, en unos días publicaremos la segunda parte: Mout Cook, Queenstow
 <div >
 <div >
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-24.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-24.jpg" title="Taylor Dam" alt="Autocaravana de Apollo campers" /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-24.jpg"> <img src="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-24.jpg" title="Taylor Dam" alt="Autocaravana de Apollo campers" /> </a> 
   
   <div>
     Autocaravana de Apollo campers
@@ -188,7 +188,7 @@ Estad atentos, en unos días publicaremos la segunda parte: Mout Cook, Queenstow
 </div>
 
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-27.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-27.jpg" title="Lago Rotoiti" alt="Y un patito que se acercó en busca de comida" /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-27.jpg"> <img src="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-27.jpg" title="Lago Rotoiti" alt="Y un patito que se acercó en busca de comida" /> </a> 
   
   <div>
     Y un patito que se acercó en busca de comida
@@ -200,7 +200,7 @@ Estad atentos, en unos días publicaremos la segunda parte: Mout Cook, Queenstow
 
 <div  >
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/05/DSC_1668.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/05/DSC_1668.jpg" title="DSC_1668" alt="En los Nelson Lakes" /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/05/DSC_1668.jpg"> <img src="https://uploads.andeandaran.com/2017/05/DSC_1668.jpg" title="DSC_1668" alt="En los Nelson Lakes" /> </a> 
   
   <div>
     En los Nelson Lakes
@@ -216,7 +216,7 @@ Estad atentos, en unos días publicaremos la segunda parte: Mout Cook, Queenstow
 <div  >
 <div  >
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-28.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-28.jpg" title="Maruia Falls" alt="Maruia Falls" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-28.jpg"> <img src="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-28.jpg" title="Maruia Falls" alt="Maruia Falls" /> </a>
 </div>
 </div>
 
@@ -224,7 +224,7 @@ Estad atentos, en unos días publicaremos la segunda parte: Mout Cook, Queenstow
 
 <div  >
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-29.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/04/Auckland-Christchurch-29.jpg" title="Llegando a Lewis Pass" alt="Recorriendo las carreteras de la isla norte" /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-29.jpg"> <img src="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-29.jpg" title="Llegando a Lewis Pass" alt="Recorriendo las carreteras de la isla norte" /> </a> 
   
   <div>
     Recorriendo las carreteras de la isla norte
@@ -240,7 +240,7 @@ Estad atentos, en unos días publicaremos la segunda parte: Mout Cook, Queenstow
 <div>
 <div >
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/05/IMG_4007.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/05/IMG_4007.jpg" title="Bridge of Remembrance" alt="Construido para conmemorar a los soldados caídos durante la 1ª Guerra Mundial"  /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/05/IMG_4007.jpg"> <img src="https://uploads.andeandaran.com/2017/05/IMG_4007.jpg" title="Bridge of Remembrance" alt="Construido para conmemorar a los soldados caídos durante la 1ª Guerra Mundial"  /> </a> 
   
   <div>
     Construido para conmemorar a los soldados caídos durante la 1ª Guerra Mundial
@@ -252,7 +252,7 @@ Estad atentos, en unos días publicaremos la segunda parte: Mout Cook, Queenstow
 
 <div >
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/05/IMG_4025.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/05/IMG_4025.jpg" title="Jardín botánico" alt="Una de las salas del jardín botánico" /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/05/IMG_4025.jpg"> <img src="https://uploads.andeandaran.com/2017/05/IMG_4025.jpg" title="Jardín botánico" alt="Una de las salas del jardín botánico" /> </a> 
   
   <div>
     Una de las salas del jardín botánico
@@ -260,7 +260,7 @@ Estad atentos, en unos días publicaremos la segunda parte: Mout Cook, Queenstow
 </div>
 
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/05/IMG_4028.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/05/IMG_4028.jpg" title="Paseando por el parque" alt="Tienen hasta un campo de golf" /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/05/IMG_4028.jpg"> <img src="https://uploads.andeandaran.com/2017/05/IMG_4028.jpg" title="Paseando por el parque" alt="Tienen hasta un campo de golf" /> </a> 
   
   <div>
     Tienen hasta un campo de golf
@@ -276,7 +276,7 @@ Estad atentos, en unos días publicaremos la segunda parte: Mout Cook, Queenstow
 <div  >
 <div  >
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/05/DSC_1670.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/05/DSC_1670.jpg" title="DSC_1670" alt="En ruta" /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/05/DSC_1670.jpg"> <img src="https://uploads.andeandaran.com/2017/05/DSC_1670.jpg" title="DSC_1670" alt="En ruta" /> </a> 
   
   <div>
     En ruta
@@ -288,7 +288,7 @@ Estad atentos, en unos días publicaremos la segunda parte: Mout Cook, Queenstow
 
 <div  >
 <div>
-  <a href="https://www.andeandaran.com/wp-content/uploads/2017/05/DSC_1730.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/05/DSC_1730.jpg" title="DSC_1730" alt="Selfie" /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/05/DSC_1730.jpg"> <img src="https://uploads.andeandaran.com/2017/05/DSC_1730.jpg" title="DSC_1730" alt="Selfie" /> </a> 
   
   <div>
     Selfie

@@ -14,7 +14,7 @@ OSM_geo_data:
 OSM_geo_icon:
   - mic_black_pinother_02.png
 header:
-  image: https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1384-Panorama.jpg
+  image: https://uploads.andeandaran.com/2017/01/MG_1384-Panorama.jpg
 ---
 
   Llegando al final de nuestro viaje por Vietnam decidimos ir a Cat Ba, una isla situada al sur de de Ha Long Bay. Decidimos ir a esta isla en lugar de a Ha Long Bay porque no queríamos un tour cerrado que nos llevara a los destinos que ellos consideran de interés.<br /> Además, la isla de Cat Ba ofrece prácticamente los mismos paisajes, la libertad de alquilar una moto para moverte a tu antojo y muchas más actividades y destinos interesantes que visitar... Y si eso parecía poco, es uno de los pocos lugares de Vietnam en los que se puede practicar escalada deportiva, <a href="http://www.andeandaran.com/2016/12/28/escalada-deportiva-cat-ba/" target="_blank" rel="noopener">os lo contamos en este otro post</a>.
@@ -94,82 +94,82 @@ Alquilar una moto es muy barato, 70.000VND al día<em> (menos de 3€)</em> y co
 
 <div>
   <div>
-    <a href="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_1269.jpg">
-    <img src="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_1269.jpg" title="_mg_1269" alt="Lan Ha Bay desde Canon Fort" /> </a>   
+    <a href="https://uploads.andeandaran.com/2016/12/MG_1269.jpg">
+    <img src="https://uploads.andeandaran.com/2016/12/MG_1269.jpg" title="_mg_1269" alt="Lan Ha Bay desde Canon Fort" /> </a>   
     <div>
       Lan Ha Bay desde Canon Fort
     </div>
   </div>
   <div>
-    <a href="https://www.andeandaran.com/wp-content/uploads/2017/01/GOPR7867.jpg">
-    <img src="https://www.andeandaran.com/wp-content/uploads/2017/01/GOPR7867.jpg" title="gopr7867" alt="Volviendo al hotel" /> </a>   
+    <a href="https://uploads.andeandaran.com/2017/01/GOPR7867.jpg">
+    <img src="https://uploads.andeandaran.com/2017/01/GOPR7867.jpg" title="gopr7867" alt="Volviendo al hotel" /> </a>   
     <div>
       Volviendo al hotel
     </div>
   </div>
   <div>
-    <a href="https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1339.jpg">
-    <img src="https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1339.jpg" title="_mg_1339" alt="Sandra en una de las habitaciones del Hospital Cueva"  /> </a>
+    <a href="https://uploads.andeandaran.com/2017/01/MG_1339.jpg">
+    <img src="https://uploads.andeandaran.com/2017/01/MG_1339.jpg" title="_mg_1339" alt="Sandra en una de las habitaciones del Hospital Cueva"  /> </a>
     <div>
       Sandra en una de las habitaciones del Hospital Cueva
     </div>
   </div>
   <div>
-    <a href="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_1382.jpg">
-    <img src="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_1382.jpg" title="_mg_1382" alt="Las vistas desde lo alto de Monkey island" /> </a>     
+    <a href="https://uploads.andeandaran.com/2016/12/MG_1382.jpg">
+    <img src="https://uploads.andeandaran.com/2016/12/MG_1382.jpg" title="_mg_1382" alt="Las vistas desde lo alto de Monkey island" /> </a>     
     <div>
       Las vistas desde lo alto de Monkey island
     </div>
   </div>
   <div>
-    <a href="https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1372.jpg">
-    <img src="https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1372.jpg" title="_mg_1372" alt="De paseo en bote por Lan Ha bay" /> </a>
+    <a href="https://uploads.andeandaran.com/2017/01/MG_1372.jpg">
+    <img src="https://uploads.andeandaran.com/2017/01/MG_1372.jpg" title="_mg_1372" alt="De paseo en bote por Lan Ha bay" /> </a>
     <div>
       De paseo en bote por Lan Ha bay
     </div>
   </div>
   <div>
-    <a href="https://www.andeandaran.com/wp-content/uploads/2017/01/GOPR7842.jpg">
-    <img src="https://www.andeandaran.com/wp-content/uploads/2017/01/GOPR7842.jpg" title="gopr7842" alt="gopr7842"  /> </a>
+    <a href="https://uploads.andeandaran.com/2017/01/GOPR7842.jpg">
+    <img src="https://uploads.andeandaran.com/2017/01/GOPR7842.jpg" title="gopr7842" alt="gopr7842"  /> </a>
   </div>
   <div>
-    <a href="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_1396.jpg">
-    <img src="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_1396.jpg" title="_mg_1396" alt="Pueblo flotante" /> </a>
+    <a href="https://uploads.andeandaran.com/2016/12/MG_1396.jpg">
+    <img src="https://uploads.andeandaran.com/2016/12/MG_1396.jpg" title="_mg_1396" alt="Pueblo flotante" /> </a>
     <div>
       Pueblo flotante
     </div>
   </div>
   <div>
-    <a href="https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1356.jpg">
-    <img src="https://www.andeandaran.com/wp-content/uploads/2017/01/MG_1356.jpg" title="_mg_1356" alt="El bote a Monkey Island" /> </a>   
+    <a href="https://uploads.andeandaran.com/2017/01/MG_1356.jpg">
+    <img src="https://uploads.andeandaran.com/2017/01/MG_1356.jpg" title="_mg_1356" alt="El bote a Monkey Island" /> </a>   
     <div>
       El bote a Monkey Island
     </div>
   </div>
   <div>
-    <a href="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_1350.jpg">
-    <img src="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_1350.jpg" title="_mg_1350" alt="Una de las barqueras que hacen el trayecto Cat Ba - Pueblo flotante"  /> </a>    
+    <a href="https://uploads.andeandaran.com/2016/12/MG_1350.jpg">
+    <img src="https://uploads.andeandaran.com/2016/12/MG_1350.jpg" title="_mg_1350" alt="Una de las barqueras que hacen el trayecto Cat Ba - Pueblo flotante"  /> </a>    
     <div>
       Una de las barqueras que hacen el trayecto Cat Ba - Pueblo flotante
     </div>
   </div>
   <div>
-    <a href="https://www.andeandaran.com/wp-content/uploads/2017/01/GOPR7848.jpg">
-    <img src="https://www.andeandaran.com/wp-content/uploads/2017/01/GOPR7848.jpg" title="gopr7848" alt="En lo alto del Parque Nacional de Cat Ba"  /> </a>  
+    <a href="https://uploads.andeandaran.com/2017/01/GOPR7848.jpg">
+    <img src="https://uploads.andeandaran.com/2017/01/GOPR7848.jpg" title="gopr7848" alt="En lo alto del Parque Nacional de Cat Ba"  /> </a>  
     <div>
       En lo alto del Parque Nacional de Cat Ba
     </div>
   </div>
   <div>
-    <a href="https://www.andeandaran.com/wp-content/uploads/2017/01/GOPR7840.jpg">
-    <img src="https://www.andeandaran.com/wp-content/uploads/2017/01/GOPR7840.jpg" title="gopr7840" alt="El bar de Canon Fort"  /> </a>   
+    <a href="https://uploads.andeandaran.com/2017/01/GOPR7840.jpg">
+    <img src="https://uploads.andeandaran.com/2017/01/GOPR7840.jpg" title="gopr7840" alt="El bar de Canon Fort"  /> </a>   
     <div>
       El bar de Canon Fort
     </div>
   </div>
   <div>
-    <a href="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_1285.jpg">
-    <img src="https://www.andeandaran.com/wp-content/uploads/2016/12/MG_1285.jpg" title="_mg_1285" alt="Las vistas desde lo alto de Canon Fort"  /> </a>   
+    <a href="https://uploads.andeandaran.com/2016/12/MG_1285.jpg">
+    <img src="https://uploads.andeandaran.com/2016/12/MG_1285.jpg" title="_mg_1285" alt="Las vistas desde lo alto de Canon Fort"  /> </a>   
     <div>
       Las vistas desde lo alto de Canon Fort
     </div>

@@ -10,7 +10,7 @@ categories:
   -  viajes
   -  nueva-zelanda
 header:
-  image: https://www.andeandaran.com/wp-content/uploads/2017/06/IMG_4812.jpg
+  image: https://uploads.andeandaran.com/2017/06/IMG_4812.jpg
 ---
 
   En este post os contamos los lugares que recorrimos durante nuestros últimos días en la Isla Sur de Nueva Zelanda. En la <a href="http://www.andeandaran.com/2017/05/14/nueva-zelanda-isla-sur-2/">anterior entrada</a> acabamos en Milford Sound, saliendo de camino a Wanaka Lakes. (Si te perdiste los anteriores posts, aquí puedes leerlos: <a href="http://www.andeandaran.com/2017/05/04/nueva-zelanda-isla-sur/">Parte 1</a>, <a href="http://www.andeandaran.com/2017/05/14/nueva-zelanda-isla-sur-2/">Parte 2</a>.)
@@ -94,7 +94,7 @@ header:
   Tras un paseo de 45min se llega a la base del glaciar. En la foto de arriba podéis ver el paisaje que había a nuestras espaldas unos minutos antes de llegar al glaciar.<br /> El camino es una pista perfectamente señalizada y con muy buen mantenimiento.
 
 <figure id="attachment_2049" >
-<img class="wp-image-2049 size-large" src="https://www.andeandaran.com/wp-content/uploads/2017/06/nzs-3-6-1024x683.jpg" alt="Glaciar Franz Josef... al fondo, entre las nubes" /> <figcaption class="wp-caption-text">Glaciar Franz Josef... al fondo, entre las nubes</figcaption></figure> 
+<img class="wp-image-2049 size-large" src="https://uploads.andeandaran.com/2017/06/nzs-3-6-1024x683.jpg" alt="Glaciar Franz Josef... al fondo, entre las nubes" /> <figcaption class="wp-caption-text">Glaciar Franz Josef... al fondo, entre las nubes</figcaption></figure> 
 
 
   Cuando estábamos llegando a la furgoneta empezó a llover de nuevo con ganas, así que aquí acabó nuestro día. Por suerte, al día siguiente el tiempo cambió.
@@ -107,7 +107,7 @@ header:
   Un poquito más al sur se encuentra este otro glaciar. Está indicado por todas partes y el camino nos pareció aún más sencillo... quizás al final se vuelve algo más exigente porque hay una pendiente con bastante inclinación, pero nada más.
 
 <figure id="attachment_2055" >
-<img class="size-large wp-image-2055" src="https://www.andeandaran.com/wp-content/uploads/2017/06/nzs-3-12-1024x683.jpg" alt="Fox Glacier, Costa Oeste, Isla Sur de Nueva Zelanda" /><figcaption class="wp-caption-text">Volviendo de Fox Glacier</figcaption></figure> 
+<img class="size-large wp-image-2055" src="https://uploads.andeandaran.com/2017/06/nzs-3-12-1024x683.jpg" alt="Fox Glacier, Costa Oeste, Isla Sur de Nueva Zelanda" /><figcaption class="wp-caption-text">Volviendo de Fox Glacier</figcaption></figure> 
 
 ## Pancake Rocks
 
@@ -116,7 +116,7 @@ header:
   Antes de dirigirnos de nuevo a la Costa Este decidimos darle una oportunidad a este destino turístico... fue un error. A ver, quizá íbamos con unas expectativas algo infladas y tras un desvío de unos 80km esperábamos "algo más".
 <figure id="attachment_2058" >
 
-<img class="size-large wp-image-2058" src="https://www.andeandaran.com/wp-content/uploads/2017/06/nzs-3-15-1024x683.jpg" alt="Pancake Rocks, Isla Sur de Nueva Zelanda" /><figcaption class="wp-caption-text">Costa Oeste, Isla Sur de Nueva Zelanda. ¿Eso es un conejo?</figcaption></figure> 
+<img class="size-large wp-image-2058" src="https://uploads.andeandaran.com/2017/06/nzs-3-15-1024x683.jpg" alt="Pancake Rocks, Isla Sur de Nueva Zelanda" /><figcaption class="wp-caption-text">Costa Oeste, Isla Sur de Nueva Zelanda. ¿Eso es un conejo?</figcaption></figure> 
 
 
   Para nosotros es un lugar en el que parar a descansar y dar un paseo si te pilla de paso, pero no creemos que merezca la pena dedicarle mucho más tiempo.
@@ -129,7 +129,7 @@ header:
   Uno de los lugares que más nos gustó de nuestro paso por la Isla Sur. Se trata de varios conjuntos de roca caliza (ideales para escalar, "Boulder" y algo de "Clásica" principalmente) rodeados de pastos verdes y unos paisajes preciosos.
 <figure id="attachment_2060" >
 
-<img class="size-large wp-image-2060" src="https://www.andeandaran.com/wp-content/uploads/2017/06/nzs-3-17-1024x683.jpg" alt="Castle Hill, Isla Sur de Nueva Zelanda" /> <figcaption class="wp-caption-text">Castle Hill, Isla Sur de Nueva Zelanda</figcaption></figure> 
+<img class="size-large wp-image-2060" src="https://uploads.andeandaran.com/2017/06/nzs-3-17-1024x683.jpg" alt="Castle Hill, Isla Sur de Nueva Zelanda" /> <figcaption class="wp-caption-text">Castle Hill, Isla Sur de Nueva Zelanda</figcaption></figure> 
 
 ### Escalada en Castle Hill
 
@@ -157,7 +157,7 @@ header:
   Tras los primeros intentos nos dimos cuenta de que iban a ser bastante más difíciles de lo esperado, pero aun así lo pasamos bien.
 <figure id="attachment_2059" >
 
-<img class="wp-image-2059 size-large" src="https://www.andeandaran.com/wp-content/uploads/2017/06/nzs-3-16-1024x683.jpg" alt="Primer intento de escalar en Castle Hill" /> <figcaption class="wp-caption-text">Primer intento de escalar en Castle Hill</figcaption></figure> 
+<img class="wp-image-2059 size-large" src="https://uploads.andeandaran.com/2017/06/nzs-3-16-1024x683.jpg" alt="Primer intento de escalar en Castle Hill" /> <figcaption class="wp-caption-text">Primer intento de escalar en Castle Hill</figcaption></figure> 
 
 
   Caliza resbaladiza y movimientos muy técnicos. Perfecto para un día de boulder improvisado o para pasar allí una o dos semanas puliéndose las yemas de los dedos...
@@ -179,108 +179,108 @@ header:
 
 <div>
   <div>
-    <a href="https://www.andeandaran.com/wp-content/uploads/2017/06/nzs-3-1.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/06/nzs-3-1.jpg" title="Blue Pools Track" alt="Blue Pools Track" /> </a>
+    <a href="https://uploads.andeandaran.com/2017/06/nzs-3-1.jpg"> <img src="https://uploads.andeandaran.com/2017/06/nzs-3-1.jpg" title="Blue Pools Track" alt="Blue Pools Track" /> </a>
     <div>
       Siendo devorados por las "moscas de arena"
     </div>
   </div>
   <div>
-    <a href="https://www.andeandaran.com/wp-content/uploads/2017/06/nzs-3-2.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/06/nzs-3-2.jpg" title="Otra cascada más..." alt="Otra cascada más..." /> </a>
+    <a href="https://uploads.andeandaran.com/2017/06/nzs-3-2.jpg"> <img src="https://uploads.andeandaran.com/2017/06/nzs-3-2.jpg" title="Otra cascada más..." alt="Otra cascada más..." /> </a>
   </div>
   <div>
-    <a href="https://www.andeandaran.com/wp-content/uploads/2017/06/nzs-3-3.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/06/nzs-3-3.jpg" title="" alt="El camino a Fantail Falls" /> </a> 
+    <a href="https://uploads.andeandaran.com/2017/06/nzs-3-3.jpg"> <img src="https://uploads.andeandaran.com/2017/06/nzs-3-3.jpg" title="" alt="El camino a Fantail Falls" /> </a> 
     <div>
       El camino a Fantail Falls
     </div>
   </div>
   <div>
-    <a href="https://www.andeandaran.com/wp-content/uploads/2017/06/nzs-3-4.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/06/nzs-3-4.jpg" title="Franz Josef Glacier" alt="Franz Josef Glacier" /> </a>
+    <a href="https://uploads.andeandaran.com/2017/06/nzs-3-4.jpg"> <img src="https://uploads.andeandaran.com/2017/06/nzs-3-4.jpg" title="Franz Josef Glacier" alt="Franz Josef Glacier" /> </a>
     <div>
       Llegando al pueblo en un día lluvioso
     </div>
   </div>
   <div>
-    <a href="https://www.andeandaran.com/wp-content/uploads/2017/06/nzs-3-5.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/06/nzs-3-5.jpg" title="Franz Josef Glacier" alt="Franz Josef Glacier"  /> </a>   
+    <a href="https://uploads.andeandaran.com/2017/06/nzs-3-5.jpg"> <img src="https://uploads.andeandaran.com/2017/06/nzs-3-5.jpg" title="Franz Josef Glacier" alt="Franz Josef Glacier"  /> </a>   
     <div>
       Llegaremos al glaciar??
     </div>
   </div>
   <div>
-    <a href="https://www.andeandaran.com/wp-content/uploads/2017/06/nzs-3-6.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/06/nzs-3-6.jpg" title="Franz Josef Glacier" alt="Glaciar Franz Josef... al fondo, entre las nubes" /> </a>   
+    <a href="https://uploads.andeandaran.com/2017/06/nzs-3-6.jpg"> <img src="https://uploads.andeandaran.com/2017/06/nzs-3-6.jpg" title="Franz Josef Glacier" alt="Glaciar Franz Josef... al fondo, entre las nubes" /> </a>   
     <div>
       Glaciar Franz Josef... al fondo, entre las nubes
     </div>
   </div>
   <div>
-    <a href="https://www.andeandaran.com/wp-content/uploads/2017/06/nzs-3-7.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/06/nzs-3-7.jpg" title="" alt="Moda Otoño en NZ..." /> </a>   
+    <a href="https://uploads.andeandaran.com/2017/06/nzs-3-7.jpg"> <img src="https://uploads.andeandaran.com/2017/06/nzs-3-7.jpg" title="" alt="Moda Otoño en NZ..." /> </a>   
     <div>
       Moda Otoño en NZ...
     </div>
   </div>
   <div>
-    <a href="https://www.andeandaran.com/wp-content/uploads/2017/06/nzs-3-8.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/06/nzs-3-8.jpg" title="" alt="Moda Otoño en NZ... El chubasquero de Sandra era ligeramente más glamuroso" /> </a>   
+    <a href="https://uploads.andeandaran.com/2017/06/nzs-3-8.jpg"> <img src="https://uploads.andeandaran.com/2017/06/nzs-3-8.jpg" title="" alt="Moda Otoño en NZ... El chubasquero de Sandra era ligeramente más glamuroso" /> </a>   
     <div>
       Moda Otoño en NZ... El chubasquero de Sandra era ligeramente más glamuroso
     </div>
   </div>
   <div>
-    <a href="https://www.andeandaran.com/wp-content/uploads/2017/06/nzs-3-9.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/06/nzs-3-9.jpg" title="Fox Glacier" alt="Fox Glacier" /> </a>   
+    <a href="https://uploads.andeandaran.com/2017/06/nzs-3-9.jpg"> <img src="https://uploads.andeandaran.com/2017/06/nzs-3-9.jpg" title="Fox Glacier" alt="Fox Glacier" /> </a>   
     <div>
       A los pies del glaciar
     </div>
   </div>
   <div>
-    <a href="https://www.andeandaran.com/wp-content/uploads/2017/06/nzs-3-10.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/06/nzs-3-10.jpg" title="nzs-3--10" alt="nzs-3--10"  /> </a>
+    <a href="https://uploads.andeandaran.com/2017/06/nzs-3-10.jpg"> <img src="https://uploads.andeandaran.com/2017/06/nzs-3-10.jpg" title="nzs-3--10" alt="nzs-3--10"  /> </a>
   </div>
   <div>
-    <a href="https://www.andeandaran.com/wp-content/uploads/2017/06/nzs-3-11.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/06/nzs-3-11.jpg" title="Fox Glacier" alt="Volviendo de Fox Glacier" /> </a>   
+    <a href="https://uploads.andeandaran.com/2017/06/nzs-3-11.jpg"> <img src="https://uploads.andeandaran.com/2017/06/nzs-3-11.jpg" title="Fox Glacier" alt="Volviendo de Fox Glacier" /> </a>   
     <div>
       Volviendo de Fox Glacier
     </div>
   </div>
   <div>
-    <a href="https://www.andeandaran.com/wp-content/uploads/2017/06/nzs-3-12.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/06/nzs-3-12.jpg" title="Fox Glacier" alt="Fox Glacier, Costa Oeste, Isla Sur de Nueva Zelanda" /> </a>   
+    <a href="https://uploads.andeandaran.com/2017/06/nzs-3-12.jpg"> <img src="https://uploads.andeandaran.com/2017/06/nzs-3-12.jpg" title="Fox Glacier" alt="Fox Glacier, Costa Oeste, Isla Sur de Nueva Zelanda" /> </a>   
     <div>
       Fox Glacier, Costa Oeste, Isla Sur de Nueva Zelanda
     </div>
   </div>
   <div>
-    <a href="https://www.andeandaran.com/wp-content/uploads/2017/06/nzs-3-13.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/06/nzs-3-13.jpg" title="" alt="Nuestros acompañantes!" /> </a>   
+    <a href="https://uploads.andeandaran.com/2017/06/nzs-3-13.jpg"> <img src="https://uploads.andeandaran.com/2017/06/nzs-3-13.jpg" title="" alt="Nuestros acompañantes!" /> </a>   
     <div>
       Nuestros acompañantes!
     </div>
   </div>
   <div>
-    <a href="https://www.andeandaran.com/wp-content/uploads/2017/06/nzs-3-14.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/06/nzs-3-14.jpg" title="Costa Oeste, Isla Sur de Nueva Zelanda" alt="Costa Oeste, Isla Sur de Nueva Zelanda" /> </a>   
+    <a href="https://uploads.andeandaran.com/2017/06/nzs-3-14.jpg"> <img src="https://uploads.andeandaran.com/2017/06/nzs-3-14.jpg" title="Costa Oeste, Isla Sur de Nueva Zelanda" alt="Costa Oeste, Isla Sur de Nueva Zelanda" /> </a>   
     <div>
       Costa Oeste, Isla Sur de Nueva Zelanda
     </div>
   </div>
   <div>
-    <a href="https://www.andeandaran.com/wp-content/uploads/2017/06/nzs-3-15.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/06/nzs-3-15.jpg" title="Pancake Rocks, Isla Sur de Nueva Zelanda" alt="Pancake Rocks, Isla Sur de Nueva Zelanda" /> </a>   
+    <a href="https://uploads.andeandaran.com/2017/06/nzs-3-15.jpg"> <img src="https://uploads.andeandaran.com/2017/06/nzs-3-15.jpg" title="Pancake Rocks, Isla Sur de Nueva Zelanda" alt="Pancake Rocks, Isla Sur de Nueva Zelanda" /> </a>   
     <div>
       Pancake Rocks, Isla Sur de Nueva Zelanda
     </div>
   </div>
   <div>
-    <a href="https://www.andeandaran.com/wp-content/uploads/2017/06/nzs-3-16.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/06/nzs-3-16.jpg" title="" alt="Primer intento de bloque en Castle Hill"  /> </a>   
+    <a href="https://uploads.andeandaran.com/2017/06/nzs-3-16.jpg"> <img src="https://uploads.andeandaran.com/2017/06/nzs-3-16.jpg" title="" alt="Primer intento de bloque en Castle Hill"  /> </a>   
     <div>
       Primer intento de bloque en Castle Hill
     </div>
   </div>
   <div>
-    <a href="https://www.andeandaran.com/wp-content/uploads/2017/06/nzs-3-17.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/06/nzs-3-17.jpg" title="Castle Hill, Isla Sur de Nueva Zelanda" alt="Castle Hill, Isla Sur de Nueva Zelanda" /> </a>   
+    <a href="https://uploads.andeandaran.com/2017/06/nzs-3-17.jpg"> <img src="https://uploads.andeandaran.com/2017/06/nzs-3-17.jpg" title="Castle Hill, Isla Sur de Nueva Zelanda" alt="Castle Hill, Isla Sur de Nueva Zelanda" /> </a>   
     <div>
       Castle Hill, Isla Sur de Nueva Zelanda
     </div>
   </div>
   <div>
-    <a href="https://www.andeandaran.com/wp-content/uploads/2017/06/nzs-3-18.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/06/nzs-3-18.jpg" title="" alt="&quot;Cómo te quiero roca!!&quot;" /> </a>   
+    <a href="https://uploads.andeandaran.com/2017/06/nzs-3-18.jpg"> <img src="https://uploads.andeandaran.com/2017/06/nzs-3-18.jpg" title="" alt="&quot;Cómo te quiero roca!!&quot;" /> </a>   
     <div>
       "Cómo te quiero roca!!"
     </div>
   </div>
   <div>
-    <a href="https://www.andeandaran.com/wp-content/uploads/2017/06/nzs-3-19.jpg"> <img src="https://www.andeandaran.com/wp-content/uploads/2017/06/nzs-3-19.jpg" title="Castle Hill" alt="Castle Hill" /> </a>
+    <a href="https://uploads.andeandaran.com/2017/06/nzs-3-19.jpg"> <img src="https://uploads.andeandaran.com/2017/06/nzs-3-19.jpg" title="Castle Hill" alt="Castle Hill" /> </a>
   </div>
 </div>
