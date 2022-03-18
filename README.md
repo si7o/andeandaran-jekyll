@@ -11,5 +11,6 @@ I decided to turn our old wordpress blog into a static jekyll site, while keepin
 Use WSL2, install ruby (2.7.2) using rvm
 
 ```bash
+rvm use 2.7.2
 bundle exec jekyll serve --force_polling --livereload
 ```
