@@ -4,7 +4,9 @@
 
 @charset "utf-8";
 
-$masthead-link-color: #373735;
+$masthead-link-color: #aaaaaa;
+$masthead-link-color-hover: #7abea4;
+$masthead-background-color: #373735;
 
 $link-color: #7abea4;
 $link-color-hover: #628d7c;
@@ -155,6 +157,60 @@ section.page__content {
     }
 }
 
+.masthead {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    transition: $global-transition;
+    background-color: $masthead-background-color;
+    border-bottom: 3px solid $masthead-link-color;
+    
+    &.hide {
+        top: -54px;
+    }
+
+    &__inner-wrap {
+        padding: 0;
+    }
+    
+    a.site-logo {
+        vertical-align: middle;
+        background-image: url('https://uploads.andeandaran.com/images/small-logo-menu.png');
+        background-position-x: 0%;
+        background-position-x: 118px;
+        width: 115px;
+        height: 56px;
+
+        &:hover {
+            background-position-x: 0px;
+        }
+    }
+
+    .greedy-nav {
+        background-color: $masthead-background-color;
+
+        .visible-links a {
+            font-weight: 300;
+
+            &::before {
+                height: 2px;
+            }
+        }
+    }
+}
+
+.layout--home {
+    .home-logo {
+        height: 150px;
+        width: 100%;
+        margin: 4em 0 2em 0;
+        background-image: url('https://uploads.andeandaran.com/2016/09/cropped-logo_blog-1.png');
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: contain;
+    }
+}
+
 
 .page__meta {
     .map {
@@ -203,7 +259,7 @@ section.page__content {
 }
 
 .page-full-width {
-    padding-top: 20px;
+    padding-top: 3em;
 
     header {
         text-align: center;
@@ -270,12 +326,6 @@ section.page__content {
         box-shadow: 0 0 4px #37373544;
         margin: 1em;
         border-radius: 8px;
-    }
-}
-
-.masthead {    
-    &__inner-wrap {
-        padding: 0.25em;
     }
 }
 
