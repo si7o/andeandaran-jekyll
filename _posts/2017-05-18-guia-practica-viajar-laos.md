@@ -22,14 +22,6 @@ Si estás planeando visitar Laos, te contamos cual fue nuestro itinerario y algu
 
 _Pincha sobre los diferentes marcadores del mapa para ver las entradas donde ampliamos información sobre qué hacer, dónde alojarse y otro datos útiles de cada punto del itinerario._
 
-<div id="map_ol3js_4" class="map" >
-  <div id="map_ol3js_4_popup" class="ol-popup" >
-    <a href="#" id="map_ol3js_4_popup-closer" class="ol-popup-closer"></a>    
-    <div id="map_ol3js_4_popup-content">
-    </div>
-  </div>
-</div>
-
 ## Presupuesto
 
 Laos junto con Indonesia es el país más económico que nos hemos encontrado. Turísticamente hablando, Laos aún esta en pañales, por eso es un destino tan atractivo si se busca autenticidad y buenos precios.
@@ -43,77 +35,77 @@ Como siempre decimos, el presupuesto de viaje en este país dependerá en gran m
 
 _Los gastos de la tabla muestran el total de los** 26 días** por Laos y es **entre los 2.**_
 
-<table style="height: 303px; width: 633px;">
-  <tr style="height: 23px;">
-    <td style="width: 223.632px; height: 23px;">
+<table>
+  <tr>
+    <td>
       <strong>Alojamiento</strong>
     </td>    
-    <td style="width: 202.368px; height: 23px; text-align: center;">
+    <td>
       340,2 €
     </td>
   </tr>  
-  <tr style="height: 24px;">
-    <td style="width: 223.632px; height: 24px;">
+  <tr>
+    <td>
       <strong>Transporte</strong>
     </td>    
-    <td style="width: 202.368px; height: 24px; text-align: center;">
+    <td>
       225,3 €
     </td>
   </tr>  
-  <tr style="height: 24.7986px;">
-    <td style="width: 223.632px; height: 24.7986px;">
+  <tr>
+    <td>
       <strong>Comidas</strong>
     </td>    
-    <td style="width: 202.368px; height: 24.7986px; text-align: center;">
+    <td>
       345,9 €
     </td>
   </tr>  
-  <tr style="height: 24px;">
-    <td style="width: 223.632px; height: 24px;">
+  <tr>
+    <td>
       <strong>Bebidas, snacks,</strong>
     </td>    
-    <td style="width: 202.368px; height: 24px; text-align: center;">
+    <td>
       7,5 €
     </td>
   </tr>  
-  <tr style="height: 24px;">
-    <td style="width: 223.632px; height: 24px;">
+  <tr>
+    <td>
       <strong>Entradas y actividades (escalada)</strong>
     </td>    
-    <td style="width: 202.368px; height: 24px; text-align: center;">
+    <td>
       43,7 €
     </td>
   </tr>  
-  <tr style="height: 24px;">
-    <td style="width: 223.632px; height: 24px;">
+  <tr>
+    <td>
       <strong>Comisiones banco</strong>
     </td>    
-    <td style="width: 202.368px; height: 24px; text-align: center;">
+    <td>
       44,1 €
     </td>
   </tr>  
-  <tr style="height: 24px;">
-    <td style="width: 223.632px; height: 24px;">
+  <tr>
+    <td>
       <strong>Compras (ropa, regalos, caprichos..)</strong>
     </td>    
-    <td style="width: 202.368px; height: 24px; text-align: center;">
+    <td>
       92 €
     </td>
   </tr>  
-  <tr style="height: 24px;">
-    <td style="width: 223.632px; height: 24px;">
+  <tr>
+    <td>
       <strong>Otros (visados, envíos, telefonía...)</strong>
     </td>    
-    <td style="width: 202.368px; height: 24px; text-align: center;">
+    <td>
       73,4 €
     </td>
   </tr>  
-  <tr style="height: 24px;">
-    <td style="width: 223.632px; height: 24px;">
-      <span style="background-color: #ffffff; color: #000000;"><strong>TOTAL</strong></span>
+  <tr>
+    <td>
+      <span><strong>TOTAL</strong></span>
     </td>    
-    <td style="width: 202.368px; height: 24px; text-align: center;">
-      <span style="background-color: #ffffff; color: #000000;"><strong>1.172,1 €</strong></span>
+    <td>
+      <span><strong>1.172,1 €</strong></span>
     </td>
   </tr>
 </table>

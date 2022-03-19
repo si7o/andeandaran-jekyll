@@ -21,7 +21,7 @@ header:
 
 **Kathmandu - Bandipur - Pokhara - Campo Base del Annapurna - Sauraha - Kathmandu**
 
-<span style="font-size: 10pt;"><em>Pincha sobre los diferentes marcadores del mapa para ver las entradas donde ampliamos información sobre qué hacer, dónde alojarse y otro datos útiles de cada punto del itinerario.</em></span>
+<span><em>Pincha sobre los diferentes marcadores del mapa para ver las entradas donde ampliamos información sobre qué hacer, dónde alojarse y otro datos útiles de cada punto del itinerario.</em></span>
 
 
   <div id="map_ol3js_1" class="map">
@@ -63,85 +63,85 @@ header:
 
 _Los gastos de la tabla muestran el total de los **30 días** por Nepal y es **entre los 2.**_
 
-<table style="height: 303px; : 633px;">
-  <tr style="height: 23px;">
-    <td style=": 223.632px; height: 23px;">
+<table>
+  <tr>
+    <td>
       <strong>Alojamiento</strong>
     </td>    
-    <td style=": 202.368px; height: 23px; text-align: center;">
+    <td>
       224.4€
     </td>
   </tr>  
-  <tr style="height: 24px;">
-    <td style=": 223.632px; height: 24px;">
+  <tr>
+    <td>
       <strong>Transporte</strong>
     </td>    
-    <td style=": 202.368px; height: 24px; text-align: center;">
+    <td>
       96.7€
     </td>
   </tr>  
-  <tr style="height: 24.7986px;">
-    <td style=": 223.632px; height: 24.7986px;">
+  <tr>
+    <td>
       <strong>Comidas</strong>
     </td>    
-    <td style=": 202.368px; height: 24.7986px; text-align: center;">
+    <td>
       192.5€
     </td>
   </tr>  
-  <tr style="height: 24px;">
-    <td style=": 223.632px; height: 24px;">
+  <tr>
+    <td>
       <strong>Bebidas, snacks,</strong>
     </td>    
-    <td style=": 202.368px; height: 24px; text-align: center;">
+    <td>
       108.9€
     </td>
   </tr>  
-  <tr style="height: 24px;">
-    <td style=": 223.632px; height: 24px;">
+  <tr>
+    <td>
       <strong>Entradas o tickets</strong>
     </td>    
-    <td style=": 202.368px; height: 24px; text-align: center;">
+    <td>
       23.1€
     </td>
   </tr>  
-  <tr style="height: 24px;">
-    <td style=": 223.632px; height: 24px;">
+  <tr>
+    <td>
       <strong>Trekking</strong>
     </td>    
-    <td style=": 202.368px; height: 24px; text-align: center;">
+    <td>
       632€
     </td>
   </tr>  
-  <tr style="height: 24px;">
-    <td style=": 223.632px; height: 24px;">
+  <tr>
+    <td>
       <strong>Comisiones banco</strong>
     </td>    
-    <td style=": 202.368px; height: 24px; text-align: center;">
+    <td>
       41.7€
     </td>
   </tr>  
-  <tr style="height: 24px;">
-    <td style=": 223.632px; height: 24px;">
+  <tr>
+    <td>
       <strong>Compras (ropa, regalos, caprichos..)</strong>
     </td>    
-    <td style=": 202.368px; height: 24px; text-align: center;">
+    <td>
       -
     </td>
   </tr>  
-  <tr style="height: 24px;">
-    <td style=": 223.632px; height: 24px;">
+  <tr>
+    <td>
       <strong>Otros (visados, envíos, telefonía...)</strong>
     </td>    
-    <td style=": 202.368px; height: 24px; text-align: center;">
+    <td>
       178.8€
     </td>
   </tr>  
-  <tr style="height: 24px;">
-    <td style=": 223.632px; height: 24px;">
-      <span style="background-color: #ffffff; color: #000000;"><strong>TOTAL</strong></span>
+  <tr>
+    <td>
+      <span><strong>TOTAL</strong></span>
     </td>    
-    <td style=": 202.368px; height: 24px; text-align: center;">
-      <span style="background-color: #ffffff; color: #000000;"><strong>1.498€</strong></span>
+    <td>
+      <span><strong>1.498€</strong></span>
     </td>
   </tr>
 </table>

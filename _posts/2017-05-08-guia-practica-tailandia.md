@@ -52,76 +52,76 @@ Nosotros al estar viajando tantos meses tenemos un presupuesto mas limitado y si
 
 _Los gastos de la tabla muestran el total de los** 55 días** por Tailandia y es **entre los 2.**_
 
-<table style="height: 303px; width: 633px;">
-  <tr style="height: 23px;">
-    <td style="width: 223.632px; height: 23px;">
+<table>
+  <tr>
+    <td>
       <strong>Alojamiento</strong>
     </td>    
-    <td style="width: 202.368px; height: 23px; text-align: center;">
+    <td>
       834€
     </td>
   </tr>  
-  <tr style="height: 24px;">
-    <td style="width: 223.632px; height: 24px;">
+  <tr>
+    <td>
       <strong>Transporte</strong>
     </td>    
-    <td style="width: 202.368px; height: 24px; text-align: center;">
+    <td>
       418.9€
     </td>
   </tr>  
-  <tr style="height: 24.7986px;">
-    <td style="width: 223.632px; height: 24.7986px;">
+  <tr>
+    <td>
       <strong>Comidas</strong>
     </td>    
-    <td style="width: 202.368px; height: 24.7986px; text-align: center;">
+    <td>
       522.6€
     </td>
   </tr>
   
-  <tr style="height: 24px;">
-    <td style="width: 223.632px; height: 24px;">
+  <tr>
+    <td>
       <strong>Bebidas, snacks,</strong>
     </td>    
-    <td style="width: 202.368px; height: 24px; text-align: center;">
+    <td>
       91.3€
     </td>
   </tr>  
-  <tr style="height: 24px;">
-    <td style="width: 223.632px; height: 24px;">
+  <tr>
+    <td>
       <strong>Entradas y actividades (escalada)</strong>
     </td>    
-    <td style="width: 202.368px; height: 24px; text-align: center;">
+    <td>
       242.7€
     </td>
   </tr>  
-  <tr style="height: 24px;">
-    <td style="width: 223.632px; height: 24px;">
+  <tr>
+    <td>
       <strong>Comisiones banco</strong>
     </td>    
-    <td style="width: 202.368px; height: 24px; text-align: center;">
+    <td>
       121.4€
     </td>
   </tr>  
-  <tr style="height: 24px;">
-    <td style="width: 223.632px; height: 24px;">
+  <tr>
+    <td>
       <strong>Compras (ropa, regalos, caprichos..)</strong>    </td>    
-    <td style="width: 202.368px; height: 24px; text-align: center;">
+    <td>
       94.8€
     </td>
   </tr>  
-  <tr style="height: 24px;">
-    <td style="width: 223.632px; height: 24px;">
+  <tr>
+    <td>
       <strong>Otros (visados, envíos, telefonía...)</strong>    </td>    
-    <td style="width: 202.368px; height: 24px; text-align: center;">
+    <td>
       182€
     </td>
   </tr>  
-  <tr style="height: 24px;">
-    <td style="width: 223.632px; height: 24px;">
-      <span style="background-color: #ffffff; color: #000000;"><strong>TOTAL</strong></span>
+  <tr>
+    <td>
+      <span><strong>TOTAL</strong></span>
     </td>    
-    <td style="width: 202.368px; height: 24px; text-align: center;">
-      <span style="background-color: #ffffff; color: #000000;"><strong>2.507.7€</strong></span>
+    <td>
+      <span><strong>2.507.7€</strong></span>
     </td>
   </tr>
 </table>

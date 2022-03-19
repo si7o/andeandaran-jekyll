@@ -53,77 +53,77 @@ _Pincha sobre los diferentes marcadores del mapa para ver las entradas donde amp
 
 _Los gastos de la tabla muestran el total de los **25 días** por Vietnam y es **entre los 2.**_
 
-<table style="height: 303px; width: 633px;">
-  <tr style="height: 23px;">
-    <td style="width: 223.632px; height: 23px;">
+<table>
+  <tr>
+    <td>
       <strong>Alojamiento</strong>
     </td>    
-    <td style="width: 202.368px; height: 23px; text-align: center;">
+    <td>
       338,2€
     </td>
   </tr>  
-  <tr style="height: 24px;">
-    <td style="width: 223.632px; height: 24px;">
+  <tr>
+    <td>
       <strong>Transporte</strong>
     </td>    
-    <td style="width: 202.368px; height: 24px; text-align: center;">
+    <td>
       202,7€
     </td>
   </tr>
-  <tr style="height: 24.7986px;">
-    <td style="width: 223.632px; height: 24.7986px;">
+  <tr>
+    <td>
       <strong>Comidas</strong>
     </td>
-    <td style="width: 202.368px; height: 24.7986px; text-align: center;">
+    <td>
       295€
     </td>
   </tr>
-  <tr style="height: 24px;">
-    <td style="width: 223.632px; height: 24px;">
+  <tr>
+    <td>
       <strong>Bebidas, snacks,</strong>
     </td>    
-    <td style="width: 202.368px; height: 24px; text-align: center;">
+    <td>
       30,9€
     </td>
   </tr>  
-  <tr style="height: 24px;">
-    <td style="width: 223.632px; height: 24px;">
+  <tr>
+    <td>
       <strong>Entradas y actividades (escalada)</strong>
     </td>    
-    <td style="width: 202.368px; height: 24px; text-align: center;">
+    <td>
       190,5€
     </td>
   </tr>  
-  <tr style="height: 24px;">
-    <td style="width: 223.632px; height: 24px;">
+  <tr>
+    <td>
       <strong>Comisiones banco</strong>
     </td>    
-    <td style="width: 202.368px; height: 24px; text-align: center;">
+    <td>
       35€
     </td>
   </tr>  
-  <tr style="height: 24px;">
-    <td style="width: 223.632px; height: 24px;">
+  <tr>
+    <td>
       <strong>Compras (ropa, regalos, caprichos..)</strong>
     </td>    
-    <td style="width: 202.368px; height: 24px; text-align: center;">
+    <td>
       23,7€
     </td>
   </tr>  
-  <tr style="height: 24px;">
-    <td style="width: 223.632px; height: 24px;">
+  <tr>
+    <td>
       <strong>Otros (visados, envíos, telefonía...)</strong>
     </td>    
-    <td style="width: 202.368px; height: 24px; text-align: center;">
+    <td>
       63,4€
     </td>
   </tr>  
-  <tr style="height: 24px;">
-    <td style="width: 223.632px; height: 24px;">
-      <span style="background-color: #ffffff; color: #000000;"><strong>TOTAL</strong></span>
+  <tr>
+    <td>
+      <span><strong>TOTAL</strong></span>
     </td>    
-    <td style="width: 202.368px; height: 24px; text-align: center;">
-      <span style="background-color: #ffffff; color: #000000;"><strong>1.179,4€</strong></span>
+    <td>
+      <span><strong>1.179,4€</strong></span>
     </td>
   </tr>
 </table>
@@ -161,7 +161,7 @@ La moneda oficial de Vietnam es el Dong. Desde [este enlace](http://www.xe.com/e
 
 ## Nuestro lugar preferido
 
-Sin lugar a dudas, el mejor lugar en el que estuvimos fue Tam Coc, en Ninh Binh. Paisaje de montañas kársticas, arrozales y mucha tranquilidad. En el post: [Tam Coc en bicicleta](http://www.andeandaran.com/2016/12/28/tam-coc-bicicleta/) teneis más detalle de qué hacer en Tam Coc.<figure id="attachment_1069" style="width: 1500px" class="wp-caption alignnone">
+Sin lugar a dudas, el mejor lugar en el que estuvimos fue Tam Coc, en Ninh Binh. Paisaje de montañas kársticas, arrozales y mucha tranquilidad. En el post: [Tam Coc en bicicleta](http://www.andeandaran.com/2016/12/28/tam-coc-bicicleta/) teneis más detalle de qué hacer en Tam Coc.<figure id="attachment_1069">
 
 [<img class="size-full wp-image-1069" src="https://uploads.andeandaran.com/2016/12/MG_1218.jpg" />](https://uploads.andeandaran.com/2016/12/MG_1218.jpg)<figcaption class="wp-caption-text">Senderos entre valles</figcaption></figure> 
 
