@@ -25,7 +25,7 @@ Advertencia: este post está basado en nuestra experiencia durante un mes en tem
 
 ## Planificación
 
-<img class="wp-image-2056 size-medium alignright" src="https://uploads.andeandaran.com/2017/06/nzs-3-13-300x200.jpg" /> Lo primero y más importante, a no ser que te sobre el dinero: PLANIFICA e infórmate bien antes de ir. Nueva Zelanda es un país muy caro, así que cuanto antes reserves todo más barato te saldrá.  
+<img class="wp-image-2056 size-medium alignright" src="https://uploads.andeandaran.com/2017/06/nzs-3-13.jpg" /> Lo primero y más importante, a no ser que te sobre el dinero: PLANIFICA e infórmate bien antes de ir. Nueva Zelanda es un país muy caro, así que cuanto antes reserves todo más barato te saldrá.  
 Si, sacrificarás algo de flexibilidad, pero si no quieres tener que renunciar a ciertas comodidades, es lo que toca.
 
 Si acabas de llegar al país y lo único que tienes planificado es tu billete de vuelta, no te alarmes, todavía hay esperanza. Sigue leyendo y quizás te demos alguna idea.
@@ -153,7 +153,7 @@ Si aún así sigues queriendo dormir en algo parecido a un hotel, la mejor opci�
 #### Relocalizacion
 
 
-  <img class="wp-image-1847 size-medium alignright" src="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-1-300x200.jpg" />Además de las relocalizaciones que ofrecen las principales empresas de alquiler de autocaravanas (Apollo Campers, Britz, Luky...) existe una web que agrupa todos los vehículos de alquiler que buscan alguien que los lleve de una ciudad a otra: <a href="https://www.transfercar.co.nz">Transfercar</a>.<br /> Se pueden encontrar muy buenas ofertas y de esta forma viajar por muy poco de una isla a otra.
+  <img class="wp-image-1847 size-medium alignright" src="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-1.jpg" />Además de las relocalizaciones que ofrecen las principales empresas de alquiler de autocaravanas (Apollo Campers, Britz, Luky...) existe una web que agrupa todos los vehículos de alquiler que buscan alguien que los lleve de una ciudad a otra: <a href="https://www.transfercar.co.nz">Transfercar</a>.<br /> Se pueden encontrar muy buenas ofertas y de esta forma viajar por muy poco de una isla a otra.
 
 
 

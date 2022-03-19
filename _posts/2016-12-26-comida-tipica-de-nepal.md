@@ -46,7 +46,7 @@ Es el plato Nepalí por excelencia y originario de Nepal. Este plato se puede en
 
 Según nuestro criterio culinario... es el plato que más nos gustó por ser bastante completo.
 
-[<img class="alignnone wp-image-1109 size-wcbig" src="https://uploads.andeandaran.com/2016/12/IMG_20161021_180235694-e1482720952986-800x540.jpg?resize=800%2C540" alt="img_20161021_180235694" />](https://uploads.andeandaran.com/2016/12/IMG_20161021_180235694-e1482720724953.jpg)
+[<img class="alignnone wp-image-1109 size-wcbig" src="https://uploads.andeandaran.com/2016/12/IMG_20161021_180235694-e1482720952986.jpg?resize=800%2C540" alt="img_20161021_180235694" />](https://uploads.andeandaran.com/2016/12/IMG_20161021_180235694-e1482720724953.jpg)
 
 ### 
 

@@ -177,13 +177,13 @@ gallery:
 #### Alojamiento
 <figure id="attachment_1251" >
 
-<img class="size-medium wp-image-1251" src="https://uploads.andeandaran.com/2017/01/MG_1758-300x200.jpg" alt="Los bungalows al atardecer" /> <figcaption class="wp-caption-text">La zona de bungalows de GCH2 al atardecer</figcaption></figure> 
+<img class="size-medium wp-image-1251" src="https://uploads.andeandaran.com/2017/01/MG_1758.jpg" alt="Los bungalows al atardecer" /> <figcaption class="wp-caption-text">La zona de bungalows de GCH2 al atardecer</figcaption></figure> 
 
 
   Existen dos campamentos, GCH1 y GCH2. Son independientes el uno del otro, pero el ambiente es el mismo.<br /> Podrás encontrar bungalows con y sin baño privado, cama en habitación compartida y tiendas de campaña. En temporada alta los bungalows escasean, así que te recomendamos reservar con antelación.<br /> Nosotros intentamos reservar el día anterior y sólo había disponible 1 tienda de campaña en GCH2.
 <figure id="attachment_1279" >
 
-<img class="size-medium wp-image-1279" src="https://uploads.andeandaran.com/2017/01/GOPR8033-300x203.jpg?resize=300%2C203" alt="La zona de acampada de GCH2" /> <figcaption class="wp-caption-text">La zona de acampada de GCH2</figcaption></figure> 
+<img class="size-medium wp-image-1279" src="https://uploads.andeandaran.com/2017/01/GOPR8033.jpg?resize=300%2C203" alt="La zona de acampada de GCH2" /> <figcaption class="wp-caption-text">La zona de acampada de GCH2</figcaption></figure> 
 
 
   No podemos hablar de la comodidad de los bungalows porque no llegamos ni a olerlos, pero si podemos hablar de las tiendas.<br /> Llegamos con la intención de estar 3 noches y acabamos estando 11. A la tienda le falta un colchón algo mejor, si tienes una esterilla hinchable no dudes en llevarla. Así te ahorrarás el tener que buscar la forma de que las irregularidades del suelo encajen con tu cuerpo.
@@ -288,7 +288,7 @@ gallery:
 #### Tha Fallan
 <figure id="attachment_1266" >
 
-<img class="wp-image-1266 size-medium" src="https://uploads.andeandaran.com/2017/01/GOPR8039-300x225.jpg" alt="Baño en Tha Fallan" /> <figcaption class="wp-caption-text">Baño en Tha Fallan</figcaption></figure> 
+<img class="wp-image-1266 size-medium" src="https://uploads.andeandaran.com/2017/01/GOPR8039.jpg" alt="Baño en Tha Fallan" /> <figcaption class="wp-caption-text">Baño en Tha Fallan</figcaption></figure> 
 
 
   Una zona de baño muy agradable que está a 25 min a pie o 5 en moto. Cubre lo suficiente como para nadar y el agua está muy tranquila.
@@ -298,7 +298,7 @@ gallery:
 #### Cuevas y más cuevas
 <figure id="attachment_1245" class="wp-caption alignleft">
 
-<img class="wp-image-1245 size-medium" src="https://uploads.andeandaran.com/2017/01/MG_1649-300x200.jpg" alt="Cueva GCH" /> <figcaption class="wp-caption-text">Una cueva a 200m de GCH.</figcaption></figure> 
+<img class="wp-image-1245 size-medium" src="https://uploads.andeandaran.com/2017/01/MG_1649.jpg" alt="Cueva GCH" /> <figcaption class="wp-caption-text">Una cueva a 200m de GCH.</figcaption></figure> 
 
   Toda la zona está rodeada de cuevas, eso si, no todas merecen la pena y en algunas te hacen pagar a cada paso que das. Te recomendamos descargar alguna aplicación basada en OpenStreetMaps tipo Maps.me y así poder tener un GPS con sus localizaciones.
 
