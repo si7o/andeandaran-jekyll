@@ -22,7 +22,7 @@ header:
 ### Donde escalar
 <figure id="attachment_1084" >
 
-<img class="wp-image-1084 size-wcsquare" src="https://uploads.andeandaran.com/2016/12/MG_1430-300x300.jpg?resize=300%2C300" alt="Escalada en Cat Ba" /> <figcaption class="wp-caption-text">Sandra en una de esas vías que tanto le gustan con el paso difícil al principio...</figcaption></figure> 
+<img class="wp-image-1084 size-wcsquare" src="https://uploads.andeandaran.com/2016/12/MG_1430.jpg" alt="Escalada en Cat Ba" /> <figcaption class="wp-caption-text">Sandra en una de esas vías que tanto le gustan con el paso difícil al principio...</figcaption></figure> 
 
 
   En la isla existen dos sectores principales, Butterfly Valley y Hidden Valley. El primero está gestionado por Asia Outdoors y el segundo por Cat Ba Climbing. A parte de estos sectores también hay un par de cuevas, alguna pared más y un par de islas con unas pocas vías.
@@ -44,7 +44,7 @@ header:
 
 
 
-  <img class="aligncenter wp-image-1081 size-wcfixedheight" src="https://uploads.andeandaran.com/2016/12/MG_1409-750x500.jpg?resize=750%2C500" alt="_mg_1409" />
+  <img class="aligncenter wp-image-1081 size-wcfixedheight" src="https://uploads.andeandaran.com/2016/12/MG_1409.jpg?resize=750%2C500" alt="_mg_1409" />
 
 
 ### Notas importantes
@@ -61,7 +61,7 @@ header:
 
 <!-- End shortcoder v4.0.3--><figure id="attachment_1097" style="width: 750px" >
 
-<img class="wp-image-1097 size-wcfixedheight" src="https://uploads.andeandaran.com/2016/12/MG_1495-750x500.jpg?resize=750%2C500" alt="Escalar en Cat Ba" /> <figcaption class="wp-caption-text">Sandra llegando al paso más difícil de la vía</figcaption></figure> 
+<img class="wp-image-1097 size-wcfixedheight" src="https://uploads.andeandaran.com/2016/12/MG_1495.jpg?resize=750%2C500" alt="Escalar en Cat Ba" /> <figcaption class="wp-caption-text">Sandra llegando al paso más difícil de la vía</figcaption></figure> 
 
 
   A nosotros en Cat Ba Climbing no nos dejaron alquilar. La razón fue que Sandra apoyó un momento la mano encima del "grillo" al darme cuerda (sin llegar a bloquearlo). Nos ofrecieron repetirla, pero el dueño del local no nos inspiraba confianza y decidimos ir a Asia Outdoors.
@@ -76,7 +76,7 @@ header:
 
 Antes que nada, ¡Recuerda comprarlas en Asia Outdoors antes de ir!.<figure id="attachment_1135"  >
 
-<img class="size-wcbig wp-image-1135" src="https://uploads.andeandaran.com/2016/12/MG_1533-800x533.jpg" alt="Guía Cat Ba, sector butterfly valley"  /> <figcaption class="wp-caption-text">Zonas del sector Butterfly Valley</figcaption></figure> 
+<img class="size-wcbig wp-image-1135" src="https://uploads.andeandaran.com/2016/12/MG_1533.jpg" alt="Guía Cat Ba, sector butterfly valley"  /> <figcaption class="wp-caption-text">Zonas del sector Butterfly Valley</figcaption></figure> 
 
 
   Desde Asia Outdoors se tarda <a href="https://www.google.com/maps/dir/Asia+Outdoors,+Một+Tháng+Tư,+tt.+Cát+Bà,+Hải+Phòng,+Vietnam/Liên+Minh+(Butterfly+Valley),+Trân+Châu,+Cát+Hải,+Hải+Phòng,+Vietnam/@20.7451361,107.0043137,14.12z/data=!4m13!4m12!1m5!1m1!1s0x314a44345a93a025:0x1ad0e228815a4088!2m2!1d107.049598!2d20.7246061!1m5!1m1!1s0x314a4365560a46d5:0x4740435133ad2a3a!2m2!1d106.9949702!2d20.768254?hl=es" target="_blank" rel="noopener">unos 20 minutos en moto</a>. Es un camino que tiene de todo: tierra, grava, cuestas, caminos estrechos, baches... pero en general es bastante transitable.
@@ -86,7 +86,7 @@ Antes que nada, ¡Recuerda comprarlas en Asia Outdoors antes de ir!.<figure id="
   El camino termina en un bar en el que tendrás que entregar las entradas. Además, podrás pedir que te hagan la comida a una hora concreta y a un precio asequible. Nosotros comimos por 340.000 Dongs los cuatro, unos 14€.
 <figure id="attachment_1086"  >
 
-<img class="size-wcbig wp-image-1086" src="https://uploads.andeandaran.com/2016/12/MG_1434-800x533.jpg" alt="El bar del final del camino"  /><figcaption class="wp-caption-text">Después de comer, una siestita y a seguir escalando!</figcaption></figure> 
+<img class="size-wcbig wp-image-1086" src="https://uploads.andeandaran.com/2016/12/MG_1434.jpg" alt="El bar del final del camino"  /><figcaption class="wp-caption-text">Después de comer, una siestita y a seguir escalando!</figcaption></figure> 
 
 
   Siguiendo a pie se llega a una campa desde la que se ve todo el sector. Tiene varias zonas y los grados de las vías van desde el 4º al 8a+, pero la mayoría son 6º y 7º.
@@ -96,7 +96,7 @@ Antes que nada, ¡Recuerda comprarlas en Asia Outdoors antes de ir!.<figure id="
   Con 1 cuerda para 4 no pudimos hacer más de 6 vías, pero lo pasamos genial. Además compartimos el día con Felipe y Mark, muy buenas personas los dos... Esperamos volver a verlos algún día.
 <figure id="attachment_1106"  >
 
-<img class="size-wcbig wp-image-1106" src="https://uploads.andeandaran.com/2016/12/MG_1554-800x533.jpg" alt="escalando en Cat Ba"  /> <figcaption class="wp-caption-text">¡A recoger que se hace de noche!</figcaption></figure> 
+<img class="size-wcbig wp-image-1106" src="https://uploads.andeandaran.com/2016/12/MG_1554.jpg" alt="escalando en Cat Ba"  /> <figcaption class="wp-caption-text">¡A recoger que se hace de noche!</figcaption></figure> 
 
 ### Galería
 

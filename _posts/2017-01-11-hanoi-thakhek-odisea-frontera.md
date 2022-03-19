@@ -64,7 +64,7 @@ header:
   La empresa de transportes se llama "27-7" y al parecer aun no hay referencias sobre ellos en internet. Fuimos a ciegas.<br /> El bus era el típico "Sleeper Bus" de Vietnam: 3 filas de literas/asientos reclinables, nada de espacio para las mochilas, aire acondicionado a tope y completamente lleno.
 <figure id="attachment_1202" >
 
-<img class="size-large wp-image-1202" src="https://uploads.andeandaran.com/2017/01/IMG_20161226_173609719-1024x575.jpg?resize=810%2C455" alt="Autobús Hanoi-Thakhek, 27-7" /> <figcaption class="wp-caption-text">El interior del autobús desde mi litera.</figcaption></figure> 
+<img class="size-large wp-image-1202" src="https://uploads.andeandaran.com/2017/01/IMG_20161226_173609719.jpg?resize=810%2C455" alt="Autobús Hanoi-Thakhek, 27-7" /> <figcaption class="wp-caption-text">El interior del autobús desde mi litera.</figcaption></figure> 
 
 
   En un principio nos temimos lo peor, pero las mantas eran muy buenas y la conducción bastante civilizada. Si habéis viajado en autobús por Vietnam sabréis a lo que me refiero...
@@ -93,7 +93,7 @@ header:
   Llegamos al checkpoint de Vietnam y nos toca esperar 3 horas hasta que abren y podemos cruzarlo.
 <figure id="attachment_1203" >
 
-<img class="size-large wp-image-1203" src="https://uploads.andeandaran.com/2017/01/IMG_20161227_074024411-1024x575.jpg?resize=810%2C455" alt="Punto de control fronterizo de Chalo, Vietnam" /> <figcaption class="wp-caption-text">Punto de control fronterizo de Chalo. Esperando para sellar nuestro pasaporte y salir del país</figcaption></figure> 
+<img class="size-large wp-image-1203" src="https://uploads.andeandaran.com/2017/01/IMG_20161227_074024411.jpg?resize=810%2C455" alt="Punto de control fronterizo de Chalo, Vietnam" /> <figcaption class="wp-caption-text">Punto de control fronterizo de Chalo. Esperando para sellar nuestro pasaporte y salir del país</figcaption></figure> 
 
 
   Lo siguiente es hacer el visado en Laos: Una ventanilla a la intemperie y un frío "de la hostia" con viento y lluvia... y nosotros, como buenos turistas, en pantalón corto y camiseta.

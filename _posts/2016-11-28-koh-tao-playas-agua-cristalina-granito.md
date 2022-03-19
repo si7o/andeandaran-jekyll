@@ -43,7 +43,7 @@ Snorkel:** Aunque en casi todas las playas de la isla es fácil encontrarse con 
 
 
 
-**Probar la comida de "Mama Piyawan"**: <figure id="attachment_714"  ><a href="https://uploads.andeandaran.com/2016/11/MG_9782.jpg"><img title="Mama Piyawan" src="https://uploads.andeandaran.com/2016/11/MG_9782-550x367.jpg" alt="Mama Piyawan" /></a><figcaption class="wp-caption-text">Mama Piyawan</figcaption></figure> 
+**Probar la comida de "Mama Piyawan"**: <figure id="attachment_714"  ><a href="https://uploads.andeandaran.com/2016/11/MG_9782.jpg"><img title="Mama Piyawan" src="https://uploads.andeandaran.com/2016/11/MG_9782.jpg" alt="Mama Piyawan" /></a><figcaption class="wp-caption-text">Mama Piyawan</figcaption></figure> 
 
 Si os gusta la comida tailandesa y estáis por Sairee Beach, os recomendamos hacer una parada en este puestecito callejero. Aquí es donde hemos probado los mejores Pad Thai, Yellow noodles y fried rices de toda Tailandia.  Nos quedaron otros muchos platos que probar, pero estamos seguros que estarían igual de ricos. El puestecito esta en la calle que sube hacia Asia Diver Resorts y es bastante reconocible porque siempre tiene gente haciendo cola.
 

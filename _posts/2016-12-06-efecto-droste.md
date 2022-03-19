@@ -10,7 +10,7 @@ categories:
   -  tecnologia
   -  fotografia
 header:
-  image: https://uploads.andeandaran.com/2016/12/31455709425_a8b067467a_b-1024x545.jpg
+  image: https://uploads.andeandaran.com/2016/12/31455709425_a8b067467a_b.jpg
 ---
 
 Hace unos años, frikeando por el mundo de la fotografía, encontré <a href="https://www.flickr.com/photos/top-shot-man/4137477891" target="_blank">una imagen en Flickr</a> que llamó mucho mi atención, estaba hecha con el famoso <a href="https://es.wikipedia.org/wiki/Reloj_Astronómico_de_Praga" target="_blank">reloj astronómico de Praga</a>. Inmediatamente me puse a buscar cómo se hacía.<br /> Se trata del "efecto Droste", un tipo de imagen recursiva que se repite, dentro de la propia imagen, una y otra vez (cada vez más pequeña).<!--more-->
@@ -62,10 +62,10 @@ Para poder aplicar este efecto a nuestras fotos hace falta tener dos programas i
   Este filtro consta de dos pestañas, `Settings` o `Configuración` para las opciones básicas y `User Values` o `Valores de Usuario` para trastear.
 <figure id="attachment_800" style="width: 473px" >
 
-<img class="wp-image-800" src="https://uploads.andeandaran.com/2016/12/droste1.jpg?resize=473%2C265" alt="Droste Settings o Configuración" /> <figcaption class="wp-caption-text">Pestaña de Configuración.  Para que la imagen ocupe todo el lienzo y se repita es importante elegir el comportamiento deseado para los ejes X e Y</figcaption></figure> 
+<img class="wp-image-800" src="https://uploads.andeandaran.com/2016/12/droste1.jpg" alt="Droste Settings o Configuración" /> <figcaption class="wp-caption-text">Pestaña de Configuración.  Para que la imagen ocupe todo el lienzo y se repita es importante elegir el comportamiento deseado para los ejes X e Y</figcaption></figure> 
 <figure id="attachment_801" style="width: 528px" >
 
-<img class="wp-image-801" src="https://uploads.andeandaran.com/2016/12/droste2.jpg?resize=528%2C399" alt="Droste User Values o Valores de Usuario" /> <figcaption class="wp-caption-text">Pestaña de valores de usuario</figcaption></figure> 
+<img class="wp-image-801" src="https://uploads.andeandaran.com/2016/12/droste2.jpg" alt="Droste User Values o Valores de Usuario" /> <figcaption class="wp-caption-text">Pestaña de valores de usuario</figcaption></figure> 
 
 
   A la hora de configurar los Valores de Usuario, son todos bastante complejos de explicar, a día de hoy solo tengo una leve noción de qué hace cada uno, lo mejor es experimentar con cada parámetro y observar el resultado.<br /> Solo un pequeño apunte, si la periodicidad es un número entero y el radio interno y externo tienen el mismo valor, entonces la imagen no se cortará

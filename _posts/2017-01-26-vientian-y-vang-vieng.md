@@ -14,7 +14,7 @@ OSM_geo_data:
 OSM_geo_icon:
   - mic_black_pinother_02.png
 header:
-  image: https://uploads.andeandaran.com/2017/01/32229644292_6046e47d62_b-1024x545.jpg
+  image: https://uploads.andeandaran.com/2017/01/32229644292_6046e47d62_b.jpg
 ---
 
   En nuestro trayecto de vuelta a Tailandia decidimos hacer algunas paradas intermedias. En esta entrada os hablaremos de dos de ellas. Vientián, actual capital de Laos y Vang Vieng, una pequeña ciudad de camino a Luang Prabang con un paisaje de montañas Karsticas.

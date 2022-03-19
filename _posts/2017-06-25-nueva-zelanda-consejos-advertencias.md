@@ -14,7 +14,7 @@ OSM_geo_data:
 OSM_geo_icon:
   - mic_black_pinother_02.png
 header:
-  image: https://uploads.andeandaran.com/2017/06/34058141064_e94768b650_o-e1498403190614.jpg
+  image: https://uploads.andeandaran.com/2017/06/34058141064_e94768b650_o.jpg
 ---
 Si estás pensando visitar Nueva Zelanda y te gustaría no quemar todos tus ahorros, este post es para tí. Durante el mes que estuvimos viajando por el país descubrimos algunas cosas que merece la pena compartir.
 
@@ -187,7 +187,7 @@ Si aún así sigues queriendo dormir en algo parecido a un hotel, la mejor opci�
 ## Puntos de información
 
 <figure id="attachment_1852" >
-<img class="wp-image-1852 size-medium" src="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-6-200x300.jpg?resize=200%2C300" /> <figcaption class="wp-caption-text">Sandra tras arrasar con los mapas y guías gratuitas</figcaption></figure> 
+<img class="wp-image-1852 size-medium" src="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-6.jpg?resize=200%2C300" /> <figcaption class="wp-caption-text">Sandra tras arrasar con los mapas y guías gratuitas</figcaption></figure> 
 
 
   Una de las cosas buenas de Nueva Zelanda son sus centros de información o <a href="http://www.newzealand.com/int/visitor-information-centre/">i-Sites</a>. Prácticamente en cualquier ciudad más o menos grande o destino turístico encontraréis uno de estos puntos en los que podréis obtener toda la información turística y mapas que necesitéis.

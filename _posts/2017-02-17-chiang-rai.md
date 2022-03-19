@@ -250,7 +250,7 @@ Según escuchamos a uno de los guías, la entrada y el puente simbolizan el cami
 
 Os recomendamos que madrugueis para visitar el templo. Nosotros nos despertamos bien pronto y llegamos allí antes de que abriesen y fuimos los primeros en entrar. A partir de las 9:30 se llena de turistas y el templo pierde mucho encanto.
 
-<img class="aligncenter wp-image-1503 size-large" src="https://uploads.andeandaran.com/2017/02/chiang_rai2-1024x683.jpg" /> 
+<img class="aligncenter wp-image-1503 size-large" src="https://uploads.andeandaran.com/2017/02/chiang_rai2.jpg" /> 
 
 Para llegar al templo podéis ir en autobús turístico o alquilar una moto. Nosotros optamos por la moto. Es muy fácil llegar, solo hay que seguir la autopista que pasa por Chiang Rai hacia el sur y seguir los carteles.
 

@@ -40,7 +40,7 @@ Las playas pueden esperar...
   Tras buscar en internet, decidimos ir a <a href="http://basecamptonsai.com" target="_blank" rel="noopener">Base Camp Tonsai</a>: El alquiler de cuerda + 12 expreses + bolsa nos costó 1600 THB (50% de descuento por alquiler superior a 3 días, lo alquilamos 4) y compramos la guía de escalada de Tailandia y Laos por otros 800 THB (existen guías sólo de Krabi más económicas -500 THB- ).
 <figure id="attachment_512" style="width: 250px" class="wp-caption alignleft">
 
-<img class="wp-image-512 size-wcsmall" src="https://uploads.andeandaran.com/2016/11/GOPR5937-250x188.jpg" alt="one-two-three"  /> <figcaption class="wp-caption-text">En One-Two-Three reponiendo agua...</figcaption></figure> 
+<img src="https://uploads.andeandaran.com/2016/11/GOPR5937.jpg" alt="one-two-three"  /> <figcaption class="wp-caption-text">En One-Two-Three reponiendo agua...</figcaption></figure> 
 
 
   Nada más alquilar el material nos fuimos de cabeza a disfrutar de las paredes de Railay, en concreto al <a href="https://www.thecrag.com/climbing/thailand/krabi/area/15687337" target="_blank" rel="noopener">sector One-Two-Three</a>, uno de los sectores con mayor número de vías fáciles y en sombra todo el día.<br /> Hicimos todos los V (quintos) y para despedirnos del sector yo probé un 6b que, como su nombre indica, <em>Short & Savage</em>, es cortito y duro.<br /> Tras esta primera toma de contacto descubrimos un par de cosas:
@@ -87,7 +87,7 @@ El siguiente sector que visitamos, también de los fáciles, fue <a href="https:
   Antes de irnos me animé a probar el 6b+, <em>White Hot Hernias</em>, y me pareció también muy buena vía. Sólo tiene un paso difícil, sobre todo porque te pilla desprevenido encontrar agarres pequeños después de tantos cazos y chorreras... ¡Nada que un "pilla!" y un descansito no puedan arreglar!
 <figure id="attachment_536" >
 
-<a href="https://uploads.andeandaran.com/2016/11/GOPR7024.jpg" target="_blank" rel="noopener"><img class="wp-image-536 size-medium" src="https://uploads.andeandaran.com/2016/11/GOPR7024-300x225.jpg" alt="Mirando para abajo desde We Mad" /></a><figcaption class="wp-caption-text">Mirando para abajo desde We Mad</figcaption></figure> 
+<a href="https://uploads.andeandaran.com/2016/11/GOPR7024.jpg" target="_blank" rel="noopener"><img class="wp-image-536 size-medium" src="https://uploads.andeandaran.com/2016/11/GOPR7024.jpg" alt="Mirando para abajo desde We Mad" /></a><figcaption class="wp-caption-text">Mirando para abajo desde We Mad</figcaption></figure> 
 
 
   El último día, arrastrándonos de cansancio, decidimos volver a One-Two-Three para ver si Sandra podía terminar alguno de los V que se le atravesaron y a hacer otra vía recomendada por Piwi. Por desgracia elegimos mal la vía de calentamiento y Sandra se quedó sin pilas. A mi aún me quedaban fuerzas, así que fui a por el 6a+ llamado <em>We Sad</em>, una vía bastante fácil, divertidísima y con unas vistas que no tienen nada que envidiarle a Point View.

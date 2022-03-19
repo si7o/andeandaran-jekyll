@@ -24,7 +24,7 @@ Indonesia es uno de esos destinos en los que por muy poco puedes disfrutar y rel
 
   * **Desde el aeropuerto:** Una vez aterrizados en la isla, la mejor opción para moverse del aeropuerto al hotel es cogiendo un taxi. Ellos supone tener que negociar un precio e intentar tener la sensación de que no te han timado..algo que casi siempre es muy difícil de evitar. En casi toda Indonesia hay una compañía de taxi "Blue Bird" que funcionan con taxímetro y son del gobierno, con lo cual son las más seguras y fiables. Otra opción es coger el Damri bus que hace parada en Mataram y Sengiggi. También una ruta que va hacia Kuta. El precio esta entre los 50.000-75.000 IDR (3-4€ aproximadamente). Lo peor de esta opción es que tarda más de 1 hora y si llegas por la noche, como fue nuestro caso, llegar de madrugada y encontrar el alojamiento no es lo más apetecible.
 
-  <img class="alignright wp-image-2082 size-medium" src="https://uploads.andeandaran.com/2017/07/lombok-3-300x225.jpg" />
+  <img class="alignright wp-image-2082 size-medium" src="https://uploads.andeandaran.com/2017/07/lombok-3.jpg" />
 
   * **Resto de la isla:** Como en la mayoría de países asiáticos, la mejor opción siempre es alquilar un moto. No solo por la libertad que da sino porque es de las alternativas más baratas (60.000-70.000 Idr, al cambio 4€ aproximadamente). Además, si quieres moverte de un pueblo a otro para cambiar de alojamiento y de zona de la isla, en cada esquina es fácil encontrar agencias de viajes que ofrecen billetes en minibus o Van. Problema de transporte no hay en la isla, así que en este aspecto no os preocupéis.
 
@@ -80,7 +80,7 @@ Ni Sito ni yo somo aficionados del surf, somos más de deportes "terrestres", as
   * **Playa de Kuta:** Las olas están casi 1km mar adentro, con lo cual es perfecta para pegarse un baño antes de ir al hotel. Hay bastante puestecitos con ropa y souvenirs.
   * **Seger beach:** La encontramos de casualidad y fue una grata sorpresa. No es una playa en la que haya muchos bañistas porque hay bastantes rocas, pero el paisaje es brutal. A la derecha de la playa hay una pequeña península desde la que se pueden ver magníficos atardeceres.
 
-[<img class="alignnone size-large wp-image-2095" src="https://uploads.andeandaran.com/2017/07/lombok-16-1024x683.jpg" />](https://uploads.andeandaran.com/2017/07/lombok-16.jpg)
+[<img class="alignnone size-large wp-image-2095" src="https://uploads.andeandaran.com/2017/07/lombok-16.jpg" />](https://uploads.andeandaran.com/2017/07/lombok-16.jpg)
 
   * **Playa Tanjung Aan:** Para nosotros fue la mejor, arena fina blanca, agua cristalina y turquesa. Es perfecta para relajarse y descansar. Al estar  protegida por dos penínsulas el mar esta completamente quieto a diferencia de las playas vecinas.
 

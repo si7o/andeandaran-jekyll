@@ -16,7 +16,7 @@ OSM_geo_data:
 OSM_geo_icon:
   - mic_black_pinother_02.png
 header:
-  overlay_image: https://uploads.andeandaran.com/2015/09/21981355731_a60ff9d386_b-1024x545.jpg
+  overlay_image: https://uploads.andeandaran.com/2015/09/21981355731_a60ff9d386_b.jpg
   overlay_filter: 0.3
 #format: image
 ---

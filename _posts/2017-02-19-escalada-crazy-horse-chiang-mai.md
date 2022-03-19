@@ -86,7 +86,7 @@ La mejor fecha es la época seca, que coincide con la temporada alta (de diciemb
 
 
 
-  <img class="aligncenter size-large wp-image-1445" src="https://uploads.andeandaran.com/2017/02/MG_2944-1024x683.jpg" />
+  <img class="aligncenter size-large wp-image-1445" src="https://uploads.andeandaran.com/2017/02/MG_2944.jpg" />
 
 
 ## Dónde escalar
@@ -100,10 +100,10 @@ La mejor fecha es la época seca, que coincide con la temporada alta (de diciemb
 
   Si queréis comprar la guía os recomendamos que intentéis conseguirla en vuestro país, ya que en CMRCA os cobrarán 750THB por una fotocopia anillada de la original y sin actualizar desde 2012.<br /> Otra opción es tirar del listado de vías de MountainProject y/o usar las dos guías que hay en Jira Homestay (no os la llevéis, sacadles fotos y así todo el mundo puede consultarlas).
 <figure id="attachment_1437">
-<img class=" wp-image-1437" src="https://uploads.andeandaran.com/2017/02/MG_3145-1024x753.jpg" /> <figcaption class="wp-caption-text">Tabla con la distribución de grados por sectores y momentos de sombra</figcaption></figure> 
+<img class=" wp-image-1437" src="https://uploads.andeandaran.com/2017/02/MG_3145.jpg" /> <figcaption class="wp-caption-text">Tabla con la distribución de grados por sectores y momentos de sombra</figcaption></figure> 
 
 <figure id="attachment_1442" >
-<img class="size-large wp-image-1442" src="https://uploads.andeandaran.com/2017/02/MG_2911-1024x683.jpg" /><figcaption class="wp-caption-text">Un 6b muy bonito en el sector Tamarind Village</figcaption></figure> 
+<img class="size-large wp-image-1442" src="https://uploads.andeandaran.com/2017/02/MG_2911.jpg" /><figcaption class="wp-caption-text">Un 6b muy bonito en el sector Tamarind Village</figcaption></figure> 
 
 ### Qué más hacer
 

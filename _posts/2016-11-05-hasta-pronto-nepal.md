@@ -51,7 +51,7 @@ header:
 
 Encontramos también un rocódromo en el centro de Thamel, Astrek Climbing Wall, y como estábamos con un poco de mono tuvimos que probarlo.
 
-<a href="https://uploads.andeandaran.com/2016/11/GOPR5878_1478177401213_high.jpg"><img src="https://uploads.andeandaran.com/2016/11/GOPR5878_1478177401213_high-250x188.jpg" alt="Astreck climbing wall"  /></a>
+<a href="https://uploads.andeandaran.com/2016/11/GOPR5878_1478177401213_high.jpg"><img src="https://uploads.andeandaran.com/2016/11/GOPR5878_1478177401213_high.jpg" alt="Astreck climbing wall"  /></a>
 
 Para pasar un rato está bien, pero no dispone de muchas presas y las que tiene están un poco lavadas... Aun así, yo pude poner a prueba mi tobillo, que no dió muchos problemas y nos quitamos un poco de óxido. Después de casi dos meses sin escalar, se nota. 😛
 

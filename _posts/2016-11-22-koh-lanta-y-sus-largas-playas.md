@@ -22,7 +22,7 @@ OSM_geo_data:
 OSM_geo_icon:
   - mic_black_pinother_02.png
 header:
-  image: https://uploads.andeandaran.com/2016/11/31048672905_7e68ca3b88_b-1024x545.jpg
+  image: https://uploads.andeandaran.com/2016/11/31048672905_7e68ca3b88_b.jpg
 ---
 
   Koh Lanta, supuestamente es una de las islas menos explotada turísticamente del sur de Tailandia. Por lo que hemos podido comprobar durante los 4 días que hemos estado, la isla principal "Koh Lanta Yai" tiene toda la costa oeste, que es donde en principio se encuentran las mejores playas, plagada de resorts, hostales y comercios.
@@ -56,7 +56,7 @@ header:
   </li>
 </ul><figure id="attachment_627" style="width: 460px" >
 
-<img class="img-rounded wp-image-627" src="https://uploads.andeandaran.com/2016/11/GOPR7126-508x300.jpg?resize=460%2C272" alt="Longsod beach" /> <figcaption class="wp-caption-text">Longsod Beach</figcaption></figure> 
+<img class="img-rounded wp-image-627" src="https://uploads.andeandaran.com/2016/11/GOPR7126.jpg" alt="Longsod beach" /> <figcaption class="wp-caption-text">Longsod Beach</figcaption></figure> 
 
 <ul>
   <li>
@@ -92,7 +92,7 @@ header:
       Visitar <em>Old Town Lanta: </em>El pueblo es bastante acogedor en comparación con el resto de pueblos de la isla. Se nota que los edificios<br /> son más antiguos y la madera rojiza le da un toque especial que parece que estés en otra época, si no fuera por las tiendas de souvenirs y las rancheras 4&#215;4 que hay por toda la calle principal 😀
     </li>
     <li>
-      <img class="img-rounded alignright wp-image-625" src="https://uploads.andeandaran.com/2016/11/GOPR7091-477x300.jpg?resize=376%2C236" alt="Cascada" />Pequeño trekking a <em>Klong lark waterfall: </em>Una caminata de no más de 30 min- El camino es muy sencillo y se va vadeando el río de la cascada prácticamente durante toda la ruta. La cascada no es muy grande y permite meterse a bañarse sin problemas.
+      <img src="https://uploads.andeandaran.com/2016/11/GOPR7091.jpg" alt="Cascada" />Pequeño trekking a <em>Klong lark waterfall: </em>Una caminata de no más de 30 min- El camino es muy sencillo y se va vadeando el río de la cascada prácticamente durante toda la ruta. La cascada no es muy grande y permite meterse a bañarse sin problemas.
     </li>
     <li>
       <em>Parque natural de Koh Lanta  y su faro</em>: La verdad que de parque natural tiene poco...nosotros lo dejaríamos sencillamente en "parque". Los atractivos del parque son sus dos playas, una de arena blanca y otra de rocas, un faro encima de un peñón y un sendero que va entre la jungla. Como en toda la zona sur de la isla, hay monos por todas partes, pero no son tan agresivos como otros que nos hemos encontrado.

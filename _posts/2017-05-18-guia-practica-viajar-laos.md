@@ -157,7 +157,7 @@ La cocina de Laos es una mezcla de platos de Vietnam y Tailandia. No descubrimos
 
 El lugar dónde más a gusto estuvimos y dónde nos sentimos cómo en casa fue Thakhek. Los 12 días de acampada y escalada fue unos de los momentos más especiales de todo el viaje. Por esta zona del país no sólo se puede escalar, existen muchas cuevas y hay una ruta muy conocida para hacer en moto. En el post [Escalada en Thakhek, Laos](http://www.andeandaran.com/2017/01/15/escalada-thakhek/) ampliamos la información.<figure id="attachment_1272" class="wp-caption alignnone">
 
-[<img class="size-large wp-image-1272" src="https://uploads.andeandaran.com/2017/01/GOPR8095-1024x664.jpg?resize=810%2C525" />](https://uploads.andeandaran.com/2017/01/GOPR8095.jpg)<figcaption class="wp-caption-text">De vuelta al campamento. último día</figcaption></figure> 
+[<img class="size-large wp-image-1272" src="https://uploads.andeandaran.com/2017/01/GOPR8095.jpg?resize=810%2C525" />](https://uploads.andeandaran.com/2017/01/GOPR8095.jpg)<figcaption class="wp-caption-text">De vuelta al campamento. último día</figcaption></figure> 
 
 ## Qué no nos gustó
 

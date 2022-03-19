@@ -13,7 +13,7 @@ OSM_geo_data:
 OSM_geo_icon:
   - mic_black_pinother_02.png
 header:
-  image: https://uploads.andeandaran.com/2016/10/30402066211_93d0f478ab_b-1024x545.jpg
+  image: https://uploads.andeandaran.com/2016/10/30402066211_93d0f478ab_b.jpg
 
 gallery:
   - url: https://uploads.andeandaran.com/2016/10/MG_8464.jpg

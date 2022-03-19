@@ -228,14 +228,14 @@ gallery:
   En cuanto a los sectores que probamos, destacaría Climbers Home, Elephant y Tree Longue. Todos ellos con vías fáciles y de grado medio.
 <figure id="attachment_1277" >
 
-<img class="size-large wp-image-1277" src="https://uploads.andeandaran.com/2017/01/GOPR8008-1024x636.jpg?resize=810%2C503" alt="Sandra acercándose a la reunión" /> <figcaption class="wp-caption-text">Sandra acercándose a la reunión</figcaption></figure> 
+<img class="size-large wp-image-1277" src="https://uploads.andeandaran.com/2017/01/GOPR8008.jpg?resize=810%2C503" alt="Sandra acercándose a la reunión" /> <figcaption class="wp-caption-text">Sandra acercándose a la reunión</figcaption></figure> 
   Nos metimos también en un sector que acababan de abrir el día anterior unos suizos. Siete vías entre el 5a y 6b a 200m de GCH2. Estaban algo sucias, pero fue divertido escalar "a vista" 100%, ya que no sabíamos ni el grado de las vías...
 <figure id="attachment_1252" >
 
-<img class="size-large wp-image-1252" src="https://uploads.andeandaran.com/2017/01/MG_1763-1024x683.jpg" alt="Jaqueline en el sector sin nombre, Thakhek" /> <figcaption class="wp-caption-text">Jacqueline abriendo un supuesto 6a.</figcaption></figure> 
+<img class="size-large wp-image-1252" src="https://uploads.andeandaran.com/2017/01/MG_1763.jpg" alt="Jaqueline en el sector sin nombre, Thakhek" /> <figcaption class="wp-caption-text">Jacqueline abriendo un supuesto 6a.</figcaption></figure> 
 <figure id="attachment_1256" >
 
-<img class="size-large wp-image-1256" src="https://uploads.andeandaran.com/2017/01/MG_1791-1024x683.jpg" alt="Sector sin nombre, Thakhek" /> <figcaption class="wp-caption-text">Sito abriendo una de las vías del sector sin nombre. Creemos que un 6a+</figcaption></figure> 
+<img class="size-large wp-image-1256" src="https://uploads.andeandaran.com/2017/01/MG_1791.jpg" alt="Sector sin nombre, Thakhek" /> <figcaption class="wp-caption-text">Sito abriendo una de las vías del sector sin nombre. Creemos que un 6a+</figcaption></figure> 
 
 ### Largos en "Chinese New Year", 6b 130m
 
@@ -254,7 +254,7 @@ gallery:
   Joan empezó empalmando los dos primeros largos. Se quedó corto de expreses, así que tuvo que saltarse algún que otro parabolt. Un 5c de 53m para empezar el día de escalada y saltándose seguros... eso es empezar fuerte.
 <figure id="attachment_1240" >
 
-<img class="size-large wp-image-1240" src="https://uploads.andeandaran.com/2017/01/GOPR8048-e1484282711777-1024x638.jpg?resize=810%2C505" alt="Juan en la segunda reunión de Chinese New Year" /> <figcaption class="wp-caption-text">Juan en la segunda reunión de Chinese New Year. Descansando después de empalmar dos largos.</figcaption></figure> 
+<img class="size-large wp-image-1240" src="https://uploads.andeandaran.com/2017/01/GOPR8048-e1484282711777.jpg?resize=810%2C505" alt="Juan en la segunda reunión de Chinese New Year" /> <figcaption class="wp-caption-text">Juan en la segunda reunión de Chinese New Year. Descansando después de empalmar dos largos.</figcaption></figure> 
 
 
   A mi me tocó el 6b. Otros 6b que probamos eran bastante más duros de lo esperado, así que íbamos dispuestos a "acerar" si era necesario. Por suerte en esta vía el grado estaba bien puesto... quizá el paso más difícil está justo antes de llegar a la reunión, pero es una vía muy bonita y un 6b tirando a 6a+ bastante asequible.<br /> Superado el largo difícil ya solo quedaba un 5b de 44m con muchos agarres, alguna que otra piedra grande suelta y roca bastante cortante.
@@ -265,7 +265,7 @@ gallery:
 
 
 
-  <img class="aligncenter wp-image-1242 size-large" src="https://uploads.andeandaran.com/2017/01/GOPR8062-e1484282623531-1024x632.jpg" alt="En la cima de Chinese New Year"/>
+  <img class="aligncenter wp-image-1242 size-large" src="https://uploads.andeandaran.com/2017/01/GOPR8062-e1484282623531.jpg" alt="En la cima de Chinese New Year"/>
 
 
 
@@ -276,7 +276,7 @@ gallery:
   En resumen, una vía muy recomendable y una muy buena experiencia. Un placer haberla compartido contigo, Joan.
 <figure id="attachment_1280" >
 
-<img class="size-large wp-image-1280" src="https://uploads.andeandaran.com/2017/01/GOPR8078-Panorama-1024x553.jpg" alt="Panorámica desde la cima de Chinese New Year, Thakhek" /> <figcaption class="wp-caption-text">Panorámica desde la cima de Chinese New Year, Thakhek</figcaption></figure> 
+<img class="size-large wp-image-1280" src="https://uploads.andeandaran.com/2017/01/GOPR8078-Panorama.jpg" alt="Panorámica desde la cima de Chinese New Year, Thakhek" /> <figcaption class="wp-caption-text">Panorámica desde la cima de Chinese New Year, Thakhek</figcaption></figure> 
 
 ### Qué más hacer
 

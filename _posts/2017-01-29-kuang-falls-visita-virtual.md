@@ -14,7 +14,7 @@ OSM_geo_data:
 OSM_geo_icon:
   - mic_black_pinother_02.png
 header:
-  image: https://uploads.andeandaran.com/2017/01/31691808044_ae8292d7e0_b-1024x545.jpg
+  image: https://uploads.andeandaran.com/2017/01/31691808044_ae8292d7e0_b.jpg
 
 contains_panoramas: true
 
@@ -64,7 +64,7 @@ gallery:
 
 
 
-  <img class="img-rounded alignright wp-image-1356 size-medium" src="https://uploads.andeandaran.com/2017/01/MG_2311-300x200.jpg" />
+  <img class="img-rounded alignright wp-image-1356 size-medium" src="https://uploads.andeandaran.com/2017/01/MG_2311.jpg" />
   
   Nosotros negociamos con un "tuktukero" para que nos llevase a ver las cascadas a las 8 de la mañana por 180.000 LAK. Llegamos allí a las 8:45 y estuvimos dos horas y media.<br /> El madrugón mereció la pena, durante el camino nos cruzamos con unos 5 turistas y, como podéis ver en las fotos, tuvimos las cascadas prácticamente para nosotros.
 
@@ -72,7 +72,7 @@ gallery:
 ### Información de interés
 <figure id="attachment_1358" class="wp-caption alignleft">
 
-<img class="img-rounded wp-image-1358 size-medium" src="https://uploads.andeandaran.com/2017/01/MG_2380-300x200.jpg" alt="Bajando de la plataforma" /> <figcaption class="wp-caption-text">Bajando de la plataforma</figcaption></figure> 
+<img class="img-rounded wp-image-1358 size-medium" src="https://uploads.andeandaran.com/2017/01/MG_2380.jpg" alt="Bajando de la plataforma" /> <figcaption class="wp-caption-text">Bajando de la plataforma</figcaption></figure> 
 
 
   El precio de la entrada es 20.000LAK por persona y, si queréis disfrutar de las cascadas con tranquilidad, os recomendamos ir lo antes posible. Se tarda alrededor de 1 hora en llegar y a partir de las 10:30 comienzan a llegar las ordas de turistas.

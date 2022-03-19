@@ -64,7 +64,7 @@ header:
 ### Relocalización de Autocaravanas
 
 
-[<img class="alignnone size-large wp-image-1872" src="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-25-1024x683.jpg" />](https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-25.jpg)
+[<img src="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-25.jpg" />](https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-25.jpg)
 
 
   Auckland es la principal ciudad de Nueva Zelanda y por ello es dónde más coches, autocaravas y furgonetas se alquilan.
@@ -123,7 +123,7 @@ header:
 
 
 
-  <a href="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-8.jpg"><img class="alignnone size-large wp-image-1854" src="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-8-1024x683.jpg" /></a>
+  <a href="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-8.jpg"><img  src="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-8.jpg" /></a>
 
 
 
@@ -141,7 +141,7 @@ header:
 ## 3. Waikanae Beach
 <figure id="attachment_1861" >
 
-<img class="size-medium wp-image-1861" src="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-14-300x200.jpg" /> <figcaption class="wp-caption-text">Isla Kapiti, frente Waikane beach</figcaption></figure> 
+<img src="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-14.jpg" /> <figcaption class="wp-caption-text">Isla Kapiti, frente Waikane beach</figcaption></figure> 
 
 
   Llegamos a esta playa de casualidad, buscando algún camping gratuito para pasar la noche con la autocaravana. La verdad, acertamos en ir hasta allí, porque es una playa bastante agradable. Larga y de arena blanca, con muy poca gente. Perfecta para dar largos paseos por la orilla. Está justo en frente de la isla Kapiti una reserva marina, donde dicen que hay muy buen fondo marino para bucear.
@@ -162,7 +162,7 @@ header:
 
 
 
-  <a href="https://uploads.andeandaran.com/2017/04/NZ-NewPlaymouth-1.jpg"><img class="alignnone size-large wp-image-1884" src="https://uploads.andeandaran.com/2017/04/NZ-NewPlaymouth-1-1024x683.jpg" /></a>
+  <a href="https://uploads.andeandaran.com/2017/04/NZ-NewPlaymouth-1.jpg"><img src="https://uploads.andeandaran.com/2017/04/NZ-NewPlaymouth-1.jpg" /></a>
 
 
 
@@ -177,7 +177,7 @@ header:
 
 
 
-  <img class="alignright size-medium wp-image-1889" src="https://uploads.andeandaran.com/2017/04/NZ-NewPlaymouth-6-300x200.jpg" />En nuestra ruta por la costa oeste hasta Auckland decidimos parar en New Plymouth porque Antonia de Couchsurfing y sus tres mascotas nos acogieron una noche en su casa. La experiencia en casa de Antonia fue inmejorable, os recomendamos que si pasáis por allí y os apetece probar couchsurfing, os pongáis en contacto con ella ¡es muy divertida!.
+  <img src="https://uploads.andeandaran.com/2017/04/NZ-NewPlaymouth-6.jpg" />En nuestra ruta por la costa oeste hasta Auckland decidimos parar en New Plymouth porque Antonia de Couchsurfing y sus tres mascotas nos acogieron una noche en su casa. La experiencia en casa de Antonia fue inmejorable, os recomendamos que si pasáis por allí y os apetece probar couchsurfing, os pongáis en contacto con ella ¡es muy divertida!.
 
 
 
@@ -196,7 +196,7 @@ A unos 40-50 km de New Plymouth se encuentra uno de los iconos de la isla norte,
 
 
 
-  <a href="https://uploads.andeandaran.com/2017/04/NZ-NewPlaymouth-9.jpg"><img class="alignnone size-large wp-image-1892" src="https://uploads.andeandaran.com/2017/04/NZ-NewPlaymouth-9-1024x683.jpg" /></a>
+  <a href="https://uploads.andeandaran.com/2017/04/NZ-NewPlaymouth-9.jpg"><img src="https://uploads.andeandaran.com/2017/04/NZ-NewPlaymouth-9.jpg" /></a>
 
 
 ## Galería

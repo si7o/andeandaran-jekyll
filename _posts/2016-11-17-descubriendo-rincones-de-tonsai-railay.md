@@ -22,7 +22,7 @@ Además de los días de escalada, tuvimos algunos días para explorar y disfruta
 
 Primero de todo, vamos  a contextualizaros un poco con el mapa de la zona para que ubiquéis cada uno de los principales lugares y os sirva de utilidad si vais a viajar próximamente.
 
-<img class="wp-image-567 size-wcfixedheightmedium aligncenter" src="https://uploads.andeandaran.com/2016/11/mapa-railay-y-tonsai-1-460x300.png?resize=460%2C300" alt="mapa-railay-y-tonsai" /> 
+<img src="https://uploads.andeandaran.com/2016/11/mapa-railay-y-tonsai-1.png" alt="mapa-railay-y-tonsai" /> 
 
 Para acceder a la península solamente se puede ir en bote, desde Ao Nang, Krabi, Phi phi, etc, no hay carreteras que la comuniquen con el resto de costa. Los botes llegan a cualquiera de las 4 playas: Tonsai, railay east, west o Pranang.
 
@@ -46,7 +46,7 @@ Una vez llegamos a Point view nos encontramos una panorámica completa de la pen
 
 ## Playa de Pranang
 
-<img class="alignright wp-image-575 size-wccarousel" src="https://uploads.andeandaran.com/2016/11/IMG_20161109_1601563341-400x285.jpg?resize=400%2C285" alt="img_20161109_1601563341" /> 
+<img class="alignright wp-image-575 size-wccarousel" src="https://uploads.andeandaran.com/2016/11/IMG_20161109_1601563341.jpg" alt="img_20161109_1601563341" /> 
 
 La playa de Pranang, sin lugar a dudas es la mejor de las que hay por la zona, eso si, llena de gente pero manteniendo su encanto. Arena blanca y agua bastante cristalina. En esta playa hay varias cuevas, una de ellas muy conocida por las estatuas con forma de penes que tiene, en las otras hay unas cuantas vías para escalar.
 

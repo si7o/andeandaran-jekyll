@@ -73,7 +73,7 @@ Las estructuras se caracterizan por estar hechas de ladrillo rojo y contemplan t
 
 
 
-  <img class="alignnone wp-image-989 size-wcbig" src="https://uploads.andeandaran.com/2016/12/MG_0676-800x533.jpg" alt="_mg_0676"  />
+  <img src="https://uploads.andeandaran.com/2016/12/MG_0676.jpg" alt="_mg_0676"  />
 
 
 ###     Centro de Hoi An

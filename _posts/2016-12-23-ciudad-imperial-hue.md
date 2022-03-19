@@ -46,7 +46,7 @@ Nuestro paso por Hue no fue demasiado placentero ya que coincidió con el paso d
   La visita puede alargarse todo lo que quieras. Nosotros, en las dos horas y media que estuvimos, apenas nos dio tiempo a pasear de templo en templo sin poder detenernos mucho. Entre la lluvia, el día oscuro y la poca iluminación que había, no pudimos verlo en todo su esplendor.
 
 <figure id="attachment_1029"  >
-<img class="wp-image-1029 size-wcbig" title="Palacio Thai Hoa" src="https://uploads.andeandaran.com/2016/12/MG_0909-800x458.jpg" alt="Palacio Thai Hoa" /><figcaption class="wp-caption-text">Palacio Thai Hoa</figcaption></figure> 
+<img class="wp-image-1029 size-wcbig" title="Palacio Thai Hoa" src="https://uploads.andeandaran.com/2016/12/MG_0909.jpg" alt="Palacio Thai Hoa" /><figcaption class="wp-caption-text">Palacio Thai Hoa</figcaption></figure> 
 
 
   Acabamos empapados y con bastante frío, pero os aseguramos que es un lugar que merece la pena visitar. Tampoco nos fue posible documentarlo gráficamente como se merecía, una pena la verdad.

@@ -20,7 +20,7 @@ Nepal es un país con bastante influencia de los países colindantes, muestra de
 
 Este plato es originario de Irán, aunque con el paso de los años ha viajado por Pakistán, India, hasta que llegó a Nepal y ahora es bastante común encontrarlo en los menú. Se trata de un plato preparado a base de arroz, con carne _(pollo, cerdo o búfalo)_, verduras, zanahorias, anacardos, especias. Quizás, lo que le da el toque más característico es la salsa de yogurt que lo acompaña, además de que sirve para disimular un poco el picante.
 
-[<img class="alignnone size-wcbig wp-image-1111" src="https://uploads.andeandaran.com/2016/12/IMG_20161023_142543987-800x449.jpg?resize=800%2C449" alt="img_20161023_142543987" />](https://uploads.andeandaran.com/2016/12/IMG_20161023_142543987.jpg)
+[<img class="alignnone size-wcbig wp-image-1111" src="https://uploads.andeandaran.com/2016/12/IMG_20161023_142543987.jpg" alt="img_20161023_142543987" />](https://uploads.andeandaran.com/2016/12/IMG_20161023_142543987.jpg)
 
 <!-- Start shortcoder -->
 
@@ -33,7 +33,7 @@ Este plato es originario de Irán, aunque con el paso de los años ha viajado po
 
 Son típicos del valle de Katmandú. Se trata de una masa de harina rellena normalmente con carne picada o verduras y especias. Pueden cocinarse al vapor o freírse. A nosotros los momos al vapor nos recordaron bastante a la pasta italiana rellena, tipo raviolis, pero mucho más grande y consistente. La salsa de acompañamiento suele ser bastante picante.
 
-[<img class="alignnone size-wcbig wp-image-1110" src="https://uploads.andeandaran.com/2016/12/IMG_20161022_180411899_HDR-800x449.jpg?resize=800%2C449" alt="img_20161022_180411899_hdr" />](https://uploads.andeandaran.com/2016/12/IMG_20161022_180411899_HDR.jpg)
+[<img class="alignnone size-wcbig wp-image-1110" src="https://uploads.andeandaran.com/2016/12/IMG_20161022_180411899_HDR.jpg" alt="img_20161022_180411899_hdr" />](https://uploads.andeandaran.com/2016/12/IMG_20161022_180411899_HDR.jpg)
 
 ### Dal Bhat
 

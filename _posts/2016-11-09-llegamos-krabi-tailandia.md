@@ -14,7 +14,7 @@ OSM_geo_data:
 OSM_geo_icon:
   - mic_black_pinother_02.png
 header:
-  image: https://uploads.andeandaran.com/2016/11/30841704636_8bb6219413_b-1024x545.jpg
+  image: https://uploads.andeandaran.com/2016/11/30841704636_8bb6219413_b.jpg
 ---
 
 Después de 3 colas interminable y múltiples controles de "seguridad" en el aeropuerto de Kathmandu, volamos a Kuala Lumpur para disfrutar de su aeropuerto durante 8 horas y después volar hacia Krabi.

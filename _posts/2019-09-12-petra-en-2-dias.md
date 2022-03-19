@@ -38,7 +38,7 @@ Petra, siendo una ciudad comercial y recibiendo durante cientos de años mercade
   * ##### **Ruta principal **_(8 km. 3-3,5h. Dificultad: Fácil)_
 
 <div>
-  <a href="https://uploads.andeandaran.com/2019/07/IMG_8073.jpg"><img class="alignnone size-large wp-image-2665" src="https://uploads.andeandaran.com/2019/07/IMG_8073-1024x683.jpg" /></a>
+  <a href="https://uploads.andeandaran.com/2019/07/IMG_8073.jpg"><img class="alignnone size-large wp-image-2665" src="https://uploads.andeandaran.com/2019/07/IMG_8073.jpg" /></a>
 </div>
 
 Este camino es muy sencillo y durante sus 8 km se pueden ver los edificios mas importantes de la ciudad. Comienza en el centro de visitantes y hay que caminar cerca de 1,5 km atravesando **el Siq**, un cañón estrecho y de 80 m de altura, para llegar a **The Treasury**. Seguramente en The treasury os ofrezcan subir por 30€ a un mirador para ver desde arriba el edificio. El caminos son unas escaleras intransitables que hay a mano derecha del edificio. En este caso, nuestro consejo es decir que no para no colaborar con el negocio sumergido y negro que hay alrededor de Petra. En el punto siguiente os explicamos como llegar a otro mirador por libre, con vistas iguales o mejores, porque el edificio se ve de frente y no de lado.
@@ -59,13 +59,13 @@ Este camino recorre las **royal tombs**. Al final del camino hay unas escaleras 
 
   * ##### **Ruta del High place of sacrifice _(_**_3 km. 3,5-4h. Dificultad: Media)_
 
-[<img class="alignnone size-large wp-image-2664" src="https://uploads.andeandaran.com/2019/07/IMG_8059-1024x683.jpg" />](https://uploads.andeandaran.com/2019/07/IMG_8059.jpg)
+[<img class="alignnone size-large wp-image-2664" src="https://uploads.andeandaran.com/2019/07/IMG_8059.jpg" />](https://uploads.andeandaran.com/2019/07/IMG_8059.jpg)
 
 5 minutos después de pasar The treasury, hay un camino que sube hacia lo alto del cañón para recorrer el lugar donde hacían sacrificios a sus dioses: **High place of sacrifice**. El camino tiene unos rincones bellisimos y muy poco transitados. Por esta ruta se pueden ver las casas y las calles donde los Nabateos vivían lejos de la calle principal. Algunos de los puntos más importantes del camino son **Garden Triclinium**, y la **Roman soldier´s tomb.**
 
   * ##### **Ruta Ad- Deir - Monastery _(_**_2.5 km. 2-2,5h. Dificultad: Fácil)_
 
-[<img class="alignnone size-large wp-image-2678" src="https://uploads.andeandaran.com/2019/07/IMG_8402-1024x683.jpg" />](https://uploads.andeandaran.com/2019/07/IMG_8402.jpg)
+[<img class="alignnone size-large wp-image-2678" src="https://uploads.andeandaran.com/2019/07/IMG_8402.jpg" />](https://uploads.andeandaran.com/2019/07/IMG_8402.jpg)
 
 Después de haber terminado la ruta anterior enlazaríamos esta segunda ruta que lleva hasta el monasterio. Sin lugar a duda, uno de los edificios que te dejan sin aliento y no por las más de 800 escalones que hay que subir para llegar a verlo.
 

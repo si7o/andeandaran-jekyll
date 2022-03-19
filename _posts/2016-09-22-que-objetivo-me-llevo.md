@@ -40,7 +40,7 @@ Dicho esto, he decidido probar qué tal funciona eso de corregir la distorsión 
 
 Dejo una comparativa de ambas imágenes.<figure id="attachment_189" >
 
-<a href="https://uploads.andeandaran.com/2016/09/completas.jpg" target="_blank"><img class="wp-image-189 size-large" src="https://uploads.andeandaran.com/2016/09/completas-1024x342.jpg?resize=810%2C271" alt="Comparativa Gran angular vs Ojo de pez" /></a><figcaption class="wp-caption-text">Samyang 14mm f2.8 | Sigma 15mm f2.8 &#8216;defished&#8217;</figcaption></figure> 
+<a href="https://uploads.andeandaran.com/2016/09/completas.jpg" target="_blank"><img class="wp-image-189 size-large" src="https://uploads.andeandaran.com/2016/09/completas.jpg?resize=810%2C271" alt="Comparativa Gran angular vs Ojo de pez" /></a><figcaption class="wp-caption-text">Samyang 14mm f2.8 | Sigma 15mm f2.8 &#8216;defished&#8217;</figcaption></figure> 
 
 <div id='gallery-1' class='gallery galleryid-158 gallery-columns-3 gallery-size-wcfixedheightmedium'>
   <figure > 

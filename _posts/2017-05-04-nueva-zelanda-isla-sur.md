@@ -74,7 +74,7 @@ En la web del <a href="http://www.doc.govt.nz/parks-and-recreation/places-to-go/
 
 En un principio pensamos en dormir junto a estas cascadas ya que hay un camping justo al lado, pero tras llegar bastante pronto y verlas, decidimos continuar y buscar otro lugar para dormir.
 
-<img class="aligncenter wp-image-1875 size-large" src="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-28-1024x683.jpg" /> 
+<img class="aligncenter wp-image-1875 size-large" src="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-28.jpg" /> 
 
 Es un lugar agradable para parar a descansar, pero las instalaciones del camping son muy básicas y las _Sandflies_ amenazaban con no dejarnos hacer vida fuera de la autocaravana.
 

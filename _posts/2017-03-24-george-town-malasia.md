@@ -102,7 +102,7 @@ header:
 
 
 
-  <a href="https://uploads.andeandaran.com/2017/03/DSC_1571.jpg"><img class="alignnone wp-image-1764 size-large" src="https://uploads.andeandaran.com/2017/03/DSC_1571-1024x683.jpg" /></a>
+  <a href="https://uploads.andeandaran.com/2017/03/DSC_1571.jpg"><img class="alignnone wp-image-1764 size-large" src="https://uploads.andeandaran.com/2017/03/DSC_1571.jpg" /></a>
 
 
 ## Las playas

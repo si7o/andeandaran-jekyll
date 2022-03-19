@@ -93,7 +93,7 @@ Otra opción que puede resultar asequible es Uber o Grab si aprovechas sus descu
 
 
 
-  <a href="https://uploads.andeandaran.com/2017/03/IMG_3694.jpg"><img class="size-large wp-image-1804 aligncenter" src="https://uploads.andeandaran.com/2017/03/IMG_3694-1024x683.jpg" /></a>
+  <a href="https://uploads.andeandaran.com/2017/03/IMG_3694.jpg"><img class="size-large wp-image-1804 aligncenter" src="https://uploads.andeandaran.com/2017/03/IMG_3694.jpg" /></a>
 
 
 ### Plaza Merdeka

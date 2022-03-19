@@ -53,7 +53,7 @@ Este paseo es algo más largo, pero también es muy sencillo y está en muy buen
 
 Se tarda alrededor de 1 hora en llegar al lago del glaciar y desde aquí podréis ver el Monte Cook, el más alto de Nueva Zelanda, desde cerca.<figure id="attachment_1978" >
 
-<img class="size-large wp-image-1978" src="https://uploads.andeandaran.com/2017/05/IMG_4152-1024x548.jpg?resize=810%2C433" alt="Parque Nacional Monte Cook, Isla Sur, Nueva Zelanda" /> <figcaption class="wp-caption-text">Parque Nacional Monte Cook, Isla Sur, Nueva Zelanda</figcaption></figure> 
+<img class="size-large wp-image-1978" src="https://uploads.andeandaran.com/2017/05/IMG_4152.jpg?resize=810%2C433" alt="Parque Nacional Monte Cook, Isla Sur, Nueva Zelanda" /> <figcaption class="wp-caption-text">Parque Nacional Monte Cook, Isla Sur, Nueva Zelanda</figcaption></figure> 
 
 ### Queenstown
 

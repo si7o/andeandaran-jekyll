@@ -9,7 +9,7 @@ permalink: viajes/ruta-coche-espana-francia-italia/
 categories:
   -  viajes
 header:
-  image: https://uploads.andeandaran.com/2017/08/35757502685_7193140697_o-e1503219429695.jpg
+  image: https://uploads.andeandaran.com/2017/08/35757502685_7193140697_o.jpg
 ---
 
   Con la mochila llena de experiencias y miles de recuerdos de Asia, hicimos un paréntesis en el viaje volviendo a nuestras respectivas casas.<br /> Tras un mes yendo de Valencia a Bilbao y aprovechando el tiempo con nuestras familias/amigos, volvimos a empaquetar todo nuestro equipaje para tomar rumbo a Europa.

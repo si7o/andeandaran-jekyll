@@ -14,7 +14,7 @@ OSM_geo_data:
 OSM_geo_icon:
   - mic_black_pinother_02.png
 header:
-  image: https://uploads.andeandaran.com/2016/12/31465777576_cfd6e91f7c_b-1024x545.jpg
+  image: https://uploads.andeandaran.com/2016/12/31465777576_cfd6e91f7c_b.jpg
 ---
 
   Ho Chi Minh es la ciudad más grande de Vietnam, pero no su capital. Esta situada al lado del río Saigon, de hecho se la conoce también por este nombre. Con más de 9.000.000 de habitantes desafía a las grandes ciudades asiáticas como Bangkok o Singapure y es que en la ciudad hay un visible éxito económico con grandes hoteles y tiendas de lujo.<!--more-->

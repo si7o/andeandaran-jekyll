@@ -163,7 +163,7 @@ La moneda oficial de Tailandia es el Bath. Desde [este enlace](http://www.xe.com
 
 Por su ambiente mochilero, por sus paredes llenas de chorreras, sus playas, su vegetación y la gente que conocimos, el mejor lugar de Tailandia para nosotros fue Tonsai. Os contamos todo lo que hicimos en los post: [Rincones de Tonsai y Railay](http://www.andeandaran.com/2016/11/17/descubriendo-rincones-de-tonsai-railay/), [Escalando en Tonsai y Railay](http://www.andeandaran.com/2016/11/13/escalando-tonsai-railay/) y [Tonsai, segunda parte](http://www.andeandaran.com/2017/03/19/tonsai-segunda-parte/).
 
-[<img class="alignnone size-large wp-image-1710" src="https://uploads.andeandaran.com/2017/03/tonsai2-8284-1024x768.jpg?resize=810%2C608" />](https://uploads.andeandaran.com/2017/03/tonsai2-8284.jpg)
+[<img class="alignnone size-large wp-image-1710" src="https://uploads.andeandaran.com/2017/03/tonsai2-8284.jpg?resize=810%2C608" />](https://uploads.andeandaran.com/2017/03/tonsai2-8284.jpg)
 
 ## Nuestra comida preferida
 

@@ -24,7 +24,7 @@ contains_panoramas: true
 
 ## Temporada Alta
 
-  Krabi, y en especial las playas de Railay y Tonsai no son precisamente un lugar barato en temporada baja, pero en temporada alta parece que pierden el control. Los alojamientos, por ejemplo, incrementan sus precios alrededor del 50%.<br /> No obstante lo que más nos llamó la atención fue que el precio del agua se había duplicado!. Al comentarlo con el dueño de una tienda no pudo hacer otra cosa que reirse y decir "peak seasson, peak seasson".<img class="img-responsive aligncenter wp-image-1701 size-large" src="https://uploads.andeandaran.com/2017/03/tonsai2-3385-1024x683.jpg" />
+  Krabi, y en especial las playas de Railay y Tonsai no son precisamente un lugar barato en temporada baja, pero en temporada alta parece que pierden el control. Los alojamientos, por ejemplo, incrementan sus precios alrededor del 50%.<br /> No obstante lo que más nos llamó la atención fue que el precio del agua se había duplicado!. Al comentarlo con el dueño de una tienda no pudo hacer otra cosa que reirse y decir "peak seasson, peak seasson".<img class="img-responsive aligncenter wp-image-1701 size-large" src="https://uploads.andeandaran.com/2017/03/tonsai2-3385.jpg" />
 
   La abundancia de turistas también hace más difícil el regateo. Detrás tuyo van a venir varios turistas más, muchos de ellos dispuestos a pagar lo que sea, así que muchos alojamientos prefieren tener varios bungalows vacíos antes que bajar el precio.
 
