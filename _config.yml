@@ -91,7 +91,7 @@ footer:
 head_scripts:
   - /assets/js/leaflet.js # https://leafletjs.com/reference.html
 
-footer_scripts:
+after_footer_scripts :
   - /assets/js/functions.js
 
 # Build settings

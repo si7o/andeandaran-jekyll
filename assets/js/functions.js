@@ -1,3 +1,5 @@
+var lastScrollTop;
+
 function onScroll(e) {
     const $headerToHide = document.querySelector('.masthead');   
 
@@ -10,7 +12,7 @@ function onScroll(e) {
     lastScrollTop = st <= 0 ? 0 : st; // For Mobile or negative scrolling
 }
 
-let lastScrollTop;
-
-window.addEventListener('scroll', onScroll);
-window.addEventListener('touchmove', onScroll);
+window.addEventListener('load', function() {
+    window.addEventListener('scroll', onScroll);
+    window.addEventListener('touchmove', onScroll);
+});
