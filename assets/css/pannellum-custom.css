@@ -1,48 +1,12 @@
-.pnlm-category-box {
-    position:relative;
-    font-size:14px;
-    display:table;
-    padding-left:5px;
-    margin-bottom:3px;
-}
-
-
-.pnlm-about-msg {
-    font-size: 11px;
-    line-height: 11px;
-    color: #fff;
-    padding: 10px;
-    background: rgba(0,0,0,0.7);
-    border-radius: 3px;
-    position: absolute;
-    top: 50px;
-    left: 50px;
-    display: none;
-    opacity: 0;
-    -moz-transition: opacity .3s ease-in-out;
-    -webkit-transition: opacity .3s ease-in-out;
-    -o-transition: opacity .3s ease-in-out;
-    -ms-transition: opacity .3s ease-in-out;
-    transition: opacity .3s ease-in-out;
-    z-index: 1;
-}
-.pnlm-panorama-info{
-    font-family: 'Lato', sans-serif;
+.pnlm-panorama-info {
+    background-color: #0008;
     transition: all 0.4s;
     left:0px;
+    padding: 10px;
 }
 
 .pnlm-about-msg a:hover{
     text-decoration: underline;    
-}
-
-.pnlm-title-box{
-    font-size:22px
-}
-
-.pnlm-author-box {
-    font-size:12px;
-    text-transform: lowercase;
 }
 
 .pnlm-author-box a, .pnlm-author-box a:hover, .pnlm-author-box a:visited {
@@ -56,57 +20,22 @@
     text-decoration: underline;
 }
 
-.pnlm-load-button, .pnlm-load-box{
-    font-size:15px;
-}
 
 .pnlm-panorama-info, .button-navigation-panorama i{
     -webkit-transition: all 1s ease-in-out;
     transition: all 1s ease-in-out;
 }
 
-.pnlm-dragging-touch .pnlm-panorama-info{  
+.pnlm-grabbing > .pnlm-panorama-info{  
     -webkit-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
     left: -100%;
 }  
 
-.pnlm-dragging-touch .button-navigation-panorama i {
+.pnlm-grabbing .button-navigation-panorama i {
     -webkit-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
     opacity: 0.3;
-}
-
-.pnlm-infolayer-box {
-    z-index: 100;
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    align-content: center;
-    text-align: center;
-    padding-top: 25%;
-    background: rgba(0,0,0,0.4);
-    color: #eee;
-    display:none;
-    text-shadow: 0 0 5px #000, 0 0 10px #000;
-}       
-
-.pnlm-infolayer-box.show{
-    display: block;
-}
-
-#flickr_watermark img {
-  position: absolute;
-  overflow: hidden;
-  right: 0;
-  bottom: 0;
-  opacity: 0.8;  
-  padding: 12px;  
-  -webkit-filter: drop-shadow(black 0 0 3px);
-}
-#flickr_watermark img:hover {
-  opacity: 1;  
-  -webkit-filter: drop-shadow(white 0 0 5px);
 }
 
 .panorama {
@@ -116,12 +45,12 @@
     position:relative;
 }
 
-.button-navigation-panorama{
+.button-navigation-panorama {
     display: block;
     position:absolute;
     top:-35px;
     margin-top:32%; 
-    z-index:1;
+    z-index:2;
 }
 
 .panorama-next, .panorama-prev {
