@@ -33,14 +33,14 @@ Fue la primera bajada a la realidad del viaje. Es cierto que Islandia tiene pais
 
 ## Geyser
 
-<a title="Geysir, Iceland" href="https://www.flickr.com/photos/sitoo/48721828732/in/album-72157710811344151/" data-flickr-embed="true"><img src="https://live.staticflickr.com/65535/48721828732_9f79edb2bc_k.jpg" alt="Geysir, Iceland" /></a>  
+<a title="Geysir, Iceland" href="https://www.flickr.com/photos/sitoo/48721828732/in/album-72157710811344151/" data-flickr-embed="true"><img loading="lazy"  src="https://live.staticflickr.com/65535/48721828732_9f79edb2bc_k.jpg" alt="Geysir, Iceland" /></a>  
 Otro de los puntos que pertenecen al círculo dorado del país. Si nunca has visto un Geyser es bastante curioso el estallido de agua a presión que sale del interior de la tierra. Cada 5-10 minutos el geyser expulsa agua ardiendo y genera una nube de agua que tienes que esquivar dependiendo de donde estés ubicado.
 
 Nosotros además de esperar varias veces el estallido del geyser, subimos una colina cercana para ver el valle que hay al otro lado y también ver el geyser desde otra perspectiva.
 
 ## Cascada Seljalandfoss y Gljúrfrafoss
 
-<a title="Seljalandsfoss" href="https://www.flickr.com/photos/sitoo/48726069746/in/album-72157710811344151/" data-flickr-embed="true"><img src="https://live.staticflickr.com/65535/48726069746_b0a61a0398_k.jpg" alt="Seljalandsfoss" /></a>  
+<a title="Seljalandsfoss" href="https://www.flickr.com/photos/sitoo/48726069746/in/album-72157710811344151/" data-flickr-embed="true"><img loading="lazy"  src="https://live.staticflickr.com/65535/48726069746_b0a61a0398_k.jpg" alt="Seljalandsfoss" /></a>  
 El final del día lo pasamos en el camping que hay en los pies de la cascada Seljalandfoss. Pudimos cenar con vistas y el sonido del agua. Al estar tan cerquita de las dos cascadas puedes hacer una excursión nocturna bastante exclusiva, ya que no son muchos los que se acercan a estas horas. Además, si tienes suerte y el cielo esta despejado, puedes verlas con las luces de la aurora boreal. Este fue el primer día que pudimos contemplarla y aunque suene a tópico, fue maravillosa la experiencia aunque estuviéramos a menos de 0º.
 
 &nbsp;

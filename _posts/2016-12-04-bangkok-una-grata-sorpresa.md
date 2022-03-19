@@ -34,7 +34,7 @@ contains_panoramas: true
   Estando en Tailandia no podíamos irnos sin pasar por Bangkok. Desde allí cogeríamos el vuelo hacia Ho chi Minh (Vietnam) y además nos encontraríamos con Julen y Javi, dos amigos de Bilbao. Únicamente tuvimos 2 días hábiles en Bangkok, pero fueron suficientes para darnos cuenta que es una ciudad que engancha bastante y a la que seguramente volvamos. La verdad que nos sorprendió para bien.<!--more-->
 
 
-[<img src="https://live.staticflickr.com/5723/31035838950_450afb9c96_c.jpg"  />](https://www.flickr.com/photos/sitoo/31035838950/)
+[<img loading="lazy"  src="https://live.staticflickr.com/5723/31035838950_450afb9c96_c.jpg"  />](https://www.flickr.com/photos/sitoo/31035838950/)
 
 
   Existe una buena mezcla de elementos que hacen que la ciudad sea bastante moderna, exótica y caótica a partes iguales. Sus templos dorados, sus grandes atascos, los tuk tuk, sus mercados frenéticos con comida callejera, sus rascacielos, el skytrain o los busboat, etc, hacen de Bangkok una ciudad que no pueda pasar desapercibida y que por supuesto tenga tantos seguidores como detractores.
@@ -66,13 +66,13 @@ contains_panoramas: true
   Nuestros amigos Julen y Javi si entraron y se quedaron sin palabras de lo bonito que era. Al estar de duelo por la muerte del rey había mucha más gente de lo normal y para ellos fue algo agobiante, pero aún así nos dijeron que mereció la pena.<br /> Nosotros nos conformamos con ver el jardín de la entrada y el templo desde fuera. En otra ocasión donde no vayamos limitados y no haya tanta gente entraremos a verlo seguro.
 
 
-[<img src="https://live.staticflickr.com/5778/31334331915_a5fbb058ba_c.jpg" alt="Wat Phra Kaeow, Bagkok, Thailand" />](https://www.flickr.com/photos/sitoo/31334331915/)
+[<img loading="lazy"  src="https://live.staticflickr.com/5778/31334331915_a5fbb058ba_c.jpg" alt="Wat Phra Kaeow, Bagkok, Thailand" />](https://www.flickr.com/photos/sitoo/31334331915/)
 
 
   Entrando al muelle de Tha Tien de camino a nuestro siguiente destino:
 
 
-[<img src="https://live.staticflickr.com/5581/31353254745_a4f3d3c997_c.jpg" alt="Tha Tien Pier, Bangkok"  />](https://www.flickr.com/photos/sitoo/31353254745/in/dateposted/)
+[<img loading="lazy"  src="https://live.staticflickr.com/5581/31353254745_a4f3d3c997_c.jpg" alt="Tha Tien Pier, Bangkok"  />](https://www.flickr.com/photos/sitoo/31353254745/in/dateposted/)
 
 ## Visitar el Templo Wat Arun
 
@@ -95,19 +95,19 @@ contains_panoramas: true
   Las pagodas y prangs alrededor del prang central, de 77m:
 
 
-[<img src="https://farm6.staticflickr.com/5657/31345280926_d024bf281a_c.jpg" alt="Wat Arun, Bangkok"  />](https://www.flickr.com/photos/sitoo/31345280926/in/dateposted/)
+[<img loading="lazy"  src="https://farm6.staticflickr.com/5657/31345280926_d024bf281a_c.jpg" alt="Wat Arun, Bangkok"  />](https://www.flickr.com/photos/sitoo/31345280926/in/dateposted/)
 
 
   Los jardines que hay nada más entrar al templo:
 
 
-[<img src="https://farm6.staticflickr.com/5808/31266577281_e5f389a02f_c.jpg" alt="Jardines del templo Wat Arun, Bangkok" />](https://www.flickr.com/photos/sitoo/31266577281/in/dateposted/)
+[<img loading="lazy"  src="https://farm6.staticflickr.com/5808/31266577281_e5f389a02f_c.jpg" alt="Jardines del templo Wat Arun, Bangkok" />](https://www.flickr.com/photos/sitoo/31266577281/in/dateposted/)
 
 
   Volviendo al hotel, otra vez en Busboat:
 
 
-[<img src="https://live.staticflickr.com/5731/31345282996_47f1075fec_c.jpg" alt="Nuestra parada!"  />](https://www.flickr.com/photos/sitoo/31345282996/in/dateposted/)
+[<img loading="lazy"  src="https://live.staticflickr.com/5731/31345282996_47f1075fec_c.jpg" alt="Nuestra parada!"  />](https://www.flickr.com/photos/sitoo/31345282996/in/dateposted/)
 
 ## Chinatown
 
@@ -120,17 +120,17 @@ contains_panoramas: true
   Nosotros lo visitamos de noche y nos quedamos por la calle Yaowarad. En varias guías comentan que de día los puestos callejeros de comida son sustituidos por mercados y se puede visitar algún templo y el mercado Sampeng.<br /> Nos dio la sensación que Chinatown es uno de esos barrios que mantiene su autenticidad y transmite a la perfección la esencia de la vida local ¡por eso nos gustó tanto!
 
 
-[<img src="https://live.staticflickr.com/5324/31290099681_aecaa47857_c.jpg" alt="Yaowarat Rd, Bangkok"  />](https://www.flickr.com/photos/sitoo/31290099681/in/dateposted/)
+[<img loading="lazy"  src="https://live.staticflickr.com/5324/31290099681_aecaa47857_c.jpg" alt="Yaowarat Rd, Bangkok"  />](https://www.flickr.com/photos/sitoo/31290099681/in/dateposted/)
 
-[<img src="https://live.staticflickr.com/5711/31263796822_0f751b7128_c.jpg" alt="Durian"  />](https://www.flickr.com/photos/sitoo/31263796822/)
+[<img loading="lazy"  src="https://live.staticflickr.com/5711/31263796822_0f751b7128_c.jpg" alt="Durian"  />](https://www.flickr.com/photos/sitoo/31263796822/)
 
-[<img src="https://live.staticflickr.com/5342/31035840330_fabc540059_c.jpg"  />](https://www.flickr.com/photos/sitoo/31035840330/in/dateposted/)
+[<img loading="lazy"  src="https://live.staticflickr.com/5342/31035840330_fabc540059_c.jpg"  />](https://www.flickr.com/photos/sitoo/31035840330/in/dateposted/)
 
-[<img src="https://live.staticflickr.com/5783/31035839880_d6eef0450c_c.jpg" alt="T&K Seafood"  />](https://www.flickr.com/photos/sitoo/31035839880/in/dateposted/)
+[<img loading="lazy"  src="https://live.staticflickr.com/5783/31035839880_d6eef0450c_c.jpg" alt="T&K Seafood"  />](https://www.flickr.com/photos/sitoo/31035839880/in/dateposted/)
 
-[<img src="https://live.staticflickr.com/5806/31408166495_a3520a74d2_c.jpg"  />](https://www.flickr.com/photos/sitoo/31408166495/in/dateposted/)
+[<img loading="lazy"  src="https://live.staticflickr.com/5806/31408166495_a3520a74d2_c.jpg"  />](https://www.flickr.com/photos/sitoo/31408166495/in/dateposted/)
 
-[<img src="https://live.staticflickr.com/5698/31408167185_6f12b118d9_c.jpg" alt="El cocinero"  />](https://www.flickr.com/photos/sitoo/31408167185/in/dateposted/)
+[<img loading="lazy"  src="https://live.staticflickr.com/5698/31408167185_6f12b118d9_c.jpg" alt="El cocinero"  />](https://www.flickr.com/photos/sitoo/31408167185/in/dateposted/)
 
 ## World Center
 

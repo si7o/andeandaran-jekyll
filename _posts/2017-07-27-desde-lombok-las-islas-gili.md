@@ -28,7 +28,7 @@ Las tres islas fueron un buen lugar donde desintoxicarnos de los coches y las gr
 
 ## Cómo llegar
 
-[<img src="https://live.staticflickr.com/2812/33969252886_d8db5aac6a_c.jpg" alt="public boat" />](https://www.flickr.com/photos/sitoo/33969252886/)
+[<img loading="lazy"  src="https://live.staticflickr.com/2812/33969252886_d8db5aac6a_c.jpg" alt="public boat" />](https://www.flickr.com/photos/sitoo/33969252886/)
 
 Desde el puerto de Bangsal salen diariamente botes locales. También se puede contratar en cualquier agencia el viaje, pero evidentemente el precio será mucho mayor y el servicio es prácticamente igual. El bote local solamente tarda 15 minutos aproximadamente, con lo cual aunque ofrecen botes rápidos, creemos que no merece la pena pagar por ellos.
 
@@ -36,7 +36,7 @@ El servicio de botes locales funciona bastante bien, eso sí, ármate de pacienc
 
 ## Alojamiento
 
-[<img src="https://live.staticflickr.com/2813/34229963625_04a825d524_c.jpg" alt="Mr Botol."  />](https://www.flickr.com/photos/sitoo/34229963625/)
+[<img loading="lazy"  src="https://live.staticflickr.com/2813/34229963625_04a825d524_c.jpg" alt="Mr Botol."  />](https://www.flickr.com/photos/sitoo/34229963625/)
 
 Esta vez solo estuvimos en Gili Air y Gili Meno y nuestra experiencia en los alojamientos que escogimos fue inmejorable.
 
@@ -46,7 +46,7 @@ En Gili Meno estuvimos alojados en [Turtle Gili Meno](https://www.booking.com/ho
 
 ## Dónde avistar tortugas y hacer snorkel
 
-[<img src="https://live.staticflickr.com/2889/33375855443_97bce81734_c.jpg" alt="Lets go find those sea turtles!" />](https://www.flickr.com/photos/sitoo/33375855443/)
+[<img loading="lazy"  src="https://live.staticflickr.com/2889/33375855443_97bce81734_c.jpg" alt="Lets go find those sea turtles!" />](https://www.flickr.com/photos/sitoo/33375855443/)
 
 Hace dos años cuando estuvimos en las Gili nos quedamos con las ganas de ver sus famosas tortugas, así que en este viaje uno de nuestros objetivos era encontrarlas y nadar junto a ellas. Durante las dos semanas que estuvimos, recorrimos casi todos los rincones de las islas en busca de estas simpáticas tortugas.
 
@@ -54,7 +54,7 @@ Si no lleváis el equipo de snorkel en cualquiera de las dos islas es fácil enc
 
 A continuación, os contamos los mejores lugares para hacer snorkel y avistar tortugas.
 
-[<img class="alignnone size-full wp-image-2158" src="https://uploads.andeandaran.com/2017/07/3islasgili.jpg?resize=786%2C391&#038;ssl=1" />](https://uploads.andeandaran.com/2017/07/3islasgili.jpg)
+[<img loading="lazy"  class="alignnone size-full wp-image-2158" src="https://uploads.andeandaran.com/2017/07/3islasgili.jpg?resize=786%2C391&#038;ssl=1" />](https://uploads.andeandaran.com/2017/07/3islasgili.jpg)
 
 ### 1. Gili Air
 
@@ -81,37 +81,37 @@ La zona ideal para hacer snorkel y avistar a estos maravillosos reptiles, está 
 
 ##     Galería
 
-  <a href="https://uploads.andeandaran.com/2017/07/lombok-24.jpg"> <img src="https://uploads.andeandaran.com/2017/07/lombok-24.jpg" title="DCIM103GOPROGOPR8826." alt="Tortuga en Gili Meno" /> </a>   
+  <a href="https://uploads.andeandaran.com/2017/07/lombok-24.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/07/lombok-24.jpg" title="DCIM103GOPROGOPR8826." alt="Tortuga en Gili Meno" /> </a>   
   <a href="https://uploads.andeandaran.com/2017/07/lombok-23.jpg">
-  <img src="https://uploads.andeandaran.com/2017/07/lombok-23.jpg" title="DCIM103GOPROGOPR8816." alt="Observando una tortuga" /> </a>   
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2017/07/lombok-23.jpg" title="DCIM103GOPROGOPR8816." alt="Observando una tortuga" /> </a>   
   <a href="https://uploads.andeandaran.com/2017/07/lombok-22.jpg">
-  <img src="https://uploads.andeandaran.com/2017/07/lombok-22.jpg" title="DCIM103GOPROGOPR8760." alt="Selfie" /> </a> 
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2017/07/lombok-22.jpg" title="DCIM103GOPROGOPR8760." alt="Selfie" /> </a> 
   <a href="https://uploads.andeandaran.com/2017/07/lombok-21.jpg">
-  <img src="https://uploads.andeandaran.com/2017/07/lombok-21.jpg" title="DCIM103GOPROGOPR8755." alt="Encontramos a nemo" /> </a> 
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2017/07/lombok-21.jpg" title="DCIM103GOPROGOPR8755." alt="Encontramos a nemo" /> </a> 
   <a href="https://uploads.andeandaran.com/2017/07/lombok-20.jpg">
-  <img src="https://uploads.andeandaran.com/2017/07/lombok-20.jpg" title="lombok-20" alt="Celebración de una boda" /> </a> 
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2017/07/lombok-20.jpg" title="lombok-20" alt="Celebración de una boda" /> </a> 
   <a href="https://uploads.andeandaran.com/2017/07/lombok-9.jpg">
-  <img src="https://uploads.andeandaran.com/2017/07/lombok-9.jpg" title="lombok-9" alt="lombok-9" /> </a>
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2017/07/lombok-9.jpg" title="lombok-9" alt="lombok-9" /> </a>
   <a href="https://uploads.andeandaran.com/2017/07/lombok-8.jpg">
-  <img src="https://uploads.andeandaran.com/2017/07/lombok-8.jpg" title="lombok-8" alt="Haciendo el mono" /> </a> 
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2017/07/lombok-8.jpg" title="lombok-8" alt="Haciendo el mono" /> </a> 
   <a href="https://uploads.andeandaran.com/2017/07/lombok-7.jpg">
-  <img src="https://uploads.andeandaran.com/2017/07/lombok-7.jpg" title="lombok-7" alt="Bote local dese Lombok a Gili Air" /> </a> 
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2017/07/lombok-7.jpg" title="lombok-7" alt="Bote local dese Lombok a Gili Air" /> </a> 
   <a href="https://uploads.andeandaran.com/2017/07/lombok-6.jpg">
-  <img src="https://uploads.andeandaran.com/2017/07/lombok-6.jpg" title="lombok-6" alt="lombok-6" /> </a>
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2017/07/lombok-6.jpg" title="lombok-6" alt="lombok-6" /> </a>
   <a href="https://uploads.andeandaran.com/2017/07/lombok-5.jpg">
-  <img src="https://uploads.andeandaran.com/2017/07/lombok-5.jpg" title="DCIM103GOPROGOPR8601." alt="DCIM103GOPROGOPR8601." /> </a>
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2017/07/lombok-5.jpg" title="DCIM103GOPROGOPR8601." alt="DCIM103GOPROGOPR8601." /> </a>
   <a href="https://uploads.andeandaran.com/2017/07/lombok-4.jpg">
-  <img src="https://uploads.andeandaran.com/2017/07/lombok-4.jpg" title="DCIM103GOPROGOPR8734." alt="Preciosa tortuga" /> </a>   
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2017/07/lombok-4.jpg" title="DCIM103GOPROGOPR8734." alt="Preciosa tortuga" /> </a>   
   <a href="https://uploads.andeandaran.com/2017/07/21620082336_dc4ffa11e2_o.jpg">
-  <img src="https://uploads.andeandaran.com/2017/07/21620082336_dc4ffa11e2_o.jpg" title="21620082336_dc4ffa11e2_o" alt="21620082336_dc4ffa11e2_o" /> </a>
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2017/07/21620082336_dc4ffa11e2_o.jpg" title="21620082336_dc4ffa11e2_o" alt="21620082336_dc4ffa11e2_o" /> </a>
   <a href="https://uploads.andeandaran.com/2017/07/21629761691_bf1e51a0cc_o.jpg">
-  <img src="https://uploads.andeandaran.com/2017/07/21629761691_bf1e51a0cc_o.jpg" title="21629761691_bf1e51a0cc_o" alt="21629761691_bf1e51a0cc_o" /> </a>
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2017/07/21629761691_bf1e51a0cc_o.jpg" title="21629761691_bf1e51a0cc_o" alt="21629761691_bf1e51a0cc_o" /> </a>
   <a href="https://uploads.andeandaran.com/2017/07/21432995718_26329319f3_o.jpg">
-  <img src="https://uploads.andeandaran.com/2017/07/21432995718_26329319f3_o.jpg" title="21432995718_26329319f3_o" alt="Lombok visto desde Gili Air" /> </a> 
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2017/07/21432995718_26329319f3_o.jpg" title="21432995718_26329319f3_o" alt="Lombok visto desde Gili Air" /> </a> 
   <a href="https://uploads.andeandaran.com/2017/07/21025792614_e064af5e2a_o.jpg">
-  <img src="https://uploads.andeandaran.com/2017/07/21025792614_e064af5e2a_o.jpg" title="21025792614_e064af5e2a_o" alt="A la luz de la luna" /> </a> 
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2017/07/21025792614_e064af5e2a_o.jpg" title="21025792614_e064af5e2a_o" alt="A la luz de la luna" /> </a> 
   <a href="https://uploads.andeandaran.com/2017/07/21458491498_aa1a40816f_o.jpg">
-  <img src="https://uploads.andeandaran.com/2017/07/21458491498_aa1a40816f_o.jpg" title="21458491498_aa1a40816f_o" alt="purr" /> </a> 
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2017/07/21458491498_aa1a40816f_o.jpg" title="21458491498_aa1a40816f_o" alt="purr" /> </a> 
   <a href="https://uploads.andeandaran.com/2017/07/21645665246_ec2f76640b_o.jpg">
-  <img src="https://uploads.andeandaran.com/2017/07/21645665246_ec2f76640b_o.jpg" title="21645665246_ec2f76640b_o" alt="Monte Agung" /> </a>    
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2017/07/21645665246_ec2f76640b_o.jpg" title="21645665246_ec2f76640b_o" alt="Monte Agung" /> </a>    
           

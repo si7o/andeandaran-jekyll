@@ -163,7 +163,7 @@ La moneda oficial de Tailandia es el Bath. Desde [este enlace](http://www.xe.com
 
 Por su ambiente mochilero, por sus paredes llenas de chorreras, sus playas, su vegetación y la gente que conocimos, el mejor lugar de Tailandia para nosotros fue Tonsai. Os contamos todo lo que hicimos en los post: [Rincones de Tonsai y Railay](http://www.andeandaran.com/2016/11/17/descubriendo-rincones-de-tonsai-railay/), [Escalando en Tonsai y Railay](http://www.andeandaran.com/2016/11/13/escalando-tonsai-railay/) y [Tonsai, segunda parte](http://www.andeandaran.com/2017/03/19/tonsai-segunda-parte/).
 
-[<img class="alignnone size-large wp-image-1710" src="https://uploads.andeandaran.com/2017/03/tonsai2-8284.jpg?resize=810%2C608" />](https://uploads.andeandaran.com/2017/03/tonsai2-8284.jpg)
+[<img loading="lazy"  class="alignnone size-large wp-image-1710" src="https://uploads.andeandaran.com/2017/03/tonsai2-8284.jpg?resize=810%2C608" />](https://uploads.andeandaran.com/2017/03/tonsai2-8284.jpg)
 
 ## Nuestra comida preferida
 
@@ -187,4 +187,4 @@ En el sur del país, donde más concentrado esta el turismo, nos encontramos a b
 
 ## Galería
 
-<a href='https://www.flickr.com/photos/sitoo/albums/72157660756105178' title='Tailandia by Sitoo, on Flickr'><img src='https://live.staticflickr.com/5733/30889920831_1c6daf818e_c.jpg' alt='Long Tail Boats @ Phra Nang Beach, Krabi' /></a>
+<a href='https://www.flickr.com/photos/sitoo/albums/72157660756105178' title='Tailandia by Sitoo, on Flickr'><img loading="lazy"  src='https://live.staticflickr.com/5733/30889920831_1c6daf818e_c.jpg' alt='Long Tail Boats @ Phra Nang Beach, Krabi' /></a>

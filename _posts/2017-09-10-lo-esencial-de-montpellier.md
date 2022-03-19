@@ -44,7 +44,7 @@ header:
 <div >
   <div  >
     <div>
-      <a href="https://uploads.andeandaran.com/2017/09/IMG_6308.jpg"> <img src="https://uploads.andeandaran.com/2017/09/IMG_6308.jpg" title="IMG_6308" alt="IMG_6308" /> </a>
+      <a href="https://uploads.andeandaran.com/2017/09/IMG_6308.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/09/IMG_6308.jpg" title="IMG_6308" alt="IMG_6308" /> </a>
     </div>
   </div>
   
@@ -52,7 +52,7 @@ header:
   
   <div  >
     <div>
-      <a href="https://uploads.andeandaran.com/2017/09/IMG_6307.jpg"> <img src="https://uploads.andeandaran.com/2017/09/IMG_6307.jpg" title="IMG_6307" alt="IMG_6307" /> </a>
+      <a href="https://uploads.andeandaran.com/2017/09/IMG_6307.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/09/IMG_6307.jpg" title="IMG_6307" alt="IMG_6307" /> </a>
     </div>
   </div>
   
@@ -60,7 +60,7 @@ header:
   
   <div  >
     <div>
-      <a href="https://uploads.andeandaran.com/2017/09/IMG_6306.jpg"> <img src="https://uploads.andeandaran.com/2017/09/IMG_6306.jpg" title="IMG_6306" alt="IMG_6306" /> </a>
+      <a href="https://uploads.andeandaran.com/2017/09/IMG_6306.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/09/IMG_6306.jpg" title="IMG_6306" alt="IMG_6306" /> </a>
     </div>
   </div>
   

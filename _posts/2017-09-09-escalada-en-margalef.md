@@ -35,7 +35,7 @@ header:
   La zona de escalada se encuentran en el <a href="https://www.google.es/maps/place/Margalef+Presa+Bivac/@41.2907414,0.7732655,15z/data=!4m5!3m4!1s0x0:0xdc9ef62a664a3114!8m2!3d41.2979607!4d0.7847956">embalse</a>, a poco más de 4km al noreste de Margalef de Monsant y junto a la <a href="https://www.google.es/maps/place/Ermita+De+Sant+Salvador/@41.276869,0.7717913,15.12z/data=!4m5!3m4!1s0x0:0x23aacbc6ec10da5b!8m2!3d41.2749844!4d0.7775053">Ermita De Sant Salvador</a>. Casi todos los sectores son accesibles en coche y a pocos minutos a pie.
 
 
-<a title="Campsite!" href="https://www.flickr.com/photos/sitoo/35757502685/in/dateposted/"><img class="aligncenter" src="https://farm5.staticflickr.com/4288/35757502685_0bdd13d0b1_z.jpg" alt="Campsite!" /></a>
+<a title="Campsite!" href="https://www.flickr.com/photos/sitoo/35757502685/in/dateposted/"><img loading="lazy"  class="aligncenter" src="https://farm5.staticflickr.com/4288/35757502685_0bdd13d0b1_z.jpg" alt="Campsite!" /></a>
 
 ## Cuándo ir
 
@@ -76,7 +76,7 @@ header:
   En su web, <a href="http://www.escaladamargalef.com/on_dormir_margalef.asp?op=dormir&idioma=ES">escalamargalef.com</a>, encontraréis más información sobre sus servicios, tarifas y teléfonos de contacto.
 
 <figure>
-<a title="take time to rest" href="https://www.flickr.com/photos/sitoo/35873841134/" data-flickr-embed="true"><img src="https://farm5.staticflickr.com/4374/35873841134_42cd9cb309_z.jpg" alt="Amanecer en el camping de La Presa" /></a><figcaption class="wp-caption-text">Amanecer en el camping de La Presa</figcaption></figure> 
+<a title="take time to rest" href="https://www.flickr.com/photos/sitoo/35873841134/" data-flickr-embed="true"><img loading="lazy"  src="https://farm5.staticflickr.com/4374/35873841134_42cd9cb309_z.jpg" alt="Amanecer en el camping de La Presa" /></a><figcaption class="wp-caption-text">Amanecer en el camping de La Presa</figcaption></figure> 
 
 ### El Racó de la Finestra
 
@@ -129,7 +129,7 @@ En <a href="http://woguclimbing.com/nueva-guia-escalada-deportiva-margalef/" tar
 ##  Escalada
 <figure style="width: 349px" class="wp-caption alignleft">
 
-<a title="Escalando en Margalef @Tarragona" href="https://www.flickr.com/photos/sitoo/15544840309/" data-flickr-embed="true"><img src="https://farm8.staticflickr.com/7512/15544840309_bd40e256d0_z.jpg" alt="Escalando en Margalef, sector Chorreras" /></a><figcaption class="wp-caption-text">Escalando en Margalef, sector Chorreras</figcaption></figure> 
+<a title="Escalando en Margalef @Tarragona" href="https://www.flickr.com/photos/sitoo/15544840309/" data-flickr-embed="true"><img loading="lazy"  src="https://farm8.staticflickr.com/7512/15544840309_bd40e256d0_z.jpg" alt="Escalando en Margalef, sector Chorreras" /></a><figcaption class="wp-caption-text">Escalando en Margalef, sector Chorreras</figcaption></figure> 
 
 
   Con 60 sectores y casi 1000 vías, se trata de una de las principales escuelas de escalada deportiva de España.
@@ -150,4 +150,4 @@ En <a href="http://woguclimbing.com/nueva-guia-escalada-deportiva-margalef/" tar
   Si os habéis quedado con ganas de escalar, siempre podéis acercaros a Siurana, Arbolí, Morera de Montsant... no están demasiado lejos.<br /> Si lo que estáis buscando son planes alternativos para los días de descanso, Margalef y la Sierra de Montsant ofrecen bastantes posibilidades. Nosotros no las conocemos, pero os dejamos <a href="http://www.escaladamargalef.com/el_poble_margalef.asp?op=margalef&idioma=ES">este enlace a EscalaMargalef.com.</a> En él encontraréis mucha más información sobre qué más hacer a parte de subiros por las paredes!
 
 
-<img class="alignright size-large wp-image-2534" src="https://uploads.andeandaran.com/2017/09/IMG_6146.jpg" /> 
+<img loading="lazy"  class="alignright size-large wp-image-2534" src="https://uploads.andeandaran.com/2017/09/IMG_6146.jpg" /> 

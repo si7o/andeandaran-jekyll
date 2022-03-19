@@ -124,31 +124,31 @@ Nuestra experiencia con el alojamiento no fue muy buena, así que os podemos ayu
 
 El templo esta justo enfrente de Wat Phra Mahathat. Por ser el primero que vimos nos gusto a pesar de que una de sus pagodas principales estaba en reconstrucción. Construido con ladrillos rojos y cubierto en su mayor parte por vegetación tiene un toque muy misterioso que esta bien. La entrada cuesta 50 bth.
 
-[<img class="alignnone size-full wp-image-1663" src="https://uploads.andeandaran.com/2017/03/DSC_1376.jpg" />](https://uploads.andeandaran.com/2017/03/DSC_1376.jpg)
+[<img loading="lazy"  class="alignnone size-full wp-image-1663" src="https://uploads.andeandaran.com/2017/03/DSC_1376.jpg" />](https://uploads.andeandaran.com/2017/03/DSC_1376.jpg)
 
 ### Wat Phra Mahathat
 
 Es de los más famosos de la ciudad y la verdad que es de lo mejor que tiene. Es bastante grande y perderse entre sus torres y pagodas viendo buddhas decapitados es interesante. Lo más característico del templo es la cabeza del buddha enredada entre las raíces de un árbol. Si te resulta difícil encontrarla, en este laberinto de templo, busca un grupo de turistas apelotonado y ¡ahí estará!.  La entrada cuesta 50 bth.
 
-[<img class="alignnone size-full wp-image-1670" src="https://uploads.andeandaran.com/2017/03/DSC_1421.jpg" />](https://uploads.andeandaran.com/2017/03/DSC_1421.jpg)
+[<img loading="lazy"  class="alignnone size-full wp-image-1670" src="https://uploads.andeandaran.com/2017/03/DSC_1421.jpg" />](https://uploads.andeandaran.com/2017/03/DSC_1421.jpg)
 
 ### Wat Phra Ram
 
 Este nos resulto bastante similar a Mahadhat y es que está justo detrás. Lo más llamativo son algunas reconstrucciones de los buddha que hay repartidos por todo el templo y vestidos con bandas amarillas. La entrada cuesta 50 bth.
 
-[<img class="alignnone size-full wp-image-1669" src="https://uploads.andeandaran.com/2017/03/DSC_1413.jpg" />](https://uploads.andeandaran.com/2017/03/DSC_1413.jpg)
+[<img loading="lazy"  class="alignnone size-full wp-image-1669" src="https://uploads.andeandaran.com/2017/03/DSC_1413.jpg" />](https://uploads.andeandaran.com/2017/03/DSC_1413.jpg)
 
 ### Wat Phra Si Sanphet
 
 Esta situado dentro de las inmediaciones del palacio real, el cual no merece la pena verlo, esta súper descuidado. Lo más atractivo del templo son las tres estupas grandes que lo forman y que son un símbolo de la ciudad. En ella hay cenizas de varios reyes. La entrada cuesta 50 bth.
 
-[<img class="alignnone size-full wp-image-1671" src="https://uploads.andeandaran.com/2017/03/DSC_1439.jpg" />](https://uploads.andeandaran.com/2017/03/DSC_1439.jpg)
+[<img loading="lazy"  class="alignnone size-full wp-image-1671" src="https://uploads.andeandaran.com/2017/03/DSC_1439.jpg" />](https://uploads.andeandaran.com/2017/03/DSC_1439.jpg)
 
 ### Wat Phanan Choeng
 
 Este es el templo mas diferente de todos, con un estilo que nos recordó mucho a los templos chinos que encontramos en Vietnam. Lo más espectacular es el Buddha de 20 metros que hay en su interior. Es un templo bastante famoso entre los creyentes y se forman largas colas. La entrada son 20 bth, pero se puede acceder gratis si entras con la bicicleta por el carril derecho.
 
-[<img class="alignnone wp-image-1677 size-full" src="https://uploads.andeandaran.com/2017/03/DSC_1475.jpg" />](https://uploads.andeandaran.com/2017/03/DSC_1475.jpg)
+[<img loading="lazy"  class="alignnone wp-image-1677 size-full" src="https://uploads.andeandaran.com/2017/03/DSC_1475.jpg" />](https://uploads.andeandaran.com/2017/03/DSC_1475.jpg)
 
 <!-- Start shortcoder -->
 
@@ -160,7 +160,7 @@ Este es el templo mas diferente de todos, con un estilo que nos recordó mucho a
 
 Es uno de los templos que más lejos está del centro. Nosotros entramos porque teníamos la entrada que estaba incluido, pero se puede ver perfectamente desde fuera. La entrada cuesta 50 bth.
 
-[<img class="alignnone wp-image-1672 size-full" src="https://uploads.andeandaran.com/2017/03/DSC_1450.jpg" />](https://uploads.andeandaran.com/2017/03/DSC_1450.jpg)
+[<img loading="lazy"  class="alignnone wp-image-1672 size-full" src="https://uploads.andeandaran.com/2017/03/DSC_1450.jpg" />](https://uploads.andeandaran.com/2017/03/DSC_1450.jpg)
 
 ### Wat Yai Chai Mongkol
 

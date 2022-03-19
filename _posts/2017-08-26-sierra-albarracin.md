@@ -96,7 +96,7 @@ Como podéis imaginar, la Sierra de Albarracín está repleta de montes y prados
 Desde Villar del Cobo empieza una ruta de varios kilómetros que discurre por dentro de un cañon, con paredes de 20 o 30 metros y con tan solo un par de ellos de separación. Dependiendo de la temporada en la que vayas encontraras agua o no. En nuestro caso, las dos veces que hemos hecho la ruta estaba seco, pero aún así la grieta de la roca es impresionante.
 <figure>
 
-<img class="size-large wp-image-2488" src="https://uploads.andeandaran.com/2017/08/sierra_albarracin-4.jpg" /> <figcaption class="wp-caption-text">Cañón del Salto del Pero Gil</figcaption></figure> 
+<img loading="lazy"  class="size-large wp-image-2488" src="https://uploads.andeandaran.com/2017/08/sierra_albarracin-4.jpg" /> <figcaption class="wp-caption-text">Cañón del Salto del Pero Gil</figcaption></figure> 
 
 
 La ruta discurre por la PR-TE1, al comienzo va por un sendero que bordea el rió seco y pasados unos 6 km más o menos el cañón se va estrechando cada vez más. Es un paseo de unos 16 km ida y vuelta con bastante poco desnivel que transcurre junto al río Guadalaviar y llega hasta unas pozas de agua a las que nunca hemos llegado...algún día a ver si conseguimos terminar la ruta al completo. Podéis ver el recorrido <a href="https://es.wikiloc.com/wikiloc/view.do?id=14565412" target="_blank" rel="noopener">aquí (Wikiloc).</a>
@@ -110,7 +110,7 @@ Desde Tramacastilla también se puede realizar la ruta, pero hay mas desnivel ac
 https://www.flickr.com/photos/sitoo/22497058471/
 
 
-<a title="Barranco de la Hoz (II)" href="https://www.flickr.com/photos/sitoo/21890693024/in/album-72157609020495205/" data-flickr-embed="true"><img  src="https://farm6.staticflickr.com/5724/21890693024_c917786f69.jpg" alt="Barranco de la Hoz (II)"  /></a>Este sendero transcurre por el "Cañón del Río Blanco" y puede hacerse desde Calomarde ida y vuelta o desde Frias de Albarracín a Calomarde. La parte más llamativa del camino atraviesa varias pasarelas por encima del agua y cuevas esculpidas en el cañón.
+<a title="Barranco de la Hoz (II)" href="https://www.flickr.com/photos/sitoo/21890693024/in/album-72157609020495205/" data-flickr-embed="true"><img loading="lazy"   src="https://farm6.staticflickr.com/5724/21890693024_c917786f69.jpg" alt="Barranco de la Hoz (II)"  /></a>Este sendero transcurre por el "Cañón del Río Blanco" y puede hacerse desde Calomarde ida y vuelta o desde Frias de Albarracín a Calomarde. La parte más llamativa del camino atraviesa varias pasarelas por encima del agua y cuevas esculpidas en el cañón.
 
 Desde Frías de Albarracín es posible  avanzar por una pista forestal en coche y así atajar un poco. La pista va en dirección norte al río de la Fuente de Berro y desde ahí empezar a caminar hacia Calomarde. El camino está en muy buen estado y bastante bien señalizado.
 
@@ -122,7 +122,7 @@ Si preferís hacer la ruta saliendo desde Calomarde, en [este enlace de WikiLoc]
 ## Avistando ciervos
 
 
-[<img src="https://live.staticflickr.com/4257/35486193812_54de67c2de_c.jpg" alt="deer!"  />](https://www.flickr.com/photos/sitoo/35486193812/)
+[<img loading="lazy"  src="https://live.staticflickr.com/4257/35486193812_54de67c2de_c.jpg" alt="deer!"  />](https://www.flickr.com/photos/sitoo/35486193812/)
 
 
   Cualquiera de las pistas forestales de la zona es un buen comienzo. Tras pocos minutos circulando por un camino de tierra empezamos a ver  los primeros ciervos... La pena es que son muy escurridizos y no fue fácil conseguir una foto decente. No estamos seguros, pero puede que llevar un coche rojo tuviese algo que ver 😀
@@ -158,7 +158,7 @@ https://www.flickr.com/photos/sitoo/34814070324/
 A pocos minutos de Albarracín se encuentra este paraje famoso por sus pinturas rupestres, flora y fauna para unos y por sus rocas de arenisca para otros.  
 En [este otro post os contamos todo lo que necesitáis saber sobre la escalada en Albarracín](https://www.andeandaran.com/deporte/escalada-albarracin/). No obstante, aunque la escalada no os interese, os recomendamos visitar el lugar y pasear por los pinares... no os arrepentiréis.
 
-[<img src="https://live.staticflickr.com/4333/36684513655_9b4634479d_c.jpg" alt="Pinares de Rodeno, Sierra de Albarracín, Teruel"  />](https://www.flickr.com/photos/sitoo/36684513655/)
+[<img loading="lazy"  src="https://live.staticflickr.com/4333/36684513655_9b4634479d_c.jpg" alt="Pinares de Rodeno, Sierra de Albarracín, Teruel"  />](https://www.flickr.com/photos/sitoo/36684513655/)
 
 ## Galería
 

@@ -24,7 +24,7 @@ Indonesia es uno de esos destinos en los que por muy poco puedes disfrutar y rel
 
   * **Desde el aeropuerto:** Una vez aterrizados en la isla, la mejor opción para moverse del aeropuerto al hotel es cogiendo un taxi. Ellos supone tener que negociar un precio e intentar tener la sensación de que no te han timado..algo que casi siempre es muy difícil de evitar. En casi toda Indonesia hay una compañía de taxi "Blue Bird" que funcionan con taxímetro y son del gobierno, con lo cual son las más seguras y fiables. Otra opción es coger el Damri bus que hace parada en Mataram y Sengiggi. También una ruta que va hacia Kuta. El precio esta entre los 50.000-75.000 IDR (3-4€ aproximadamente). Lo peor de esta opción es que tarda más de 1 hora y si llegas por la noche, como fue nuestro caso, llegar de madrugada y encontrar el alojamiento no es lo más apetecible.
 
-  <img class="alignright wp-image-2082 size-medium" src="https://uploads.andeandaran.com/2017/07/lombok-3.jpg" />
+  <img loading="lazy"  class="alignright wp-image-2082 size-medium" src="https://uploads.andeandaran.com/2017/07/lombok-3.jpg" />
 
   * **Resto de la isla:** Como en la mayoría de países asiáticos, la mejor opción siempre es alquilar un moto. No solo por la libertad que da sino porque es de las alternativas más baratas (60.000-70.000 Idr, al cambio 4€ aproximadamente). Además, si quieres moverte de un pueblo a otro para cambiar de alojamiento y de zona de la isla, en cada esquina es fácil encontrar agencias de viajes que ofrecen billetes en minibus o Van. Problema de transporte no hay en la isla, así que en este aspecto no os preocupéis.
 
@@ -48,14 +48,14 @@ En la isla de Lombok estuvimos alojados en 3 ciudades y cambiamos otras tantas d
 
 ### 2. Visitar la capital de la isla: Mataram
 
-[<img src="https://live.staticflickr.com/2810/34066180625_d3c7e99fe4_c.jpg" alt="A woman on her shop at Pasa Cacranegara"  />](https://www.flickr.com/photos/sitoo/34066180625/in/dateposted/)
+[<img loading="lazy"  src="https://live.staticflickr.com/2810/34066180625_d3c7e99fe4_c.jpg" alt="A woman on her shop at Pasa Cacranegara"  />](https://www.flickr.com/photos/sitoo/34066180625/in/dateposted/)
 
 Mataram es la ciudad principal de la isla, pero no esta especialmente enfocada para el turista.
 
   * **Jalan Pejanggik:_ _**En una de las calles principales de la ciudad** **se concentran varios outlets y tiendas de montaña con precios muy asequibles. Es un buen lugar para hacer compras de material si estáis pensando hacer el trekking del Rinjani.
   * **Mercado de Pasar Cakra Utara**: Cerca de esta zona comercial está uno de los mercados más auténticos y grandes que hemos visitado en Asia. Caminar entre sus callejuelas y pasar desapercibido es todo un reto. No deben de estar muy acostumbrados a las visitas de los "bulé" (turista en bahasa). No hay persona que no te observe como un perro verde y que no te haga alguna gracia en su idioma. Es un mercado en el que se puede encontrar de todo, desde frutos, hasta armas de hace 50 años. ¡Toda una experiencia!
 
-[<img src="https://live.staticflickr.com/2916/33977958502_273406bfa0_c.jpg" alt="man at work"  />](https://www.flickr.com/photos/sitoo/33977958502/in/dateposted/)
+[<img loading="lazy"  src="https://live.staticflickr.com/2916/33977958502_273406bfa0_c.jpg" alt="man at work"  />](https://www.flickr.com/photos/sitoo/33977958502/in/dateposted/)
 
 ### 3. Excursión a alguna cascada de la isla
 
@@ -63,7 +63,7 @@ Mientras estuvimos en Senggigi decidimos ir a bañarnos a las cascadas de **Air 
 
 Cuando llegamos al parking más cercano a las cascadas, un chico nos insistió en que fuéramos con él a la caseta donde vendían los tickets. No decía que era obligatorio ir con guía. Previamente, habíamos leído que la entrada costaba 10.000 Idr y estando allí intentaban vendernos un pack con guía y entrada a las 3 cascadas por 70.000 o 100.000 ¡un timo!. Si vais no les hagáis ni caso e insistir en que queréis la entrada al parque, la cual te da acceso a cualquiera de las 3 cascadas. Los caminos son sencillos e incluso se puede acceder con la moto. Conclusión, no es necesario ir con ningún guía.
 
-[<img src="https://live.staticflickr.com/4178/34058508782_7c7e2a5f6d_c.jpg" alt="A window to Air Terjun Benang Kelambu, Lombok, Indonesia"  />](https://www.flickr.com/photos/sitoo/34058508782/in/photostream/)
+[<img loading="lazy"  src="https://live.staticflickr.com/4178/34058508782_7c7e2a5f6d_c.jpg" alt="A window to Air Terjun Benang Kelambu, Lombok, Indonesia"  />](https://www.flickr.com/photos/sitoo/34058508782/in/photostream/)
 
 ### 4. Playas y surf en Kuta
 
@@ -75,12 +75,12 @@ Ni Sito ni yo somo aficionados del surf, somos más de deportes "terrestres", as
   * **Playa Mawi:** Es uno de los lugares dónde se reúnen surfistas. Es bastante pequeña e íntima, a penas encontramos gente el día que estuvimos. En lugar de arena tiene piedras y hay un único chiringuito a pie de playa.
   * **Mawun beach:** Playa de arena blanca y olas medianas. Un buen lugar para relajarse y pasar el rato negociando con decenas de niños intentando vender frutas 😉
 
-[<img src="https://live.staticflickr.com/4213/35732564105_b44906a5ab_c.jpg" alt="An average day at the beach in Lombok, Indonesia"  />](https://www.flickr.com/photos/sitoo/35732564105/)
+[<img loading="lazy"  src="https://live.staticflickr.com/4213/35732564105_b44906a5ab_c.jpg" alt="An average day at the beach in Lombok, Indonesia"  />](https://www.flickr.com/photos/sitoo/35732564105/)
 
   * **Playa de Kuta:** Las olas están casi 1km mar adentro, con lo cual es perfecta para pegarse un baño antes de ir al hotel. Hay bastante puestecitos con ropa y souvenirs.
   * **Seger beach:** La encontramos de casualidad y fue una grata sorpresa. No es una playa en la que haya muchos bañistas porque hay bastantes rocas, pero el paisaje es brutal. A la derecha de la playa hay una pequeña península desde la que se pueden ver magníficos atardeceres.
 
-[<img class="alignnone size-large wp-image-2095" src="https://uploads.andeandaran.com/2017/07/lombok-16.jpg" />](https://uploads.andeandaran.com/2017/07/lombok-16.jpg)
+[<img loading="lazy"  class="alignnone size-large wp-image-2095" src="https://uploads.andeandaran.com/2017/07/lombok-16.jpg" />](https://uploads.andeandaran.com/2017/07/lombok-16.jpg)
 
   * **Playa Tanjung Aan:** Para nosotros fue la mejor, arena fina blanca, agua cristalina y turquesa. Es perfecta para relajarse y descansar. Al estar  protegida por dos penínsulas el mar esta completamente quieto a diferencia de las playas vecinas.
 
@@ -101,88 +101,88 @@ En la mayoría de agencias te ofrecen paquetes de 1 noche/2 días o 2 noches/3 d
 
 <div>
   <div>
-    <a href="https://uploads.andeandaran.com/2017/07/lombok-14.jpg"> <img src="https://uploads.andeandaran.com/2017/07/lombok-14.jpg" title="lombok-14" alt="Mercado de Cakra Utara" /> </a>   
+    <a href="https://uploads.andeandaran.com/2017/07/lombok-14.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/07/lombok-14.jpg" title="lombok-14" alt="Mercado de Cakra Utara" /> </a>   
     <div>
       Mercado de Cakra Utara
     </div>
   </div>
   <div>
-    <a href="https://uploads.andeandaran.com/2017/07/lombok-13.jpg"> <img src="https://uploads.andeandaran.com/2017/07/lombok-13.jpg" title="Hi!" alt="Dentro del mercado, puesto de ropa" /> </a>  
+    <a href="https://uploads.andeandaran.com/2017/07/lombok-13.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/07/lombok-13.jpg" title="Hi!" alt="Dentro del mercado, puesto de ropa" /> </a>  
     <div>
       Dentro del mercado, puesto de ropa
     </div>
   </div>
   <div>
-    <a href="https://uploads.andeandaran.com/2017/07/lombok-11.jpg"> <img src="https://uploads.andeandaran.com/2017/07/lombok-11.jpg" title="lombok-11" alt="Pescado fresco" /> </a>   
+    <a href="https://uploads.andeandaran.com/2017/07/lombok-11.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/07/lombok-11.jpg" title="lombok-11" alt="Pescado fresco" /> </a>   
     <div>
       Pescado fresco
     </div>
   </div>
   <div>
-    <a href="https://uploads.andeandaran.com/2017/07/lombok-12.jpg"> <img src="https://uploads.andeandaran.com/2017/07/lombok-12.jpg" title="lombok-12" alt="Negociando el precio" /> </a>   
+    <a href="https://uploads.andeandaran.com/2017/07/lombok-12.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/07/lombok-12.jpg" title="lombok-12" alt="Negociando el precio" /> </a>   
     <div>
       Negociando el precio
     </div>
   </div>
   <div>
-    <a href="https://uploads.andeandaran.com/2017/07/lombok-28.jpg"> <img src="https://uploads.andeandaran.com/2017/07/lombok-28.jpg" title="DCIM103GOPROGOPR8828." alt="Un baño fresquito en las cascadas" /> </a>   
+    <a href="https://uploads.andeandaran.com/2017/07/lombok-28.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/07/lombok-28.jpg" title="DCIM103GOPROGOPR8828." alt="Un baño fresquito en las cascadas" /> </a>   
     <div>
       Un baño fresquito en las cascadas
     </div>
   </div>
   <div>
-    <a href="https://uploads.andeandaran.com/2017/07/lombok-27.jpg"> <img src="https://uploads.andeandaran.com/2017/07/lombok-27.jpg" title="lombok-27" alt="Jardin vertical" /> </a>   
+    <a href="https://uploads.andeandaran.com/2017/07/lombok-27.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/07/lombok-27.jpg" title="lombok-27" alt="Jardin vertical" /> </a>   
     <div>
       Jardin vertical
     </div>
   </div>
   <div>
-    <a href="https://uploads.andeandaran.com/2017/07/lombok-26.jpg"> <img src="https://uploads.andeandaran.com/2017/07/lombok-26.jpg" title="lombok-26" alt="Cascadas air Terjun" /> </a> 
+    <a href="https://uploads.andeandaran.com/2017/07/lombok-26.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/07/lombok-26.jpg" title="lombok-26" alt="Cascadas air Terjun" /> </a> 
     <div>
       Cascadas air Terjun
     </div>
   </div>
   <div>
-    <a href="https://uploads.andeandaran.com/2017/07/lombok-25.jpg"> <img src="https://uploads.andeandaran.com/2017/07/lombok-25.jpg" title="lombok-25" alt="Unos tortolitos" /> </a>   
+    <a href="https://uploads.andeandaran.com/2017/07/lombok-25.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/07/lombok-25.jpg" title="lombok-25" alt="Unos tortolitos" /> </a>   
     <div>
       Unos tortolitos
     </div>
   </div>
   <div>
-    <a href="https://uploads.andeandaran.com/2017/07/lombok-18.jpg"> <img src="https://uploads.andeandaran.com/2017/07/lombok-18.jpg" title="lombok-18" alt="lombok-18" /> </a>
+    <a href="https://uploads.andeandaran.com/2017/07/lombok-18.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/07/lombok-18.jpg" title="lombok-18" alt="lombok-18" /> </a>
   </div>
   <div>
-    <a href="https://uploads.andeandaran.com/2017/07/lombok-19.jpg"> <img src="https://uploads.andeandaran.com/2017/07/lombok-19.jpg" title="lombok-19" alt="Rebaño de bueyes" /> </a>   
+    <a href="https://uploads.andeandaran.com/2017/07/lombok-19.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/07/lombok-19.jpg" title="lombok-19" alt="Rebaño de bueyes" /> </a>   
     <div>
       Rebaño de bueyes
     </div>
   </div>
   <div>
-    <a href="https://uploads.andeandaran.com/2017/07/lombok-17.jpg"> <img src="https://uploads.andeandaran.com/2017/07/lombok-17.jpg" title="lombok-17" alt="lombok-17" /> </a>
+    <a href="https://uploads.andeandaran.com/2017/07/lombok-17.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/07/lombok-17.jpg" title="lombok-17" alt="lombok-17" /> </a>
   </div>
   <div>
-    <a href="https://uploads.andeandaran.com/2017/07/lombok-16.jpg"> <img src="https://uploads.andeandaran.com/2017/07/lombok-16.jpg" title="lombok-16" alt="lombok-16" /> </a>
+    <a href="https://uploads.andeandaran.com/2017/07/lombok-16.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/07/lombok-16.jpg" title="lombok-16" alt="lombok-16" /> </a>
   </div>
   <div>
-    <a href="https://uploads.andeandaran.com/2017/07/lombok-15.jpg"> <img src="https://uploads.andeandaran.com/2017/07/lombok-15.jpg" title="lombok-15" alt="lombok-15" /> </a>
+    <a href="https://uploads.andeandaran.com/2017/07/lombok-15.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/07/lombok-15.jpg" title="lombok-15" alt="lombok-15" /> </a>
   </div>
   <div>
-    <a href="https://uploads.andeandaran.com/2017/07/lombok-10.jpg"> <img src="https://uploads.andeandaran.com/2017/07/lombok-10.jpg" title="lombok-10" alt="lombok-10"  /> </a>
+    <a href="https://uploads.andeandaran.com/2017/07/lombok-10.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/07/lombok-10.jpg" title="lombok-10" alt="lombok-10"  /> </a>
   </div>
   <div>
-    <a href="https://uploads.andeandaran.com/2017/07/lombok-9.jpg"> <img src="https://uploads.andeandaran.com/2017/07/lombok-9.jpg" title="lombok-9" alt="lombok-9" /> </a>
+    <a href="https://uploads.andeandaran.com/2017/07/lombok-9.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/07/lombok-9.jpg" title="lombok-9" alt="lombok-9" /> </a>
   </div>
   <div>
-    <a href="https://uploads.andeandaran.com/2017/07/lombok-6.jpg"> <img src="https://uploads.andeandaran.com/2017/07/lombok-6.jpg" title="lombok-6" alt="lombok-6" /> </a>
+    <a href="https://uploads.andeandaran.com/2017/07/lombok-6.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/07/lombok-6.jpg" title="lombok-6" alt="lombok-6" /> </a>
   </div>
   <div>
-    <a href="https://uploads.andeandaran.com/2017/07/lombok-2.jpg"> <img src="https://uploads.andeandaran.com/2017/07/lombok-2.jpg" title="DCIM103GOPROGOPR8655." alt="Probando el surf" /> </a>   
+    <a href="https://uploads.andeandaran.com/2017/07/lombok-2.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/07/lombok-2.jpg" title="DCIM103GOPROGOPR8655." alt="Probando el surf" /> </a>   
     <div>
       Probando el surf
     </div>
   </div>
   <div>
-    <a href="https://uploads.andeandaran.com/2017/07/lombok-1.jpg"> <img src="https://uploads.andeandaran.com/2017/07/lombok-1.jpg" title="DCIM103GOPROGOPR8643." alt="En ruta" /> </a>   
+    <a href="https://uploads.andeandaran.com/2017/07/lombok-1.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/07/lombok-1.jpg" title="DCIM103GOPROGOPR8643." alt="En ruta" /> </a>   
     <div>
       En ruta
     </div>

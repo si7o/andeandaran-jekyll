@@ -35,7 +35,7 @@ header:
 
 
 
-  <a href="https://www.flickr.com/photos/sitoo/31505025296/in/dateposted/"><img src="https://live.staticflickr.com/433/31505025296_d69f0546e8_c.jpg" alt="Pelando una piña"  /></a>
+  <a href="https://www.flickr.com/photos/sitoo/31505025296/in/dateposted/"><img loading="lazy"  src="https://live.staticflickr.com/433/31505025296_d69f0546e8_c.jpg" alt="Pelando una piña"  /></a>
 
 
 
@@ -46,7 +46,7 @@ header:
   Además de la visita a los mercados, dimos un agradable paseo por algunos lugares muy apacibles del delta.
 
 
-  <a href="https://www.flickr.com/photos/sitoo/31505024586/in/dateposted/"><img src="https://live.staticflickr.com/5599/31505024586_f3305dc899_c.jpg" alt="Delta del Mekong" /></a>
+  <a href="https://www.flickr.com/photos/sitoo/31505024586/in/dateposted/"><img loading="lazy"  src="https://live.staticflickr.com/5599/31505024586_f3305dc899_c.jpg" alt="Delta del Mekong" /></a>
 
 
 
@@ -54,7 +54,7 @@ header:
 
 
 
-  <a href="https://www.flickr.com/photos/sitoo/31411333921/"><img src="https://live.staticflickr.com/5518/31411333921_bb54d403c6_c.jpg"  /></a>
+  <a href="https://www.flickr.com/photos/sitoo/31411333921/"><img loading="lazy"  src="https://live.staticflickr.com/5518/31411333921_bb54d403c6_c.jpg"  /></a>
 
 
 
@@ -62,7 +62,7 @@ header:
 
 
 
-  <a href="https://www.flickr.com/photos/sitoo/31527059115/in/dateposted/"><img src="https://live.staticflickr.com/389/31527059115_9d74f11e99_c.jpg" alt="Cai Rang floating market"  /></a>
+  <a href="https://www.flickr.com/photos/sitoo/31527059115/in/dateposted/"><img loading="lazy"  src="https://live.staticflickr.com/389/31527059115_9d74f11e99_c.jpg" alt="Cai Rang floating market"  /></a>
 
 
 
@@ -70,7 +70,7 @@ header:
 
 
 
-  <a href="https://www.flickr.com/photos/sitoo/31545670795/in/dateposted/"><img src="https://live.staticflickr.com/770/31545670795_5fc34e644e_c.jpg" alt="Mercado flotante de Cai Rang"  /></a>
+  <a href="https://www.flickr.com/photos/sitoo/31545670795/in/dateposted/"><img loading="lazy"  src="https://live.staticflickr.com/770/31545670795_5fc34e644e_c.jpg" alt="Mercado flotante de Cai Rang"  /></a>
 
 
 
@@ -81,62 +81,62 @@ header:
   <figure > 
   
   <div>
-    <a href='https://uploads.andeandaran.com/2016/12/MG_0278.jpg'><img  src="https://uploads.andeandaran.com/2016/12/MG_0278.jpg" /></a>
+    <a href='https://uploads.andeandaran.com/2016/12/MG_0278.jpg'><img loading="lazy"   src="https://uploads.andeandaran.com/2016/12/MG_0278.jpg" /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://uploads.andeandaran.com/2016/12/MG_0272.jpg'><img  src="https://uploads.andeandaran.com/2016/12/MG_0272.jpg" /></a>
+    <a href='https://uploads.andeandaran.com/2016/12/MG_0272.jpg'><img loading="lazy"   src="https://uploads.andeandaran.com/2016/12/MG_0272.jpg" /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://uploads.andeandaran.com/2016/12/MG_0281.jpg'><img  src="https://uploads.andeandaran.com/2016/12/MG_0281.jpg" /></a>
+    <a href='https://uploads.andeandaran.com/2016/12/MG_0281.jpg'><img loading="lazy"   src="https://uploads.andeandaran.com/2016/12/MG_0281.jpg" /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://uploads.andeandaran.com/2016/12/MG_0305.jpg'><img src="https://uploads.andeandaran.com/2016/12/MG_0305.jpg" class="attachment-wcfixedheightmedium size-wcfixedheightmedium" /></a>
+    <a href='https://uploads.andeandaran.com/2016/12/MG_0305.jpg'><img loading="lazy"  src="https://uploads.andeandaran.com/2016/12/MG_0305.jpg" class="attachment-wcfixedheightmedium size-wcfixedheightmedium" /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://uploads.andeandaran.com/2016/12/MG_0304.jpg'><img  src="https://uploads.andeandaran.com/2016/12/MG_0304.jpg" /></a>
+    <a href='https://uploads.andeandaran.com/2016/12/MG_0304.jpg'><img loading="lazy"   src="https://uploads.andeandaran.com/2016/12/MG_0304.jpg" /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://uploads.andeandaran.com/2016/12/MG_0309.jpg'><img  src="https://uploads.andeandaran.com/2016/12/MG_0309.jpg" /></a>
+    <a href='https://uploads.andeandaran.com/2016/12/MG_0309.jpg'><img loading="lazy"   src="https://uploads.andeandaran.com/2016/12/MG_0309.jpg" /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://uploads.andeandaran.com/2016/12/MG_0375.jpg'><img  src="https://uploads.andeandaran.com/2016/12/MG_0375.jpg" /></a>
+    <a href='https://uploads.andeandaran.com/2016/12/MG_0375.jpg'><img loading="lazy"   src="https://uploads.andeandaran.com/2016/12/MG_0375.jpg" /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://uploads.andeandaran.com/2016/12/MG_0388.jpg'><img  src="https://uploads.andeandaran.com/2016/12/MG_0388.jpg" /></a>
+    <a href='https://uploads.andeandaran.com/2016/12/MG_0388.jpg'><img loading="lazy"   src="https://uploads.andeandaran.com/2016/12/MG_0388.jpg" /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://uploads.andeandaran.com/2016/12/MG_0380.jpg'><img  src="https://uploads.andeandaran.com/2016/12/MG_0380.jpg" /></a>
+    <a href='https://uploads.andeandaran.com/2016/12/MG_0380.jpg'><img loading="lazy"   src="https://uploads.andeandaran.com/2016/12/MG_0380.jpg" /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://uploads.andeandaran.com/2016/12/MG_0389.jpg'><img  src="https://uploads.andeandaran.com/2016/12/MG_0389.jpg" /></a>
+    <a href='https://uploads.andeandaran.com/2016/12/MG_0389.jpg'><img loading="lazy"   src="https://uploads.andeandaran.com/2016/12/MG_0389.jpg" /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://uploads.andeandaran.com/2016/12/MG_0427.jpg'><img  src="https://uploads.andeandaran.com/2016/12/MG_0427.jpg" /></a>
+    <a href='https://uploads.andeandaran.com/2016/12/MG_0427.jpg'><img loading="lazy"   src="https://uploads.andeandaran.com/2016/12/MG_0427.jpg" /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://uploads.andeandaran.com/2016/12/MG_0416.jpg'><img  src="https://uploads.andeandaran.com/2016/12/MG_0416.jpg" /></a>
+    <a href='https://uploads.andeandaran.com/2016/12/MG_0416.jpg'><img loading="lazy"   src="https://uploads.andeandaran.com/2016/12/MG_0416.jpg" /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://uploads.andeandaran.com/2016/12/MG_0415.jpg'><img  src="https://uploads.andeandaran.com/2016/12/MG_0415.jpg" /></a>
+    <a href='https://uploads.andeandaran.com/2016/12/MG_0415.jpg'><img loading="lazy"   src="https://uploads.andeandaran.com/2016/12/MG_0415.jpg" /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://uploads.andeandaran.com/2016/12/MG_0412.jpg'><img  src="https://uploads.andeandaran.com/2016/12/MG_0412.jpg" /></a>
+    <a href='https://uploads.andeandaran.com/2016/12/MG_0412.jpg'><img loading="lazy"   src="https://uploads.andeandaran.com/2016/12/MG_0412.jpg" /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://uploads.andeandaran.com/2016/12/MG_0431.jpg'><img  src="https://uploads.andeandaran.com/2016/12/MG_0431.jpg" /></a>
+    <a href='https://uploads.andeandaran.com/2016/12/MG_0431.jpg'><img loading="lazy"   src="https://uploads.andeandaran.com/2016/12/MG_0431.jpg" /></a>
   </div></figure>
 </div>

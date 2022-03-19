@@ -180,7 +180,7 @@ La moneda del país es la rupia Nepali. Lo mejor es cambiar un poco de dinero a 
 
 Realmente todo lo que visitamos nos gusto, pero si tuviéramos que escoger un lugar sería el valle de los Annapurna. El paisaje es de los que quitan el hipo.
 
-[<img src="https://live.staticflickr.com/5529/30496993402_d2e4532385_c.jpg" alt="Volviendo a MBC"  />](https://www.flickr.com/photos/sitoo/30496993402/)
+[<img loading="lazy"  src="https://live.staticflickr.com/5529/30496993402_d2e4532385_c.jpg" alt="Volviendo a MBC"  />](https://www.flickr.com/photos/sitoo/30496993402/)
 
 ### Nuestra comida preferida
 
@@ -201,4 +201,4 @@ Lo que menos nos gustó fue el tráfico caótico y la contaminación de Kathmand
 
 ## Galería
 
-<a href='https://www.flickr.com/photos/sitoo/albums/72157675541261945' title='Nepal by Sitoo, on Flickr'><img src='https://live.staticflickr.com/5742/30736746386_3df6458164_c.jpg'/></a>
+<a href='https://www.flickr.com/photos/sitoo/albums/72157675541261945' title='Nepal by Sitoo, on Flickr'><img loading="lazy"  src='https://live.staticflickr.com/5742/30736746386_3df6458164_c.jpg'/></a>

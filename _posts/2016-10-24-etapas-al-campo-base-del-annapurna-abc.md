@@ -170,6 +170,6 @@ Etapa final y muy agradecida, ya que los desniveles son progresivos y suaves. El
 > Os dejamos la selección de fotos en Flickr, una pequeña galería con algunas fotos del viaje y en <a href="/deporte/informacion-practica-abc/" target="_blank">otro post os contamos con quién contratamos el trekking y la experiencia con nuestro guía</a>, Pemba (recomendado 100%)
 
 
-<a title="Annapurna Base Camp (A.B.C)" href="https://www.flickr.com/photos/sitoo/albums/72157675616903915" data-flickr-embed="true" data-footer="true"><img style="width: 100%; height: auto;" src="https://c3.staticflickr.com/6/5529/30496993402_d2e4532385_z.jpg" alt="Annapurna Base Camp (A.B.C)" /></a>
+<a title="Annapurna Base Camp (A.B.C)" href="https://www.flickr.com/photos/sitoo/albums/72157675616903915" data-flickr-embed="true" data-footer="true"><img loading="lazy"  style="width: 100%; height: auto;" src="https://c3.staticflickr.com/6/5529/30496993402_d2e4532385_z.jpg" alt="Annapurna Base Camp (A.B.C)" /></a>
     
 {% include gallery %}

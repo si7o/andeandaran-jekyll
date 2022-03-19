@@ -22,7 +22,7 @@ Además de los días de escalada, tuvimos algunos días para explorar y disfruta
 
 Primero de todo, vamos  a contextualizaros un poco con el mapa de la zona para que ubiquéis cada uno de los principales lugares y os sirva de utilidad si vais a viajar próximamente.
 
-<img src="https://uploads.andeandaran.com/2016/11/mapa-railay-y-tonsai-1.png" alt="mapa-railay-y-tonsai" /> 
+<img loading="lazy"  src="https://uploads.andeandaran.com/2016/11/mapa-railay-y-tonsai-1.png" alt="mapa-railay-y-tonsai" /> 
 
 Para acceder a la península solamente se puede ir en bote, desde Ao Nang, Krabi, Phi phi, etc, no hay carreteras que la comuniquen con el resto de costa. Los botes llegan a cualquiera de las 4 playas: Tonsai, railay east, west o Pranang.
 
@@ -42,11 +42,11 @@ El acceso está entre la playa de Railay East y Pranang beach,  yendo por el cam
 
 Una vez llegamos a Point view nos encontramos una panorámica completa de la península _(foto de portada)_, las vistas son muy bonitas aunque para nosotros desde el sector Firewall hay mejores vistas.  A  la laguna no pudimos llegar porque el último tramo nos pareció bastante complicado, habían dos paredes completamente verticales y unas cuerdas que no nos daban mucha confianza, aún así había gente bañándose, así que si que es posible bajar pero nosotros preferimos ahorrarnos el paso.
 
-<a title="Down to Lagoon, Railay" href="https://www.flickr.com/photos/sitoo/25298562029/" data-flickr-embed="true" data-footer="true" data-vr="true"><img style="width: 100%; height: auto;" src="https://c6.staticflickr.com/6/5515/25298562029_d8123814d1_z.jpg" alt="Down to Lagoon, Railay" /></a>
+<a title="Down to Lagoon, Railay" href="https://www.flickr.com/photos/sitoo/25298562029/" data-flickr-embed="true" data-footer="true" data-vr="true"><img loading="lazy"  style="width: 100%; height: auto;" src="https://c6.staticflickr.com/6/5515/25298562029_d8123814d1_z.jpg" alt="Down to Lagoon, Railay" /></a>
 
 ## Playa de Pranang
 
-<img class="alignright wp-image-575 size-wccarousel" src="https://uploads.andeandaran.com/2016/11/IMG_20161109_1601563341.jpg" alt="img_20161109_1601563341" /> 
+<img loading="lazy"  class="alignright wp-image-575 size-wccarousel" src="https://uploads.andeandaran.com/2016/11/IMG_20161109_1601563341.jpg" alt="img_20161109_1601563341" /> 
 
 La playa de Pranang, sin lugar a dudas es la mejor de las que hay por la zona, eso si, llena de gente pero manteniendo su encanto. Arena blanca y agua bastante cristalina. En esta playa hay varias cuevas, una de ellas muy conocida por las estatuas con forma de penes que tiene, en las otras hay unas cuantas vías para escalar.
 
@@ -68,47 +68,47 @@ Navegar entre peñascos con un kayak es un plan 100% recomendable. Permite acced
 
 <div class="tiled-gallery type-rectangular tiled-gallery-unresized">
   <a href="https://uploads.andeandaran.com/2016/11/MG_9508.jpg"> 
-  <img src="https://uploads.andeandaran.com/2016/11/MG_9508.jpg" title="Bajada a Lagoon" alt="Bajada a Lagoon"  /> </a>
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2016/11/MG_9508.jpg" title="Bajada a Lagoon" alt="Bajada a Lagoon"  /> </a>
 
   <a href="https://uploads.andeandaran.com/2016/11/MG_9524.jpg">
-  <img src="https://uploads.andeandaran.com/2016/11/MG_9524.jpg" title="Bajada a Lagoon" alt="Bajada a Lagoon" /> </a>
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2016/11/MG_9524.jpg" title="Bajada a Lagoon" alt="Bajada a Lagoon" /> </a>
 
   <a href="https://uploads.andeandaran.com/2016/11/MG_9526.jpg"> 
-  <img src="https://uploads.andeandaran.com/2016/11/MG_9526.jpg" title="Vegetación cerca de Point View" alt="Vegetación cerca de Point View" /> </a>
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2016/11/MG_9526.jpg" title="Vegetación cerca de Point View" alt="Vegetación cerca de Point View" /> </a>
 
   <a href="https://uploads.andeandaran.com/2016/11/MG_9531.jpg"> 
-  <img src="https://uploads.andeandaran.com/2016/11/MG_9531.jpg" title="Botes en Pranang" alt="Botes en Pranang" /> </a>
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2016/11/MG_9531.jpg" title="Botes en Pranang" alt="Botes en Pranang" /> </a>
 
   <a href="https://uploads.andeandaran.com/2016/11/MG_9544.jpg"> 
-  <img src="https://uploads.andeandaran.com/2016/11/MG_9544.jpg" title="Botes en Pranang" alt="Botes en Pranang" /> </a>
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2016/11/MG_9544.jpg" title="Botes en Pranang" alt="Botes en Pranang" /> </a>
 
   <a href="https://uploads.andeandaran.com/2016/11/IMG_20161109_1601563341.jpg"> 
-  <img src="https://uploads.andeandaran.com/2016/11/IMG_20161109_1601563341.jpg" title="Barquitos de comida en Pranang" alt="Barquitos de comida en Pranang" /> </a>
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2016/11/IMG_20161109_1601563341.jpg" title="Barquitos de comida en Pranang" alt="Barquitos de comida en Pranang" /> </a>
 
   <a href="https://uploads.andeandaran.com/2016/11/MG_9493.jpg"> 
-  <img src="https://uploads.andeandaran.com/2016/11/MG_9493.jpg" title="Tonsai beach" alt="Tonsai beach" /> </a>
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2016/11/MG_9493.jpg" title="Tonsai beach" alt="Tonsai beach" /> </a>
 
   <a href="https://uploads.andeandaran.com/2016/11/MG_9568.jpg"> 
-  <img src="https://uploads.andeandaran.com/2016/11/MG_9568.jpg" title="Atardecer desde Pranang" alt="Atardecer desde Pranang" style="width: 522px; height: 348px;" /> </a>
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2016/11/MG_9568.jpg" title="Atardecer desde Pranang" alt="Atardecer desde Pranang" style="width: 522px; height: 348px;" /> </a>
 
   <a href="https://uploads.andeandaran.com/2016/11/GOPR5948-1.jpg"> 
-  <img src="https://uploads.andeandaran.com/2016/11/GOPR5948-1.jpg" title="Pranang Beach" alt="Pranang Beach" /> </a>
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2016/11/GOPR5948-1.jpg" title="Pranang Beach" alt="Pranang Beach" /> </a>
 
   <a href="https://uploads.andeandaran.com/2016/11/GOPR7028.jpg"> 
-  <img src="https://uploads.andeandaran.com/2016/11/GOPR7028.jpg" title="Día de Kayak" alt="Día de Kayak" /> </a>
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2016/11/GOPR7028.jpg" title="Día de Kayak" alt="Día de Kayak" /> </a>
 
   <a href="https://uploads.andeandaran.com/2016/11/GOPR7034.jpg"> 
-  <img src="https://uploads.andeandaran.com/2016/11/GOPR7034.jpg" title="Día de Kayak" alt="Día de Kayak"  /> </a>
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2016/11/GOPR7034.jpg" title="Día de Kayak" alt="Día de Kayak"  /> </a>
 
   <a href="https://uploads.andeandaran.com/2016/11/GOPR7038.jpg"> 
-  <img src="https://uploads.andeandaran.com/2016/11/GOPR7038.jpg" title="Día de Kayak" alt="Día de Kayak" /> </a>
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2016/11/GOPR7038.jpg" title="Día de Kayak" alt="Día de Kayak" /> </a>
 
   <a href="https://uploads.andeandaran.com/2016/11/GOPR7050.jpg"> 
-  <img src="https://uploads.andeandaran.com/2016/11/GOPR7050.jpg" title="Vista desde el Kayak" alt="Vista desde el Kayak" /> </a>
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2016/11/GOPR7050.jpg" title="Vista desde el Kayak" alt="Vista desde el Kayak" /> </a>
 
   <a href="https://uploads.andeandaran.com/2016/11/GOPR7066.jpg"> 
-  <img src="https://uploads.andeandaran.com/2016/11/GOPR7066.jpg" title="Chaparrón desde el Kayak" alt="Chaparrón desde el Kayak" /> </a>
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2016/11/GOPR7066.jpg" title="Chaparrón desde el Kayak" alt="Chaparrón desde el Kayak" /> </a>
 
-  <a href="https://uploads.andeandaran.com/2016/11/MG_9585.jpg">     <img src="https://uploads.andeandaran.com/2016/11/MG_9585.jpg" title="Entrada Mama Chicken" alt="Entrada Mama Chicken" /> </a> 
+  <a href="https://uploads.andeandaran.com/2016/11/MG_9585.jpg">     <img loading="lazy"  src="https://uploads.andeandaran.com/2016/11/MG_9585.jpg" title="Entrada Mama Chicken" alt="Entrada Mama Chicken" /> </a> 
 
 </div> 

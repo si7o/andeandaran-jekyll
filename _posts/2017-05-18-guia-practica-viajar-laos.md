@@ -149,7 +149,7 @@ La cocina de Laos es una mezcla de platos de Vietnam y Tailandia. No descubrimos
 
 El lugar dónde más a gusto estuvimos y dónde nos sentimos cómo en casa fue Thakhek. Los 12 días de acampada y escalada fue unos de los momentos más especiales de todo el viaje. Por esta zona del país no sólo se puede escalar, existen muchas cuevas y hay una ruta muy conocida para hacer en moto. En el post [Escalada en Thakhek, Laos](http://www.andeandaran.com/2017/01/15/escalada-thakhek/) ampliamos la información.<figure id="attachment_1272" class="wp-caption alignnone">
 
-[<img class="size-large wp-image-1272" src="https://uploads.andeandaran.com/2017/01/GOPR8095.jpg?resize=810%2C525" />](https://uploads.andeandaran.com/2017/01/GOPR8095.jpg)<figcaption class="wp-caption-text">De vuelta al campamento. último día</figcaption></figure> 
+[<img loading="lazy"  class="size-large wp-image-1272" src="https://uploads.andeandaran.com/2017/01/GOPR8095.jpg?resize=810%2C525" />](https://uploads.andeandaran.com/2017/01/GOPR8095.jpg)<figcaption class="wp-caption-text">De vuelta al campamento. último día</figcaption></figure> 
 
 ## Qué no nos gustó
 
@@ -168,4 +168,4 @@ La verdad que hubo poco del país que no nos gustará. Quizás lo peor fue el pr
 
 ## Galería
 
-<a href='https://www.flickr.com/photos/sitoo/albums/72157678791116495' title='Laos by Sitoo, on Flickr'><img src='https://live.staticflickr.com/597/31756032940_4e7b50af97_c.jpg' alt='el lagarto' /></a>
+<a href='https://www.flickr.com/photos/sitoo/albums/72157678791116495' title='Laos by Sitoo, on Flickr'><img loading="lazy"  src='https://live.staticflickr.com/597/31756032940_4e7b50af97_c.jpg' alt='el lagarto' /></a>

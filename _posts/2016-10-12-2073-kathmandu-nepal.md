@@ -26,12 +26,12 @@ Tras pagar hay que hacer la cola para que te den el visado, presentar los resgua
 La zona de recogida de maletas era un caos del que aun no se cómo logramos salir tan rápido, o eso creo.  
 Una vez fuera, taxi y a dormir!<figure style="width: 395px" class="wp-caption alignleft">
 
-<a href="https://www.flickr.com/photos/sitoo/29645070684/in/dateposted/" target="_blank"><img class="" title="Templo Swayambhu" src="https://c1.staticflickr.com/9/8677/29645070684_33f606debf.jpg" /></a><figcaption class="wp-caption-text">Templo Swayambhu</figcaption></figure> 
+<a href="https://www.flickr.com/photos/sitoo/29645070684/in/dateposted/" target="_blank"><img loading="lazy"  class="" title="Templo Swayambhu" src="https://c1.staticflickr.com/9/8677/29645070684_33f606debf.jpg" /></a><figcaption class="wp-caption-text">Templo Swayambhu</figcaption></figure> 
 
 Tras dormir casi 11 horas y desayunar/comer, salimos a ver la ciudad. Tras el primer impacto durante el viaje al hotel la noche anterior (perros y más perros callejeros, algunos peleando por la basura de las calles, aceras y más aceras rotas, muy poca luz, mucha gente borracha...) nos dimos cuenta de que la falta de luz y el cansancio después de tantas horas de viaje tuvieron mucho que ver en nuestra primera impresión.  
 Si, hay muchos perros callejeros y muchas aceras rotas (y ruinas dependiendo de la zona por la que vayas) pero la sensación de inseguridad desapareció nada más salir de la habitación. Poco después descubrimos que la gente borracha era debido a que llegamos durante una de las fiestas más importantes de Nepal: <a href="https://en.wikipedia.org/wiki/List_of_festivals_in_Nepal#Dashain" target="_blank">Dashain </a> 15 días de celebraciones que simbolizan la victoria del bien sobre el mal.<figure style="width: 399px" >
 
-<img title="Un vendedor en las calles de Thamel" src="https://c1.staticflickr.com/9/8571/30160169322_b1407b7c26.jpg" /> <figcaption class="wp-caption-text">Un vendedor en las calles de Thamel</figcaption></figure> 
+<img loading="lazy"  title="Un vendedor en las calles de Thamel" src="https://c1.staticflickr.com/9/8571/30160169322_b1407b7c26.jpg" /> <figcaption class="wp-caption-text">Un vendedor en las calles de Thamel</figcaption></figure> 
 
 Paseamos por Thamel, zona turística y llena de comercios de todo tipo (especialmente tiendas de ropa y restaurantes) y nos acercamos al templo en lo alto de una colina con una vista panorámica de toda la ciudad .
 
@@ -43,28 +43,28 @@ El día siguiente lo dedicamos a pasear, conseguir tarjetas SIM para el teléfon
   <figure > 
   
   <div>
-    <a href='https://uploads.andeandaran.com/2016/10/MG_8309.jpg'><img src="https://uploads.andeandaran.com/2016/10/MG_8309.jpg?resize=579%2C300&#038;ssl=1" class="attachment-wcfixedheightmedium size-wcfixedheightmedium" aria-describedby="gallery-2-302"/></a>
+    <a href='https://uploads.andeandaran.com/2016/10/MG_8309.jpg'><img loading="lazy"  src="https://uploads.andeandaran.com/2016/10/MG_8309.jpg?resize=579%2C300&#038;ssl=1" class="attachment-wcfixedheightmedium size-wcfixedheightmedium" aria-describedby="gallery-2-302"/></a>
   </div><figcaption class='wp-caption-text gallery-caption' id='gallery-2-302'> Cánticos en el templo Swayambhu </figcaption></figure><figure > 
   
   <div>
-    <a href='https://uploads.andeandaran.com/2016/10/MG_8316.jpg'><img src="https://uploads.andeandaran.com/2016/10/MG_8316.jpg" /></a>
+    <a href='https://uploads.andeandaran.com/2016/10/MG_8316.jpg'><img loading="lazy"  src="https://uploads.andeandaran.com/2016/10/MG_8316.jpg" /></a>
   </div><figcaption class='wp-caption-text gallery-caption' id='gallery-2-303'> Dos gatos jugado bajo un puestecito en el templo Swayambhu </figcaption></figure><figure > 
   
   <div>
-    <a href='https://uploads.andeandaran.com/2016/10/MG_8355.jpg'><img src="https://uploads.andeandaran.com/2016/10/MG_8355.jpg" alt="Templo Swayambhu" /></a>
+    <a href='https://uploads.andeandaran.com/2016/10/MG_8355.jpg'><img loading="lazy"  src="https://uploads.andeandaran.com/2016/10/MG_8355.jpg" alt="Templo Swayambhu" /></a>
   </div><figcaption class='wp-caption-text gallery-caption' id='gallery-2-304'> Templo Swayambhu </figcaption></figure><figure > 
   
   <div>
-    <a href='https://uploads.andeandaran.com/2016/10/MG_8407.jpg'><img src="https://uploads.andeandaran.com/2016/10/MG_8407.jpg" /></a>
+    <a href='https://uploads.andeandaran.com/2016/10/MG_8407.jpg'><img loading="lazy"  src="https://uploads.andeandaran.com/2016/10/MG_8407.jpg" /></a>
   </div></figure>
   
   <figure >   
   <div>
-    <a href='https://uploads.andeandaran.com/2016/10/MG_8403.jpg'><img  src="https://uploads.andeandaran.com/2016/10/MG_8403.jpg" /></a>
+    <a href='https://uploads.andeandaran.com/2016/10/MG_8403.jpg'><img loading="lazy"   src="https://uploads.andeandaran.com/2016/10/MG_8403.jpg" /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://uploads.andeandaran.com/2016/10/MG_8441.jpg'><img src="https://uploads.andeandaran.com/2016/10/MG_8441.jpg" /></a>
+    <a href='https://uploads.andeandaran.com/2016/10/MG_8441.jpg'><img loading="lazy"  src="https://uploads.andeandaran.com/2016/10/MG_8441.jpg" /></a>
   </div></figure>
 </div>
 

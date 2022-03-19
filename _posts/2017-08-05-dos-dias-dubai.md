@@ -36,7 +36,7 @@ header:
   Los precios de los taxis no son muy elevados, pero tendréis que andar con cuidado de que no os timen. Los conductores tienden a aprovecharse de los extranjeros y a menudo te pasean por la ciudad antes de llegar a tu destino.<br /> Si queréis ir a un lugar, mirad la ruta en google maps y decidle a vuestro conductor por dónde queréis que vaya.
 <figure id="attachment_2317" >
 
-<img class=" wp-image-2317" src="https://uploads.andeandaran.com/2017/07/dubai-15.jpg"/> <figcaption class="wp-caption-text">En el minibus de camino a las dunas</figcaption></figure> 
+<img loading="lazy"  class=" wp-image-2317" src="https://uploads.andeandaran.com/2017/07/dubai-15.jpg"/> <figcaption class="wp-caption-text">En el minibus de camino a las dunas</figcaption></figure> 
 
 
   Otra cosa a tener en cuenta a la hora de pagar es que redondean los precios siempre a su favor. Por ejemplo, si el viaje cuesta 17 <em>dirhams</em> y les dais un billete de 20, muchos no dudarán en quedarse las vueltas.
@@ -60,7 +60,7 @@ header:
   El primer día, tras una siesta después de un viaje desde Malasia y algo de "jet lag", nos fuimos a conocer la zona del Burj Al Arab, el hotel más lujoso del mundo. Es una zona junto a la costa en la que los muros de cemento, metal y cristal cambian por hoteles, tiendas y locales de ocio.
 <figure id="attachment_2303" >
 
-<img class="size-medium wp-image-2303" src="https://uploads.andeandaran.com/2017/07/dubai-1.jpg" /> <figcaption class="wp-caption-text">Burj Al Arab, el hotel más lujoso del mundo, visto entre las palmeras de otro resort cercano.</figcaption></figure> 
+<img loading="lazy"  class="size-medium wp-image-2303" src="https://uploads.andeandaran.com/2017/07/dubai-1.jpg" /> <figcaption class="wp-caption-text">Burj Al Arab, el hotel más lujoso del mundo, visto entre las palmeras de otro resort cercano.</figcaption></figure> 
 
 
   Es una zona agradable para pasear, tomar algo o incluso cenar. No es barato, pero se pueden encontrar precios razonables.<br /> A la hora de pasear, muchas de las zonas son privadas, así que es posible que no os dejen entrar. Siempre os queda la opción de entrar igualmente y esperar que se piensen que sois huéspedes de ese hotel 😉 .
@@ -97,7 +97,7 @@ header:
   Se puede contratar un tour con el que te lleven en 4&#215;4 desde Dubai, pero nosotros optamos por la opción económica.
 
 
-[<img src="https://live.staticflickr.com/4193/33777929113_cc5f984afe_c.jpg" alt="HELLO KOREA!"  />](https://www.flickr.com/photos/sitoo/33777929113/in/album-72157680915314252/)
+[<img loading="lazy"  src="https://live.staticflickr.com/4193/33777929113_cc5f984afe_c.jpg" alt="HELLO KOREA!"  />](https://www.flickr.com/photos/sitoo/33777929113/in/album-72157680915314252/)
 
 
   Tardamos unos 40min en llegar a las dunas y allí tuvimos que esperar a que viniese a recogernos un todo-terreno. El lugar era como un parque de atracciones donde los turistas esperaban su turno para ser recogidos.<br /> El "paseo" por las dunas es bastante movido, así que es mejor ponerse el cinturón de seguridad. Es como una pequeña montaña rusa por las dunas.
@@ -107,9 +107,9 @@ header:
   Tras unos 10 minutos llegamos a la zona de jaimas. Aquí disfrutamos de varios espectáculos de danza y una cena muy abundante y de calidad aceptable.
 
 
-[<img src="https://live.staticflickr.com/4174/33765257214_433239365b_c.jpg" alt="Sufi Whirling"  />](https://www.flickr.com/photos/sitoo/33765257214/in/album-72157680915314252/)
+[<img loading="lazy"  src="https://live.staticflickr.com/4174/33765257214_433239365b_c.jpg" alt="Sufi Whirling"  />](https://www.flickr.com/photos/sitoo/33765257214/in/album-72157680915314252/)
 
-[<img src="https://live.staticflickr.com/4178/34691194726_6d29157342_c.jpg" alt="too much spicy?" />](https://www.flickr.com/photos/sitoo/34691194726/in/album-72157680915314252/)
+[<img loading="lazy"  src="https://live.staticflickr.com/4178/34691194726_6d29157342_c.jpg" alt="too much spicy?" />](https://www.flickr.com/photos/sitoo/34691194726/in/album-72157680915314252/)
 
 ## Galería
 
@@ -117,7 +117,7 @@ header:
 <div>
 <div >
   <div>
-    <a href="https://uploads.andeandaran.com/2017/07/dubai-2.jpg"> <img src="https://uploads.andeandaran.com/2017/07/dubai-2.jpg" title="" alt="Paseando entre hoteles..."  /> </a>     
+    <a href="https://uploads.andeandaran.com/2017/07/dubai-2.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/07/dubai-2.jpg" title="" alt="Paseando entre hoteles..."  /> </a>     
     <div>
       Paseando entre hoteles...
     </div>
@@ -128,14 +128,14 @@ header:
 
 <div >
   <div>
-    <a href="https://uploads.andeandaran.com/2017/08/untitled-1.jpg"> <img src="https://uploads.andeandaran.com/2017/08/untitled-1.jpg" title="" alt="Burj Al Arab y otros hoteles de la zona..." /> </a>     
+    <a href="https://uploads.andeandaran.com/2017/08/untitled-1.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/08/untitled-1.jpg" title="" alt="Burj Al Arab y otros hoteles de la zona..." /> </a>     
     <div>
       Burj Al Arab y otros hoteles de la zona...
     </div>
   </div>
   
   <div>
-    <a href="https://uploads.andeandaran.com/2017/07/dubai-3.jpg"> <img src="https://uploads.andeandaran.com/2017/07/dubai-3.jpg" title="" alt="Paseito en bote!" /> </a>     
+    <a href="https://uploads.andeandaran.com/2017/07/dubai-3.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/07/dubai-3.jpg" title="" alt="Paseito en bote!" /> </a>     
     <div>
       Paseito en bote!
     </div>
@@ -150,14 +150,14 @@ header:
 <div >
 <div >
   <div>
-    <a href="https://uploads.andeandaran.com/2017/07/dubai-4.jpg"> <img src="https://uploads.andeandaran.com/2017/07/dubai-4.jpg" title="" alt="Paseito en bote!" /> </a>     
+    <a href="https://uploads.andeandaran.com/2017/07/dubai-4.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/07/dubai-4.jpg" title="" alt="Paseito en bote!" /> </a>     
     <div>
       Paseito en bote!
     </div>
   </div>
   
   <div>
-    <a href="https://uploads.andeandaran.com/2017/07/dubai-5.jpg"> <img src="https://uploads.andeandaran.com/2017/07/dubai-5.jpg" title="Mezquita Jumeirah" alt="Mezquita Jumeirah" /> </a>    
+    <a href="https://uploads.andeandaran.com/2017/07/dubai-5.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/07/dubai-5.jpg" title="Mezquita Jumeirah" alt="Mezquita Jumeirah" /> </a>    
     <div>
       Mezquita Jumeirah
     </div>
@@ -168,7 +168,7 @@ header:
 
 <div  >
   <div>
-    <a href="https://uploads.andeandaran.com/2017/07/dubai-16.jpg"> <img src="https://uploads.andeandaran.com/2017/07/dubai-16.jpg" title="El minubus" alt="esto promete..."  /> </a>     
+    <a href="https://uploads.andeandaran.com/2017/07/dubai-16.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/07/dubai-16.jpg" title="El minubus" alt="esto promete..."  /> </a>     
     <div>
       esto promete...
     </div>
@@ -183,7 +183,7 @@ header:
 <div >
 <div  >
   <div>
-    <a href="https://uploads.andeandaran.com/2017/07/dubai-15.jpg"> <img src="https://uploads.andeandaran.com/2017/07/dubai-15.jpg" title="" alt="En el minibus de camino a las dunas" /> </a>    
+    <a href="https://uploads.andeandaran.com/2017/07/dubai-15.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/07/dubai-15.jpg" title="" alt="En el minibus de camino a las dunas" /> </a>    
     <div>
       En el minibus de camino a las dunas
     </div>
@@ -194,7 +194,7 @@ header:
 
 <div  >
   <div>
-    <a href="https://uploads.andeandaran.com/2017/07/dubai-17.jpg"> <img src="https://uploads.andeandaran.com/2017/07/dubai-17.jpg" title="Dune Bashing!" alt="Dune Bashing!" /> </a>
+    <a href="https://uploads.andeandaran.com/2017/07/dubai-17.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/07/dubai-17.jpg" title="Dune Bashing!" alt="Dune Bashing!" /> </a>
   </div>
 </div>
 
@@ -206,7 +206,7 @@ header:
 <div >
 <div  >
   <div>
-    <a href="https://uploads.andeandaran.com/2017/07/dubai-6.jpg"> <img src="https://uploads.andeandaran.com/2017/07/dubai-6.jpg" title="El desierto de Dubai" alt="El desierto de Dubai" /> </a>
+    <a href="https://uploads.andeandaran.com/2017/07/dubai-6.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/07/dubai-6.jpg" title="El desierto de Dubai" alt="El desierto de Dubai" /> </a>
   </div>
 </div>
 
@@ -214,7 +214,7 @@ header:
 
 <div  >
   <div>
-    <a href="https://uploads.andeandaran.com/2017/07/dubai-18.jpg"> <img src="https://uploads.andeandaran.com/2017/07/dubai-18.jpg" title="" /> </a>
+    <a href="https://uploads.andeandaran.com/2017/07/dubai-18.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/07/dubai-18.jpg" title="" /> </a>
   </div>
 </div>
 
@@ -222,7 +222,7 @@ header:
 
 <div  >
   <div>
-    <a href="https://uploads.andeandaran.com/2017/07/dubai-7.jpg"> <img src="https://uploads.andeandaran.com/2017/07/dubai-7.jpg" title="" /> </a>
+    <a href="https://uploads.andeandaran.com/2017/07/dubai-7.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/07/dubai-7.jpg" title="" /> </a>
   </div>
 </div>
 
@@ -234,7 +234,7 @@ header:
 <div>
 <div >
   <div>
-    <a href="https://uploads.andeandaran.com/2017/07/dubai-8.jpg"> <img src="https://uploads.andeandaran.com/2017/07/dubai-8.jpg" title=""  /> </a>
+    <a href="https://uploads.andeandaran.com/2017/07/dubai-8.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/07/dubai-8.jpg" title=""  /> </a>
   </div>
 </div>
 
@@ -242,11 +242,11 @@ header:
 
 <div >
   <div>
-    <a href="https://uploads.andeandaran.com/2017/07/dubai-9.jpg"> <img src="https://uploads.andeandaran.com/2017/07/dubai-9.jpg" title="" /> </a>
+    <a href="https://uploads.andeandaran.com/2017/07/dubai-9.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/07/dubai-9.jpg" title="" /> </a>
   </div>
   
   <div>
-    <a href="https://uploads.andeandaran.com/2017/07/dubai-10.jpg"> <img src="https://uploads.andeandaran.com/2017/07/dubai-10.jpg" title="" /> </a>
+    <a href="https://uploads.andeandaran.com/2017/07/dubai-10.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/07/dubai-10.jpg" title="" /> </a>
   </div>
 </div>
 
@@ -258,7 +258,7 @@ header:
 <div >
 <div  >
   <div>
-    <a href="https://uploads.andeandaran.com/2017/07/dubai-11.jpg"> <img src="https://uploads.andeandaran.com/2017/07/dubai-11.jpg" title=""  /> </a>
+    <a href="https://uploads.andeandaran.com/2017/07/dubai-11.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/07/dubai-11.jpg" title=""  /> </a>
   </div>
 </div>
 
@@ -266,7 +266,7 @@ header:
 
 <div  >
   <div>
-    <a href="https://uploads.andeandaran.com/2017/07/dubai-12.jpg"> <img src="https://uploads.andeandaran.com/2017/07/dubai-12.jpg" title=""  /> </a>
+    <a href="https://uploads.andeandaran.com/2017/07/dubai-12.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/07/dubai-12.jpg" title=""  /> </a>
   </div>
 </div>
 
@@ -274,7 +274,7 @@ header:
 
 <div  >
   <div>
-    <a href="https://uploads.andeandaran.com/2017/07/dubai-13.jpg"> <img src="https://uploads.andeandaran.com/2017/07/dubai-13.jpg" title=""  /> </a>
+    <a href="https://uploads.andeandaran.com/2017/07/dubai-13.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/07/dubai-13.jpg" title=""  /> </a>
   </div>
 </div>
 
@@ -282,7 +282,7 @@ header:
 
 <div  >
   <div>
-    <a href="https://uploads.andeandaran.com/2017/07/dubai-14.jpg"> <img src="https://uploads.andeandaran.com/2017/07/dubai-14.jpg" title=""  /> </a>
+    <a href="https://uploads.andeandaran.com/2017/07/dubai-14.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/07/dubai-14.jpg" title=""  /> </a>
   </div>
 </div>
 

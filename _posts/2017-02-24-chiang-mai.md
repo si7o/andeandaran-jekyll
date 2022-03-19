@@ -70,7 +70,7 @@ header:
 
 
 
-  <a href="https://uploads.andeandaran.com/2017/02/DSC_1258.jpg"><img class="alignnone size-full wp-image-1639" src="https://uploads.andeandaran.com/2017/02/DSC_1258.jpg" /></a>
+  <a href="https://uploads.andeandaran.com/2017/02/DSC_1258.jpg"><img loading="lazy"  class="alignnone size-full wp-image-1639" src="https://uploads.andeandaran.com/2017/02/DSC_1258.jpg" /></a>
 
 
 
@@ -95,7 +95,7 @@ header:
 ### Hacer un curso de cocina
 
 
-[<img src="https://live.staticflickr.com/3721/32552707080_0759756996_c.jpg" alt="Thai Cooking Class!" />](https://www.flickr.com/photos/sitoo/32552707080/)
+[<img loading="lazy"  src="https://live.staticflickr.com/3721/32552707080_0759756996_c.jpg" alt="Thai Cooking Class!" />](https://www.flickr.com/photos/sitoo/32552707080/)
 
 
   Existen innumerables ofertas para realizar cursos de medio día o día entero en Chiang Mai o en una granja a las afueras de la ciudad. Nosotros optamos por la opción de medio día en la ciudad y nos costó 800 bth cada uno con <a href="http://www.asiascenic.com/">Asia Scenic.</a> El curso consiste en comprar en un mercado local los productos necesarios para preparar 5 platos típicos de la cocina Tailandesa.
@@ -115,7 +115,7 @@ header:
 ### Mercados locales
 
 
-[<img src="https://live.staticflickr.com/450/32641529802_cb7b5f1c34_c.jpg" alt="fruit!"  />](https://www.flickr.com/photos/sitoo/32641529802/)
+[<img loading="lazy"  src="https://live.staticflickr.com/450/32641529802_cb7b5f1c34_c.jpg" alt="fruit!"  />](https://www.flickr.com/photos/sitoo/32641529802/)
 
 
   No te puedes ir de la ciudad sin haber comprado algo en uno de estos mercados. En ellos puedes conocer la gran variedad de frutas y verduras que tienen por estas tierras. Para los aprensivos a los olores de carne cruda y pescado, mejor ahorrarse el paseo, ya que los olores son bastante intensos. Los abren muy pronto (6:00 am) y aunque algunos de los puestos están abiertos todo el día, el máximo apogeo es a primeras horas de la mañana. Hay un mercado en concreto muy recomendable, se llama <span style="color: #333333;">Warorot Market y está</span> al lado del barrio chino junto al río Ping <span style="color: #ff0000;">.  </span>
@@ -124,7 +124,7 @@ header:
 ### Conocer Chinatown
 
 
-[<img src="https://live.staticflickr.com/555/32466689200_8cceab7157_c.jpg" alt="Chinese New Year @ Chiang Mai, Thailand" />](https://www.flickr.com/photos/sitoo/32466689200/)
+[<img loading="lazy"  src="https://live.staticflickr.com/555/32466689200_8cceab7157_c.jpg" alt="Chinese New Year @ Chiang Mai, Thailand" />](https://www.flickr.com/photos/sitoo/32466689200/)
 
 
   Adoramos los barrios chinos y por ello a cada ciudad que vamos intentamos visitar esta zona. En Chiang Mai el barrio es bastante pequeño en comparación con el de Bangkok, aún así es curioso recorrer sus calles e ir a cenar al mercado nocturno que ponen en su calle principal.
@@ -141,7 +141,7 @@ header:
   Como no, no podíamos no recomendaros conocer la zona de escalada por excelencia del Norte de Tailandia. Hay bastantes sectores con grados fáciles que permiten iniciarse en la escalada. De hecho en muchas de las oficinas de turismo ofrecen paquetes con cursos para principiantes. Si queréis más información sobre la escalada de esta zona no os perdáis el post: <a href="http://www.andeandaran.com/2017/02/19/escalada-crazy-horse-chiang-mai/">Escalada en Crazy Horse, Chiang Mai</a>
 
 
-[<img src="https://live.staticflickr.com/2284/32873766226_2b861f4aeb_c.jpg" alt="Inma @ Beautiful Mess (6a)" />](https://www.flickr.com/photos/sitoo/32873766226/)
+[<img loading="lazy"  src="https://live.staticflickr.com/2284/32873766226_2b861f4aeb_c.jpg" alt="Inma @ Beautiful Mess (6a)" />](https://www.flickr.com/photos/sitoo/32873766226/)
 
 ### Alejarse del negocio de Elefantes
 
@@ -163,33 +163,33 @@ header:
 
 
 <div>
-  <a href="https://uploads.andeandaran.com/2017/02/DSC_1290.jpg"> <img src="https://uploads.andeandaran.com/2017/02/DSC_1290.jpg" title="DSC_1290" alt="Edificio principal del Wat Phra Singh"  /> </a>
+  <a href="https://uploads.andeandaran.com/2017/02/DSC_1290.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/02/DSC_1290.jpg" title="DSC_1290" alt="Edificio principal del Wat Phra Singh"  /> </a>
   
-  <a href="https://uploads.andeandaran.com/2017/02/DSC_1258.jpg"> <img src="https://uploads.andeandaran.com/2017/02/DSC_1258.jpg" title="DSC_1258" alt="Wat Phra Singh"  /> </a>
+  <a href="https://uploads.andeandaran.com/2017/02/DSC_1258.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/02/DSC_1258.jpg" title="DSC_1258" alt="Wat Phra Singh"  /> </a>
   
-  <a href="https://uploads.andeandaran.com/2017/02/DSC_1239.jpg"> <img src="https://uploads.andeandaran.com/2017/02/DSC_1239.jpg" title="DSC_1239" alt="Elefante del Wat Phra Singh" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/02/DSC_1239.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/02/DSC_1239.jpg" title="DSC_1239" alt="Elefante del Wat Phra Singh" /> </a>
   
-  <a href="https://uploads.andeandaran.com/2017/02/DSC_1234-e1487890236333.jpg"> <img src="https://uploads.andeandaran.com/2017/02/DSC_1234-e1487890236333.jpg" title="DSC_1234" alt="Margarita en Wat Phra Singh" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/02/DSC_1234-e1487890236333.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/02/DSC_1234-e1487890236333.jpg" title="DSC_1234" alt="Margarita en Wat Phra Singh" /> </a>
   
-  <a href="https://uploads.andeandaran.com/2017/02/DSC_1252.jpg"> <img src="https://uploads.andeandaran.com/2017/02/DSC_1252.jpg" title="DSC_1252" alt="Monjes de cera en Wat Phra Singh"  /> </a>
+  <a href="https://uploads.andeandaran.com/2017/02/DSC_1252.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/02/DSC_1252.jpg" title="DSC_1252" alt="Monjes de cera en Wat Phra Singh"  /> </a>
   
-  <a href="https://uploads.andeandaran.com/2017/02/DSC_1224-e1487890272862.jpg"> <img src="https://uploads.andeandaran.com/2017/02/DSC_1224-e1487890272862.jpg" title="DSC_1224" alt="DSC_1224" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/02/DSC_1224-e1487890272862.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/02/DSC_1224-e1487890272862.jpg" title="DSC_1224" alt="DSC_1224" /> </a>
         
-  <a href="https://uploads.andeandaran.com/2017/02/DSC_1278-e1487892361474.jpg"> <img src="https://uploads.andeandaran.com/2017/02/DSC_1278-e1487892361474.jpg" title="DSC_1278" alt="Interiores de Wat Phra Singh" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/02/DSC_1278-e1487892361474.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/02/DSC_1278-e1487892361474.jpg" title="DSC_1278" alt="Interiores de Wat Phra Singh" /> </a>
   
-  <a href="https://uploads.andeandaran.com/2017/02/DSC_1227.jpg"> <img src="https://uploads.andeandaran.com/2017/02/DSC_1227.jpg" title="DSC_1227" alt="Oraciones en uno del templos"  /> </a>
+  <a href="https://uploads.andeandaran.com/2017/02/DSC_1227.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/02/DSC_1227.jpg" title="DSC_1227" alt="Oraciones en uno del templos"  /> </a>
   
-  <a href="https://uploads.andeandaran.com/2017/02/DSC_1265.jpg"> <img src="https://uploads.andeandaran.com/2017/02/DSC_1265.jpg" title="DSC_1265" alt="Selfie"  /> </a>
+  <a href="https://uploads.andeandaran.com/2017/02/DSC_1265.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/02/DSC_1265.jpg" title="DSC_1265" alt="Selfie"  /> </a>
   
-  <a href="https://uploads.andeandaran.com/2017/02/Chiang_mai-3.jpg"> <img src="https://uploads.andeandaran.com/2017/02/Chiang_mai-3.jpg" title="Chiang_mai-3" alt="Templo sin nombre" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/02/Chiang_mai-3.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/02/Chiang_mai-3.jpg" title="Chiang_mai-3" alt="Templo sin nombre" /> </a>
   
-  <a href="https://uploads.andeandaran.com/2017/02/Chiang_mai-2.jpg"> <img src="https://uploads.andeandaran.com/2017/02/Chiang_mai-2.jpg" title="Chiang_mai-2" alt="Templo sin nombre" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/02/Chiang_mai-2.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/02/Chiang_mai-2.jpg" title="Chiang_mai-2" alt="Templo sin nombre" /> </a>
   
-  <a href="https://uploads.andeandaran.com/2017/02/Chiang_mai-5.jpg"> <img src="https://uploads.andeandaran.com/2017/02/Chiang_mai-5.jpg" title="Chiang_mai-5" alt="Preparando curry para el Khao soi" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/02/Chiang_mai-5.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/02/Chiang_mai-5.jpg" title="Chiang_mai-5" alt="Preparando curry para el Khao soi" /> </a>
 
-  <a href="https://uploads.andeandaran.com/2017/02/Chiang_mai-4.jpg"> <img src="https://uploads.andeandaran.com/2017/02/Chiang_mai-4.jpg" title="Chiang_mai-4" alt="Comprando en un mercado local" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/02/Chiang_mai-4.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/02/Chiang_mai-4.jpg" title="Chiang_mai-4" alt="Comprando en un mercado local" /> </a>
 
-  <a href="https://uploads.andeandaran.com/2017/02/DSC_1299.jpg"> <img src="https://uploads.andeandaran.com/2017/02/DSC_1299.jpg" title="DSC_1299" alt="Comiendo en un restaurante muy recomendable: Aroy Dee" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/02/DSC_1299.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/02/DSC_1299.jpg" title="DSC_1299" alt="Comiendo en un restaurante muy recomendable: Aroy Dee" /> </a>
 
-  <a href="https://uploads.andeandaran.com/2017/02/Chiang_mai-1.jpg"> <img src="https://uploads.andeandaran.com/2017/02/Chiang_mai-1.jpg" title="Color!" alt="Luces en el Night Bazaar"/> </a>
+  <a href="https://uploads.andeandaran.com/2017/02/Chiang_mai-1.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/02/Chiang_mai-1.jpg" title="Color!" alt="Luces en el Night Bazaar"/> </a>
 </div>

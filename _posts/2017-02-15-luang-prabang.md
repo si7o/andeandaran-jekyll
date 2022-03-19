@@ -98,7 +98,7 @@ gallery:
 
 
 
-  <a href="https://www.flickr.com/photos/sitoo/31681517393/in/dateposted/"><img src="https://live.staticflickr.com/383/31681517393_a284a71e9f_c.jpg" alt="A fisherman at Mekong river in Luang Prabang, Laos" /></a>
+  <a href="https://www.flickr.com/photos/sitoo/31681517393/in/dateposted/"><img loading="lazy"  src="https://live.staticflickr.com/383/31681517393_a284a71e9f_c.jpg" alt="A fisherman at Mekong river in Luang Prabang, Laos" /></a>
 
 
 ### Alojamiento
@@ -116,7 +116,7 @@ gallery:
 
 
 
-  <a href="https://www.flickr.com/photos/sitoo/32248082710/in/dateposted/"><img src="https://live.staticflickr.com/323/32248082710_04b12a6524_c.jpg" alt="Colorful"  /></a>
+  <a href="https://www.flickr.com/photos/sitoo/32248082710/in/dateposted/"><img loading="lazy"  src="https://live.staticflickr.com/323/32248082710_04b12a6524_c.jpg" alt="Colorful"  /></a>
 
 
 ### Qué hacer
@@ -134,7 +134,7 @@ gallery:
 
 
 
-  <a href="https://www.flickr.com/photos/sitoo/31627292254/in/dateposted/"><img src="https://live.staticflickr.com/290/31627292254_e483ee5094_c.jpg" alt="Haw Pha Bang temple, Luang Prabang, Laos"  /></a>
+  <a href="https://www.flickr.com/photos/sitoo/31627292254/in/dateposted/"><img loading="lazy"  src="https://live.staticflickr.com/290/31627292254_e483ee5094_c.jpg" alt="Haw Pha Bang temple, Luang Prabang, Laos"  /></a>
 
 
 
@@ -142,7 +142,7 @@ gallery:
 
 
 
-  <a href="https://www.flickr.com/photos/sitoo/32416429716/in/dateposted/"><img src="https://live.staticflickr.com/556/32416429716_dd3aec8141_c.jpg" alt="Wat Mai Monastery/temple entry door, Luang Prabang, Laos"  /></a>
+  <a href="https://www.flickr.com/photos/sitoo/32416429716/in/dateposted/"><img loading="lazy"  src="https://live.staticflickr.com/556/32416429716_dd3aec8141_c.jpg" alt="Wat Mai Monastery/temple entry door, Luang Prabang, Laos"  /></a>
 
 
 #### Mercado Nocturno
@@ -153,7 +153,7 @@ gallery:
 
 
 
-  <a href="https://www.flickr.com/photos/sitoo/32736116202/in/dateposted/"><img src="https://live.staticflickr.com/657/32736116202_c1834d6c67_c.jpg" alt="Luang Prabang Night Market, Laos"  /></a>
+  <a href="https://www.flickr.com/photos/sitoo/32736116202/in/dateposted/"><img loading="lazy"  src="https://live.staticflickr.com/657/32736116202_c1834d6c67_c.jpg" alt="Luang Prabang Night Market, Laos"  /></a>
 
 
 #### Cascadas
@@ -164,7 +164,7 @@ gallery:
 
 
 
-  <a href="https://www.flickr.com/photos/sitoo/31691808044/in/dateposted/"><img src="https://live.staticflickr.com/393/31691808044_ae8292d7e0_c.jpg" alt="Kuang Si Waterfall on a foggy morning, Luang Prabang, Laos" /></a>
+  <a href="https://www.flickr.com/photos/sitoo/31691808044/in/dateposted/"><img loading="lazy"  src="https://live.staticflickr.com/393/31691808044_ae8292d7e0_c.jpg" alt="Kuang Si Waterfall on a foggy morning, Luang Prabang, Laos" /></a>
 
 
 #### Cuevas
@@ -198,7 +198,7 @@ gallery:
 
 
 
-  <a href="https://www.flickr.com/photos/sitoo/31807627593/in/dateposted/"><img src="https://live.staticflickr.com/454/31807627593_7b24b86ae4_c.jpg" alt="Sunset over Mekong River"  /></a>
+  <a href="https://www.flickr.com/photos/sitoo/31807627593/in/dateposted/"><img loading="lazy"  src="https://live.staticflickr.com/454/31807627593_7b24b86ae4_c.jpg" alt="Sunset over Mekong River"  /></a>
 
 
 ### Precauciones

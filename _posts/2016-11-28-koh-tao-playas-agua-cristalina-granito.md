@@ -24,7 +24,7 @@ Koh Tao inevitablemente se asocia al buceo o al snorkel. Aunque nosotros  hemos 
 
 ## Qué hacer en Koh Tao
 <figure >
-<a href="https://www.flickr.com/photos/sitoo/31286048685/in/photostream/lightbox/" target="_blank" rel="noopener"><img class="img-rounded img-responsive" title="Koh Nang Yuan desde un restaurante al norte de la isla." src="https://c2.staticflickr.com/6/5596/31286048685_5c1afff210_c.jpg" alt="Koh Nang Yuan desde un restaurante al norte de la isla." /></a><figcaption class="wp-caption-text">Koh Nang Yuan desde un restaurante al norte de la isla.</figcaption></figure> 
+<a href="https://www.flickr.com/photos/sitoo/31286048685/in/photostream/lightbox/" target="_blank" rel="noopener"><img loading="lazy"  class="img-rounded img-responsive" title="Koh Nang Yuan desde un restaurante al norte de la isla." src="https://c2.staticflickr.com/6/5596/31286048685_5c1afff210_c.jpg" alt="Koh Nang Yuan desde un restaurante al norte de la isla." /></a><figcaption class="wp-caption-text">Koh Nang Yuan desde un restaurante al norte de la isla.</figcaption></figure> 
 
 
 En nuestro caso estuvimos una semana, con lo cual nos dio tiempo a visitar relajadamente cada una de las playas y miradores, pero en 3-4 días se puede ver perfectamente lo más bonito de la isla.
@@ -43,7 +43,7 @@ Snorkel:** Aunque en casi todas las playas de la isla es fácil encontrarse con 
 
 
 
-**Probar la comida de "Mama Piyawan"**: <figure id="attachment_714"  ><a href="https://uploads.andeandaran.com/2016/11/MG_9782.jpg"><img title="Mama Piyawan" src="https://uploads.andeandaran.com/2016/11/MG_9782.jpg" alt="Mama Piyawan" /></a><figcaption class="wp-caption-text">Mama Piyawan</figcaption></figure> 
+**Probar la comida de "Mama Piyawan"**: <figure id="attachment_714"  ><a href="https://uploads.andeandaran.com/2016/11/MG_9782.jpg"><img loading="lazy"  title="Mama Piyawan" src="https://uploads.andeandaran.com/2016/11/MG_9782.jpg" alt="Mama Piyawan" /></a><figcaption class="wp-caption-text">Mama Piyawan</figcaption></figure> 
 
 Si os gusta la comida tailandesa y estáis por Sairee Beach, os recomendamos hacer una parada en este puestecito callejero. Aquí es donde hemos probado los mejores Pad Thai, Yellow noodles y fried rices de toda Tailandia.  Nos quedaron otros muchos platos que probar, pero estamos seguros que estarían igual de ricos. El puestecito esta en la calle que sube hacia Asia Diver Resorts y es bastante reconocible porque siempre tiene gente haciendo cola.
 
@@ -60,7 +60,7 @@ Si os gusta la comida tailandesa y estáis por Sairee Beach, os recomendamos hac
   
   
 <figure  >
-<a href="https://www.flickr.com/photos/sitoo/31119543311/in/photostream/lightbox/" target="_blank" rel="noopener"><img class="img-rounded" title="Sairee Beach" src="https://c2.staticflickr.com/6/5516/31119543311_d8501926e6_c.jpg" alt="Sairee Beach"  /></a><figcaption class="wp-caption-text">La palmera más fotografiada de todo Koh Tao, en Sairee Beach</figcaption></figure> 
+<a href="https://www.flickr.com/photos/sitoo/31119543311/in/photostream/lightbox/" target="_blank" rel="noopener"><img loading="lazy"  class="img-rounded" title="Sairee Beach" src="https://c2.staticflickr.com/6/5516/31119543311_d8501926e6_c.jpg" alt="Sairee Beach"  /></a><figcaption class="wp-caption-text">La palmera más fotografiada de todo Koh Tao, en Sairee Beach</figcaption></figure> 
 
 * **Sairee Beach:** Posiblemente es una de las más conocidas y aunque tiene mucho ambiente de fiesta, nos quedamos con la zona norte de la isla, justo al lado de Koh Tao Cabana. Aguas cristalina, snorkel, rocas para escalar...¡lo tenia todo!
 
@@ -68,7 +68,7 @@ Si os gusta la comida tailandesa y estáis por Sairee Beach, os recomendamos hac
 
 ##  Transporte
 <figure >
-<a href="https://www.flickr.com/photos/sitoo/30384791713/in/photostream/lightbox/" target="_blank" rel="noopener"><img class="img-rounded img-responsive" title="En el Ferry de camino a Koh Tao" src="https://c2.staticflickr.com/6/5342/30384791713_a2eb824e1c_c.jpg" alt="En el Ferry de camino a Koh Tao" /></a><figcaption class="wp-caption-text">En el Ferry de camino a Koh Tao</figcaption></figure> 
+<a href="https://www.flickr.com/photos/sitoo/30384791713/in/photostream/lightbox/" target="_blank" rel="noopener"><img loading="lazy"  class="img-rounded img-responsive" title="En el Ferry de camino a Koh Tao" src="https://c2.staticflickr.com/6/5342/30384791713_a2eb824e1c_c.jpg" alt="En el Ferry de camino a Koh Tao" /></a><figcaption class="wp-caption-text">En el Ferry de camino a Koh Tao</figcaption></figure> 
 
 * **¿Cómo llegar a Koh Tao?** Si vienes desde la zona sur de Tailandia **(Krabi, Phuket o Koh Lanta)** existe una compañía que se llama Seatran que ofrece un servicio de autobuses desde la ciudad desde donde estés hasta Don Sak, dónde ofrece servicio de barco rápido. El barco hace parada en Koh Samui, Koh Phangan y la última Koh tao. El precio varía en función de la ciudada de salida, a nosotros desde Koh lanta nos costo 1.000 thb (26€) cada uno.
 
@@ -81,63 +81,63 @@ Os dejamos una galería con una selección de fotos para que os hagáis una idea
 
 <div class="tiled-gallery type-rectangular tiled-gallery-unresized">
   <a href="https://uploads.andeandaran.com/2016/11/MG_9856.jpg">
-  <img src="https://uploads.andeandaran.com/2016/11/MG_9856.jpg" title="_mg_9856" alt="_mg_9856"  /> </a>
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2016/11/MG_9856.jpg" title="_mg_9856" alt="_mg_9856"  /> </a>
   
   <a href="https://uploads.andeandaran.com/2016/11/MG_9818.jpg">
-  <img src="https://uploads.andeandaran.com/2016/11/MG_9818.jpg" title="_mg_9818" alt="_mg_9818" /> </a>
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2016/11/MG_9818.jpg" title="_mg_9818" alt="_mg_9818" /> </a>
   
   <a href="https://uploads.andeandaran.com/2016/11/MG_9782.jpg">
-  <img src="https://uploads.andeandaran.com/2016/11/MG_9782.jpg" title="Mama Piyawan" alt="Mama Piyawan" /> </a>
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2016/11/MG_9782.jpg" title="Mama Piyawan" alt="Mama Piyawan" /> </a>
   
   <a href="https://uploads.andeandaran.com/2016/11/MG_9777.jpg">
-  <img src="https://uploads.andeandaran.com/2016/11/MG_9777.jpg" title="_mg_9777" alt="_mg_9777" /> </a>
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2016/11/MG_9777.jpg" title="_mg_9777" alt="_mg_9777" /> </a>
   
   <a href="https://uploads.andeandaran.com/2016/11/MG_9770.jpg">
-  <img src="https://uploads.andeandaran.com/2016/11/MG_9770.jpg" title="_mg_9770" alt="_mg_9770" /> </a>
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2016/11/MG_9770.jpg" title="_mg_9770" alt="_mg_9770" /> </a>
   
   <a href="https://uploads.andeandaran.com/2016/11/MG_9728.jpg">
-  <img src="https://uploads.andeandaran.com/2016/11/MG_9728.jpg" title="_mg_9728" alt="_mg_9728" /> </a>
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2016/11/MG_9728.jpg" title="_mg_9728" alt="_mg_9728" /> </a>
   
   <a href="https://uploads.andeandaran.com/2016/11/MG_9714.jpg">
-  <img src="https://uploads.andeandaran.com/2016/11/MG_9714.jpg" title="_mg_9714" alt="_mg_9714" /> </a>
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2016/11/MG_9714.jpg" title="_mg_9714" alt="_mg_9714" /> </a>
   
   <a href="https://uploads.andeandaran.com/2016/11/stereo_pointview-kohtao.jpg">
-  <img src="https://uploads.andeandaran.com/2016/11/stereo_pointview-kohtao.jpg" title="stereo_pointview-kohtao" alt="stereo_pointview-kohtao" /> </a>
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2016/11/stereo_pointview-kohtao.jpg" title="stereo_pointview-kohtao" alt="stereo_pointview-kohtao" /> </a>
   
   <a href="https://uploads.andeandaran.com/2016/11/GOPR7551.jpg">
-  <img src="https://uploads.andeandaran.com/2016/11/GOPR7551.jpg" title="gopr7551" alt="gopr7551"  /> </a>
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2016/11/GOPR7551.jpg" title="gopr7551" alt="gopr7551"  /> </a>
   5" >
 <div>
   <a href="https://uploads.andeandaran.com/2016/11/GOPR7547.jpg">
-  <img src="https://uploads.andeandaran.com/2016/11/GOPR7547.jpg" title="gopr7547" alt="gopr7547" /> </a>
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2016/11/GOPR7547.jpg" title="gopr7547" alt="gopr7547" /> </a>
   -height="295" >
 <div>
   <a href="https://uploads.andeandaran.com/2016/11/GOPR7545.jpg">
-  <img src="https://uploads.andeandaran.com/2016/11/GOPR7545.jpg" title="gopr7545" alt="gopr7545" /> </a>
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2016/11/GOPR7545.jpg" title="gopr7545" alt="gopr7545" /> </a>
   
   <a href="https://uploads.andeandaran.com/2016/11/GOPR7504.jpg">
-  <img src="https://uploads.andeandaran.com/2016/11/GOPR7504.jpg" title="gopr7504" alt="gopr7504" /> </a>
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2016/11/GOPR7504.jpg" title="gopr7504" alt="gopr7504" /> </a>
   
   <a href="https://uploads.andeandaran.com/2016/11/GOPR7500.jpg">
-  <img src="https://uploads.andeandaran.com/2016/11/GOPR7500.jpg" title="gopr7500" alt="gopr7500" /> </a>
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2016/11/GOPR7500.jpg" title="gopr7500" alt="gopr7500" /> </a>
   
   <a href="https://uploads.andeandaran.com/2016/11/GOPR7448.jpg">
-  <img src="https://uploads.andeandaran.com/2016/11/GOPR7448.jpg" title="gopr7448" alt="gopr7448" /> </a>
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2016/11/GOPR7448.jpg" title="gopr7448" alt="gopr7448" /> </a>
   
   <a href="https://uploads.andeandaran.com/2016/11/GOPR7408.jpg">
-  <img src="https://uploads.andeandaran.com/2016/11/GOPR7408.jpg" title="gopr7408" alt="gopr7408" /> </a>
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2016/11/GOPR7408.jpg" title="gopr7408" alt="gopr7408" /> </a>
   
   <a href="https://uploads.andeandaran.com/2016/11/GOPR7377.jpg">
-  <img src="https://uploads.andeandaran.com/2016/11/GOPR7377.jpg" title="gopr7377" alt="gopr7377" /> </a>
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2016/11/GOPR7377.jpg" title="gopr7377" alt="gopr7377" /> </a>
   
   <a href="https://uploads.andeandaran.com/2016/11/GOPR7342.jpg">
-  <img src="https://uploads.andeandaran.com/2016/11/GOPR7342.jpg" title="gopr7342" alt="gopr7342" /> </a>
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2016/11/GOPR7342.jpg" title="gopr7342" alt="gopr7342" /> </a>
   
   <a href="https://uploads.andeandaran.com/2016/11/GOPR7280.jpg">
-  <img src="https://uploads.andeandaran.com/2016/11/GOPR7280.jpg" title="gopr7280" alt="gopr7280" /> </a>
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2016/11/GOPR7280.jpg" title="gopr7280" alt="gopr7280" /> </a>
   
   <a href="https://uploads.andeandaran.com/2016/11/GOPR7184.jpg">
-  <img src="https://uploads.andeandaran.com/2016/11/GOPR7184.jpg" title="gopr7184" alt="gopr7184" /> </a>
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2016/11/GOPR7184.jpg" title="gopr7184" alt="gopr7184" /> </a>
 </div>
   
       

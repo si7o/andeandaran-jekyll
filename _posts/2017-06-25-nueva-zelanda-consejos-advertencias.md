@@ -25,7 +25,7 @@ Advertencia: este post está basado en nuestra experiencia durante un mes en tem
 
 ## Planificación
 
-<img class="wp-image-2056 size-medium alignright" src="https://uploads.andeandaran.com/2017/06/nzs-3-13.jpg" /> Lo primero y más importante, a no ser que te sobre el dinero: PLANIFICA e infórmate bien antes de ir. Nueva Zelanda es un país muy caro, así que cuanto antes reserves todo más barato te saldrá.  
+<img loading="lazy"  class="wp-image-2056 size-medium alignright" src="https://uploads.andeandaran.com/2017/06/nzs-3-13.jpg" /> Lo primero y más importante, a no ser que te sobre el dinero: PLANIFICA e infórmate bien antes de ir. Nueva Zelanda es un país muy caro, así que cuanto antes reserves todo más barato te saldrá.  
 Si, sacrificarás algo de flexibilidad, pero si no quieres tener que renunciar a ciertas comodidades, es lo que toca.
 
 Si acabas de llegar al país y lo único que tienes planificado es tu billete de vuelta, no te alarmes, todavía hay esperanza. Sigue leyendo y quizás te demos alguna idea.
@@ -37,7 +37,7 @@ Y si encuentras algo más barato, mira los comentarios del alojamiento antes de 
 
 Si aún así sigues queriendo dormir en algo parecido a un hotel, la mejor opción es usar Airbnb. Puedes encontrar habitaciones privadas a partir de 25/30€ la noche.
 
-[<img src="https://live.staticflickr.com/4187/34585478946_0c1d681f24_c.jpg" alt="Wakaitipu Lake from 12 Mile Delta"  />](https://www.flickr.com/photos/sitoo/34585478946/)
+[<img loading="lazy"  src="https://live.staticflickr.com/4187/34585478946_0c1d681f24_c.jpg" alt="Wakaitipu Lake from 12 Mile Delta"  />](https://www.flickr.com/photos/sitoo/34585478946/)
 
 ### Acampada
 
@@ -87,7 +87,7 @@ Si aún así sigues queriendo dormir en algo parecido a un hotel, la mejor opci�
   Por lo general el transporte inter-urbano es bastante deficiente. Sobre todo si tu destino es algún pueblo o ciudad pequeña.
 
 
-[<img src="https://live.staticflickr.com/4204/35036729925_7452c7eed1_c.jpg" alt="West Coast, South Island, New Zealand"  />](https://www.flickr.com/photos/sitoo/35036729925/)
+[<img loading="lazy"  src="https://live.staticflickr.com/4204/35036729925_7452c7eed1_c.jpg" alt="West Coast, South Island, New Zealand"  />](https://www.flickr.com/photos/sitoo/35036729925/)
 
 ### Autobús
 
@@ -153,7 +153,7 @@ Si aún así sigues queriendo dormir en algo parecido a un hotel, la mejor opci�
 #### Relocalizacion
 
 
-  <img class="wp-image-1847 size-medium alignright" src="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-1.jpg" />Además de las relocalizaciones que ofrecen las principales empresas de alquiler de autocaravanas (Apollo Campers, Britz, Luky...) existe una web que agrupa todos los vehículos de alquiler que buscan alguien que los lleve de una ciudad a otra: <a href="https://www.transfercar.co.nz">Transfercar</a>.<br /> Se pueden encontrar muy buenas ofertas y de esta forma viajar por muy poco de una isla a otra.
+  <img loading="lazy"  class="wp-image-1847 size-medium alignright" src="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-1.jpg" />Además de las relocalizaciones que ofrecen las principales empresas de alquiler de autocaravanas (Apollo Campers, Britz, Luky...) existe una web que agrupa todos los vehículos de alquiler que buscan alguien que los lleve de una ciudad a otra: <a href="https://www.transfercar.co.nz">Transfercar</a>.<br /> Se pueden encontrar muy buenas ofertas y de esta forma viajar por muy poco de una isla a otra.
 
 
 
@@ -187,7 +187,7 @@ Si aún así sigues queriendo dormir en algo parecido a un hotel, la mejor opci�
 ## Puntos de información
 
 <figure id="attachment_1852" >
-<img class="wp-image-1852 size-medium" src="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-6.jpg?resize=200%2C300" /> <figcaption class="wp-caption-text">Sandra tras arrasar con los mapas y guías gratuitas</figcaption></figure> 
+<img loading="lazy"  class="wp-image-1852 size-medium" src="https://uploads.andeandaran.com/2017/04/Auckland-Christchurch-6.jpg?resize=200%2C300" /> <figcaption class="wp-caption-text">Sandra tras arrasar con los mapas y guías gratuitas</figcaption></figure> 
 
 
   Una de las cosas buenas de Nueva Zelanda son sus centros de información o <a href="http://www.newzealand.com/int/visitor-information-centre/">i-Sites</a>. Prácticamente en cualquier ciudad más o menos grande o destino turístico encontraréis uno de estos puntos en los que podréis obtener toda la información turística y mapas que necesitéis.

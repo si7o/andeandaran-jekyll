@@ -177,13 +177,13 @@ gallery:
 #### Alojamiento
 <figure id="attachment_1251" >
 
-<img class="size-medium wp-image-1251" src="https://uploads.andeandaran.com/2017/01/MG_1758.jpg" alt="Los bungalows al atardecer" /> <figcaption class="wp-caption-text">La zona de bungalows de GCH2 al atardecer</figcaption></figure> 
+<img loading="lazy"  class="size-medium wp-image-1251" src="https://uploads.andeandaran.com/2017/01/MG_1758.jpg" alt="Los bungalows al atardecer" /> <figcaption class="wp-caption-text">La zona de bungalows de GCH2 al atardecer</figcaption></figure> 
 
 
   Existen dos campamentos, GCH1 y GCH2. Son independientes el uno del otro, pero el ambiente es el mismo.<br /> Podrás encontrar bungalows con y sin baño privado, cama en habitación compartida y tiendas de campaña. En temporada alta los bungalows escasean, así que te recomendamos reservar con antelación.<br /> Nosotros intentamos reservar el día anterior y sólo había disponible 1 tienda de campaña en GCH2.
 <figure id="attachment_1279" >
 
-<img class="size-medium wp-image-1279" src="https://uploads.andeandaran.com/2017/01/GOPR8033.jpg?resize=300%2C203" alt="La zona de acampada de GCH2" /> <figcaption class="wp-caption-text">La zona de acampada de GCH2</figcaption></figure> 
+<img loading="lazy"  class="size-medium wp-image-1279" src="https://uploads.andeandaran.com/2017/01/GOPR8033.jpg?resize=300%2C203" alt="La zona de acampada de GCH2" /> <figcaption class="wp-caption-text">La zona de acampada de GCH2</figcaption></figure> 
 
 
   No podemos hablar de la comodidad de los bungalows porque no llegamos ni a olerlos, pero si podemos hablar de las tiendas.<br /> Llegamos con la intención de estar 3 noches y acabamos estando 11. A la tienda le falta un colchón algo mejor, si tienes una esterilla hinchable no dudes en llevarla. Así te ahorrarás el tener que buscar la forma de que las irregularidades del suelo encajen con tu cuerpo.
@@ -214,7 +214,7 @@ gallery:
   Ya desde el primer día supimos que habíamos encontrado un lugar muy especial. Combinaba la tranquilidad que buscábamos después de tanto ir de un lado para otro y la posibilidad de disfrutar de la naturaleza. Además, conocimos a Joan y Jacqueline, dos escaladores mallorquines que también estaban de excedencia. Con ellos pudimos disfrutar aún más de nuestra estancia en GCH. Sin lugar a duda, han sido dos personas que han dejado huella en nuestro viaje y que esperamos volver a ver en España.
 
 
-[<img src="https://live.staticflickr.com/716/32220313125_87f5851ff4_c.jpg" alt="Climbing @ Green Climbers Home, Tha Khek, Laos" />](https://www.flickr.com/photos/sitoo/32220313125/in/photostream/lightbox/)
+[<img loading="lazy"  src="https://live.staticflickr.com/716/32220313125_87f5851ff4_c.jpg" alt="Climbing @ Green Climbers Home, Tha Khek, Laos" />](https://www.flickr.com/photos/sitoo/32220313125/in/photostream/lightbox/)
 
 
   Si hay algo que no falta en Thakhek a la hora de escalar, eso son las chorreras. Las hay de todas formas y tamaños... y en todas partes.<br /> Si en algún momento la chorrera por la que estás subiendo se termina y parece que ya no hay por donde subir, mira detrás tuyo o asómate a los lados... seguramente encuentres algo. Aquí se escala en tres dimensiones.
@@ -228,14 +228,14 @@ gallery:
   En cuanto a los sectores que probamos, destacaría Climbers Home, Elephant y Tree Longue. Todos ellos con vías fáciles y de grado medio.
 <figure id="attachment_1277" >
 
-<img class="size-large wp-image-1277" src="https://uploads.andeandaran.com/2017/01/GOPR8008.jpg?resize=810%2C503" alt="Sandra acercándose a la reunión" /> <figcaption class="wp-caption-text">Sandra acercándose a la reunión</figcaption></figure> 
+<img loading="lazy"  class="size-large wp-image-1277" src="https://uploads.andeandaran.com/2017/01/GOPR8008.jpg?resize=810%2C503" alt="Sandra acercándose a la reunión" /> <figcaption class="wp-caption-text">Sandra acercándose a la reunión</figcaption></figure> 
   Nos metimos también en un sector que acababan de abrir el día anterior unos suizos. Siete vías entre el 5a y 6b a 200m de GCH2. Estaban algo sucias, pero fue divertido escalar "a vista" 100%, ya que no sabíamos ni el grado de las vías...
 <figure id="attachment_1252" >
 
-<img class="size-large wp-image-1252" src="https://uploads.andeandaran.com/2017/01/MG_1763.jpg" alt="Jaqueline en el sector sin nombre, Thakhek" /> <figcaption class="wp-caption-text">Jacqueline abriendo un supuesto 6a.</figcaption></figure> 
+<img loading="lazy"  class="size-large wp-image-1252" src="https://uploads.andeandaran.com/2017/01/MG_1763.jpg" alt="Jaqueline en el sector sin nombre, Thakhek" /> <figcaption class="wp-caption-text">Jacqueline abriendo un supuesto 6a.</figcaption></figure> 
 <figure id="attachment_1256" >
 
-<img class="size-large wp-image-1256" src="https://uploads.andeandaran.com/2017/01/MG_1791.jpg" alt="Sector sin nombre, Thakhek" /> <figcaption class="wp-caption-text">Sito abriendo una de las vías del sector sin nombre. Creemos que un 6a+</figcaption></figure> 
+<img loading="lazy"  class="size-large wp-image-1256" src="https://uploads.andeandaran.com/2017/01/MG_1791.jpg" alt="Sector sin nombre, Thakhek" /> <figcaption class="wp-caption-text">Sito abriendo una de las vías del sector sin nombre. Creemos que un 6a+</figcaption></figure> 
 
 ### Largos en "Chinese New Year", 6b 130m
 
@@ -254,7 +254,7 @@ gallery:
   Joan empezó empalmando los dos primeros largos. Se quedó corto de expreses, así que tuvo que saltarse algún que otro parabolt. Un 5c de 53m para empezar el día de escalada y saltándose seguros... eso es empezar fuerte.
 <figure id="attachment_1240" >
 
-<img class="size-large wp-image-1240" src="https://uploads.andeandaran.com/2017/01/GOPR8048-e1484282711777.jpg?resize=810%2C505" alt="Juan en la segunda reunión de Chinese New Year" /> <figcaption class="wp-caption-text">Juan en la segunda reunión de Chinese New Year. Descansando después de empalmar dos largos.</figcaption></figure> 
+<img loading="lazy"  class="size-large wp-image-1240" src="https://uploads.andeandaran.com/2017/01/GOPR8048-e1484282711777.jpg?resize=810%2C505" alt="Juan en la segunda reunión de Chinese New Year" /> <figcaption class="wp-caption-text">Juan en la segunda reunión de Chinese New Year. Descansando después de empalmar dos largos.</figcaption></figure> 
 
 
   A mi me tocó el 6b. Otros 6b que probamos eran bastante más duros de lo esperado, así que íbamos dispuestos a "acerar" si era necesario. Por suerte en esta vía el grado estaba bien puesto... quizá el paso más difícil está justo antes de llegar a la reunión, pero es una vía muy bonita y un 6b tirando a 6a+ bastante asequible.<br /> Superado el largo difícil ya solo quedaba un 5b de 44m con muchos agarres, alguna que otra piedra grande suelta y roca bastante cortante.
@@ -265,7 +265,7 @@ gallery:
 
 
 
-  <img class="aligncenter wp-image-1242 size-large" src="https://uploads.andeandaran.com/2017/01/GOPR8062-e1484282623531.jpg" alt="En la cima de Chinese New Year"/>
+  <img loading="lazy"  class="aligncenter wp-image-1242 size-large" src="https://uploads.andeandaran.com/2017/01/GOPR8062-e1484282623531.jpg" alt="En la cima de Chinese New Year"/>
 
 
 
@@ -276,19 +276,19 @@ gallery:
   En resumen, una vía muy recomendable y una muy buena experiencia. Un placer haberla compartido contigo, Joan.
 <figure id="attachment_1280" >
 
-<img class="size-large wp-image-1280" src="https://uploads.andeandaran.com/2017/01/GOPR8078-Panorama.jpg" alt="Panorámica desde la cima de Chinese New Year, Thakhek" /> <figcaption class="wp-caption-text">Panorámica desde la cima de Chinese New Year, Thakhek</figcaption></figure> 
+<img loading="lazy"  class="size-large wp-image-1280" src="https://uploads.andeandaran.com/2017/01/GOPR8078-Panorama.jpg" alt="Panorámica desde la cima de Chinese New Year, Thakhek" /> <figcaption class="wp-caption-text">Panorámica desde la cima de Chinese New Year, Thakhek</figcaption></figure> 
 
 ### Qué más hacer
 
   Además de la escalada hay otros planes que hacer los días de descanso.
 
 
-[<img src="https://live.staticflickr.com/539/32105876031_50f7b7d97f_c.jpg" alt="Thakhek, Laos"  />](https://www.flickr.com/photos/sitoo/32105876031/in/photostream/lightbox/)
+[<img loading="lazy"  src="https://live.staticflickr.com/539/32105876031_50f7b7d97f_c.jpg" alt="Thakhek, Laos"  />](https://www.flickr.com/photos/sitoo/32105876031/in/photostream/lightbox/)
 
 #### Tha Fallan
 <figure id="attachment_1266" >
 
-<img class="wp-image-1266 size-medium" src="https://uploads.andeandaran.com/2017/01/GOPR8039.jpg" alt="Baño en Tha Fallan" /> <figcaption class="wp-caption-text">Baño en Tha Fallan</figcaption></figure> 
+<img loading="lazy"  class="wp-image-1266 size-medium" src="https://uploads.andeandaran.com/2017/01/GOPR8039.jpg" alt="Baño en Tha Fallan" /> <figcaption class="wp-caption-text">Baño en Tha Fallan</figcaption></figure> 
 
 
   Una zona de baño muy agradable que está a 25 min a pie o 5 en moto. Cubre lo suficiente como para nadar y el agua está muy tranquila.
@@ -298,7 +298,7 @@ gallery:
 #### Cuevas y más cuevas
 <figure id="attachment_1245" class="wp-caption alignleft">
 
-<img class="wp-image-1245 size-medium" src="https://uploads.andeandaran.com/2017/01/MG_1649.jpg" alt="Cueva GCH" /> <figcaption class="wp-caption-text">Una cueva a 200m de GCH.</figcaption></figure> 
+<img loading="lazy"  class="wp-image-1245 size-medium" src="https://uploads.andeandaran.com/2017/01/MG_1649.jpg" alt="Cueva GCH" /> <figcaption class="wp-caption-text">Una cueva a 200m de GCH.</figcaption></figure> 
 
   Toda la zona está rodeada de cuevas, eso si, no todas merecen la pena y en algunas te hacen pagar a cada paso que das. Te recomendamos descargar alguna aplicación basada en OpenStreetMaps tipo Maps.me y así poder tener un GPS con sus localizaciones.
 
@@ -310,7 +310,7 @@ gallery:
   The Loop es la razón principal por la que viene la gente a Thakhek. Es un circuito de varios días en moto que recorre varias de las cuevas y paisajes más espectaculares de la zona. Son varios cientos de kilómetros, así que requiere algo más de planificación.
 
 
-[<img src="https://live.staticflickr.com/612/32063643891_970603af01_c.jpg" alt="Thakhek, Laos"  />](https://www.flickr.com/photos/sitoo/32063643891/in/photostream/lightbox/)
+[<img loading="lazy"  src="https://live.staticflickr.com/612/32063643891_970603af01_c.jpg" alt="Thakhek, Laos"  />](https://www.flickr.com/photos/sitoo/32063643891/in/photostream/lightbox/)
 
 
   Para disfrutar de los paisajes también puedes coger la moto o la bici y perderte por sus múltiples pistas de tierra. Eso si, cuidado con las averías en la moto. A nosotros un día se nos salió la cadena y otro pinchamos... nada que no tenga solución, pero te puede hacer perder varias horas.
@@ -323,7 +323,7 @@ gallery:
   Como ya os hemos comentado, está a 12km de GCH. Como no es un lugar muy turístico, se puede disfrutar de la vida local en sus mercados o en la plaza principal del pueblo, a orillas del Mekong y con unos atardeceres impresionantes.
 
 
-[<img src="https://live.staticflickr.com/419/31403433484_efbefee999_c.jpg" alt="Thakhek food market" />](https://www.flickr.com/photos/sitoo/31403433484/in/photostream/lightbox/)
+[<img loading="lazy"  src="https://live.staticflickr.com/419/31403433484_efbefee999_c.jpg" alt="Thakhek food market" />](https://www.flickr.com/photos/sitoo/31403433484/in/photostream/lightbox/)
 
 En resumen, Green Climbers Home es un lugar lleno de posibilidades en el que disfrutar de un ambiente muy especial y con un entorno excepcional. ¡Si te gusta la escalada tienes que ir!
 

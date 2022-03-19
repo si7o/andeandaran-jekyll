@@ -24,7 +24,7 @@ header:
   A nosotros lo que más nos llamo la atención no fueron sus grandes rascacielos o tiendas de lujo, sino el estilo imperial francés que hay presente por cada una de sus calles. De todo lo que hemos visto hasta el momento, es lo más parecido a una ciudad europea. Aceras grandes con árboles, semáforos y pasos de cebra respetados en algunas ocasiones, grandes iglesias, parques con gimnasios exteriores, comercios no tan callejeros, panaderías con muy buena bollería gracias a la herencia francesa, bares que sirven bocadillos y un montón de detalles más que nos recordaron a occidente. Evidentemente, todo esto se mezclaba con la cultura Vietnamita y como resultado nos mostraba una ciudad moderna e interesante, aunque algo agobiante con el tráfico de las motos.
 
 
-[<img src="https://live.staticflickr.com/5509/31480788895_5c57b0e120_c.jpg" alt="Ho Chi Minh, Vietnam"  />](https://www.flickr.com/photos/sitoo/31480788895/in/dateposted/)
+[<img loading="lazy"  src="https://live.staticflickr.com/5509/31480788895_5c57b0e120_c.jpg" alt="Ho Chi Minh, Vietnam"  />](https://www.flickr.com/photos/sitoo/31480788895/in/dateposted/)
 
 
   En total estuvimos 3 días en la ciudad, pero solamente tuvimos 2 días hábiles. Con lo cual, lo que pudimos hacer fue conocer algunos puntos relevantes del centro y los túneles de Cu chi. Os dejamos algunas opciones de qué visitar por la ciudad y que pueden ser útiles si estáis pensando ir a Ho Chi Minh.
@@ -33,7 +33,7 @@ header:
 ## Mercado Ben Thanh
 
 
-[<img src="https://live.staticflickr.com/5603/31480789255_fa70a1be22_c.jpg" alt="Ben Thanh Market, Ho Chi Minh, Vietnam"  />](https://www.flickr.com/photos/sitoo/31480789255/in/dateposted/)
+[<img loading="lazy"  src="https://live.staticflickr.com/5603/31480789255_fa70a1be22_c.jpg" alt="Ben Thanh Market, Ho Chi Minh, Vietnam"  />](https://www.flickr.com/photos/sitoo/31480789255/in/dateposted/)
 
 Durante el día es un mercado de alimentos, ropa y calzado. Por la noche el recinto esta cerrado, pero las calles colindantes se llenan de puestos de ropa y bares para cenar.
 
@@ -42,7 +42,7 @@ Es el lugar por excelencia para comprar calzado de marcas muy conocidas en Europ
 ## Post Office y Catedral de Notre Dame
 
 
-[<img src="https://live.staticflickr.com/5691/31084813960_16b62edd50_c.jpg" alt="Ho Chi Minh Central Post Office, Vietnam"  />](https://www.flickr.com/photos/sitoo/31084813960/in/dateposted/)
+[<img loading="lazy"  src="https://live.staticflickr.com/5691/31084813960_16b62edd50_c.jpg" alt="Ho Chi Minh Central Post Office, Vietnam"  />](https://www.flickr.com/photos/sitoo/31084813960/in/dateposted/)
 
 Por curiosidad fuimos a ver la catedral de Notre dame, queríamos ver las diferencias con la de Paris, y nos encontramos de casualidad con la oficina de correos.
 
@@ -57,15 +57,15 @@ Hemos descubierto que nos encantan los barrios chinos de las ciudades y el de Ho
 
 **Tien Hau** (templo budista)
 
-[<img src="https://live.staticflickr.com/611/31503482925_8f1b706898_c.jpg" alt="Thien Hau, Ho Chi Minh"/>](https://www.flickr.com/photos/sitoo/31503482925/in/dateposted/)
+[<img loading="lazy"  src="https://live.staticflickr.com/611/31503482925_8f1b706898_c.jpg" alt="Thien Hau, Ho Chi Minh"/>](https://www.flickr.com/photos/sitoo/31503482925/in/dateposted/)
 
 Esta sería la vista 360 desde el interior del templo:
 
-<a data-flickr-embed="true" data-vr="true" href="https://www.flickr.com/photos/sitoo/31465761386/" title="Thien Hau 360º, Ho Chi Minh by Sitoo, on Flickr"><img src="https://live.staticflickr.com/500/31465761386_f0a9246b4b_c.jpg" alt="Thien Hau 360º, Ho Chi Minh" /></a>
+<a data-flickr-embed="true" data-vr="true" href="https://www.flickr.com/photos/sitoo/31465761386/" title="Thien Hau 360º, Ho Chi Minh by Sitoo, on Flickr"><img loading="lazy"  src="https://live.staticflickr.com/500/31465761386_f0a9246b4b_c.jpg" alt="Thien Hau 360º, Ho Chi Minh" /></a>
 
 **Quan Am Pagoda**
 
-[<img src="https://farm1.staticflickr.com/55/31465787276_a90c009a2f_c.jpg" alt="Quan Am Pagoda"  />](https://www.flickr.com/photos/sitoo/31465787276/in/dateposted/)
+[<img loading="lazy"  src="https://farm1.staticflickr.com/55/31465787276_a90c009a2f_c.jpg" alt="Quan Am Pagoda"  />](https://www.flickr.com/photos/sitoo/31465787276/in/dateposted/)
 
 ##  Túneles de Cu chi
 
@@ -81,31 +81,31 @@ Desde la ciudad de Ho Chi Minh salen diariamente tours hacia esta zona. Además 
   <figure > 
   
   <div>
-    <a href='https://uploads.andeandaran.com/2016/12/MG_0227.jpg'><img  src="https://uploads.andeandaran.com/2016/12/MG_0227.jpg"  /></a>
+    <a href='https://uploads.andeandaran.com/2016/12/MG_0227.jpg'><img loading="lazy"   src="https://uploads.andeandaran.com/2016/12/MG_0227.jpg"  /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://uploads.andeandaran.com/2016/12/MG_0232.jpg'><img  src="https://uploads.andeandaran.com/2016/12/MG_0232.jpg"  alt="Tien Han, templo budista" /></a>
+    <a href='https://uploads.andeandaran.com/2016/12/MG_0232.jpg'><img loading="lazy"   src="https://uploads.andeandaran.com/2016/12/MG_0232.jpg"  alt="Tien Han, templo budista" /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://uploads.andeandaran.com/2016/12/MG_0140.jpg'><img  src="https://uploads.andeandaran.com/2016/12/MG_0140.jpg"  /></a>
+    <a href='https://uploads.andeandaran.com/2016/12/MG_0140.jpg'><img loading="lazy"   src="https://uploads.andeandaran.com/2016/12/MG_0140.jpg"  /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://uploads.andeandaran.com/2016/12/MG_0134.jpg'><img  src="https://uploads.andeandaran.com/2016/12/MG_0134.jpg"  alt="Zapatillas y más zapatillas!" /></a>
+    <a href='https://uploads.andeandaran.com/2016/12/MG_0134.jpg'><img loading="lazy"   src="https://uploads.andeandaran.com/2016/12/MG_0134.jpg"  alt="Zapatillas y más zapatillas!" /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://uploads.andeandaran.com/2016/12/MG_0152.jpg'><img  src="https://uploads.andeandaran.com/2016/12/MG_0152.jpg"  alt="Interior de la oficina central de correos" /></a>
+    <a href='https://uploads.andeandaran.com/2016/12/MG_0152.jpg'><img loading="lazy"   src="https://uploads.andeandaran.com/2016/12/MG_0152.jpg"  alt="Interior de la oficina central de correos" /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://uploads.andeandaran.com/2016/12/MG_0158.jpg'><img  src="https://uploads.andeandaran.com/2016/12/MG_0158.jpg"  alt="Iglesia de Notre Dame" /></a>
+    <a href='https://uploads.andeandaran.com/2016/12/MG_0158.jpg'><img loading="lazy"   src="https://uploads.andeandaran.com/2016/12/MG_0158.jpg"  alt="Iglesia de Notre Dame" /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://uploads.andeandaran.com/2016/12/MG_0154.jpg'><img  src="https://uploads.andeandaran.com/2016/12/MG_0154.jpg"  alt="Un vendedor de helados junto a la oficina central de correos" /></a>
+    <a href='https://uploads.andeandaran.com/2016/12/MG_0154.jpg'><img loading="lazy"   src="https://uploads.andeandaran.com/2016/12/MG_0154.jpg"  alt="Un vendedor de helados junto a la oficina central de correos" /></a>
   </div></figure>
 </div>
 

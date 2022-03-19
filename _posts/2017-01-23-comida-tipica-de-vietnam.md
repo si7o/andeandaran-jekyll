@@ -24,7 +24,7 @@ Como muchos países asiáticos, Vietnam tiene un elemento estrella: **el arroz y
 
 ### Pho
 
-[<img class="alignnone size-full wp-image-1222" src="https://uploads.andeandaran.com/2017/01/IMG_20161202_154243537.jpg?resize=810%2C455" alt="Pho ga" />](https://uploads.andeandaran.com/2017/01/IMG_20161202_154243537.jpg)
+[<img loading="lazy"  class="alignnone size-full wp-image-1222" src="https://uploads.andeandaran.com/2017/01/IMG_20161202_154243537.jpg?resize=810%2C455" alt="Pho ga" />](https://uploads.andeandaran.com/2017/01/IMG_20161202_154243537.jpg)
 
 Podríamos decir que este es su plato estrella. Los Vietnamitas lo pueden tomar para desayunar, almorzar, comer, merendar, cenar...cualquier momento es bueno para calentarse con un buen Pho.
 
@@ -34,7 +34,7 @@ Para nosotros fue una de las comidas que mas nos gusto y de lo que más comimos.
 
 ### Coi Cuon
 
-[<img class="alignnone size-full wp-image-1220" src="https://uploads.andeandaran.com/2017/01/IMG_20161130_210402542.jpg?resize=810%2C455" alt="img_20161130_210402542" />](https://uploads.andeandaran.com/2017/01/IMG_20161130_210402542.jpg)
+[<img loading="lazy"  class="alignnone size-full wp-image-1220" src="https://uploads.andeandaran.com/2017/01/IMG_20161130_210402542.jpg?resize=810%2C455" alt="img_20161130_210402542" />](https://uploads.andeandaran.com/2017/01/IMG_20161130_210402542.jpg)
 
 Se trata de rollitos Vietnamitas frescos. Estan envueltos con una hoja fina de arroz y no se frien. Suelen estar rellenos de gambas o cerdo y vegetales tipo menta, cilantro y lechuga.
 
@@ -44,7 +44,7 @@ Se trata de otra variedad de rollitos, pero esta vez fritos. Van envueltos de la
 
 ### Bocadillos
 
-[<img class="alignnone size-full wp-image-1224" src="https://uploads.andeandaran.com/2017/01/IMG_20170111_135859156_HDR.jpg?resize=810%2C455" alt="Bocadillos Vietnamitas" />](https://uploads.andeandaran.com/2017/01/IMG_20170111_135859156_HDR.jpg)
+[<img loading="lazy"  class="alignnone size-full wp-image-1224" src="https://uploads.andeandaran.com/2017/01/IMG_20170111_135859156_HDR.jpg?resize=810%2C455" alt="Bocadillos Vietnamitas" />](https://uploads.andeandaran.com/2017/01/IMG_20170111_135859156_HDR.jpg)
 
 Después de casi 3 meses viajando por Asia, encontrar una barra de pan al estilo europeo fue un milagro. Lo mejor fue cuando vimos que  además preparaban bocadillos, casi lloramos de emoción.
 
@@ -52,7 +52,7 @@ La herencia francesa de los años de colonias, no solo dejó edificios, parques 
 
 ### Brochetas
 
-[<img class="alignnone size-full wp-image-1225" src="https://uploads.andeandaran.com/2017/01/IMG_20161203_175808451.jpg?resize=810%2C455" alt="img_20161203_175808451" />](https://uploads.andeandaran.com/2017/01/IMG_20161203_175808451.jpg)
+[<img loading="lazy"  class="alignnone size-full wp-image-1225" src="https://uploads.andeandaran.com/2017/01/IMG_20161203_175808451.jpg?resize=810%2C455" alt="img_20161203_175808451" />](https://uploads.andeandaran.com/2017/01/IMG_20161203_175808451.jpg)
 
 Al igual que es fácil encontrarse con puestos callejeros de bocadillos por todo el país, también lo es para las brochetas. Tienen una gran variedad de pinchos: de carne, pescado, marisco, salchichas, verduras, sushi...
 

@@ -33,7 +33,7 @@ Si estáis pensando en visitar la ciudad os dejamos algunas de las cosas que hem
 ### Ruinas de Mỹ Sơn
 
 
-[<img src="https://live.staticflickr.com/412/30745540194_3663102b4e_c.jpg" alt="Mỹ Sơn, Quang Nam, Vietnam" />](https://www.flickr.com/photos/sitoo/30745540194/)
+[<img loading="lazy"  src="https://live.staticflickr.com/412/30745540194_3663102b4e_c.jpg" alt="Mỹ Sơn, Quang Nam, Vietnam" />](https://www.flickr.com/photos/sitoo/30745540194/)
 
 
 A menos de 50 km, existe una ciudad en ruinas de la comunidad Champa que vivió entre los siglos IV y XIII. Originalmente, la ciudad estaba compuesta por 70 templos hinduistas. Sin embargo, después de los bombardeos durante la guerra, solo se mantienen en pie 20. De hecho, durante toda la visita se pueden ver abundantes cráteres y otras huellas de la batalla.
@@ -73,7 +73,7 @@ Las estructuras se caracterizan por estar hechas de ladrillo rojo y contemplan t
 
 
 
-  <img src="https://uploads.andeandaran.com/2016/12/MG_0676.jpg" alt="_mg_0676"  />
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2016/12/MG_0676.jpg" alt="_mg_0676"  />
 
 
 ###     Centro de Hoi An
@@ -88,7 +88,7 @@ Las estructuras se caracterizan por estar hechas de ladrillo rojo y contemplan t
 
 
 
-  <a href="https://www.flickr.com/photos/sitoo/31619162645/"><img src="https://live.staticflickr.com/109/31619162645_3932a9e590_c.jpg" alt="Hoi An Market, Vietnam"/></a>
+  <a href="https://www.flickr.com/photos/sitoo/31619162645/"><img loading="lazy"  src="https://live.staticflickr.com/109/31619162645_3932a9e590_c.jpg" alt="Hoi An Market, Vietnam"/></a>
 
 
 
@@ -100,7 +100,7 @@ Las estructuras se caracterizan por estar hechas de ladrillo rojo y contemplan t
 
 
 
-  <a href="https://www.flickr.com/photos/sitoo/31600304346/in/dateposted/"><img src="https://live.staticflickr.com/529/31600304346_a4e7dc16ca_c.jpg" alt="Floating lantern seller @ Hoi An"  /></a>
+  <a href="https://www.flickr.com/photos/sitoo/31600304346/in/dateposted/"><img loading="lazy"  src="https://live.staticflickr.com/529/31600304346_a4e7dc16ca_c.jpg" alt="Floating lantern seller @ Hoi An"  /></a>
 
 
 
@@ -108,7 +108,7 @@ Las estructuras se caracterizan por estar hechas de ladrillo rojo y contemplan t
 
 
 
-  <a href="https://www.flickr.com/photos/sitoo/31281837450/in/dateposted/"><img src="https://live.staticflickr.com/339/31281837450_169a140425_c.jpg" alt="El Bingo de Hoi An va a empezar!"  /></a>
+  <a href="https://www.flickr.com/photos/sitoo/31281837450/in/dateposted/"><img loading="lazy"  src="https://live.staticflickr.com/339/31281837450_169a140425_c.jpg" alt="El Bingo de Hoi An va a empezar!"  /></a>
 
 
 
@@ -135,66 +135,66 @@ Las estructuras se caracterizan por estar hechas de ladrillo rojo y contemplan t
   <figure > 
   
   <div>
-    <a href='https://uploads.andeandaran.com/2016/12/MG_0671.jpg'><img src="https://uploads.andeandaran.com/2016/12/MG_0671.jpg" /></a>
+    <a href='https://uploads.andeandaran.com/2016/12/MG_0671.jpg'><img loading="lazy"  src="https://uploads.andeandaran.com/2016/12/MG_0671.jpg" /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://uploads.andeandaran.com/2016/12/MG_0651.jpg'><img src="https://uploads.andeandaran.com/2016/12/MG_0651.jpg" /></a>
+    <a href='https://uploads.andeandaran.com/2016/12/MG_0651.jpg'><img loading="lazy"  src="https://uploads.andeandaran.com/2016/12/MG_0651.jpg" /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://uploads.andeandaran.com/2016/12/MG_0642.jpg'><img src="https://uploads.andeandaran.com/2016/12/MG_0642.jpg" /></a>
+    <a href='https://uploads.andeandaran.com/2016/12/MG_0642.jpg'><img loading="lazy"  src="https://uploads.andeandaran.com/2016/12/MG_0642.jpg" /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://uploads.andeandaran.com/2016/12/MG_0601.jpg'><img src="https://uploads.andeandaran.com/2016/12/MG_0601.jpg" /></a>
+    <a href='https://uploads.andeandaran.com/2016/12/MG_0601.jpg'><img loading="lazy"  src="https://uploads.andeandaran.com/2016/12/MG_0601.jpg" /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://uploads.andeandaran.com/2016/12/MG_0589.jpg'><img src="https://uploads.andeandaran.com/2016/12/MG_0589.jpg" /></a>
+    <a href='https://uploads.andeandaran.com/2016/12/MG_0589.jpg'><img loading="lazy"  src="https://uploads.andeandaran.com/2016/12/MG_0589.jpg" /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://uploads.andeandaran.com/2016/12/MG_0666.jpg'><img src="https://uploads.andeandaran.com/2016/12/MG_0666.jpg" /></a>
+    <a href='https://uploads.andeandaran.com/2016/12/MG_0666.jpg'><img loading="lazy"  src="https://uploads.andeandaran.com/2016/12/MG_0666.jpg" /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://uploads.andeandaran.com/2016/12/MG_0678.jpg'><img src="https://uploads.andeandaran.com/2016/12/MG_0678.jpg" /></a>
+    <a href='https://uploads.andeandaran.com/2016/12/MG_0678.jpg'><img loading="lazy"  src="https://uploads.andeandaran.com/2016/12/MG_0678.jpg" /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://uploads.andeandaran.com/2016/12/MG_0676.jpg'><img src="https://uploads.andeandaran.com/2016/12/MG_0676.jpg" /></a>
+    <a href='https://uploads.andeandaran.com/2016/12/MG_0676.jpg'><img loading="lazy"  src="https://uploads.andeandaran.com/2016/12/MG_0676.jpg" /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://uploads.andeandaran.com/2016/12/MG_0700.jpg'><img src="https://uploads.andeandaran.com/2016/12/MG_0700.jpg" /></a>
+    <a href='https://uploads.andeandaran.com/2016/12/MG_0700.jpg'><img loading="lazy"  src="https://uploads.andeandaran.com/2016/12/MG_0700.jpg" /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://uploads.andeandaran.com/2016/12/MG_0683.jpg'><img src="https://uploads.andeandaran.com/2016/12/MG_0683.jpg" /></a>
+    <a href='https://uploads.andeandaran.com/2016/12/MG_0683.jpg'><img loading="lazy"  src="https://uploads.andeandaran.com/2016/12/MG_0683.jpg" /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://uploads.andeandaran.com/2016/12/MG_0750.jpg'><img src="https://uploads.andeandaran.com/2016/12/MG_0750.jpg" /></a>
+    <a href='https://uploads.andeandaran.com/2016/12/MG_0750.jpg'><img loading="lazy"  src="https://uploads.andeandaran.com/2016/12/MG_0750.jpg" /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://uploads.andeandaran.com/2016/12/MG_0745.jpg'><img src="https://uploads.andeandaran.com/2016/12/MG_0745.jpg" /></a>
+    <a href='https://uploads.andeandaran.com/2016/12/MG_0745.jpg'><img loading="lazy"  src="https://uploads.andeandaran.com/2016/12/MG_0745.jpg" /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://uploads.andeandaran.com/2016/12/MG_0742.jpg'><img src="https://uploads.andeandaran.com/2016/12/MG_0742.jpg" /></a>
+    <a href='https://uploads.andeandaran.com/2016/12/MG_0742.jpg'><img loading="lazy"  src="https://uploads.andeandaran.com/2016/12/MG_0742.jpg" /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://uploads.andeandaran.com/2016/12/MG_0725.jpg'><img src="https://uploads.andeandaran.com/2016/12/MG_0725.jpg" /></a>
+    <a href='https://uploads.andeandaran.com/2016/12/MG_0725.jpg'><img loading="lazy"  src="https://uploads.andeandaran.com/2016/12/MG_0725.jpg" /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://uploads.andeandaran.com/2016/12/MG_0722.jpg'><img src="https://uploads.andeandaran.com/2016/12/MG_0722.jpg" /></a>
+    <a href='https://uploads.andeandaran.com/2016/12/MG_0722.jpg'><img loading="lazy"  src="https://uploads.andeandaran.com/2016/12/MG_0722.jpg" /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://uploads.andeandaran.com/2016/12/MG_0696.jpg'><img src="https://uploads.andeandaran.com/2016/12/MG_0696.jpg" /></a>
+    <a href='https://uploads.andeandaran.com/2016/12/MG_0696.jpg'><img loading="lazy"  src="https://uploads.andeandaran.com/2016/12/MG_0696.jpg" /></a>
   </div></figure>
 </div>

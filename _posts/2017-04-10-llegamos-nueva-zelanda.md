@@ -75,4 +75,4 @@ Hay que pensar rápido y lo mejor que podamos, así que nos toca decidir un dest
   En los próximos posts iremos desvelando las aventuras y desventuras de nuestra odisea por Nueva Zelanda y lo que hemos aprendido en durante esos 28 días.
 
 
-[<img src="https://live.staticflickr.com/3691/32655357453_2592732ffa_c.jpg" alt="rainbow!" />](https://www.flickr.com/photos/sitoo/32655357453/in/dateposted/)
+[<img loading="lazy"  src="https://live.staticflickr.com/3691/32655357453_2592732ffa_c.jpg" alt="rainbow!" />](https://www.flickr.com/photos/sitoo/32655357453/in/dateposted/)

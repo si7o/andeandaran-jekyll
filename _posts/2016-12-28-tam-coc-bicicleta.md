@@ -23,7 +23,7 @@ header:
   Por suerte, este pueblito no es de los lugares más famosos dentro del típico itinerario de viaje por Vietnam. Con lo cual, no esta tan explotado turísticamente como el resto de lugares que hemos visto en el país. Mucha gente prefiere ir directamente a Halong Bay, bien por falta de tiempo o desconocimiento, olvidándose de esta preciosa región. El caso es que si a nosotros nos preguntaran cuál ha sido el sitio que mas nos ha impresionado de Vietnam, diríamos Tam Coc sin dudarlo.<!--more-->
 
 
-[<img src="https://live.staticflickr.com/757/31067719903_aa790e2454_c.jpg" alt="Atardecer en Tam Coc, Vietnam" />](https://www.flickr.com/photos/sitoo/31067719903/)
+[<img loading="lazy"  src="https://live.staticflickr.com/757/31067719903_aa790e2454_c.jpg" alt="Atardecer en Tam Coc, Vietnam" />](https://www.flickr.com/photos/sitoo/31067719903/)
 
 
   Os dejamos algunas de las cosas que nosotros hicimos y vimos en Tam Coc, por si os sirve de inspiración...
@@ -36,7 +36,7 @@ header:
   Desde el pueblo hay varios senderos que llevan hacia los campos de arroz y a los valles que forman las montañas redondeadas e irregulares de la región. Os recomendamos perderse por estos caminos en bicicleta o paseando, es la mejor forma de llegar a muchos sitios inaccesibles para un coche o una moto. Además, los caminos son bastantes llanos y sencillos. Podría decirse que casi todo lo que hay en la zona esta relativamente cerca <em>(8-10km),</em> así que una bici es la opción más fácil y barata.
 
 
-[<img src="https://live.staticflickr.com/676/30932604274_49388a7b51_c.jpg"  />](https://www.flickr.com/photos/sitoo/30932604274/)
+[<img loading="lazy"  src="https://live.staticflickr.com/676/30932604274_49388a7b51_c.jpg"  />](https://www.flickr.com/photos/sitoo/30932604274/)
 
 ### Río Ngo Dong y sus cuevas
 
@@ -51,7 +51,7 @@ header:
   Nosotros fuimos al embarcadero que hay en <strong>Trang An.</strong> Aunque también hay bastantes turistas, no esta tan saturado como el otro.<strong> </strong>El precio del paseo es de unos 150.000 vnd (6€) y el trayecto dura unas 3-4 horas. Durante el paseo se cruzan varias cuevas de entre 50-300 metros, con grandes formaciones de estalactitas y estalagmitas. Además, nos encontramos con varios templos que habían escondidos entre valles y a los cuales solo se puede acceder con bote. En otro post tenemos una <a href="http://www.andeandaran.com/2016/12/28/visita-virtual-a-ninh-binh/"><span style="text-decoration: underline;">visita virtual</span></a> de varias zonas del trayecto y sus templos.
 
 
-[<img src="https://live.staticflickr.com/508/31933450045_17b3182bed_c.jpg" alt="boat ride" />](https://www.flickr.com/photos/sitoo/31933450045/)
+[<img loading="lazy"  src="https://live.staticflickr.com/508/31933450045_17b3182bed_c.jpg" alt="boat ride" />](https://www.flickr.com/photos/sitoo/31933450045/)
 
 ### Pagoda Bich Dong
 
@@ -64,7 +64,7 @@ header:
   Además, desde el parking hay un camino que lleva a un pequeño valle donde hay una cueva muy interesante. La cueva es bastante grande pero estrecha y solo se puede acceder con el dueño del terreno, que suele estar por allí. El es el encargado de abrir la cueva, guiarte y mostrarte las extrañas formaciones de las estalactitas.
 
 
-[<img src="https://live.staticflickr.com/633/31744918911_b6c5d7f451_c.jpg" alt="Bich Dong Pagoda, Ninh Binh, Vietnam" />](https://www.flickr.com/photos/sitoo/31744918911/)
+[<img loading="lazy"  src="https://live.staticflickr.com/633/31744918911_b6c5d7f451_c.jpg" alt="Bich Dong Pagoda, Ninh Binh, Vietnam" />](https://www.flickr.com/photos/sitoo/31744918911/)
 
 ### Mua Cave y Lying Dragon
 
@@ -108,7 +108,7 @@ No suele estar incluido en los viajes de pocos días, pero Tam Coc es uno de eso
 
 <div>
   <a href="https://uploads.andeandaran.com/2016/12/MG_1221.jpg"> 
-  <img src="https://uploads.andeandaran.com/2016/12/MG_1221.jpg" title="_mg_1221" alt="Vistas de Tam Coc"  /> </a>
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2016/12/MG_1221.jpg" title="_mg_1221" alt="Vistas de Tam Coc"  /> </a>
   
   <div>
     Vistas de Tam Coc
@@ -116,42 +116,42 @@ No suele estar incluido en los viajes de pocos días, pero Tam Coc es uno de eso
 </div>
 <div>
   <a href="https://uploads.andeandaran.com/2016/12/MG_1004.jpg"> 
-  <img src="https://uploads.andeandaran.com/2016/12/MG_1004.jpg" title="_mg_1004" alt="Rio Ngo Dong" /> </a>   
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2016/12/MG_1004.jpg" title="_mg_1004" alt="Rio Ngo Dong" /> </a>   
   <div>
     Rio Ngo Dong
   </div>
 </div>
 <div>
   <a href="https://uploads.andeandaran.com/2016/12/MG_1226.jpg"> 
-  <img src="https://uploads.andeandaran.com/2016/12/MG_1226.jpg" title="_mg_1226" alt="En bicicleta" /> </a>   
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2016/12/MG_1226.jpg" title="_mg_1226" alt="En bicicleta" /> </a>   
   <div>
     En bicicleta
   </div>
 </div>
 <div>
   <a href="https://uploads.andeandaran.com/2016/12/MG_1207.jpg"> 
-  <img src="https://uploads.andeandaran.com/2016/12/MG_1207.jpg" title="_mg_1207" alt="Paseos en bicicleta" /> </a>   
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2016/12/MG_1207.jpg" title="_mg_1207" alt="Paseos en bicicleta" /> </a>   
   <div>
     Paseos en bicicleta
   </div>
 </div>
 <div>
   <a href="https://uploads.andeandaran.com/2016/12/MG_1158.jpg"> 
-  <img src="https://uploads.andeandaran.com/2016/12/MG_1158.jpg" title="En bici por Tam Coc" alt="Nosotros" /> </a>  
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2016/12/MG_1158.jpg" title="En bici por Tam Coc" alt="Nosotros" /> </a>  
   <div>
     Nosotros
   </div>
 </div>
 <div>
   <a href="https://uploads.andeandaran.com/2016/12/MG_1203.jpg"> 
-  <img src="https://uploads.andeandaran.com/2016/12/MG_1203.jpg" title="_mg_1203" alt="Sandra en bicicleta" /> </a>   
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2016/12/MG_1203.jpg" title="_mg_1203" alt="Sandra en bicicleta" /> </a>   
   <div>
     Sandra en bicicleta
   </div>
 </div>
 <div>
   <a href="https://uploads.andeandaran.com/2016/12/MG_1218.jpg"> 
-  <img src="https://uploads.andeandaran.com/2016/12/MG_1218.jpg" title="_mg_1218" alt="Senderos entre valles" /> </a>   
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2016/12/MG_1218.jpg" title="_mg_1218" alt="Senderos entre valles" /> </a>   
   <div>
     Senderos entre valles
   </div>
@@ -159,21 +159,21 @@ No suele estar incluido en los viajes de pocos días, pero Tam Coc es uno de eso
 
 <div>
   <a href="https://uploads.andeandaran.com/2016/12/MG_1156.jpg"> 
-  <img src="https://uploads.andeandaran.com/2016/12/MG_1156.jpg" title="_mg_1156" alt="Nosotros" /> </a>   
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2016/12/MG_1156.jpg" title="_mg_1156" alt="Nosotros" /> </a>   
   <div>
     Nosotros
   </div>
 </div>
 <div>
   <a href="https://uploads.andeandaran.com/2016/12/MG_1160.jpg"> 
-  <img src="https://uploads.andeandaran.com/2016/12/MG_1160.jpg" title="_mg_1160" alt="Bich Dong"  /> </a>   
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2016/12/MG_1160.jpg" title="_mg_1160" alt="Bich Dong"  /> </a>   
   <div>
     Bich Dong
   </div>
 </div>
 <div>
   <a href="https://uploads.andeandaran.com/2016/12/MG_1167.jpg"> 
-  <img src="https://uploads.andeandaran.com/2016/12/MG_1167.jpg" title="_mg_1167" alt="Escalando en Bich Dong" /> </a> 
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2016/12/MG_1167.jpg" title="_mg_1167" alt="Escalando en Bich Dong" /> </a> 
   
   <div>
     Escalando en Bich Dong
@@ -181,7 +181,7 @@ No suele estar incluido en los viajes de pocos días, pero Tam Coc es uno de eso
 </div>
 <div>
   <a href="https://uploads.andeandaran.com/2016/12/MG_1189.jpg"> 
-  <img src="https://uploads.andeandaran.com/2016/12/MG_1189.jpg" title="_mg_1189" alt="Vistas desde Bich Dong" /> </a> 
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2016/12/MG_1189.jpg" title="_mg_1189" alt="Vistas desde Bich Dong" /> </a> 
   
   <div>
     Vistas desde Bich Dong
@@ -189,7 +189,7 @@ No suele estar incluido en los viajes de pocos días, pero Tam Coc es uno de eso
 </div>
 <div>
   <a href="https://uploads.andeandaran.com/2016/12/MG_1140.jpg"> 
-  <img src="https://uploads.andeandaran.com/2016/12/MG_1140.jpg" title="_mg_1140" alt="Botes en el río"  /> </a> 
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2016/12/MG_1140.jpg" title="_mg_1140" alt="Botes en el río"  /> </a> 
   
   <div>
     Botes en el río
@@ -197,7 +197,7 @@ No suele estar incluido en los viajes de pocos días, pero Tam Coc es uno de eso
 </div>
 <div>
   <a href="https://uploads.andeandaran.com/2016/12/MG_1137.jpg"> 
-  <img src="https://uploads.andeandaran.com/2016/12/MG_1137.jpg" title="_mg_1137" alt="Bote en el río" /> </a> 
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2016/12/MG_1137.jpg" title="_mg_1137" alt="Bote en el río" /> </a> 
   
   <div>
     Bote en el río
@@ -205,7 +205,7 @@ No suele estar incluido en los viajes de pocos días, pero Tam Coc es uno de eso
 </div>
 <div>
   <a href="https://uploads.andeandaran.com/2016/12/MG_1026.jpg"> 
-  <img src="https://uploads.andeandaran.com/2016/12/MG_1026.jpg" title="_mg_1026" alt="Templo escondido en Ngo Dong" /> </a> 
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2016/12/MG_1026.jpg" title="_mg_1026" alt="Templo escondido en Ngo Dong" /> </a> 
   
   <div>
     Templo escondido en Ngo Dong
@@ -213,7 +213,7 @@ No suele estar incluido en los viajes de pocos días, pero Tam Coc es uno de eso
 </div>
 <div>
   <a href="https://uploads.andeandaran.com/2016/12/MG_1120.jpg"> 
-  <img src="https://uploads.andeandaran.com/2016/12/MG_1120.jpg" title="_mg_1120" alt="Templo escondido en Ngo Dong" /> </a> 
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2016/12/MG_1120.jpg" title="_mg_1120" alt="Templo escondido en Ngo Dong" /> </a> 
   
   <div>
     Templo escondido en Ngo Dong
@@ -221,7 +221,7 @@ No suele estar incluido en los viajes de pocos días, pero Tam Coc es uno de eso
 </div>
 <div>
   <a href="https://uploads.andeandaran.com/2016/12/MG_1117.jpg"> 
-  <img src="https://uploads.andeandaran.com/2016/12/MG_1117.jpg" title="_mg_1117" alt="Templo escondido en Ngo Dong" /> </a> 
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2016/12/MG_1117.jpg" title="_mg_1117" alt="Templo escondido en Ngo Dong" /> </a> 
   
   <div>
     Templo escondido en Ngo Dong
@@ -229,7 +229,7 @@ No suele estar incluido en los viajes de pocos días, pero Tam Coc es uno de eso
 </div>
 <div>
   <a href="https://uploads.andeandaran.com/2016/12/MG_1113.jpg"> 
-  <img src="https://uploads.andeandaran.com/2016/12/MG_1113.jpg" title="_mg_1113" alt="Templo escondido en Ngo Dong" /> </a> 
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2016/12/MG_1113.jpg" title="_mg_1113" alt="Templo escondido en Ngo Dong" /> </a> 
   
   <div>
     Templo escondido en Ngo Dong
@@ -237,7 +237,7 @@ No suele estar incluido en los viajes de pocos días, pero Tam Coc es uno de eso
 </div>
 <div>
   <a href="https://uploads.andeandaran.com/2016/12/MG_1051.jpg"> 
-  <img src="https://uploads.andeandaran.com/2016/12/MG_1051.jpg" title="_mg_1051" alt="cuevas" /> </a> 
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2016/12/MG_1051.jpg" title="_mg_1051" alt="cuevas" /> </a> 
   
   <div>
     cuevas
@@ -245,7 +245,7 @@ No suele estar incluido en los viajes de pocos días, pero Tam Coc es uno de eso
 </div>
 <div>
   <a href="https://uploads.andeandaran.com/2016/12/MG_1112.jpg"> 
-  <img src="https://uploads.andeandaran.com/2016/12/MG_1112.jpg" title="_mg_1112" alt="Templo escondido en Ngo Dong" /> </a> 
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2016/12/MG_1112.jpg" title="_mg_1112" alt="Templo escondido en Ngo Dong" /> </a> 
   
   <div>
     Templo escondido en Ngo Dong
@@ -253,7 +253,7 @@ No suele estar incluido en los viajes de pocos días, pero Tam Coc es uno de eso
 </div>
 <div>
   <a href="https://uploads.andeandaran.com/2016/12/MG_1086.jpg"> 
-  <img src="https://uploads.andeandaran.com/2016/12/MG_1086.jpg" title="_mg_1086" alt="Paseo por el río"  /> </a> 
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2016/12/MG_1086.jpg" title="_mg_1086" alt="Paseo por el río"  /> </a> 
   
   <div>
     Paseo por el río
@@ -261,7 +261,7 @@ No suele estar incluido en los viajes de pocos días, pero Tam Coc es uno de eso
 </div>
 <div>
   <a href="https://uploads.andeandaran.com/2016/12/MG_1111.jpg"> 
-  <img src="https://uploads.andeandaran.com/2016/12/MG_1111.jpg" title="_mg_1111" alt="Paseo por el río"  /> </a> 
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2016/12/MG_1111.jpg" title="_mg_1111" alt="Paseo por el río"  /> </a> 
   
   <div>
     Paseo por el río
@@ -269,7 +269,7 @@ No suele estar incluido en los viajes de pocos días, pero Tam Coc es uno de eso
 </div>
 <div>
   <a href="https://uploads.andeandaran.com/2016/12/MG_1059.jpg"> 
-  <img src="https://uploads.andeandaran.com/2016/12/MG_1059.jpg" title="_mg_1059" alt="Subiendo a una pagoda"  /> </a> 
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2016/12/MG_1059.jpg" title="_mg_1059" alt="Subiendo a una pagoda"  /> </a> 
   
   <div>
     Subiendo a una pagoda
@@ -277,7 +277,7 @@ No suele estar incluido en los viajes de pocos días, pero Tam Coc es uno de eso
 </div>
 <div>
   <a href="https://uploads.andeandaran.com/2016/12/MG_1108.jpg"> 
-  <img src="https://uploads.andeandaran.com/2016/12/MG_1108.jpg" title="_mg_1108" alt="Paseo por el río"  /> </a> 
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2016/12/MG_1108.jpg" title="_mg_1108" alt="Paseo por el río"  /> </a> 
   
   <div>
     Paseo por el río
@@ -285,7 +285,7 @@ No suele estar incluido en los viajes de pocos días, pero Tam Coc es uno de eso
 </div>
 <div>
   <a href="https://uploads.andeandaran.com/2016/12/MG_1256.jpg"> 
-  <img src="https://uploads.andeandaran.com/2016/12/MG_1256.jpg" title="_mg_1256" alt="Pagoda Lyng Dragon" /> </a> 
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2016/12/MG_1256.jpg" title="_mg_1256" alt="Pagoda Lyng Dragon" /> </a> 
   
   <div>
     Pagoda Lyng Dragon
@@ -293,7 +293,7 @@ No suele estar incluido en los viajes de pocos días, pero Tam Coc es uno de eso
 </div>
 <div>
   <a href="https://uploads.andeandaran.com/2016/12/MG_1058.jpg"> 
-  <img src="https://uploads.andeandaran.com/2016/12/MG_1058.jpg" title="_mg_1058" alt="Vistas del rio" /> </a> 
+  <img loading="lazy"  src="https://uploads.andeandaran.com/2016/12/MG_1058.jpg" title="_mg_1058" alt="Vistas del rio" /> </a> 
   
   <div>
     Vistas del rio

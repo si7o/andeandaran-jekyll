@@ -63,7 +63,7 @@ Otra opción que puede resultar asequible es Uber o Grab si aprovechas sus descu
   Es posible subir al puente que une ambas torres, pero existe una limitación de 1000 personas al día y cuesta 85 rm (17€). No obstante, existen otras alternativas para ver las torres desde las alturas por si cuando llegas ya no permiten la subida. Por ejemplo subir a los pisos más altos de los hoteles de alrededor, en muchos de ellos existen restaurantes y bares que ofrecen las mejores panorámicas de la ciudad. En nuestro caso, nos conformamos con verlas desde abajo...
 
 
-[<img src="https://live.staticflickr.com/622/33124213162_914228d098_c.jpg" alt="KLCC" />](http://www.flickr.com/photos/sitoo/33124213162/)
+[<img loading="lazy"  src="https://live.staticflickr.com/622/33124213162_914228d098_c.jpg" alt="KLCC" />](http://www.flickr.com/photos/sitoo/33124213162/)
 
 ### KL Tower
 
@@ -76,7 +76,7 @@ Otra opción que puede resultar asequible es Uber o Grab si aprovechas sus descu
   La azotea te garantiza fotos libres de reflejos, pero las vista son prácticamente las mismas y el precio es más del doble.
 
 
-[<img src="https://live.staticflickr.com/4127/35583671132_39f551d423_c.jpg" alt="Kuala Lumpur, Malaysia" />](https://www.flickr.com/photos/sitoo/35583671132/in/album-72157680792417196/)
+[<img loading="lazy"  src="https://live.staticflickr.com/4127/35583671132_39f551d423_c.jpg" alt="Kuala Lumpur, Malaysia" />](https://www.flickr.com/photos/sitoo/35583671132/in/album-72157680792417196/)
 
 ### Pasear por Bukit Bintang
 
@@ -93,13 +93,13 @@ Otra opción que puede resultar asequible es Uber o Grab si aprovechas sus descu
 
 
 
-  <a href="https://uploads.andeandaran.com/2017/03/IMG_3694.jpg"><img class="size-large wp-image-1804 aligncenter" src="https://uploads.andeandaran.com/2017/03/IMG_3694.jpg" /></a>
+  <a href="https://uploads.andeandaran.com/2017/03/IMG_3694.jpg"><img loading="lazy"  class="size-large wp-image-1804 aligncenter" src="https://uploads.andeandaran.com/2017/03/IMG_3694.jpg" /></a>
 
 
 ### Plaza Merdeka
 <figure id="attachment_1806" >
 
-<img class="size-medium wp-image-1806" src="https://uploads.andeandaran.com/2017/03/IMG_3701.jpg" /> <figcaption class="wp-caption-text">Con una feria de motos y conciertos de Heavy Metal...</figcaption></figure> 
+<img loading="lazy"  class="size-medium wp-image-1806" src="https://uploads.andeandaran.com/2017/03/IMG_3701.jpg" /> <figcaption class="wp-caption-text">Con una feria de motos y conciertos de Heavy Metal...</figcaption></figure> 
 
 Esta plaza es uno de los centros neurálgicos de la ciudad y un lugar muy turístico. Las dos veces que hemos ido a visitarla nos hemos encontrado con eventos, conciertos, ferias... Además, la fachada estaba en obras.
 
@@ -125,7 +125,7 @@ Una pena, ya que tenía pinta ser un lugar muy agradable. Quizás la próxima ve
   Es un lugar impresionante y lleno de turistas. La atracción principal es el templo que se encuentra dentro de la cueva. Si disponéis de tiempo, no dejéis de visitarlo.<br /> Nosotros lo vimos en obras y nos tocó subir todas las escaleras llevando un par de cubos con arena... para compensar el calor y la humedad 😛
 
 
-[<img src="https://live.staticflickr.com/4155/34515057035_478506170f_c.jpg" alt="Hindu Temple inside Batu Caves, Malaysia" />](https://www.flickr.com/photos/sitoo/34515057035/in/album-72157680792417196/)
+[<img loading="lazy"  src="https://live.staticflickr.com/4155/34515057035_478506170f_c.jpg" alt="Hindu Temple inside Batu Caves, Malaysia" />](https://www.flickr.com/photos/sitoo/34515057035/in/album-72157680792417196/)
 
 <!-- Start shortcoder -->
 
@@ -137,21 +137,21 @@ Una pena, ya que tenía pinta ser un lugar muy agradable. Quizás la próxima ve
 
 
 <div>
-  <a href="https://uploads.andeandaran.com/2017/03/IMG_3631.jpg"> <img src="https://uploads.andeandaran.com/2017/03/IMG_3631.jpg" title="IMG_3631" alt="IMG_3631"  /> </a>
-  <a href="https://uploads.andeandaran.com/2017/03/IMG_3642.jpg"> <img src="https://uploads.andeandaran.com/2017/03/IMG_3642.jpg" title="IMG_3642" alt="IMG_3642" /> </a>
-  <a href="https://uploads.andeandaran.com/2017/03/IMG_3646.jpg"> <img src="https://uploads.andeandaran.com/2017/03/IMG_3646.jpg" title="IMG_3646" alt="IMG_3646" /> </a>
-  <a href="https://uploads.andeandaran.com/2017/03/IMG_3660.jpg"> <img src="https://uploads.andeandaran.com/2017/03/IMG_3660.jpg" title="IMG_3660" alt="IMG_3660" /> </a>
-  <a href="https://uploads.andeandaran.com/2017/03/IMG_3675.jpg"> <img src="https://uploads.andeandaran.com/2017/03/IMG_3675.jpg" title="IMG_3675" alt="IMG_3675" /> </a>
-  <a href="https://uploads.andeandaran.com/2017/03/IMG_3694.jpg"> <img src="https://uploads.andeandaran.com/2017/03/IMG_3694.jpg" title="IMG_3694" alt="IMG_3694" /> </a>
-  <a href="https://uploads.andeandaran.com/2017/03/IMG_3699.jpg"> <img src="https://uploads.andeandaran.com/2017/03/IMG_3699.jpg" title="IMG_3699" alt="IMG_3699"  /> </a>
-  <a href="https://uploads.andeandaran.com/2017/03/IMG_3701.jpg"> <img src="https://uploads.andeandaran.com/2017/03/IMG_3701.jpg" title="Plaza Merdeka" alt="Con una feria de motos y conciertos de Heavy Metal..." /> </a> 
-  <a href="https://uploads.andeandaran.com/2017/04/untitled-1.jpg"> <img src="https://uploads.andeandaran.com/2017/04/untitled-1.jpg" title="Jalan Petaling" alt="Jalan Petaling" /> </a>
-  <a href="https://uploads.andeandaran.com/2017/04/untitled-2.jpg"> <img src="https://uploads.andeandaran.com/2017/04/untitled-2.jpg" title="" alt="&quot;Atajemos por ese callejón...&quot;"  /> </a> 
-  <a href="https://uploads.andeandaran.com/2017/04/untitled-3.jpg"> <img src="https://uploads.andeandaran.com/2017/04/untitled-3.jpg" title="Batu Caves" alt="Las escaleras que suben a las cuevas" /> </a> 
-  <a href="https://uploads.andeandaran.com/2017/04/untitled-4.jpg"> <img src="https://uploads.andeandaran.com/2017/04/untitled-4.jpg" title="" alt="Sandra poniendo su granito de arena... o cubo" /> </a> 
-  <a href="https://uploads.andeandaran.com/2017/04/untitled-5.jpg"> <img src="https://uploads.andeandaran.com/2017/04/untitled-5.jpg" title="Batu Caves" alt="Ya casi estamos!" /> </a> 
-  <a href="https://uploads.andeandaran.com/2017/04/untitled-6.jpg"> <img src="https://uploads.andeandaran.com/2017/04/untitled-6.jpg" title="KLCC" alt="Esperando en KL Tower a que pare de diluviar y podamos subir..." /> </a> 
-  <a href="https://uploads.andeandaran.com/2017/04/untitled-7.jpg"> <img src="https://uploads.andeandaran.com/2017/04/untitled-7.jpg" title="" alt="En el ascensor de KL Tower"  /> </a> 
-  <a href="https://uploads.andeandaran.com/2017/04/untitled-8.jpg"> <img src="https://uploads.andeandaran.com/2017/04/untitled-8.jpg" title="" alt="Las Petronas de noche vistas desde KL Tower" /> </a> 
-  <a href="https://uploads.andeandaran.com/2017/04/untitled-1-2.jpg"> <img src="https://uploads.andeandaran.com/2017/04/untitled-1-2.jpg" title="Sri Maha Mariamman" alt="Un templo hindú en pleno barrio chino de Kuala Lumpur" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/03/IMG_3631.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/03/IMG_3631.jpg" title="IMG_3631" alt="IMG_3631"  /> </a>
+  <a href="https://uploads.andeandaran.com/2017/03/IMG_3642.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/03/IMG_3642.jpg" title="IMG_3642" alt="IMG_3642" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/03/IMG_3646.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/03/IMG_3646.jpg" title="IMG_3646" alt="IMG_3646" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/03/IMG_3660.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/03/IMG_3660.jpg" title="IMG_3660" alt="IMG_3660" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/03/IMG_3675.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/03/IMG_3675.jpg" title="IMG_3675" alt="IMG_3675" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/03/IMG_3694.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/03/IMG_3694.jpg" title="IMG_3694" alt="IMG_3694" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/03/IMG_3699.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/03/IMG_3699.jpg" title="IMG_3699" alt="IMG_3699"  /> </a>
+  <a href="https://uploads.andeandaran.com/2017/03/IMG_3701.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/03/IMG_3701.jpg" title="Plaza Merdeka" alt="Con una feria de motos y conciertos de Heavy Metal..." /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/04/untitled-1.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/04/untitled-1.jpg" title="Jalan Petaling" alt="Jalan Petaling" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/04/untitled-2.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/04/untitled-2.jpg" title="" alt="&quot;Atajemos por ese callejón...&quot;"  /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/04/untitled-3.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/04/untitled-3.jpg" title="Batu Caves" alt="Las escaleras que suben a las cuevas" /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/04/untitled-4.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/04/untitled-4.jpg" title="" alt="Sandra poniendo su granito de arena... o cubo" /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/04/untitled-5.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/04/untitled-5.jpg" title="Batu Caves" alt="Ya casi estamos!" /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/04/untitled-6.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/04/untitled-6.jpg" title="KLCC" alt="Esperando en KL Tower a que pare de diluviar y podamos subir..." /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/04/untitled-7.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/04/untitled-7.jpg" title="" alt="En el ascensor de KL Tower"  /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/04/untitled-8.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/04/untitled-8.jpg" title="" alt="Las Petronas de noche vistas desde KL Tower" /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/04/untitled-1-2.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/04/untitled-1-2.jpg" title="Sri Maha Mariamman" alt="Un templo hindú en pleno barrio chino de Kuala Lumpur" /> </a>
 </div>

@@ -40,11 +40,11 @@ header:
   Ya estaba decidido, la navidad la pasábamos en Hanoi y el 26 de diciembre viajábamos a Thakhek.
 
 
-[<img src="https://live.staticflickr.com/436/31276783974_7f8a0ed95b_c.jpg" alt="Jade Island, Hanoi" />](https://www.flickr.com/photos/sitoo/31276783974/in/dateposted/)
+[<img loading="lazy"  src="https://live.staticflickr.com/436/31276783974_7f8a0ed95b_c.jpg" alt="Jade Island, Hanoi" />](https://www.flickr.com/photos/sitoo/31276783974/in/dateposted/)
 
-[<img src="https://live.staticflickr.com/638/31939941112_4ce17227ed_c.jpg" alt="Old quarter, Hanoi"  />](https://www.flickr.com/photos/sitoo/31939941112/in/dateposted/)
+[<img loading="lazy"  src="https://live.staticflickr.com/638/31939941112_4ce17227ed_c.jpg" alt="Old quarter, Hanoi"  />](https://www.flickr.com/photos/sitoo/31939941112/in/dateposted/)
 
-[<img src="https://live.staticflickr.com/378/31696326550_771a3242a8_c.jpg" alt="Flag Tower of Hanoi , Vietnam"  />](https://www.flickr.com/photos/sitoo/31696326550/)
+[<img loading="lazy"  src="https://live.staticflickr.com/378/31696326550_771a3242a8_c.jpg" alt="Flag Tower of Hanoi , Vietnam"  />](https://www.flickr.com/photos/sitoo/31696326550/)
 
 ### Viajando a Thakhek
 
@@ -64,7 +64,7 @@ header:
   La empresa de transportes se llama "27-7" y al parecer aun no hay referencias sobre ellos en internet. Fuimos a ciegas.<br /> El bus era el típico "Sleeper Bus" de Vietnam: 3 filas de literas/asientos reclinables, nada de espacio para las mochilas, aire acondicionado a tope y completamente lleno.
 <figure id="attachment_1202" >
 
-<img class="size-large wp-image-1202" src="https://uploads.andeandaran.com/2017/01/IMG_20161226_173609719.jpg?resize=810%2C455" alt="Autobús Hanoi-Thakhek, 27-7" /> <figcaption class="wp-caption-text">El interior del autobús desde mi litera.</figcaption></figure> 
+<img loading="lazy"  class="size-large wp-image-1202" src="https://uploads.andeandaran.com/2017/01/IMG_20161226_173609719.jpg?resize=810%2C455" alt="Autobús Hanoi-Thakhek, 27-7" /> <figcaption class="wp-caption-text">El interior del autobús desde mi litera.</figcaption></figure> 
 
 
   En un principio nos temimos lo peor, pero las mantas eran muy buenas y la conducción bastante civilizada. Si habéis viajado en autobús por Vietnam sabréis a lo que me refiero...
@@ -93,7 +93,7 @@ header:
   Llegamos al checkpoint de Vietnam y nos toca esperar 3 horas hasta que abren y podemos cruzarlo.
 <figure id="attachment_1203" >
 
-<img class="size-large wp-image-1203" src="https://uploads.andeandaran.com/2017/01/IMG_20161227_074024411.jpg?resize=810%2C455" alt="Punto de control fronterizo de Chalo, Vietnam" /> <figcaption class="wp-caption-text">Punto de control fronterizo de Chalo. Esperando para sellar nuestro pasaporte y salir del país</figcaption></figure> 
+<img loading="lazy"  class="size-large wp-image-1203" src="https://uploads.andeandaran.com/2017/01/IMG_20161227_074024411.jpg?resize=810%2C455" alt="Punto de control fronterizo de Chalo, Vietnam" /> <figcaption class="wp-caption-text">Punto de control fronterizo de Chalo. Esperando para sellar nuestro pasaporte y salir del país</figcaption></figure> 
 
 
   Lo siguiente es hacer el visado en Laos: Una ventanilla a la intemperie y un frío "de la hostia" con viento y lluvia... y nosotros, como buenos turistas, en pantalón corto y camiseta.
@@ -106,7 +106,7 @@ header:
 ### Ya estamos en Laos
 
 
-[<img src="https://live.staticflickr.com/612/32063643891_970603af01_c.jpg" alt="Thakhek, Laos"  />](https://www.flickr.com/photos/sitoo/32063643891/in/dateposted/)
+[<img loading="lazy"  src="https://live.staticflickr.com/612/32063643891_970603af01_c.jpg" alt="Thakhek, Laos"  />](https://www.flickr.com/photos/sitoo/32063643891/in/dateposted/)
 
 
   Tras 5 horas más de viaje llegamos a Thakhek, agotados y hambrientos, pero la aventura no termina aquí. En el hotel nos dicen que aunque hayamos reservado por Agoda y esté pagado, tenemos que volver a pagar.<br /> ¿La explicación?  "No No, Agoda no pay", una versión modificada del "Sorry no have".<br /> Nadie en el hotel habla inglés y nadie mueve un dedo por intentar arreglar o explicar la situación, así que toca llamar a Agoda y que intenten arreglarlo.<br /> Por suerte estamos junto a la frontera con Tailandia y la SIM tailandesa tiene cobertura.<br /> Tras dos horas y varias llamadas a Agoda, nos cambian de hotel y nos compensan con una habitación en el mejor hotel de Thakhek.
@@ -119,23 +119,23 @@ header:
 ### Galería
 
 <div class="gallery-group" >  
-  <a href="https://uploads.andeandaran.com/2017/01/MG_1566.jpg"> <img src="https://uploads.andeandaran.com/2017/01/MG_1566.jpg" title="_mg_1566" alt="Unas galletas de navidad que compramos" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/01/MG_1566.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/01/MG_1566.jpg" title="_mg_1566" alt="Unas galletas de navidad que compramos" /> </a>
 
-  <a href="https://uploads.andeandaran.com/2017/01/MG_1577.jpg"> <img src="https://uploads.andeandaran.com/2017/01/MG_1577.jpg" title="_mg_1577" alt="¿Veis los DOS gatos?" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/01/MG_1577.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/01/MG_1577.jpg" title="_mg_1577" alt="¿Veis los DOS gatos?" /> </a>
 
-  <a href="https://uploads.andeandaran.com/2017/01/MG_1586.jpg"> <img src="https://uploads.andeandaran.com/2017/01/MG_1586.jpg" title="_mg_1586" alt="Torre de la Tortuga, en el lago Hoan Kiem, en el centro de Vietnam" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/01/MG_1586.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/01/MG_1586.jpg" title="_mg_1586" alt="Torre de la Tortuga, en el lago Hoan Kiem, en el centro de Vietnam" /> </a>
 
-  <a href="https://uploads.andeandaran.com/2017/01/MG_1588.jpg"> <img src="https://uploads.andeandaran.com/2017/01/MG_1588.jpg" title="_mg_1588" alt="Paseando por las calles de Vietnam en Navidad" /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/01/MG_1588.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/01/MG_1588.jpg" title="_mg_1588" alt="Paseando por las calles de Vietnam en Navidad" /> </a> 
 
-  <a href="https://uploads.andeandaran.com/2017/01/MG_1594.jpg"> <img src="https://uploads.andeandaran.com/2017/01/MG_1594.jpg" title="_mg_1594" alt="Paseando por las calles de Vietnam en Navidad" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/01/MG_1594.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/01/MG_1594.jpg" title="_mg_1594" alt="Paseando por las calles de Vietnam en Navidad" /> </a>
 
-  <a href="https://uploads.andeandaran.com/2017/01/MG_1599.jpg"> <img src="https://uploads.andeandaran.com/2017/01/MG_1599.jpg" title="_mg_1599" alt="Sandra estrenando su vestido comprado en Hoi An" /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/01/MG_1599.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/01/MG_1599.jpg" title="_mg_1599" alt="Sandra estrenando su vestido comprado en Hoi An" /> </a> 
 
-  <a href="https://uploads.andeandaran.com/2017/01/MG_1617.jpg"> <img src="https://uploads.andeandaran.com/2017/01/MG_1617.jpg" title="_mg_1617" alt="Mausoleo de Ho Chi Minh" /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/01/MG_1617.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/01/MG_1617.jpg" title="_mg_1617" alt="Mausoleo de Ho Chi Minh" /> </a> 
 
-  <a href="https://uploads.andeandaran.com/2017/01/MG_1627.jpg"> <img src="https://uploads.andeandaran.com/2017/01/MG_1627.jpg" title="_mg_1627" alt="Últimas horas antes de irnos..." /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/01/MG_1627.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/01/MG_1627.jpg" title="_mg_1627" alt="Últimas horas antes de irnos..." /> </a> 
 
-  <a href="https://uploads.andeandaran.com/2017/01/IMG_20161227_074024411.jpg"> <img src="https://uploads.andeandaran.com/2017/01/IMG_20161227_074024411.jpg" title="Punto de control fronterizo de Chalo" alt="Punto de control fronterizo de Chalo, Vietnam" /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/01/IMG_20161227_074024411.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/01/IMG_20161227_074024411.jpg" title="Punto de control fronterizo de Chalo" alt="Punto de control fronterizo de Chalo, Vietnam" /> </a> 
 
-  <a href="https://uploads.andeandaran.com/2017/01/IMG_20161226_173609719.jpg"> <img src="https://uploads.andeandaran.com/2017/01/IMG_20161226_173609719.jpg" title="Autobús Hanoi-Thakhek" alt="Autobús Hanoi-Thakhek, 27-7" /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/01/IMG_20161226_173609719.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/01/IMG_20161226_173609719.jpg" title="Autobús Hanoi-Thakhek" alt="Autobús Hanoi-Thakhek, 27-7" /> </a> 
 </div>

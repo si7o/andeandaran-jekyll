@@ -19,7 +19,7 @@ header:
   Esta vez el viaje iba a ser bien distinto, nada de vuelos, autobuses o trenes! En esta ocasión nuestro transporte sería un coche y cambiaríamos los hoteles por una tienda de campaña y dos sacos.
 
 
-[<img class="aligncenter wp-image-2254" src="https://uploads.andeandaran.com/2017/08/IMG_6155.jpg?resize=731%2C487&#038;ssl=1" />](https://uploads.andeandaran.com/2017/08/IMG_6155.jpg)
+[<img loading="lazy"  class="aligncenter wp-image-2254" src="https://uploads.andeandaran.com/2017/08/IMG_6155.jpg?resize=731%2C487&#038;ssl=1" />](https://uploads.andeandaran.com/2017/08/IMG_6155.jpg)
 
 
   Nuestro objetivo era llegar a las Dolomitas, en Italia, con un itinerario que fuimos definiendo día a día. Esto hizo que en algunos momentos nos arrepintiésemos de no haber planificado nada y no tener claras cuales serían las paradas, pero gracias a la improvisación descubrimos pueblos y carreteras secundarias preciosas.

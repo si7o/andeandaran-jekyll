@@ -15,7 +15,7 @@ OSM_geo_icon:
 
 contains_panoramas: true
 ---
-<a href="https://www.flickr.com/photos/sitoo/30157482216/" target="_blank" rel="noopener"><img class="aligncenter" title="Dubai Fountain, Mall, Burj Khalifa..." src="https://c1.staticflickr.com/9/8653/30157482216_43c99db328_b.jpg" alt="Dubai Fountain, Mall, Burj Khalifa..."/></a>
+<a href="https://www.flickr.com/photos/sitoo/30157482216/" target="_blank" rel="noopener"><img loading="lazy"  class="aligncenter" title="Dubai Fountain, Mall, Burj Khalifa..." src="https://c1.staticflickr.com/9/8653/30157482216_43c99db328_b.jpg" alt="Dubai Fountain, Mall, Burj Khalifa..."/></a>
 
 
 Con una escala de 9 horas una de las mejores opciones para pasar el tiempo y no morir de aburrimiento en el aeropuerto es escaparse a la ciudad.

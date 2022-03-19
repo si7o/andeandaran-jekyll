@@ -48,7 +48,7 @@ header:
   <strong>1- Las mejores playas</strong>
 <figure style="width: 460px" >
 
-<a href="https://www.flickr.com/photos/sitoo/31081966345/in/photostream/lightbox/" target="_blank"><img class="img-rounded" src="https://c2.staticflickr.com/6/5664/31081966345_7445ef9fba.jpg" /></a><figcaption class="wp-caption-text">Bamboo Beach</figcaption></figure> 
+<a href="https://www.flickr.com/photos/sitoo/31081966345/in/photostream/lightbox/" target="_blank"><img loading="lazy"  class="img-rounded" src="https://c2.staticflickr.com/6/5664/31081966345_7445ef9fba.jpg" /></a><figcaption class="wp-caption-text">Bamboo Beach</figcaption></figure> 
 
 <ul>
   <li>
@@ -56,7 +56,7 @@ header:
   </li>
 </ul><figure id="attachment_627" style="width: 460px" >
 
-<img class="img-rounded wp-image-627" src="https://uploads.andeandaran.com/2016/11/GOPR7126.jpg" alt="Longsod beach" /> <figcaption class="wp-caption-text">Longsod Beach</figcaption></figure> 
+<img loading="lazy"  class="img-rounded wp-image-627" src="https://uploads.andeandaran.com/2016/11/GOPR7126.jpg" alt="Longsod beach" /> <figcaption class="wp-caption-text">Longsod Beach</figcaption></figure> 
 
 <ul>
   <li>
@@ -75,7 +75,7 @@ header:
     <em>Klong Khong:</em> Es muy parecida a Long beach, aunque diríamos que con menos gente. En esta playa hay más rocas, con lo cual al entrar en el mar hay que ir con un poco más de cuidado, pero también hay más probabilidades de ver peces, con unos escarpines se soluciona todo.
   </li>
   
-<figure style="width: 376px" ><a href="https://www.flickr.com/photos/sitoo/30934581501/in/dateposted/" target="_blank"><img class="img-rounded" src="https://c2.staticflickr.com/6/5455/30934581501_2840e3bde0.jpg" /></a><figcaption class="wp-caption-text">Ao-Nuy Beach</figcaption></figure> 
+<figure style="width: 376px" ><a href="https://www.flickr.com/photos/sitoo/30934581501/in/dateposted/" target="_blank"><img loading="lazy"  class="img-rounded" src="https://c2.staticflickr.com/6/5455/30934581501_2840e3bde0.jpg" /></a><figcaption class="wp-caption-text">Ao-Nuy Beach</figcaption></figure> 
   
   <li><em>Ao-Nuy: </em>Se accede desde el restaurante Diamond cliff. En comparación con las playas de al lado, es más pequeña pero no tiene nada que envidiarles porque es perfecta para hacer snorkel y estar tranquilo.</li> 
   
@@ -92,7 +92,7 @@ header:
       Visitar <em>Old Town Lanta: </em>El pueblo es bastante acogedor en comparación con el resto de pueblos de la isla. Se nota que los edificios<br /> son más antiguos y la madera rojiza le da un toque especial que parece que estés en otra época, si no fuera por las tiendas de souvenirs y las rancheras 4&#215;4 que hay por toda la calle principal 😀
     </li>
     <li>
-      <img src="https://uploads.andeandaran.com/2016/11/GOPR7091.jpg" alt="Cascada" />Pequeño trekking a <em>Klong lark waterfall: </em>Una caminata de no más de 30 min- El camino es muy sencillo y se va vadeando el río de la cascada prácticamente durante toda la ruta. La cascada no es muy grande y permite meterse a bañarse sin problemas.
+      <img loading="lazy"  src="https://uploads.andeandaran.com/2016/11/GOPR7091.jpg" alt="Cascada" />Pequeño trekking a <em>Klong lark waterfall: </em>Una caminata de no más de 30 min- El camino es muy sencillo y se va vadeando el río de la cascada prácticamente durante toda la ruta. La cascada no es muy grande y permite meterse a bañarse sin problemas.
     </li>
     <li>
       <em>Parque natural de Koh Lanta  y su faro</em>: La verdad que de parque natural tiene poco...nosotros lo dejaríamos sencillamente en "parque". Los atractivos del parque son sus dos playas, una de arena blanca y otra de rocas, un faro encima de un peñón y un sendero que va entre la jungla. Como en toda la zona sur de la isla, hay monos por todas partes, pero no son tan agresivos como otros que nos hemos encontrado.
@@ -109,7 +109,7 @@ header:
   </ul>
   
   
-  <a title="Koh Lanta Nature Park, Krabi, Thailand" href="https://www.flickr.com/photos/sitoo/30987056642" data-flickr-embed="true" data-footer="false" data-vr="true"><img style="width: 100%; height: auto;" src="https://c3.staticflickr.com/6/5445/30987056642_74322c2a95_z.jpg" alt="Koh Lanta Nature Park, Krabi, Thailand" /></a>
+  <a title="Koh Lanta Nature Park, Krabi, Thailand" href="https://www.flickr.com/photos/sitoo/30987056642" data-flickr-embed="true" data-footer="false" data-vr="true"><img loading="lazy"  style="width: 100%; height: auto;" src="https://c3.staticflickr.com/6/5445/30987056642_74322c2a95_z.jpg" alt="Koh Lanta Nature Park, Krabi, Thailand" /></a>
 
   
   
@@ -139,55 +139,55 @@ header:
   <figure > 
   
   <div>
-    <a href='https://uploads.andeandaran.com/2016/11/GOPR7138.jpg'><img src="https://uploads.andeandaran.com/2016/11/GOPR7138.jpg" class="attachment-wcsquare size-wcsquare" /></a>
+    <a href='https://uploads.andeandaran.com/2016/11/GOPR7138.jpg'><img loading="lazy"  src="https://uploads.andeandaran.com/2016/11/GOPR7138.jpg" class="attachment-wcsquare size-wcsquare" /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://uploads.andeandaran.com/2016/11/GOPR7137.jpg'><img src="https://uploads.andeandaran.com/2016/11/GOPR7137.jpg" class="attachment-wcsquare size-wcsquare" /></a>
+    <a href='https://uploads.andeandaran.com/2016/11/GOPR7137.jpg'><img loading="lazy"  src="https://uploads.andeandaran.com/2016/11/GOPR7137.jpg" class="attachment-wcsquare size-wcsquare" /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://uploads.andeandaran.com/2016/11/GOPR7135.jpg'><img src="https://uploads.andeandaran.com/2016/11/GOPR7135.jpg" class="attachment-wcsquare size-wcsquare" /></a>
+    <a href='https://uploads.andeandaran.com/2016/11/GOPR7135.jpg'><img loading="lazy"  src="https://uploads.andeandaran.com/2016/11/GOPR7135.jpg" class="attachment-wcsquare size-wcsquare" /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://uploads.andeandaran.com/2016/11/GOPR7126.jpg'><img src="https://uploads.andeandaran.com/2016/11/GOPR7126.jpg" class="attachment-wcsquare size-wcsquare" /></a>
+    <a href='https://uploads.andeandaran.com/2016/11/GOPR7126.jpg'><img loading="lazy"  src="https://uploads.andeandaran.com/2016/11/GOPR7126.jpg" class="attachment-wcsquare size-wcsquare" /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://uploads.andeandaran.com/2016/11/GOPR7118.jpg'><img src="https://uploads.andeandaran.com/2016/11/GOPR7118.jpg" class="attachment-wcsquare size-wcsquare" /></a>
+    <a href='https://uploads.andeandaran.com/2016/11/GOPR7118.jpg'><img loading="lazy"  src="https://uploads.andeandaran.com/2016/11/GOPR7118.jpg" class="attachment-wcsquare size-wcsquare" /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://uploads.andeandaran.com/2016/11/GOPR7091.jpg'><img src="https://uploads.andeandaran.com/2016/11/GOPR7091.jpg" class="attachment-wcsquare size-wcsquare" /></a>
+    <a href='https://uploads.andeandaran.com/2016/11/GOPR7091.jpg'><img loading="lazy"  src="https://uploads.andeandaran.com/2016/11/GOPR7091.jpg" class="attachment-wcsquare size-wcsquare" /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://uploads.andeandaran.com/2016/11/GOPR7084.jpg'><img src="https://uploads.andeandaran.com/2016/11/GOPR7084.jpg" class="attachment-wcsquare size-wcsquare" /></a>
+    <a href='https://uploads.andeandaran.com/2016/11/GOPR7084.jpg'><img loading="lazy"  src="https://uploads.andeandaran.com/2016/11/GOPR7084.jpg" class="attachment-wcsquare size-wcsquare" /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://uploads.andeandaran.com/2016/11/GOPR7077.jpg'><img src="https://uploads.andeandaran.com/2016/11/GOPR7077.jpg" class="attachment-wcsquare size-wcsquare" /></a>
+    <a href='https://uploads.andeandaran.com/2016/11/GOPR7077.jpg'><img loading="lazy"  src="https://uploads.andeandaran.com/2016/11/GOPR7077.jpg" class="attachment-wcsquare size-wcsquare" /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://uploads.andeandaran.com/2016/11/GOPR7074.jpg'><img src="https://uploads.andeandaran.com/2016/11/GOPR7074.jpg" class="attachment-wcsquare size-wcsquare" /></a>
+    <a href='https://uploads.andeandaran.com/2016/11/GOPR7074.jpg'><img loading="lazy"  src="https://uploads.andeandaran.com/2016/11/GOPR7074.jpg" class="attachment-wcsquare size-wcsquare" /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://uploads.andeandaran.com/2016/11/MG_9677.jpg'><img src="https://uploads.andeandaran.com/2016/11/MG_9677.jpg" class="attachment-wcsquare size-wcsquare" /></a>
+    <a href='https://uploads.andeandaran.com/2016/11/MG_9677.jpg'><img loading="lazy"  src="https://uploads.andeandaran.com/2016/11/MG_9677.jpg" class="attachment-wcsquare size-wcsquare" /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://uploads.andeandaran.com/2016/11/MG_9644.jpg'><img src="https://uploads.andeandaran.com/2016/11/MG_9644.jpg" class="attachment-wcsquare size-wcsquare" /></a>
+    <a href='https://uploads.andeandaran.com/2016/11/MG_9644.jpg'><img loading="lazy"  src="https://uploads.andeandaran.com/2016/11/MG_9644.jpg" class="attachment-wcsquare size-wcsquare" /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://uploads.andeandaran.com/2016/11/MG_9642.jpg'><img src="https://uploads.andeandaran.com/2016/11/MG_9642.jpg" class="attachment-wcsquare size-wcsquare" /></a>
+    <a href='https://uploads.andeandaran.com/2016/11/MG_9642.jpg'><img loading="lazy"  src="https://uploads.andeandaran.com/2016/11/MG_9642.jpg" class="attachment-wcsquare size-wcsquare" /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://uploads.andeandaran.com/2016/11/MG_9586.jpg'><img src="https://uploads.andeandaran.com/2016/11/MG_9586.jpg" class="attachment-wcsquare size-wcsquare" /></a>
+    <a href='https://uploads.andeandaran.com/2016/11/MG_9586.jpg'><img loading="lazy"  src="https://uploads.andeandaran.com/2016/11/MG_9586.jpg" class="attachment-wcsquare size-wcsquare" /></a>
   </div></figure>
 </div>
           

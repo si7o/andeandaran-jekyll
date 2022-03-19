@@ -28,11 +28,11 @@ Si te perdiste la primera parte, [haciendo click aquí accederas al post](http:/
 
 De camino al Parque Nacional del Monte Cook nos encontramos con estos dos lagos. El primero, Tekapo, un lago muy agradable en el que paramos a descansar y estirar las piernas. Aguas transparentes, patos que se acercan a pedir comida y un paisaje impresionante.
 
-[<img src="https://live.staticflickr.com/3838/33201717620_47ee4783b1_c.jpg" alt="Tekapo lake, Canterbury, New Zealand" />](https://www.flickr.com/photos/sitoo/33201717620/in/album-72157677623872594/lightbox/)
+[<img loading="lazy"  src="https://live.staticflickr.com/3838/33201717620_47ee4783b1_c.jpg" alt="Tekapo lake, Canterbury, New Zealand" />](https://www.flickr.com/photos/sitoo/33201717620/in/album-72157677623872594/lightbox/)
 
 El siguiente lago, Pukaki, nos ofreció unas vistas aún más impresionantes que el anterior... El agua tenía un color azulado que parecía de otro mundo y el Monte Cook al fondo le ponía la guinda.
 
-[<img src="https://live.staticflickr.com/3757/33576754665_3c6dd78a3f_c.jpg" alt="Mount Cook & Pukaki lake, Canterbury, New Zealand" />](https://www.flickr.com/photos/sitoo/33576754665/in/album-72157677623872594/lightbox/)
+[<img loading="lazy"  src="https://live.staticflickr.com/3757/33576754665_3c6dd78a3f_c.jpg" alt="Mount Cook & Pukaki lake, Canterbury, New Zealand" />](https://www.flickr.com/photos/sitoo/33576754665/in/album-72157677623872594/lightbox/)
 
 ### Mount Cook National Park
 
@@ -41,7 +41,7 @@ Desde este camping hay paseos y trekkings para todos los gustos y preparaciones 
 
 #### Mueller Glacier
 
-<a title="hiking to Mueller Glacier, New Zealand" href="https://www.flickr.com/photos/sitoo/33846153972/in/album-72157677623872594/" data-flickr-embed="true"><img class="alignright" src="https://c1.staticflickr.com/3/2914/33846153972_6fa2a22d2b.jpg" alt="hiking to Mueller Glacier, New Zealand" /></a>Se llega en media hora por un camino muy sencillo, con muy poco desnivel y muy bien indicado. En caso de ir andando desde el pueblo, son 15 minutos más. Es un buen paseo para ir calentando las piernas. Al final del camino hay un mirador situado arriba del lago de deshielo desde el que se puede ver el glaciar y el Monte Cook a lo lejos.
+<a title="hiking to Mueller Glacier, New Zealand" href="https://www.flickr.com/photos/sitoo/33846153972/in/album-72157677623872594/" data-flickr-embed="true"><img loading="lazy"  class="alignright" src="https://c1.staticflickr.com/3/2914/33846153972_6fa2a22d2b.jpg" alt="hiking to Mueller Glacier, New Zealand" /></a>Se llega en media hora por un camino muy sencillo, con muy poco desnivel y muy bien indicado. En caso de ir andando desde el pueblo, son 15 minutos más. Es un buen paseo para ir calentando las piernas. Al final del camino hay un mirador situado arriba del lago de deshielo desde el que se puede ver el glaciar y el Monte Cook a lo lejos.
 
 Para ir al siguiente glaciar es necesario volver al camping y tomar otro camino.
 
@@ -49,17 +49,17 @@ Para ir al siguiente glaciar es necesario volver al camping y tomar otro camino.
 
 Este paseo es algo más largo, pero también es muy sencillo y está en muy buen estado. Si no fuese por algunos escalones, sería posible acceder en silla de ruedas. También permite ver el Glaciar Mueller, pero desde lejos.
 
-[<img src="https://live.staticflickr.com/2917/33210737810_a48378f357_c.jpg" alt="Mueller Glacier, Mount Cook National Park, New Zealand"  />](https://www.flickr.com/photos/sitoo/33210737810/in/album-72157677623872594/lightbox/)
+[<img loading="lazy"  src="https://live.staticflickr.com/2917/33210737810_a48378f357_c.jpg" alt="Mueller Glacier, Mount Cook National Park, New Zealand"  />](https://www.flickr.com/photos/sitoo/33210737810/in/album-72157677623872594/lightbox/)
 
 Se tarda alrededor de 1 hora en llegar al lago del glaciar y desde aquí podréis ver el Monte Cook, el más alto de Nueva Zelanda, desde cerca.<figure id="attachment_1978" >
 
-<img class="size-large wp-image-1978" src="https://uploads.andeandaran.com/2017/05/IMG_4152.jpg?resize=810%2C433" alt="Parque Nacional Monte Cook, Isla Sur, Nueva Zelanda" /> <figcaption class="wp-caption-text">Parque Nacional Monte Cook, Isla Sur, Nueva Zelanda</figcaption></figure> 
+<img loading="lazy"  class="size-large wp-image-1978" src="https://uploads.andeandaran.com/2017/05/IMG_4152.jpg?resize=810%2C433" alt="Parque Nacional Monte Cook, Isla Sur, Nueva Zelanda" /> <figcaption class="wp-caption-text">Parque Nacional Monte Cook, Isla Sur, Nueva Zelanda</figcaption></figure> 
 
 ### Queenstown
 
 Antes de llegar atravesamos un paso de montaña, Lindis Pass, con un paisaje árido y seco que contrastaba con el verde que encontramos pocos kilómetros después.
 
-<a title="Lindis Pass, South Island, New Zealand" href="https://www.flickr.com/photos/sitoo/33783984254/in/dateposted/" data-flickr-embed="true"><img class="aligncenter" src="https://c1.staticflickr.com/5/4157/33783984254_ba1f2bdd2a_c.jpg" alt="Lindis Pass, South Island, New Zealand" /></a>
+<a title="Lindis Pass, South Island, New Zealand" href="https://www.flickr.com/photos/sitoo/33783984254/in/dateposted/" data-flickr-embed="true"><img loading="lazy"  class="aligncenter" src="https://c1.staticflickr.com/5/4157/33783984254_ba1f2bdd2a_c.jpg" alt="Lindis Pass, South Island, New Zealand" /></a>
 
 Queenstown es sin duda la ciudad que más nos gustó de Nueva Zelanda. Sus calles estaban cuidadas hasta el más mínimo detalle, pero lo más espectacular y lo que hizo que nos gustase tanto es el lago que tiene a sus pies... Wakaitipu se llama.  
 Os dejamos una panorámica interactiva para que podáis disfrutar de las vistas.
@@ -76,7 +76,7 @@ El camping que elegimos para pasar la noche, <a href="http://www.doc.govt.nz/par
 
 El camping se encuentra al pie del lago, así que es un muy buen lugar para pasear, disfrutar de la naturaleza e incluso bañarse en sus aguas.<figure  >
 
-<a title="Wakaitipu Lake from 12 Mile Delta" href="https://www.flickr.com/photos/sitoo/34585478946/in/dateposted/lightbox/" data-flickr-embed="true"><img src="https://c1.staticflickr.com/5/4187/34585478946_0c1d681f24_c.jpg" alt="Wakaitipu Lake from 12 Mile Delta" /></a><figcaption class="wp-caption-text">El lago Wakaitipu desde el camping Twelve Mile Delta</figcaption></figure> 
+<a title="Wakaitipu Lake from 12 Mile Delta" href="https://www.flickr.com/photos/sitoo/34585478946/in/dateposted/lightbox/" data-flickr-embed="true"><img loading="lazy"  src="https://c1.staticflickr.com/5/4187/34585478946_0c1d681f24_c.jpg" alt="Wakaitipu Lake from 12 Mile Delta" /></a><figcaption class="wp-caption-text">El lago Wakaitipu desde el camping Twelve Mile Delta</figcaption></figure> 
 
 ### Fiordland
 
@@ -85,17 +85,17 @@ Empezando por el inmenso lago Te Anau, que va junto a la carretera durante mucho
 
 #### Eglinton Flats<figure  >
 
-<a title="Eglinton Flats, Fiordland, New Zealand" href="https://www.flickr.com/photos/sitoo/33250000000/in/album-72157677623872594/lightbox/" target="_blank" rel="noopener noreferrer" data-flickr-embed="true"><img src="https://c1.staticflickr.com/4/3871/33250000000_493dbf216f_c.jpg" alt="Eglinton Flats, Fiordland, New Zealand" /></a><figcaption class="wp-caption-text">Eglinton Flats, Fiordland, New Zealand</figcaption></figure> 
+<a title="Eglinton Flats, Fiordland, New Zealand" href="https://www.flickr.com/photos/sitoo/33250000000/in/album-72157677623872594/lightbox/" target="_blank" rel="noopener noreferrer" data-flickr-embed="true"><img loading="lazy"  src="https://c1.staticflickr.com/4/3871/33250000000_493dbf216f_c.jpg" alt="Eglinton Flats, Fiordland, New Zealand" /></a><figcaption class="wp-caption-text">Eglinton Flats, Fiordland, New Zealand</figcaption></figure> 
 
 Para pasar la noche elegimos el camping más cercano a Milford Sound, <a href="http://www.doc.govt.nz/parks-and-recreation/places-to-go/fiordland/places/fiordland-national-park/things-to-do/campsites/cascade-creek-campsite/" target="_blank" rel="noopener noreferrer">Cascade Creek Campsite</a>. Si llegáis con fuerzas y ganas, hay varios paseos que merecen la pena. Nosotros llegamos muy cansados, así que nos limitamos a vaguear, hacer la cena y disfrutar de un atardecer muy bonito.
 
-<a title="Sunset in NZ" href="https://www.flickr.com/photos/sitoo/33516910431/in/album-72157677623872594/lightbox/" data-flickr-embed="true"><img class="aligncenter" src="https://c1.staticflickr.com/4/3755/33516910431_1ecbd28b40_c.jpg" alt="Sunset in NZ" /></a>
+<a title="Sunset in NZ" href="https://www.flickr.com/photos/sitoo/33516910431/in/album-72157677623872594/lightbox/" data-flickr-embed="true"><img loading="lazy"  class="aligncenter" src="https://c1.staticflickr.com/4/3755/33516910431_1ecbd28b40_c.jpg" alt="Sunset in NZ" /></a>
 
 #### Milford Sound
 
 Tras pasar la noche nos despertamos pronto para ir hasta Milford Sound. Estábamos a 40km, y eso por carretera de montaña lleva tiempo. Una vez allí, dimos un paseo por la zona, pero poco más. Los tours en bote / ferry / kayak nos parecieron demasiado caros (de las avionetas y helicópteros mejor no hablamos jejeje). Intentamos visitar una cascada que se ve desde el pueblo, pero estaba cerrada por peligro de desprendimiento.
 
-[<img src="https://live.staticflickr.com/3684/33746436892_1fbf85d42b_c.jpg" alt="Milford Sound, Fiordland, New Zealand" />](https://www.flickr.com/photos/sitoo/33746436892/in/album-72157677623872594/lightbox/)
+[<img loading="lazy"  src="https://live.staticflickr.com/3684/33746436892_1fbf85d42b_c.jpg" alt="Milford Sound, Fiordland, New Zealand" />](https://www.flickr.com/photos/sitoo/33746436892/in/album-72157677623872594/lightbox/)
 
 Teníamos intención de quedarnos un rato disfrutando del paisaje, pero las _Sandflies,_ que de moscas tienen muy poco, no nos dejaron en paz. Cada vez que nos quedábamos quietos empezaban a picarnos.
 
@@ -109,7 +109,7 @@ Ya de vuelta, de camino a Wanaka, fuimos parando en todos los lugares que creím
 
 Paramos aquí con intención de ir hasta lago Marian, pero mi rodilla empezó a hacer de las suyas y tuvimos que abortar la misión. Nos quedamos con la visita a las cascadas, 4 horas menos de caminata y nos ahorramos la pendiente.
 
-[<img src="https://live.staticflickr.com/2938/33534220342_08d30189a7_c.jpg" alt="Marian Cascade, Fiordland, New Zealand"  />](https://www.flickr.com/photos/sitoo/33534220342/in/album-72157677623872594/)
+[<img loading="lazy"  src="https://live.staticflickr.com/2938/33534220342_08d30189a7_c.jpg" alt="Marian Cascade, Fiordland, New Zealand"  />](https://www.flickr.com/photos/sitoo/33534220342/in/album-72157677623872594/)
 
 Próximamente... Nueva Zelanda: Isla Sur (3ª Parte). Por el momento os dejamos algunas fotos extra de todos los lugares que comentamos en el post.
 
@@ -119,7 +119,7 @@ Próximamente... Nueva Zelanda: Isla Sur (3ª Parte). Por el momento os dejamos 
 <div >
 <div >
 <div>
-  <a href="https://uploads.andeandaran.com/2017/05/NZ_sur_2-1.jpg"> <img src="https://uploads.andeandaran.com/2017/05/NZ_sur_2-1.jpg" title="NZ_sur_2-1" alt="Un pato curioso en el lago Tekapo" /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/05/NZ_sur_2-1.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/05/NZ_sur_2-1.jpg" title="NZ_sur_2-1" alt="Un pato curioso en el lago Tekapo" /> </a> 
   
   <div>
     Un pato curioso en el lago Tekapo
@@ -127,7 +127,7 @@ Próximamente... Nueva Zelanda: Isla Sur (3ª Parte). Por el momento os dejamos 
 </div>
 
 <div>
-  <a href="https://uploads.andeandaran.com/2017/05/NZ_sur_2-2.jpg"> <img src="https://uploads.andeandaran.com/2017/05/NZ_sur_2-2.jpg" title="NZ_sur_2-2" alt="Sandra revisando sus fotos" /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/05/NZ_sur_2-2.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/05/NZ_sur_2-2.jpg" title="NZ_sur_2-2" alt="Sandra revisando sus fotos" /> </a> 
   
   <div>
     Sandra revisando sus fotos
@@ -139,7 +139,7 @@ Próximamente... Nueva Zelanda: Isla Sur (3ª Parte). Por el momento os dejamos 
 
 <div  >
 <div>
-  <a href="https://uploads.andeandaran.com/2017/05/NZ_sur_2-3.jpg"> <img src="https://uploads.andeandaran.com/2017/05/NZ_sur_2-3.jpg" title="NZ_sur_2-3" alt="Lago Tekapo" /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/05/NZ_sur_2-3.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/05/NZ_sur_2-3.jpg" title="NZ_sur_2-3" alt="Lago Tekapo" /> </a> 
   
   <div>
     Lago Tekapo
@@ -155,7 +155,7 @@ Próximamente... Nueva Zelanda: Isla Sur (3ª Parte). Por el momento os dejamos 
 <div>
 <div >
 <div>
-  <a href="https://uploads.andeandaran.com/2017/05/NZ_sur_2-4.jpg"> <img src="https://uploads.andeandaran.com/2017/05/NZ_sur_2-4.jpg" title="NZ_sur_2-4" alt="Parada en el mirador de de camino al Parque Nacional del Monte Cook"  /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/05/NZ_sur_2-4.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/05/NZ_sur_2-4.jpg" title="NZ_sur_2-4" alt="Parada en el mirador de de camino al Parque Nacional del Monte Cook"  /> </a> 
   
   <div>
     Parada en el mirador de de camino al Parque Nacional del Monte Cook
@@ -167,7 +167,7 @@ Próximamente... Nueva Zelanda: Isla Sur (3ª Parte). Por el momento os dejamos 
 
 <div >
 <div>
-  <a href="https://uploads.andeandaran.com/2017/05/NZ_sur_2-5.jpg"> <img src="https://uploads.andeandaran.com/2017/05/NZ_sur_2-5.jpg" title="NZ_sur_2-5" alt="Llegando al camping del Monte Cook" /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/05/NZ_sur_2-5.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/05/NZ_sur_2-5.jpg" title="NZ_sur_2-5" alt="Llegando al camping del Monte Cook" /> </a> 
   
   <div>
     Llegando al camping del Monte Cook
@@ -175,7 +175,7 @@ Próximamente... Nueva Zelanda: Isla Sur (3ª Parte). Por el momento os dejamos 
 </div>
 
 <div>
-  <a href="https://uploads.andeandaran.com/2017/05/NZ_sur_2-6.jpg"> <img src="https://uploads.andeandaran.com/2017/05/NZ_sur_2-6.jpg" title="NZ_sur_2-6" alt="El monte Cook desde el mirador del glaciar Mueller" /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/05/NZ_sur_2-6.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/05/NZ_sur_2-6.jpg" title="NZ_sur_2-6" alt="El monte Cook desde el mirador del glaciar Mueller" /> </a> 
   
   <div>
     El monte Cook desde el mirador del glaciar Mueller
@@ -191,7 +191,7 @@ Próximamente... Nueva Zelanda: Isla Sur (3ª Parte). Por el momento os dejamos 
 <div >
 <div  >
 <div>
-  <a href="https://uploads.andeandaran.com/2017/05/NZ_sur_2-7.jpg"> <img src="https://uploads.andeandaran.com/2017/05/NZ_sur_2-7.jpg" title="NZ_sur_2-7" alt="En el mirador de Mueller Glacier" /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/05/NZ_sur_2-7.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/05/NZ_sur_2-7.jpg" title="NZ_sur_2-7" alt="En el mirador de Mueller Glacier" /> </a> 
   
   <div>
     En el mirador de Mueller Glacier
@@ -203,7 +203,7 @@ Próximamente... Nueva Zelanda: Isla Sur (3ª Parte). Por el momento os dejamos 
 
 <div  >
 <div>
-  <a href="https://uploads.andeandaran.com/2017/05/NZ_sur_2-8.jpg"> <img src="https://uploads.andeandaran.com/2017/05/NZ_sur_2-8.jpg" title="NZ_sur_2-8" alt="De vuelta al camping" /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/05/NZ_sur_2-8.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/05/NZ_sur_2-8.jpg" title="NZ_sur_2-8" alt="De vuelta al camping" /> </a> 
   
   <div>
     De vuelta al camping
@@ -215,7 +215,7 @@ Próximamente... Nueva Zelanda: Isla Sur (3ª Parte). Por el momento os dejamos 
 
 <div  >
 <div>
-  <a href="https://uploads.andeandaran.com/2017/05/NZ_sur_2-9.jpg"> <img src="https://uploads.andeandaran.com/2017/05/NZ_sur_2-9.jpg" title="NZ_sur_2-9" alt="Lindis Pass, de camino a Queenstown" /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/05/NZ_sur_2-9.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/05/NZ_sur_2-9.jpg" title="NZ_sur_2-9" alt="Lindis Pass, de camino a Queenstown" /> </a> 
   
   <div>
     Lindis Pass, de camino a Queenstown
@@ -231,7 +231,7 @@ Próximamente... Nueva Zelanda: Isla Sur (3ª Parte). Por el momento os dejamos 
 <div  >
 <div  >
 <div>
-  <a href="https://uploads.andeandaran.com/2017/05/NZ_sur_2-10.jpg"> <img src="https://uploads.andeandaran.com/2017/05/NZ_sur_2-10.jpg" title="NZ_sur_2-10" alt="Paseando junto al camping 12 Mile Delta" /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/05/NZ_sur_2-10.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/05/NZ_sur_2-10.jpg" title="NZ_sur_2-10" alt="Paseando junto al camping 12 Mile Delta" /> </a> 
   
   <div>
     Paseando junto al camping 12 Mile Delta
@@ -243,7 +243,7 @@ Próximamente... Nueva Zelanda: Isla Sur (3ª Parte). Por el momento os dejamos 
 
 <div  >
 <div>
-  <a href="https://uploads.andeandaran.com/2017/05/NZ_sur_2-11.jpg"> <img src="https://uploads.andeandaran.com/2017/05/NZ_sur_2-11.jpg" title="NZ_sur_2-11" alt="Las vistas desde Queenstown" /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/05/NZ_sur_2-11.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/05/NZ_sur_2-11.jpg" title="NZ_sur_2-11" alt="Las vistas desde Queenstown" /> </a> 
   
   <div>
     Las vistas desde Queenstown
@@ -259,7 +259,7 @@ Próximamente... Nueva Zelanda: Isla Sur (3ª Parte). Por el momento os dejamos 
 <div >
 <div  >
 <div>
-  <a href="https://uploads.andeandaran.com/2017/05/NZ_sur_2-12.jpg"> <img src="https://uploads.andeandaran.com/2017/05/NZ_sur_2-12.jpg" title="NZ_sur_2-12" alt="Eglinton Flats, de camino a Milford Sound" /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/05/NZ_sur_2-12.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/05/NZ_sur_2-12.jpg" title="NZ_sur_2-12" alt="Eglinton Flats, de camino a Milford Sound" /> </a> 
   
   <div>
     Eglinton Flats, de camino a Milford Sound
@@ -275,7 +275,7 @@ Próximamente... Nueva Zelanda: Isla Sur (3ª Parte). Por el momento os dejamos 
 <div >
 <div  >
 <div>
-  <a href="https://uploads.andeandaran.com/2017/05/NZ_sur_2-13.jpg"> <img src="https://uploads.andeandaran.com/2017/05/NZ_sur_2-13.jpg" title="NZ_sur_2-13" alt="Mirror Lakes... aunque nosotros no los vimos reflejar demasiado :P" /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/05/NZ_sur_2-13.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/05/NZ_sur_2-13.jpg" title="NZ_sur_2-13" alt="Mirror Lakes... aunque nosotros no los vimos reflejar demasiado :P" /> </a> 
   
   <div>
     Mirror Lakes... aunque nosotros no los vimos reflejar demasiado 😛
@@ -287,7 +287,7 @@ Próximamente... Nueva Zelanda: Isla Sur (3ª Parte). Por el momento os dejamos 
 
 <div >
 <div>
-  <a href="https://uploads.andeandaran.com/2017/05/NZ_sur_2-14.jpg"> <img src="https://uploads.andeandaran.com/2017/05/NZ_sur_2-14.jpg" title="NZ_sur_2-14" alt="Atardecer en el Cascade Creek" /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/05/NZ_sur_2-14.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/05/NZ_sur_2-14.jpg" title="NZ_sur_2-14" alt="Atardecer en el Cascade Creek" /> </a> 
   
   <div>
     Atardecer en el Cascade Creek
@@ -295,7 +295,7 @@ Próximamente... Nueva Zelanda: Isla Sur (3ª Parte). Por el momento os dejamos 
 </div>
 
 <div>
-  <a href="https://uploads.andeandaran.com/2017/05/NZ_sur_2-15.jpg"> <img src="https://uploads.andeandaran.com/2017/05/NZ_sur_2-15.jpg" title="NZ_sur_2-15" alt="Un mirador de camino a Milford Sound" /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/05/NZ_sur_2-15.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/05/NZ_sur_2-15.jpg" title="NZ_sur_2-15" alt="Un mirador de camino a Milford Sound" /> </a> 
   
   <div>
     Un mirador de camino a Milford Sound
@@ -311,7 +311,7 @@ Próximamente... Nueva Zelanda: Isla Sur (3ª Parte). Por el momento os dejamos 
 <div >
 <div  >
 <div>
-  <a href="https://uploads.andeandaran.com/2017/05/NZ_sur_2-16.jpg"> <img src="https://uploads.andeandaran.com/2017/05/NZ_sur_2-16.jpg" title="NZ_sur_2-16" alt="Justo antes de cruzar el tunel a Milford Sound" /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/05/NZ_sur_2-16.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/05/NZ_sur_2-16.jpg" title="NZ_sur_2-16" alt="Justo antes de cruzar el tunel a Milford Sound" /> </a> 
   
   <div>
     Justo antes de cruzar el tunel a Milford Sound
@@ -323,7 +323,7 @@ Próximamente... Nueva Zelanda: Isla Sur (3ª Parte). Por el momento os dejamos 
 
 <div  >
 <div>
-  <a href="https://uploads.andeandaran.com/2017/05/NZ_sur_2-17.jpg"> <img src="https://uploads.andeandaran.com/2017/05/NZ_sur_2-17.jpg" title="NZ_sur_2-17" alt="NZ_sur_2-17" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/05/NZ_sur_2-17.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/05/NZ_sur_2-17.jpg" title="NZ_sur_2-17" alt="NZ_sur_2-17" /> </a>
 </div>
 </div>
 
@@ -331,7 +331,7 @@ Próximamente... Nueva Zelanda: Isla Sur (3ª Parte). Por el momento os dejamos 
 
 <div  >
 <div>
-  <a href="https://uploads.andeandaran.com/2017/05/NZ_sur_2-18.jpg"> <img src="https://uploads.andeandaran.com/2017/05/NZ_sur_2-18.jpg" title="NZ_sur_2-18" alt="Paseando de camino a Marian Falls" /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/05/NZ_sur_2-18.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/05/NZ_sur_2-18.jpg" title="NZ_sur_2-18" alt="Paseando de camino a Marian Falls" /> </a> 
   
   <div>
     Paseando de camino a Marian Falls
@@ -347,7 +347,7 @@ Próximamente... Nueva Zelanda: Isla Sur (3ª Parte). Por el momento os dejamos 
 <div>
 <div >
 <div>
-  <a href="https://uploads.andeandaran.com/2017/05/NZ_sur_2-19.jpg"> <img src="https://uploads.andeandaran.com/2017/05/NZ_sur_2-19.jpg" title="NZ_sur_2-19" alt="Otro lago más... con un viento que casi nos tira al suelo" /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/05/NZ_sur_2-19.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/05/NZ_sur_2-19.jpg" title="NZ_sur_2-19" alt="Otro lago más... con un viento que casi nos tira al suelo" /> </a> 
   
   <div>
     Otro lago más... con un viento que casi nos tira al suelo
@@ -355,7 +355,7 @@ Próximamente... Nueva Zelanda: Isla Sur (3ª Parte). Por el momento os dejamos 
 </div>
 
 <div>
-  <a href="https://uploads.andeandaran.com/2017/05/NZ_sur_2-20.jpg"> <img src="https://uploads.andeandaran.com/2017/05/NZ_sur_2-20.jpg" title="NZ_sur_2-20" alt="Las vistas desde una punta del lago" /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/05/NZ_sur_2-20.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/05/NZ_sur_2-20.jpg" title="NZ_sur_2-20" alt="Las vistas desde una punta del lago" /> </a> 
   
   <div>
     Las vistas desde una punta del lago
@@ -367,7 +367,7 @@ Próximamente... Nueva Zelanda: Isla Sur (3ª Parte). Por el momento os dejamos 
 
 <div >
 <div>
-  <a href="https://uploads.andeandaran.com/2017/05/DSC_1789.jpg"> <img src="https://uploads.andeandaran.com/2017/05/DSC_1789.jpg" title="DSC_1789" alt="Carreteras serpeantes hacia Milford"  /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/05/DSC_1789.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/05/DSC_1789.jpg" title="DSC_1789" alt="Carreteras serpeantes hacia Milford"  /> </a> 
   
   <div>
     Carreteras serpeantes hacia Milford
@@ -383,7 +383,7 @@ Próximamente... Nueva Zelanda: Isla Sur (3ª Parte). Por el momento os dejamos 
 <div  >
 <div  >
 <div>
-  <a href="https://uploads.andeandaran.com/2017/05/DSC_1786.jpg"> <img src="https://uploads.andeandaran.com/2017/05/DSC_1786.jpg" title="DSC_1786" alt="Llegando a Milford" /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/05/DSC_1786.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/05/DSC_1786.jpg" title="DSC_1786" alt="Llegando a Milford" /> </a> 
   
   <div>
     Llegando a Milford
@@ -395,7 +395,7 @@ Próximamente... Nueva Zelanda: Isla Sur (3ª Parte). Por el momento os dejamos 
 
 <div  >
 <div>
-  <a href="https://uploads.andeandaran.com/2017/05/DSC_1773.jpg"> <img src="https://uploads.andeandaran.com/2017/05/DSC_1773.jpg" title="DSC_1773" alt="DSC_1773" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/05/DSC_1773.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/05/DSC_1773.jpg" title="DSC_1773" alt="DSC_1773" /> </a>
 </div>
 </div>
 
@@ -407,7 +407,7 @@ Próximamente... Nueva Zelanda: Isla Sur (3ª Parte). Por el momento os dejamos 
 <div>
 <div >
 <div>
-  <a href="https://uploads.andeandaran.com/2017/05/DSC_1772.jpg"> <img src="https://uploads.andeandaran.com/2017/05/DSC_1772.jpg" title="DSC_1772" alt="En ruta"  /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/05/DSC_1772.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/05/DSC_1772.jpg" title="DSC_1772" alt="En ruta"  /> </a> 
   
   <div>
     En ruta
@@ -419,11 +419,11 @@ Próximamente... Nueva Zelanda: Isla Sur (3ª Parte). Por el momento os dejamos 
 
 <div >
 <div>
-  <a href="https://uploads.andeandaran.com/2017/05/DSC_1762.jpg"> <img src="https://uploads.andeandaran.com/2017/05/DSC_1762.jpg" title="DSC_1762" alt="DSC_1762" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/05/DSC_1762.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/05/DSC_1762.jpg" title="DSC_1762" alt="DSC_1762" /> </a>
 </div>
 
 <div>
-  <a href="https://uploads.andeandaran.com/2017/05/DSC_1755.jpg"> <img src="https://uploads.andeandaran.com/2017/05/DSC_1755.jpg" title="DSC_1755" alt="Conductor de primera" /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/05/DSC_1755.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/05/DSC_1755.jpg" title="DSC_1755" alt="Conductor de primera" /> </a> 
   
   <div>
     Conductor de primera
@@ -439,7 +439,7 @@ Próximamente... Nueva Zelanda: Isla Sur (3ª Parte). Por el momento os dejamos 
 <div  >
 <div  >
 <div>
-  <a href="https://uploads.andeandaran.com/2017/05/DSC_1745.jpg"> <img src="https://uploads.andeandaran.com/2017/05/DSC_1745.jpg" title="DSC_1745" alt="Captando el instante" /> </a> 
+  <a href="https://uploads.andeandaran.com/2017/05/DSC_1745.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/05/DSC_1745.jpg" title="DSC_1745" alt="Captando el instante" /> </a> 
   
   <div>
     Captando el instante
@@ -451,7 +451,7 @@ Próximamente... Nueva Zelanda: Isla Sur (3ª Parte). Por el momento os dejamos 
 
 <div  >
 <div>
-  <a href="https://uploads.andeandaran.com/2017/05/DSC_1741.jpg"> <img src="https://uploads.andeandaran.com/2017/05/DSC_1741.jpg" title="DSC_1741" alt="DSC_1741" /> </a>
+  <a href="https://uploads.andeandaran.com/2017/05/DSC_1741.jpg"> <img loading="lazy"  src="https://uploads.andeandaran.com/2017/05/DSC_1741.jpg" title="DSC_1741" alt="DSC_1741" /> </a>
 </div>
 </div>
 

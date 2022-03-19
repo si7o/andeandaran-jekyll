@@ -36,27 +36,27 @@ header:
   <figure > 
   
   <div>
-    <a href='https://uploads.andeandaran.com/2016/11/MG_9369.jpg'><img  src="https://uploads.andeandaran.com/2016/11/MG_9369.jpg"/></a>
+    <a href='https://uploads.andeandaran.com/2016/11/MG_9369.jpg'><img loading="lazy"   src="https://uploads.andeandaran.com/2016/11/MG_9369.jpg"/></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://uploads.andeandaran.com/2016/11/MG_9393.jpg'><img  src="https://uploads.andeandaran.com/2016/11/MG_9393.jpg"  /></a>
+    <a href='https://uploads.andeandaran.com/2016/11/MG_9393.jpg'><img loading="lazy"   src="https://uploads.andeandaran.com/2016/11/MG_9393.jpg"  /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://uploads.andeandaran.com/2016/11/MG_9409.jpg'><img  src="https://uploads.andeandaran.com/2016/11/MG_9409.jpg"  /></a>
+    <a href='https://uploads.andeandaran.com/2016/11/MG_9409.jpg'><img loading="lazy"   src="https://uploads.andeandaran.com/2016/11/MG_9409.jpg"  /></a>
   </div></figure>
 </div>
 
 
 Encontramos también un rocódromo en el centro de Thamel, Astrek Climbing Wall, y como estábamos con un poco de mono tuvimos que probarlo.
 
-<a href="https://uploads.andeandaran.com/2016/11/GOPR5878_1478177401213_high.jpg"><img src="https://uploads.andeandaran.com/2016/11/GOPR5878_1478177401213_high.jpg" alt="Astreck climbing wall"  /></a>
+<a href="https://uploads.andeandaran.com/2016/11/GOPR5878_1478177401213_high.jpg"><img loading="lazy"  src="https://uploads.andeandaran.com/2016/11/GOPR5878_1478177401213_high.jpg" alt="Astreck climbing wall"  /></a>
 
 Para pasar un rato está bien, pero no dispone de muchas presas y las que tiene están un poco lavadas... Aun así, yo pude poner a prueba mi tobillo, que no dió muchos problemas y nos quitamos un poco de óxido. Después de casi dos meses sin escalar, se nota. 😛
 
-<a href="https://www.flickr.com/photos/sitoo/30131687643/in/dateposted/"><img src="https://live.staticflickr.com/5662/30131687643_9381a90fba_c.jpg" /></a>
+<a href="https://www.flickr.com/photos/sitoo/30131687643/in/dateposted/"><img loading="lazy"  src="https://live.staticflickr.com/5662/30131687643_9381a90fba_c.jpg" /></a>
 
 ## A continuación os dejamos el álbum de fotos de Nepal en Flickr
 
-<a href='https://www.flickr.com/photos/sitoo/albums/72157675541261945' title='Nepal by Sitoo, on Flickr'><img src='https://live.staticflickr.com/5742/30736746386_3df6458164_c.jpg' alt='' /></a>
+<a href='https://www.flickr.com/photos/sitoo/albums/72157675541261945' title='Nepal by Sitoo, on Flickr'><img loading="lazy"  src='https://live.staticflickr.com/5742/30736746386_3df6458164_c.jpg' alt='' /></a>

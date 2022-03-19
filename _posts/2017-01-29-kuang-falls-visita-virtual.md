@@ -64,7 +64,7 @@ gallery:
 
 
 
-  <img class="img-rounded alignright wp-image-1356 size-medium" src="https://uploads.andeandaran.com/2017/01/MG_2311.jpg" />
+  <img loading="lazy"  class="img-rounded alignright wp-image-1356 size-medium" src="https://uploads.andeandaran.com/2017/01/MG_2311.jpg" />
   
   Nosotros negociamos con un "tuktukero" para que nos llevase a ver las cascadas a las 8 de la mañana por 180.000 LAK. Llegamos allí a las 8:45 y estuvimos dos horas y media.<br /> El madrugón mereció la pena, durante el camino nos cruzamos con unos 5 turistas y, como podéis ver en las fotos, tuvimos las cascadas prácticamente para nosotros.
 
@@ -72,7 +72,7 @@ gallery:
 ### Información de interés
 <figure id="attachment_1358" class="wp-caption alignleft">
 
-<img class="img-rounded wp-image-1358 size-medium" src="https://uploads.andeandaran.com/2017/01/MG_2380.jpg" alt="Bajando de la plataforma" /> <figcaption class="wp-caption-text">Bajando de la plataforma</figcaption></figure> 
+<img loading="lazy"  class="img-rounded wp-image-1358 size-medium" src="https://uploads.andeandaran.com/2017/01/MG_2380.jpg" alt="Bajando de la plataforma" /> <figcaption class="wp-caption-text">Bajando de la plataforma</figcaption></figure> 
 
 
   El precio de la entrada es 20.000LAK por persona y, si queréis disfrutar de las cascadas con tranquilidad, os recomendamos ir lo antes posible. Se tarda alrededor de 1 hora en llegar y a partir de las 10:30 comienzan a llegar las ordas de turistas.
@@ -127,11 +127,11 @@ gallery:
   Tras llegar a la última piscina es posible seguir un camino que te lleva hasta arriba de las cascadas. En un día despejado es posible ver las cascadas desde arriba, pero nosotros nos encontramos un banco de niebla matutino y un ambiente cargado de misterio...
 
 
-[<img src="https://live.staticflickr.com/494/31716664263_386387ae9c_c.jpg" alt="Foggy & flooded forest on top of Kuang Si Waterfall, Luang Prabang, Laos"  />](https://www.flickr.com/photos/sitoo/31716664263/in/dateposted/)
+[<img loading="lazy"  src="https://live.staticflickr.com/494/31716664263_386387ae9c_c.jpg" alt="Foggy & flooded forest on top of Kuang Si Waterfall, Luang Prabang, Laos"  />](https://www.flickr.com/photos/sitoo/31716664263/in/dateposted/)
 
-[<img src="https://live.staticflickr.com/393/31691808044_ae8292d7e0_c.jpg" alt="Kuang Si Waterfall on a foggy morning, Luang Prabang, Laos" />](https://www.flickr.com/photos/sitoo/31691808044/in/dateposted/)
+[<img loading="lazy"  src="https://live.staticflickr.com/393/31691808044_ae8292d7e0_c.jpg" alt="Kuang Si Waterfall on a foggy morning, Luang Prabang, Laos" />](https://www.flickr.com/photos/sitoo/31691808044/in/dateposted/)
 
-[<img src="https://live.staticflickr.com/358/32393580612_ceaff972f2_c.jpg" alt="Long exposure at Kuang Si falls, Luang Prabang, Laos" />](https://www.flickr.com/photos/sitoo/32393580612/in/dateposted/)
+[<img loading="lazy"  src="https://live.staticflickr.com/358/32393580612_ceaff972f2_c.jpg" alt="Long exposure at Kuang Si falls, Luang Prabang, Laos" />](https://www.flickr.com/photos/sitoo/32393580612/in/dateposted/)
 
 ### Galería
 

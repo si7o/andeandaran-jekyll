@@ -30,7 +30,7 @@ Os dejamos la ubicación en [éste enlace](https://www.google.es/maps/place/Alba
 
 
 
-  <img class="size-medium wp-image-2502 alignleft" src="https://uploads.andeandaran.com/2017/08/escalada_albarracin-5.jpg" />Como siempre, para hacer bloque, cuanto más fría esté la roca mejor. Por suerte, para los que nos gusta sentir las manos al escalar, es posible escalar en casi toda las estaciones.
+  <img loading="lazy"  class="size-medium wp-image-2502 alignleft" src="https://uploads.andeandaran.com/2017/08/escalada_albarracin-5.jpg" />Como siempre, para hacer bloque, cuanto más fría esté la roca mejor. Por suerte, para los que nos gusta sentir las manos al escalar, es posible escalar en casi toda las estaciones.
 
 
 
@@ -93,7 +93,7 @@ Os dejamos la ubicación en [éste enlace](https://www.google.es/maps/place/Alba
 
 
 
-  <img class="alignright size-medium wp-image-2501" src="https://uploads.andeandaran.com/2017/08/escalada_albarracin-4.jpg" />Además de en Sandstone Ghesthouse, se pueden alquilar Crashpads en el <a href="https://www.google.es/maps/place/Camping+Ciudad+De+Albarracín/@40.4123289,-1.4274488,15z/data=!4m5!3m4!1s0x0:0xab9a2f26ef803847!8m2!3d40.4123289!4d-1.4274488">Camping Ciudad de Albarracín</a> o en la tienda <a href="https://www.google.es/maps/place/Sofa+Boulder+Albarracín+Climbing+Shop/@40.410647,-1.4310538,15z/data=!4m5!3m4!1s0x0:0x635338e89a3316a7!8m2!3d40.410647!4d-1.4310538">Sofa Boulder</a>. Ambos sitios están muy cerca y los precios son similares: entre 5 y 11€ al día dependiendo del tamaño del Crashpad.
+  <img loading="lazy"  class="alignright size-medium wp-image-2501" src="https://uploads.andeandaran.com/2017/08/escalada_albarracin-4.jpg" />Además de en Sandstone Ghesthouse, se pueden alquilar Crashpads en el <a href="https://www.google.es/maps/place/Camping+Ciudad+De+Albarracín/@40.4123289,-1.4274488,15z/data=!4m5!3m4!1s0x0:0xab9a2f26ef803847!8m2!3d40.4123289!4d-1.4274488">Camping Ciudad de Albarracín</a> o en la tienda <a href="https://www.google.es/maps/place/Sofa+Boulder+Albarracín+Climbing+Shop/@40.410647,-1.4310538,15z/data=!4m5!3m4!1s0x0:0x635338e89a3316a7!8m2!3d40.410647!4d-1.4310538">Sofa Boulder</a>. Ambos sitios están muy cerca y los precios son similares: entre 5 y 11€ al día dependiendo del tamaño del Crashpad.
 
 
 
@@ -115,7 +115,7 @@ Os dejamos la ubicación en [éste enlace](https://www.google.es/maps/place/Alba
 
 
 
-  <img class="aligncenter size-large wp-image-2481" src="https://uploads.andeandaran.com/2017/08/mapaboulder.png"  />
+  <img loading="lazy"  class="aligncenter size-large wp-image-2481" src="https://uploads.andeandaran.com/2017/08/mapaboulder.png"  />
 
 
 ##     Escalar
@@ -132,11 +132,11 @@ Os dejamos la ubicación en [éste enlace](https://www.google.es/maps/place/Alba
 
 
 
-  <a href="https://www.flickr.com/photos/sitoo/21730841724"><img src="https://live.staticflickr.com/609/21730841724_a5453c1f3a_c.jpg" alt="El dibujante de regletas - 6c"  /></a>
+  <a href="https://www.flickr.com/photos/sitoo/21730841724"><img loading="lazy"  src="https://live.staticflickr.com/609/21730841724_a5453c1f3a_c.jpg" alt="El dibujante de regletas - 6c"  /></a>
 
 
 
-  <a href="https://www.flickr.com/photos/sitoo/22364289221"><img src="https://live.staticflickr.com/5811/22364289221_5c440d72a3_c.jpg" alt="Spider pig - 6c"  /></a>
+  <a href="https://www.flickr.com/photos/sitoo/22364289221"><img loading="lazy"  src="https://live.staticflickr.com/5811/22364289221_5c440d72a3_c.jpg" alt="Spider pig - 6c"  /></a>
 
 
 <p class="jetpack-slideshow-noscript robots-nocontent">

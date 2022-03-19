@@ -19,11 +19,11 @@ Hace unos años, frikeando por el mundo de la fotografía, encontré <a href="ht
 La imagen que abre este post y la que aparece a continuación están creadas usando una foto de la fachada de la oficina central de correos de Ho Chi Minh.
 
 
-[<img src="https://live.staticflickr.com/5581/31455709425_a8b067467a_b.jpg"/>](https://www.flickr.com/photos/sitoo/31455709425/lightbox/)
+[<img loading="lazy"  src="https://live.staticflickr.com/5581/31455709425_a8b067467a_b.jpg"/>](https://www.flickr.com/photos/sitoo/31455709425/lightbox/)
 
 Esta es la foto original:
 
-[<img src="https://live.staticflickr.com/5691/31084813960_16b62edd50_c.jpg" alt="Ho Chi Minh Central Post Office, Vietnam"  />](https://www.flickr.com/photos/sitoo/31084813960/in/photostream/lightbox/)
+[<img loading="lazy"  src="https://live.staticflickr.com/5691/31084813960_16b62edd50_c.jpg" alt="Ho Chi Minh Central Post Office, Vietnam"  />](https://www.flickr.com/photos/sitoo/31084813960/in/photostream/lightbox/)
 
 Para poder aplicar este efecto a nuestras fotos hace falta tener dos programas instalados:
 
@@ -62,10 +62,10 @@ Para poder aplicar este efecto a nuestras fotos hace falta tener dos programas i
   Este filtro consta de dos pestañas, `Settings` o `Configuración` para las opciones básicas y `User Values` o `Valores de Usuario` para trastear.
 <figure id="attachment_800" style="width: 473px" >
 
-<img class="wp-image-800" src="https://uploads.andeandaran.com/2016/12/droste1.jpg" alt="Droste Settings o Configuración" /> <figcaption class="wp-caption-text">Pestaña de Configuración.  Para que la imagen ocupe todo el lienzo y se repita es importante elegir el comportamiento deseado para los ejes X e Y</figcaption></figure> 
+<img loading="lazy"  class="wp-image-800" src="https://uploads.andeandaran.com/2016/12/droste1.jpg" alt="Droste Settings o Configuración" /> <figcaption class="wp-caption-text">Pestaña de Configuración.  Para que la imagen ocupe todo el lienzo y se repita es importante elegir el comportamiento deseado para los ejes X e Y</figcaption></figure> 
 <figure id="attachment_801" style="width: 528px" >
 
-<img class="wp-image-801" src="https://uploads.andeandaran.com/2016/12/droste2.jpg" alt="Droste User Values o Valores de Usuario" /> <figcaption class="wp-caption-text">Pestaña de valores de usuario</figcaption></figure> 
+<img loading="lazy"  class="wp-image-801" src="https://uploads.andeandaran.com/2016/12/droste2.jpg" alt="Droste User Values o Valores de Usuario" /> <figcaption class="wp-caption-text">Pestaña de valores de usuario</figcaption></figure> 
 
 
   A la hora de configurar los Valores de Usuario, son todos bastante complejos de explicar, a día de hoy solo tengo una leve noción de qué hace cada uno, lo mejor es experimentar con cada parámetro y observar el resultado.<br /> Solo un pequeño apunte, si la periodicidad es un número entero y el radio interno y externo tienen el mismo valor, entonces la imagen no se cortará
@@ -78,16 +78,16 @@ Para poder aplicar este efecto a nuestras fotos hace falta tener dos programas i
 <p style="text-align: center;">
   Las Cuatro Torres de Madrid
 
-[<img src="https://live.staticflickr.com/1591/25088352165_7b04d4d4e4_c.jpg" alt="las torres"  />](https://www.flickr.com/photos/sitoo/25088352165/)
+[<img loading="lazy"  src="https://live.staticflickr.com/1591/25088352165_7b04d4d4e4_c.jpg" alt="las torres"  />](https://www.flickr.com/photos/sitoo/25088352165/)
 </p>
 
 <p style="text-align: center;">
   El reloj de la plaza San Marco, Venecia.
 
-[<img src="https://live.staticflickr.com/4311/35390765653_9061af95b6_b.jpg" alt="St. marks Clock, Venecia"  />](https://www.flickr.com/photos/sitoo/35390765653/in/album-72157607822233230/)
+[<img loading="lazy"  src="https://live.staticflickr.com/4311/35390765653_9061af95b6_b.jpg" alt="St. marks Clock, Venecia"  />](https://www.flickr.com/photos/sitoo/35390765653/in/album-72157607822233230/)
 </p>
 
 <p style="text-align: center;">
   Un plato Technics
-[<img src="https://live.staticflickr.com/4018/5151093627_a0e83ca672_c.jpg" alt="turntable"/>](https://www.flickr.com/photos/sitoo/5151093627)
+[<img loading="lazy"  src="https://live.staticflickr.com/4018/5151093627_a0e83ca672_c.jpg" alt="turntable"/>](https://www.flickr.com/photos/sitoo/5151093627)
 </p>

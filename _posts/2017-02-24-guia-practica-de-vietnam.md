@@ -163,7 +163,7 @@ La moneda oficial de Vietnam es el Dong. Desde [este enlace](http://www.xe.com/e
 
 Sin lugar a dudas, el mejor lugar en el que estuvimos fue Tam Coc, en Ninh Binh. Paisaje de montañas kársticas, arrozales y mucha tranquilidad. En el post: [Tam Coc en bicicleta](http://www.andeandaran.com/2016/12/28/tam-coc-bicicleta/) teneis más detalle de qué hacer en Tam Coc.<figure id="attachment_1069">
 
-[<img class="size-full wp-image-1069" src="https://uploads.andeandaran.com/2016/12/MG_1218.jpg" />](https://uploads.andeandaran.com/2016/12/MG_1218.jpg)<figcaption class="wp-caption-text">Senderos entre valles</figcaption></figure> 
+[<img loading="lazy"  class="size-full wp-image-1069" src="https://uploads.andeandaran.com/2016/12/MG_1218.jpg" />](https://uploads.andeandaran.com/2016/12/MG_1218.jpg)<figcaption class="wp-caption-text">Senderos entre valles</figcaption></figure> 
 
 ## Nuestra comida preferida
 
@@ -186,4 +186,4 @@ Viajar por Vietnam significa ir a las ciudades que forman el itinerario turísti
 
 ## Galería
 
-<a href='https://www.flickr.com/photos/sitoo/albums/72157675883717171' title='Vietnam by Sitoo, on Flickr'><img src='https://live.staticflickr.com/378/31696326550_771a3242a8_c.jpg' alt='Flag Tower of Hanoi , Vietnam' /></a>
+<a href='https://www.flickr.com/photos/sitoo/albums/72157675883717171' title='Vietnam by Sitoo, on Flickr'><img loading="lazy"  src='https://live.staticflickr.com/378/31696326550_771a3242a8_c.jpg' alt='Flag Tower of Hanoi , Vietnam' /></a>

@@ -40,22 +40,22 @@ Seguiremos por aquí al menos hasta la semana que viene, así que esperamos tene
   <figure > 
   
   <div>
-    <a href='https://uploads.andeandaran.com/2016/11/GOPR5937.jpg'><img src="https://uploads.andeandaran.com/2016/11/GOPR5937.jpg"  /></a>
+    <a href='https://uploads.andeandaran.com/2016/11/GOPR5937.jpg'><img loading="lazy"  src="https://uploads.andeandaran.com/2016/11/GOPR5937.jpg"  /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://uploads.andeandaran.com/2016/11/GOPR5942.jpg'><img src="https://uploads.andeandaran.com/2016/11/GOPR5942.jpg"  /></a>
+    <a href='https://uploads.andeandaran.com/2016/11/GOPR5942.jpg'><img loading="lazy"  src="https://uploads.andeandaran.com/2016/11/GOPR5942.jpg"  /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://uploads.andeandaran.com/2016/11/GOPR5948.jpg'><img src="https://uploads.andeandaran.com/2016/11/GOPR5948.jpg"  /></a>
+    <a href='https://uploads.andeandaran.com/2016/11/GOPR5948.jpg'><img loading="lazy"  src="https://uploads.andeandaran.com/2016/11/GOPR5948.jpg"  /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://uploads.andeandaran.com/2016/11/GOPR5956.jpg'><img src="https://uploads.andeandaran.com/2016/11/GOPR5956.jpg"  /></a>
+    <a href='https://uploads.andeandaran.com/2016/11/GOPR5956.jpg'><img loading="lazy"  src="https://uploads.andeandaran.com/2016/11/GOPR5956.jpg"  /></a>
   </div></figure><figure > 
   
   <div>
-    <a href='https://uploads.andeandaran.com/2016/11/GOPR5960.jpg'><img src="https://uploads.andeandaran.com/2016/11/GOPR5960.jpg"  /></a>
+    <a href='https://uploads.andeandaran.com/2016/11/GOPR5960.jpg'><img loading="lazy"  src="https://uploads.andeandaran.com/2016/11/GOPR5960.jpg"  /></a>
   </div></figure>
 </div>

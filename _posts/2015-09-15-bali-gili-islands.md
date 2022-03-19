@@ -24,4 +24,4 @@ En Agosto de 2015 estuvimos recorriendo en moto durante 18 días la isla de Bali
 
 **Podéis ver  la galería completa en flickr haciendo click [aquí](https://www.flickr.com/photos/sitoo/sets/72157656048695424)**
 
-<a href='https://www.flickr.com/photos/sitoo/albums/72157656048695424' title='Bali - Gili Islands by Sitoo, on Flickr'><img src='https://live.staticflickr.com/5773/21087431900_25eb92279f_c.jpg' alt='3 macacos' /></a>
+<a href='https://www.flickr.com/photos/sitoo/albums/72157656048695424' title='Bali - Gili Islands by Sitoo, on Flickr'><img loading="lazy"  src='https://live.staticflickr.com/5773/21087431900_25eb92279f_c.jpg' alt='3 macacos' /></a>
