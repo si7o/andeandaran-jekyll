@@ -24,11 +24,11 @@ title_separator          : "-"
 subtitle                 : "Blog de viajes y fotografía."
 name                     : &name "Sandra y Andrés" # &name is a YAML anchor which can be *referenced later
 description              : &description "Compartimos nuestra experiencia mientras viajamos por el mundo."
-url                      : https://io.andeandaran.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://www.andeandaran.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : "si7o.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : https://www.andeandaran.com/wp-content/uploads/2016/09/cropped-logo_blog-1.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : https://uploads.andeandaran.com/2016/09/logo_blog-1.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
@@ -90,6 +90,9 @@ footer:
 # Leaflet for OSM 
 head_scripts:
   - /assets/js/leaflet.js # https://leafletjs.com/reference.html
+
+footer_scripts:
+  - /assets/js/functions.js
 
 # Build settings
 # theme: minimal-mistakes-jekyll
