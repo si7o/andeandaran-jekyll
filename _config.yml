@@ -28,7 +28,7 @@ url                      : https://www.andeandaran.com # the base hostname & pro
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : "si7o.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : https://uploads.andeandaran.com/2016/09/logo_blog-1.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : /assets/images/logo.jpg # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
@@ -87,10 +87,9 @@ footer:
       icon: "fab fa-fw fa-youtube"
       url: "https://youtube.com/UCbz0n8rIZMozmNxPoLvTK5w"
 
-# Leaflet for OSM 
 head_scripts:
-  - /assets/js/leaflet.js # https://leafletjs.com/reference.html
-
+  - /assets/js/leaflet.js # Leaflet for OSM 
+  
 after_footer_scripts :
   - /assets/js/functions.js
 
@@ -173,7 +172,7 @@ defaults:
       share: false
       related: false
       toc: true
-      toc_sticky: true
+      toc_sticky: true 
   # _pages
   - scope:
       path: "_pages"
@@ -192,6 +191,7 @@ defaults:
       author_profile: false
       share: false
       comments: false
+     
 
 # Sass/SCSS
 sass:
